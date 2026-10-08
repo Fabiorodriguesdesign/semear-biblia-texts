@@ -1,0 +1,90 @@
+{
+  "book_id": "MRK",
+  "book": "Marcos",
+  "chapter": 1,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Novo_testamento/marcos/biblia_kjv_41marcos.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O princípio do evangelho de Jesus Cristo, o Filho de Deus;"
+    },
+    {
+      "verse": 2,
+      "text": "Como está escrito nos profetas: Eis que envio o meu mensageiro diante da tua face, o qual preparará o teu caminho diante de ti."
+    },
+    {
+      "verse": 3,
+      "text": "Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas."
+    },
+    {
+      "verse": 4,
+      "text": "João batizava no deserto, e pregava o batismo de arrependimento, para remissão dos pecados."
+    },
+    {
+      "verse": 5,
+      "text": "E saíam a ele toda a província da Judeia e os de Jerusalém; e todos eram batizados por ele no rio Jordão, confessando os seus pecados."
+    },
+    {
+      "verse": 6,
+      "text": "E João andava vestido de pelos de camelo, e com um cinto de couro em redor dos seus lombos, e comia gafanhotos e mel silvestre."
+    },
+    {
+      "verse": 7,
+      "text": "E pregava, dizendo: Após mim vem aquele que é mais poderoso do que eu, do qual não sou digno de, abaixando-me, desatar a correia das suas sandálias."
+    },
+    {
+      "verse": 8,
+      "text": "Eu, na verdade, vos batizei com água; ele, porém, vos batizará com o Espírito Santo."
+    },
+    {
+      "verse": 9,
+      "text": "E aconteceu naqueles dias que Jesus veio de Nazaré da Galileia, e foi batizado por João no Jordão."
+    },
+    {
+      "verse": 10,
+      "text": "E, logo que saiu da água, viu os céus abertos e o Espírito, como pomba, que descia sobre ele."
+    },
+    {
+      "verse": 11,
+      "text": "E ouviu-se uma voz dos céus, que dizia: Tu és o meu Filho amado, em quem me comprazo."
+    },
+    {
+      "verse": 12,
+      "text": "E logo o Espírito o impeliu para o deserto."
+    },
+    {
+      "verse": 13,
+      "text": "E ali esteve no deserto quarenta dias, tentado por Satanás. E estava com as feras, e os anjos o serviam."
+    },
+    {
+      "verse": 14,
+      "text": "E, depois que João foi entregue, veio Jesus para a Galileia, pregando o evangelho do reino de Deus,"
+    },
+    {
+      "verse": 15,
+      "text": "E dizendo: O tempo está cumprido, e o reino de Deus está próximo. Arrependei-vos, e crede no evangelho."
+    },
+    {
+      "verse": 16,
+      "text": "E, andando junto ao mar da Galileia, viu Simão e André, seu irmão, que lançavam a rede ao mar, pois eram pescadores."
+    },
+    {
+      "verse": 17,
+      "text": "E Jesus lhes disse: Vinde após mim, e eu vos farei pescadores de homens."
+    },
+    {
+      "verse": 18,
+      "text": "E, deixando logo as suas redes, o seguiram."
+    },
+    {
+      "verse": 19,
+      "text": "E, passando dali um pouco mais adiante, viu Tiago, filho de Zebedeu, e João, seu irmão, que estavam no barco consertando as redes."
+    },
+    {
+      "verse": 20,
+      "text": "E logo os chamou. E eles, deixando o seu pai Zebedeu no barco com os empregados, o seguiram."
+    }
+  ]
+}

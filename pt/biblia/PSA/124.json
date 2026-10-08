@@ -1,0 +1,42 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 124,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos121-140.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Se não fora o Senhor, que esteve ao nosso lado, ora diga Israel."
+    },
+    {
+      "verse": 2,
+      "text": "Se não fora o Senhor, que esteve ao nosso lado, quando os homens se levantaram contra nós."
+    },
+    {
+      "verse": 3,
+      "text": "Eles então nos teriam engolido vivos, quando a sua ira se acendeu contra nós."
+    },
+    {
+      "verse": 4,
+      "text": "as águas nos teriam arrastado e as torrentes nos teriam afogado."
+    },
+    {
+      "verse": 5,
+      "text": "águas impetuosas teriam passado sobre a nossa alma."
+    },
+    {
+      "verse": 6,
+      "text": "Bendito seja o Senhor, que não nos entregou para sermos dilacerados pelos dentes deles."
+    },
+    {
+      "verse": 7,
+      "text": "Como um pássaro escapamos da armadilha do caçador; a armadilha foi quebrada, e nós escapamos."
+    },
+    {
+      "verse": 8,
+      "text": "O nosso socorro está no nome do Senhor, que fez o céu e a terra."
+    }
+  ]
+}

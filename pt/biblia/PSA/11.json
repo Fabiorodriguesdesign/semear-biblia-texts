@@ -1,0 +1,38 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 11,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "No Senhor confio; como dizeis à minha alma: Foge como um pássaro para o teu monte?"
+    },
+    {
+      "verse": 2,
+      "text": "Porque, eis que os ímpios armam o arco, preparam a sua flecha sobre a corda, para atirar secretamente aos retos de coração."
+    },
+    {
+      "verse": 3,
+      "text": "Se os fundamentos forem destruídos, que pode fazer o justo?"
+    },
+    {
+      "verse": 4,
+      "text": "O Senhor está no seu santo templo, o trono do Senhor está nos céus; os seus olhos contemplam, as suas pálpebras provam os filhos dos homens."
+    },
+    {
+      "verse": 5,
+      "text": "O Senhor prova o justo; mas o ímpio e aquele que ama a violência, a sua alma os odeia."
+    },
+    {
+      "verse": 6,
+      "text": "Sobre os ímpios fará chover laços, fogo e enxofre, e uma tempestade horrível; esta será a porção do seu cálice."
+    },
+    {
+      "verse": 7,
+      "text": "Porque o justo Senhor ama a justiça; o seu rosto contempla os retos."
+    }
+  ]
+}

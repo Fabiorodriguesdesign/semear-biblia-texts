@@ -1,0 +1,146 @@
+{
+  "book_id": "NUM",
+  "book": "Números",
+  "chapter": 2,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/numeros/biblia_kjv_04numeros1-15.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E falou o Senhor a Moisés e a Arão, dizendo:"
+    },
+    {
+      "verse": 2,
+      "text": "Os filhos de Israel acampar-se-ão, cada um junto à sua bandeira, sob as insígnias da casa de seus pais; ao redor, de frente para a tenda da congregação, se acamparão."
+    },
+    {
+      "verse": 3,
+      "text": "Os que se acamparem ao oriente, para o nascente, serão os da bandeira do arraial de Judá, segundo os seus exércitos; e Naassom, filho de Aminadabe, será príncipe dos filhos de Judá."
+    },
+    {
+      "verse": 4,
+      "text": "E o seu exército, os que foram contados deles, setenta e quatro mil e seiscentos."
+    },
+    {
+      "verse": 5,
+      "text": "E junto a ele se acampará a tribo de Issacar; e Natanael, filho de Zuar, será príncipe dos filhos de Issacar."
+    },
+    {
+      "verse": 6,
+      "text": "E o seu exército, os que foram contados deles, cinquenta e quatro mil e quatrocentos."
+    },
+    {
+      "verse": 7,
+      "text": "Depois a tribo de Zebulom; e Eliabe, filho de Helom, será príncipe dos filhos de Zebulom."
+    },
+    {
+      "verse": 8,
+      "text": "E o seu exército, os que foram contados deles, cinquenta e sete mil e quatrocentos."
+    },
+    {
+      "verse": 9,
+      "text": "Todos os que foram contados no arraial de Judá, cento e oitenta e seis mil e quatrocentos, segundo os seus exércitos; estes marcharão primeiro."
+    },
+    {
+      "verse": 10,
+      "text": "A bandeira do arraial de Rúben estará para o lado do sul, segundo os seus exércitos; e Elizur, filho de Sedeur, será príncipe dos filhos de Rúben."
+    },
+    {
+      "verse": 11,
+      "text": "E o seu exército, os que foram contados deles, quarenta e seis mil e quinhentos."
+    },
+    {
+      "verse": 12,
+      "text": "E junto a ele se acampará a tribo de Simeão; e Selumiel, filho de Zurisadai, será príncipe dos filhos de Simeão."
+    },
+    {
+      "verse": 13,
+      "text": "E o seu exército, os que foram contados deles, cinquenta e nove mil e trezentos."
+    },
+    {
+      "verse": 14,
+      "text": "Depois a tribo de Gade; e Eliasafe, filho de Deuel, será príncipe dos filhos de Gade."
+    },
+    {
+      "verse": 15,
+      "text": "E o seu exército, os que foram contados deles, quarenta e cinco mil seiscentos e cinquenta."
+    },
+    {
+      "verse": 16,
+      "text": "Todos os que foram contados no arraial de Rúben, cento e cinquenta e um mil e quatrocentos e cinquenta, segundo os seus exércitos; e estes marcharão em segundo lugar."
+    },
+    {
+      "verse": 17,
+      "text": "Então partirá a tenda da congregação com o arraial dos levitas no meio dos arraiais; como se acamparem, assim marcharão, cada um no seu lugar, segundo as suas bandeiras."
+    },
+    {
+      "verse": 18,
+      "text": "A bandeira do arraial de Efraim estará para o lado do ocidente, segundo os seus exércitos; e Elisama, filho de Amiúde, será príncipe dos filhos de Efraim."
+    },
+    {
+      "verse": 19,
+      "text": "E o seu exército, os que foram contados deles, quarenta mil e quinhentos."
+    },
+    {
+      "verse": 20,
+      "text": "E junto a ele estará a tribo de Manassés; e Gamaliel, filho de Pedazur, será príncipe dos filhos de Manassés."
+    },
+    {
+      "verse": 21,
+      "text": "E o seu exército, os que foram contados deles, trinta e dois mil e duzentos."
+    },
+    {
+      "verse": 22,
+      "text": "Depois a tribo de Benjamim; e Abidã, filho de Gideoni, será príncipe dos filhos de Benjamim."
+    },
+    {
+      "verse": 23,
+      "text": "E o seu exército, os que foram contados deles, trinta e cinco mil e quatrocentos."
+    },
+    {
+      "verse": 24,
+      "text": "Todos os que foram contados no arraial de Efraim, cento e oito mil e cem, segundo os seus exércitos; e estes marcharão em terceiro lugar."
+    },
+    {
+      "verse": 25,
+      "text": "A bandeira do arraial de Dã estará para o lado do norte, segundo os seus exércitos; e Aiezer, filho de Amisadai, será príncipe dos filhos de Dã."
+    },
+    {
+      "verse": 26,
+      "text": "E o seu exército, os que foram contados deles, sessenta e dois mil e setecentos."
+    },
+    {
+      "verse": 27,
+      "text": "E junto a ele se acampará a tribo de Aser; e Pagiel, filho de Ocrã, será príncipe dos filhos de Aser."
+    },
+    {
+      "verse": 28,
+      "text": "E o seu exército, os que foram contados deles, quarenta e um mil e quinhentos."
+    },
+    {
+      "verse": 29,
+      "text": "Depois a tribo de Naftali; e Aira, filho de Enã, será príncipe dos filhos de Naftali."
+    },
+    {
+      "verse": 30,
+      "text": "E o seu exército, os que foram contados deles, cinquenta e três mil e quatrocentos."
+    },
+    {
+      "verse": 31,
+      "text": "Todos os que foram contados no arraial de Dã foram cento e cinquenta e sete mil e seiscentos; estes marcharão em último lugar, segundo as suas bandeiras."
+    },
+    {
+      "verse": 32,
+      "text": "Estes são os que foram contados dos filhos de Israel, segundo a casa de seus pais; todos os que foram contados nos arraiais segundo os seus exércitos, foram seiscentos e três mil e quinhentos e cinquenta."
+    },
+    {
+      "verse": 33,
+      "text": "Mas os levitas não foram contados entre os filhos de Israel, como o Senhor ordenara a Moisés."
+    },
+    {
+      "verse": 34,
+      "text": "E os filhos de Israel fizeram conforme a tudo o que o Senhor ordenara a Moisés; assim se acamparam segundo as suas bandeiras, e assim marcharam, cada um segundo as suas famílias, segundo a casa de seus pais."
+    }
+  ]
+}

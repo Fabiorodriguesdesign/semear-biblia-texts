@@ -1,0 +1,126 @@
+{
+  "book_id": "DEU",
+  "book": "Deuteronômio",
+  "chapter": 33,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/deuteronomio/biblia_kjv_05deuteronomio18-34.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E esta é a bênção com que Moisés, homem de Deus, abençoou os filhos de Israel antes da sua morte."
+    },
+    {
+      "verse": 2,
+      "text": "E disse: O SENHOR veio de Sinai, e lhes raiou de Seir; resplandeceu desde o monte Parã, e veio com dez milhares de santos; à sua direita havia para eles o fogo da lei."
+    },
+    {
+      "verse": 3,
+      "text": "Na verdade, ele amou os povos; todos os seus santos estão na tua mão; e eles se puseram aos teus pés; cada um receberá das tuas palavras."
+    },
+    {
+      "verse": 4,
+      "text": "Moisés nos ordenou uma lei, uma herança para a congregação de Jacó."
+    },
+    {
+      "verse": 5,
+      "text": "E ele era rei em Jesurum, quando se ajuntaram os chefes do povo, as tribos de Israel juntamente."
+    },
+    {
+      "verse": 6,
+      "text": "Viva Rúben, e não morra; e não sejam poucos os seus homens."
+    },
+    {
+      "verse": 7,
+      "text": "E esta é a bênção de Judá; e disse: Ouve, ó SENHOR, a voz de Judá, e introduze-o no seu povo; as suas mãos lhe bastem, e tu lhe sejas por ajuda contra os seus inimigos."
+    },
+    {
+      "verse": 8,
+      "text": "E de Levi disse: Teu Tumim e teu Urim sejam para o teu santo, a quem provaste em Massá, e com quem contendeste nas águas de Meribá."
+    },
+    {
+      "verse": 9,
+      "text": "Que disse de seu pai e de sua mãe: Nunca os vi; e não conheceu a seus irmãos, e não soube de seus filhos; porque guardaram a tua palavra e observaram a tua aliança."
+    },
+    {
+      "verse": 10,
+      "text": "Ensinarão os teus juízos a Jacó, e a tua lei a Israel; porão incenso diante de ti, e holocausto sobre o teu altar."
+    },
+    {
+      "verse": 11,
+      "text": "Abençoa, ó SENHOR, a sua força, e aceita a obra das suas mãos; fere os lombos dos que se levantam contra ele, e dos que o odeiam, para que nunca mais se levantem."
+    },
+    {
+      "verse": 12,
+      "text": "E de Benjamim disse: O amado do SENHOR habitará seguro com ele; cobri-lo-á todo o dia, e habitará entre os seus ombros."
+    },
+    {
+      "verse": 13,
+      "text": "E de José disse: Bendita do SENHOR seja a sua terra, com as coisas preciosas dos céus, com o orvalho, e com o abismo que jaz debaixo,"
+    },
+    {
+      "verse": 14,
+      "text": "E com as coisas preciosas dos frutos do sol, e com as coisas preciosas das produções da lua,"
+    },
+    {
+      "verse": 15,
+      "text": "E com as coisas principais dos montes antigos, e com as coisas preciosas dos outeiros eternos,"
+    },
+    {
+      "verse": 16,
+      "text": "E com as coisas preciosas da terra e da sua plenitude, e com a boa vontade daquele que habitou na sarça; que a bênção venha sobre a cabeça de José, e sobre o alto da cabeça do que foi separado de seus irmãos."
+    },
+    {
+      "verse": 17,
+      "text": "A sua glória é como a do primogênito do seu boi, e os seus chifres como os chifres de unicórnios; com eles ferirá os povos juntamente até às extremidades da terra; e estes são os dez milhares de Efraim, e estes são os milhares de Manassés."
+    },
+    {
+      "verse": 18,
+      "text": "E de Zebulom disse: Alegra-te, Zebulom, nas tuas saídas; e tu, Issacar, nas tuas tendas."
+    },
+    {
+      "verse": 19,
+      "text": "Chamarão os povos ao monte; ali oferecerão sacrifícios de justiça; porque chuparão da abundância dos mares, e dos tesouros escondidos na areia."
+    },
+    {
+      "verse": 20,
+      "text": "E de Gade disse: Bendito aquele que alarga Gade; habita como leão, e despedaça o braço com o alto da cabeça."
+    },
+    {
+      "verse": 21,
+      "text": "E se proveu da primeira parte para si, porquanto ali estava escondida a porção do legislador; pelo que veio com os chefes do povo, executou a justiça do SENHOR, e os seus juízos com Israel."
+    },
+    {
+      "verse": 22,
+      "text": "E de Dã disse: Dã é filhote de leão; saltará de Basã."
+    },
+    {
+      "verse": 23,
+      "text": "E de Naftali disse: Ó Naftali, farto de favores, e cheio da bênção do SENHOR; possui o ocidente e o sul."
+    },
+    {
+      "verse": 24,
+      "text": "E de Aser disse: Bendito seja Aser com filhos; seja aceitável a seus irmãos, e molhe em azeite o seu pé."
+    },
+    {
+      "verse": 25,
+      "text": "Os teus sapatos serão de ferro e de bronze; e como os teus dias, assim será a tua força."
+    },
+    {
+      "verse": 26,
+      "text": "Não há outro, ó Jesurum, semelhante a Deus, que cavalga sobre os céus para a tua ajuda, e com a sua majestade sobre as mais altas nuvens."
+    },
+    {
+      "verse": 27,
+      "text": "O Deus eterno é a tua habitação, e por baixo estão os braços eternos; e ele expulsará o inimigo de diante de ti, e dirá: Destrói-os."
+    },
+    {
+      "verse": 28,
+      "text": "Israel, pois, habitará seguro, sozinho, na terra da fonte de Jacó, na terra de grão e de mosto; e os seus céus gotejarão orvalho."
+    },
+    {
+      "verse": 29,
+      "text": "Bem-aventurado és tu, ó Israel! Quem é como tu, um povo salvo pelo SENHOR, o escudo do teu socorro, e a espada da tua excelência? Pelo que os teus inimigos te serão sujeitos, e tu pisarás sobre as suas alturas."
+    }
+  ]
+}

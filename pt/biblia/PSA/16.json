@@ -1,0 +1,54 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 16,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Guarda-me, ó Deus, porque em ti confio."
+    },
+    {
+      "verse": 2,
+      "text": "Ó minha alma, disseste ao Senhor: Tu és o meu Senhor; a minha bondade não se estende a ti;"
+    },
+    {
+      "verse": 3,
+      "text": "Mas aos santos que estão na terra, e aos excelentes, em quem está todo o meu deleite."
+    },
+    {
+      "verse": 4,
+      "text": "As suas dores se multiplicarão àqueles que se apressam após outro deus; as suas ofertas de bebida de sangue não oferecerei, nem tomarei os seus nomes nos meus lábios."
+    },
+    {
+      "verse": 5,
+      "text": "O Senhor é a porção da minha herança e do meu cálice; tu manténs a minha sorte."
+    },
+    {
+      "verse": 6,
+      "text": "As linhas caíram para mim em lugares aprazíveis; sim, eu tenho uma bela herança."
+    },
+    {
+      "verse": 7,
+      "text": "Bendirei ao Senhor, que me deu conselho; os meus rins também me instruem nas estações da noite."
+    },
+    {
+      "verse": 8,
+      "text": "Tenho posto o Senhor sempre diante de mim; porque ele está à minha mão direita, não serei abalado."
+    },
+    {
+      "verse": 9,
+      "text": "Portanto, o meu coração se alegra, e a minha glória se regozija; a minha carne também repousará em esperança."
+    },
+    {
+      "verse": 10,
+      "text": "Pois não deixarás a minha alma no inferno; nem permitirás que o teu Santo veja a corrupção."
+    },
+    {
+      "verse": 11,
+      "text": "Tu me mostrarás o caminho da vida; na tua presença há plenitude de alegria; à tua mão direita há prazeres para sempre."
+    }
+  ]
+}

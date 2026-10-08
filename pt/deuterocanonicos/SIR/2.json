@@ -1,0 +1,83 @@
+{
+  "book_id": "SIR",
+  "book": "Eclesiástico (Sirácida)",
+  "chapter": 2,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "livro",
+  "source_file": "apocryphal_books/kjv_pt/Ecclesiasticus/2.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Meu filho, se entrares para o serviço de Deus, permanece na justiça e no temor, e prepara a tua alma para a provação."
+    },
+    {
+      "verse": 2,
+      "text": "Endireita o teu coração e sê constante, não te apresses no tempo da adversidade."
+    },
+    {
+      "verse": 3,
+      "text": "Suporta as demoras de Deus, espera com paciência, une-te a Deus e sê constante, para que a tua vida se enriqueça no fim."
+    },
+    {
+      "verse": 4,
+      "text": "Aceita tudo o que te acontecer, e na dor sê paciente, e na tua humilhação tem paciência."
+    },
+    {
+      "verse": 5,
+      "text": "Pois o ouro é provado no fogo, e os homens aceitáveis no forno da humilhação."
+    },
+    {
+      "verse": 6,
+      "text": "Confia nele e ele te ajudará; endireita os teus caminhos e espera nele."
+    },
+    {
+      "verse": 7,
+      "text": "Vós que temeis o Senhor, esperai pela sua misericórdia; não vos desvieis, para não cairdes."
+    },
+    {
+      "verse": 8,
+      "text": "Vós que temeis o Senhor, confiai nele, e a vossa recompensa não falhará."
+    },
+    {
+      "verse": 9,
+      "text": "Vós que temeis o Senhor, esperai pelo bem, pela alegria eterna e pela misericórdia."
+    },
+    {
+      "verse": 10,
+      "text": "Olhai para as gerações antigas e vede: quem confiou no Senhor e foi confundido? Quem perseverou no seu temor e foi abandonado? Quem o invocou e foi desprezado?"
+    },
+    {
+      "verse": 11,
+      "text": "Pois o Senhor é compassivo e misericordioso, perdoa os pecados e salva no tempo da tribulação."
+    },
+    {
+      "verse": 12,
+      "text": "Ai dos corações tímidos e das mãos frouxas, e do pecador que caminha por dois caminhos!"
+    },
+    {
+      "verse": 13,
+      "text": "Ai do coração frouxo, pois não tem fé; por isso não será protegido."
+    },
+    {
+      "verse": 14,
+      "text": "Ai de vós que perdestes a paciência! Que fareis quando o Senhor vos visitar?"
+    },
+    {
+      "verse": 15,
+      "text": "Os que temem o Senhor não desobedecem às suas palavras, e os que o amam guardam os seus caminhos."
+    },
+    {
+      "verse": 16,
+      "text": "Os que temem o Senhor procuram o seu agrado, e os que o amam saciam-se com a sua lei."
+    },
+    {
+      "verse": 17,
+      "text": "Os que temem o Senhor preparam os seus corações e humilham as suas almas diante dele,"
+    },
+    {
+      "verse": 18,
+      "text": "Dizendo: Cairemos nas mãos do Senhor e não nas mãos dos homens; pois, como é a sua grandeza, assim é a sua misericórdia."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 134,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos121-140.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Eis aqui, bendizei ao Senhor, todos vós, servos do Senhor, que de noite assistis na casa do Senhor."
+    },
+    {
+      "verse": 2,
+      "text": "Levantai as vossas mãos no santuário, e bendizei ao Senhor."
+    },
+    {
+      "verse": 3,
+      "text": "O Senhor que fez o céu e a terra te abençoe desde Sião."
+    }
+  ]
+}

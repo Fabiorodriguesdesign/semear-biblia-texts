@@ -1,0 +1,70 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 92,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos81-100.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Bom é louvar ao Senhor, e cantar louvores ao teu nome, ó Altíssimo;"
+    },
+    {
+      "verse": 2,
+      "text": "Para de manhã anunciar a tua benignidade, e todas as noites a tua fidelidade;"
+    },
+    {
+      "verse": 3,
+      "text": "Sobre um instrumento de dez cordas, e sobre o saltério; sobre a harpa com som solene."
+    },
+    {
+      "verse": 4,
+      "text": "Pois tu, Senhor, me alegraste pelos teus feitos; exultarei nas obras das tuas mãos."
+    },
+    {
+      "verse": 5,
+      "text": "Ó Senhor, quão grandes são as tuas obras! E os teus pensamentos muito profundos!"
+    },
+    {
+      "verse": 6,
+      "text": "O homem brutal não conhece, nem o tolo entende isto."
+    },
+    {
+      "verse": 7,
+      "text": "Quando os ímpios brotam como a erva, e quando florescem todos os que praticam a iniquidade, é para serem destruídos para sempre."
+    },
+    {
+      "verse": 8,
+      "text": "Mas tu, Senhor, és o Altíssimo para sempre."
+    },
+    {
+      "verse": 9,
+      "text": "Pois eis que os teus inimigos, ó Senhor, pois eis que os teus inimigos perecerão; serão dispersos todos os que praticam a iniquidade."
+    },
+    {
+      "verse": 10,
+      "text": "Mas tu exaltarás o meu poder como o do unicórnio; serei ungido com óleo fresco."
+    },
+    {
+      "verse": 11,
+      "text": "O meu olho verá o meu desejo sobre os meus inimigos, e os meus ouvidos ouvirão o meu desejo dos maus que se levantam contra mim."
+    },
+    {
+      "verse": 12,
+      "text": "O justo florescerá como a palmeira; crescerá como o cedro no Líbano."
+    },
+    {
+      "verse": 13,
+      "text": "Os que estão plantados na casa do Senhor florescerão nos átrios do nosso Deus."
+    },
+    {
+      "verse": 14,
+      "text": "Na velhice ainda darão frutos; serão viçosos e vigorosos,"
+    },
+    {
+      "verse": 15,
+      "text": "Para anunciar que o Senhor é reto. Ele é a minha rocha, e nele não há injustiça."
+    }
+  ]
+}

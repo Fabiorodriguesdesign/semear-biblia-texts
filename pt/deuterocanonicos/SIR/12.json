@@ -1,0 +1,83 @@
+{
+  "book_id": "SIR",
+  "book": "Eclesiástico (Sirácida)",
+  "chapter": 12,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "livro",
+  "source_file": "apocryphal_books/kjv_pt/Ecclesiasticus/12.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Se fizeres o bem, sabe a quem o fazes, e haverá muita gratidão pelos teus benefícios."
+    },
+    {
+      "verse": 2,
+      "text": "Faze o bem ao piedoso, e acharás recompensa, se não dele, certamente do Altíssimo."
+    },
+    {
+      "verse": 3,
+      "text": "Não há bem para aquele que se ocupa sempre com o mal, nem para aquele que não dá esmola."
+    },
+    {
+      "verse": 4,
+      "text": "Dá ao piedoso e não ajudes o pecador."
+    },
+    {
+      "verse": 5,
+      "text": "Faze o bem ao humilde e não dês ao ímpio; recusa-lhe o pão e não lho dês, para que ele não se torne mais forte do que tu; pois encontrarás o dobro do mal por todo o bem que lhe fizeres."
+    },
+    {
+      "verse": 6,
+      "text": "Pois o Altíssimo também odeia os pecadores e retribuirá a vingança aos ímpios, e guarda-os para o dia da vingança."
+    },
+    {
+      "verse": 7,
+      "text": "Dá ao bom e não ajudes o pecador."
+    },
+    {
+      "verse": 8,
+      "text": "Um amigo não é conhecido na prosperidade, e um inimigo não está escondido na adversidade."
+    },
+    {
+      "verse": 9,
+      "text": "Na prosperidade de um homem, os seus inimigos estão tristes; mas na sua adversidade, até o amigo se afasta."
+    },
+    {
+      "verse": 10,
+      "text": "Nunca confies no teu inimigo; pois, como o ferro enferruja, assim é a sua maldade."
+    },
+    {
+      "verse": 11,
+      "text": "Embora ele se humilhe e ande curvado, guarda-te e tem cuidado com ele, e serás para ele como quem limpa um espelho, e saberás que a sua ferrugem não se apagou completamente."
+    },
+    {
+      "verse": 12,
+      "text": "Não o ponhas ao teu lado, para que ele não te derrube e se sente no teu lugar; não o ponhas à tua direita, para que ele não procure o teu assento, e no fim reconheças as minhas palavras e sejas picado pelas minhas sentenças."
+    },
+    {
+      "verse": 13,
+      "text": "Quem se compadecerá de um encantador picado por uma serpente, ou de qualquer um que se aproxime das feras?"
+    },
+    {
+      "verse": 14,
+      "text": "Assim é aquele que anda com um homem ímpio e se contamina com os seus pecados."
+    },
+    {
+      "verse": 15,
+      "text": "Enquanto estiveres, ele permanecerá contigo; mas, se vacilares, ele não te sustentará."
+    },
+    {
+      "verse": 16,
+      "text": "Um inimigo fala docemente com os seus lábios, mas no seu coração ele planeia lançar-te numa cova; um inimigo chora com os seus olhos, mas, se encontrar oportunidade, não se fartará de sangue."
+    },
+    {
+      "verse": 17,
+      "text": "Se o mal te sobrevier, encontrá-lo-ás ali primeiro; e, embora ele finja ajudar, ele derrubar-te-á."
+    },
+    {
+      "verse": 18,
+      "text": "Ele abanará a cabeça, baterá palmas, sussurrará muito e mudará o seu semblante."
+    }
+  ]
+}

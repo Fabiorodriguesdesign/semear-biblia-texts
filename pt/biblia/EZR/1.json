@@ -1,0 +1,54 @@
+{
+  "book_id": "EZR",
+  "book": "Esdras",
+  "chapter": 1,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/esdras/biblia_kjv_15esdras.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "No primeiro ano de Ciro, rei da Pérsia, para que se cumprisse a palavra do SENHOR, por boca de Jeremias, o SENHOR moveu o espírito de Ciro, rei da Pérsia, o qual fez passar um pregão por todo o seu reino, como também por escrito, dizendo:"
+    },
+    {
+      "verse": 2,
+      "text": "Assim diz Ciro, rei da Pérsia: O SENHOR, Deus dos céus, me deu todos os reinos da terra, e ele me encarregou de lhe edificar uma casa em Jerusalém, que está em Judá."
+    },
+    {
+      "verse": 3,
+      "text": "Quem há entre vós, de todo o seu povo, cujo Deus seja com ele, que suba a Jerusalém, que está em Judá, e edifique a casa do SENHOR, Deus de Israel (ele é o Deus), que está em Jerusalém."
+    },
+    {
+      "verse": 4,
+      "text": "E a todo aquele que ficar em qualquer lugar onde ele peregrinar, os homens do seu lugar o ajudem com prata, e com ouro, e com bens, e com gado, além da oferta voluntária para a casa de Deus, que está em Jerusalém."
+    },
+    {
+      "verse": 5,
+      "text": "Então se levantaram os chefes dos pais de Judá e Benjamim, e os sacerdotes, e os levitas, com todos aqueles cujo espírito Deus despertou, para subirem a edificar a casa do SENHOR, que está em Jerusalém."
+    },
+    {
+      "verse": 6,
+      "text": "E todos os que estavam ao redor deles fortaleceram as suas mãos com vasos de prata, com ouro, com bens, e com gado, e com coisas preciosas, além de tudo o que se ofereceu voluntariamente."
+    },
+    {
+      "verse": 7,
+      "text": "Também o rei Ciro tirou os utensílios da casa do SENHOR, que Nabucodonosor tinha tirado de Jerusalém e os tinha posto na casa de seus deuses;"
+    },
+    {
+      "verse": 8,
+      "text": "Estes, pois, tirou Ciro, rei da Pérsia, pela mão de Mitredate, o tesoureiro, e os contou a Sesbazar, o príncipe de Judá."
+    },
+    {
+      "verse": 9,
+      "text": "E este é o número deles: trinta bacias de ouro, mil bacias de prata, vinte e nove facas,"
+    },
+    {
+      "verse": 10,
+      "text": "Trinta taças de ouro, taças de prata de segunda espécie, quatrocentas e dez, e outros vasos, mil."
+    },
+    {
+      "verse": 11,
+      "text": "Todos os vasos de ouro e de prata eram cinco mil e quatrocentos. Todos estes levou Sesbazar, quando os do cativeiro subiram de Babilônia para Jerusalém."
+    }
+  ]
+}

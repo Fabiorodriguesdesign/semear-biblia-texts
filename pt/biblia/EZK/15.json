@@ -1,0 +1,42 @@
+{
+  "book_id": "EZK",
+  "book": "Ezequiel",
+  "chapter": 15,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/ezequiel/biblia_kjv_26ezequiel1-15.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E veio a mim a palavra do Senhor, dizendo:"
+    },
+    {
+      "verse": 2,
+      "text": "Filho do homem, que mais é a árvore da videira do que qualquer outra árvore, ou do que o ramo que está entre as árvores do bosque?"
+    },
+    {
+      "verse": 3,
+      "text": "Toma-se dela madeira para fazer alguma obra? Ou tomarão dela um pino para pendurar nela algum vaso?"
+    },
+    {
+      "verse": 4,
+      "text": "Eis que é lançada no fogo para ser consumida; o fogo devora as suas duas extremidades, e o meio dela se queima. Será útil para alguma obra?"
+    },
+    {
+      "verse": 5,
+      "text": "Eis que, estando inteira, não servia para obra alguma; quanto mais, depois que o fogo a devorou, e se queimou, servirá ainda para alguma obra?"
+    },
+    {
+      "verse": 6,
+      "text": "Portanto, assim diz o Senhor DEUS: Como a árvore da videira entre as árvores do bosque, que entrego ao fogo para que seja consumida, assim entregarei os habitantes de Jerusalém."
+    },
+    {
+      "verse": 7,
+      "text": "E porei a minha face contra eles; saindo eles de um fogo, outro fogo os consumirá; e sabereis que eu sou o Senhor, quando tiver posto a minha face contra eles."
+    },
+    {
+      "verse": 8,
+      "text": "E tornarei a terra em assolação, porquanto grandemente transgrediram, diz o Senhor DEUS."
+    }
+  ]
+}

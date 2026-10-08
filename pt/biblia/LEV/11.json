@@ -1,0 +1,198 @@
+{
+  "book_id": "LEV",
+  "book": "Levítico",
+  "chapter": 11,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/levitico/biblia_kjv_03levitico1-15.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E o SENHOR falou a Moisés e a Arão, dizendo-lhes:"
+    },
+    {
+      "verse": 2,
+      "text": "Falai aos filhos de Israel, dizendo: Estes são os animais que comereis dentre todos os animais que há na terra."
+    },
+    {
+      "verse": 3,
+      "text": "Todo o que tem a unha fendida, e é fendido, e rumina, entre os animais, esse comereis."
+    },
+    {
+      "verse": 4,
+      "text": "Contudo, estes não comereis dos que ruminam, ou dos que têm a unha fendida: o camelo, porque rumina, mas não tem a unha fendida; ele vos é imundo."
+    },
+    {
+      "verse": 5,
+      "text": "E o coelho, porque rumina, mas não tem a unha fendida; ele vos é imundo."
+    },
+    {
+      "verse": 6,
+      "text": "E a lebre, porque rumina, mas não tem a unha fendida; ela vos é imunda."
+    },
+    {
+      "verse": 7,
+      "text": "E o porco, ainda que tenha a unha fendida, e seja fendido, contudo não rumina; ele vos é imundo."
+    },
+    {
+      "verse": 8,
+      "text": "Da sua carne não comereis, e da sua carcaça não tocareis; eles vos são imundos."
+    },
+    {
+      "verse": 9,
+      "text": "Estes comereis de tudo o que há nas águas: tudo o que tem barbatanas e escamas nas águas, nos mares e nos rios, isso comereis."
+    },
+    {
+      "verse": 10,
+      "text": "E todos os que não têm barbatanas e escamas nos mares e nos rios, de tudo o que se move nas águas, e de todo ser vivo que está nas águas, serão para vós uma abominação:"
+    },
+    {
+      "verse": 11,
+      "text": "Serão para vós uma abominação; não comereis da sua carne, mas tereis as suas carcaças em abominação."
+    },
+    {
+      "verse": 12,
+      "text": "Tudo o que não tem barbatanas nem escamas nas águas, isso será para vós uma abominação."
+    },
+    {
+      "verse": 13,
+      "text": "E estes são os que tereis em abominação entre as aves; não se comerão, são uma abominação: a águia, e o quebrantosso, e a águia-pesqueira,"
+    },
+    {
+      "verse": 14,
+      "text": "E o abutre, e o milhafre segundo a sua espécie;"
+    },
+    {
+      "verse": 15,
+      "text": "Todo corvo segundo a sua espécie;"
+    },
+    {
+      "verse": 16,
+      "text": "E a coruja, e o falcão noturno, e o cuco, e o gavião segundo a sua espécie,"
+    },
+    {
+      "verse": 17,
+      "text": "E a corujinha, e o corvo-marinho, e a grande coruja,"
+    },
+    {
+      "verse": 18,
+      "text": "E o cisne, e o pelicano, e a águia-real,"
+    },
+    {
+      "verse": 19,
+      "text": "E a cegonha, a garça segundo a sua espécie, e a poupa, e o morcego."
+    },
+    {
+      "verse": 20,
+      "text": "Todas as aves que rastejam, andando sobre quatro patas, serão para vós uma abominação."
+    },
+    {
+      "verse": 21,
+      "text": "Contudo, estes podeis comer de todo inseto voador que anda sobre quatro patas, que tem pernas acima dos seus pés, para com elas saltar sobre a terra;"
+    },
+    {
+      "verse": 22,
+      "text": "Até estes deles podeis comer; o gafanhoto segundo a sua espécie, e o gafanhoto calvo segundo a sua espécie, e o besouro segundo a sua espécie, e o gafanhoto segundo a sua espécie."
+    },
+    {
+      "verse": 23,
+      "text": "Mas todos os outros insetos voadores, que têm quatro pés, serão para vós uma abominação."
+    },
+    {
+      "verse": 24,
+      "text": "E por estes sereis imundos; todo aquele que tocar a sua carcaça será imundo até a tarde."
+    },
+    {
+      "verse": 25,
+      "text": "E todo aquele que levar algo da sua carcaça lavará as suas roupas, e será imundo até a tarde."
+    },
+    {
+      "verse": 26,
+      "text": "As carcaças de todo animal que tem a unha fendida, e não é fendido, nem rumina, são imundas para vós; todo aquele que as tocar será imundo."
+    },
+    {
+      "verse": 27,
+      "text": "E tudo o que anda sobre as suas patas, entre todos os tipos de animais que andam sobre quatro patas, esses são imundos para vós; quem tocar a sua carcaça será imundo até a tarde."
+    },
+    {
+      "verse": 28,
+      "text": "E o que levar a sua carcaça lavará as suas roupas, e será imundo até a tarde; eles são imundos para vós."
+    },
+    {
+      "verse": 29,
+      "text": "Estes também vos serão imundos entre os répteis que rastejam sobre a terra; a doninha, e o rato, e a tartaruga segundo a sua espécie,"
+    },
+    {
+      "verse": 30,
+      "text": "E o furão, e o camaleão, e o lagarto, e o caracol, e a toupeira."
+    },
+    {
+      "verse": 31,
+      "text": "Estes são imundos para vós entre tudo o que rasteja; todo aquele que os tocar, quando estiverem mortos, será imundo até a tarde."
+    },
+    {
+      "verse": 32,
+      "text": "E sobre tudo o que algum deles, quando estiverem mortos, cair, será imundo; seja qualquer vaso de madeira, ou vestimenta, ou pele, ou saco, qualquer vaso que seja, em que se faça algum trabalho, deve ser posto em água, e será imundo até a tarde; assim será limpo."
+    },
+    {
+      "verse": 33,
+      "text": "E todo vaso de barro, em que algum deles cair, tudo o que estiver nele será imundo; e o quebrareis."
+    },
+    {
+      "verse": 34,
+      "text": "De toda a carne que se pode comer, aquela sobre a qual tal água vier será imunda; e toda a bebida que se pode beber em todo tal vaso será imunda."
+    },
+    {
+      "verse": 35,
+      "text": "E tudo sobre o que cair alguma parte da sua carcaça será imundo; seja forno, ou fogões para panelas, serão quebrados; porque são imundos, e serão imundos para vós."
+    },
+    {
+      "verse": 36,
+      "text": "Contudo, uma fonte ou poço, em que haja abundância de água, será limpa; mas o que tocar a sua carcaça será imundo."
+    },
+    {
+      "verse": 37,
+      "text": "E se alguma parte da sua carcaça cair sobre qualquer semente de semear que há de ser semeada, será limpa."
+    },
+    {
+      "verse": 38,
+      "text": "Mas se se puser água sobre a semente, e alguma parte da sua carcaça cair sobre ela, será imunda para vós."
+    },
+    {
+      "verse": 39,
+      "text": "E se algum animal, do qual podeis comer, morrer; aquele que tocar a sua carcaça será imundo até a tarde."
+    },
+    {
+      "verse": 40,
+      "text": "E o que comer da sua carcaça lavará as suas roupas, e será imundo até a tarde; também o que levar a sua carcaça lavará as suas roupas, e será imundo até a tarde."
+    },
+    {
+      "verse": 41,
+      "text": "E todo réptil que rasteja sobre a terra será uma abominação; não se comerá."
+    },
+    {
+      "verse": 42,
+      "text": "Tudo o que anda sobre o ventre, e tudo o que anda sobre quatro patas, ou tudo o que tem mais pés entre todos os répteis que rastejam sobre a terra, não os comereis; porque são uma abominação."
+    },
+    {
+      "verse": 43,
+      "text": "Não vos façais abomináveis com nenhum réptil que rasteja, nem vos façais imundos com eles, para que sejais por eles contaminados."
+    },
+    {
+      "verse": 44,
+      "text": "Porque eu sou o SENHOR vosso Deus; portanto, santificai-vos, e sereis santos; porque eu sou santo; nem vos contaminareis com nenhum tipo de réptil que rasteja sobre a terra."
+    },
+    {
+      "verse": 45,
+      "text": "Porque eu sou o SENHOR que vos faço subir da terra do Egito, para ser o vosso Deus; portanto, sereis santos, porque eu sou santo."
+    },
+    {
+      "verse": 46,
+      "text": "Esta é a lei dos animais, e das aves, e de toda criatura viva que se move nas águas, e de toda criatura que rasteja sobre a terra:"
+    },
+    {
+      "verse": 47,
+      "text": "Para fazer diferença entre o imundo e o limpo, e entre o animal que se pode comer e o animal que não se pode comer."
+    }
+  ]
+}

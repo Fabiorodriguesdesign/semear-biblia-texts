@@ -1,0 +1,38 @@
+{
+  "book_id": "ISA",
+  "book": "Isaías",
+  "chapter": 18,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/isaias/biblia_kjv_23isaias1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ai da terra que faz sombra com as suas asas, que está além dos rios da Etiópia;"
+    },
+    {
+      "verse": 2,
+      "text": "Que envia embaixadores por mar, em navios de junco sobre as águas, dizendo: Ide, mensageiros velozes, a uma nação espalhada e despojada, a um povo terrível desde o seu princípio até agora; a uma nação medida a cordel e pisada, cuja terra os rios roubaram!"
+    },
+    {
+      "verse": 3,
+      "text": "Todos vós, habitantes do mundo, e moradores da terra, quando se levantar a bandeira nos montes, vede-a; e quando se tocar a trombeta, ouvi-a."
+    },
+    {
+      "verse": 4,
+      "text": "Porque assim me disse o SENHOR: Estarei quieto, e olharei do meu lugar, como o calor do sol sobre a erva, e como a nuvem de orvalho no calor da sega."
+    },
+    {
+      "verse": 5,
+      "text": "Porque antes da sega, quando a flor já está perfeita, e o cacho está amadurecendo, então cortará os sarmentos com podadeiras, e tirará e cortará os ramos."
+    },
+    {
+      "verse": 6,
+      "text": "Juntamente serão deixados às aves dos montes, e aos animais da terra; e as aves passarão o verão sobre eles, e todos os animais da terra passarão o inverno sobre eles."
+    },
+    {
+      "verse": 7,
+      "text": "Naquele tempo será trazido um presente ao SENHOR dos Exércitos, de um povo espalhado e despojado, e de um povo terrível desde o seu princípio até agora; de uma nação medida a cordel e pisada, cuja terra os rios roubaram, ao lugar do nome do SENHOR dos Exércitos, ao monte Sião."
+    }
+  ]
+}

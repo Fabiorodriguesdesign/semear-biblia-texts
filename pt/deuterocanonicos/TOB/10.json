@@ -1,0 +1,59 @@
+{
+  "book_id": "TOB",
+  "book": "Tobias",
+  "chapter": 10,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "livro",
+  "source_file": "apocryphal_books/kjv_pt/Tobit/10.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ora, Tobias, seu pai, contava cada dia; e quando os dias da viagem estavam cumpridos, e eles não voltavam,"
+    },
+    {
+      "verse": 2,
+      "text": "Tobias disse: Será que foram detidos? Ou será que Gabael morreu, e não há ninguém que lhe dê o dinheiro?"
+    },
+    {
+      "verse": 3,
+      "text": "E ele ficou muito triste."
+    },
+    {
+      "verse": 4,
+      "text": "Então sua mulher disse-lhe: Meu filho morreu, vendo que ele se demora tanto; e começou a lamentar-se por ele e disse:"
+    },
+    {
+      "verse": 5,
+      "text": "Agora não me importo com nada, meu filho, pois deixei-te, tu que eras a luz dos meus olhos."
+    },
+    {
+      "verse": 6,
+      "text": "Tobias disse-lhe: Cala-te, não te preocupes, pois ele está bem."
+    },
+    {
+      "verse": 7,
+      "text": "Mas ela disse: Cala-te e não me enganes; meu filho morreu. E ela saía todos os dias para o caminho por onde eles tinham partido, e não comia de dia; e durante toda a noite não cessava de chorar pelo seu filho Tobias, até que os catorze dias do casamento, que Raguel tinha jurado que ele passaria lá, estivessem cumpridos. Então Tobias disse a Raguel: Deixa-me ir, pois meu pai e minha mãe já não esperam ver-me."
+    },
+    {
+      "verse": 8,
+      "text": "Mas seu sogro disse-lhe: Fica comigo, e eu enviarei a teu pai, e eles informar-lhe-ão como tu estás."
+    },
+    {
+      "verse": 9,
+      "text": "Mas Tobias disse: Não, mas rogo-te que me deixes ir para meu pai."
+    },
+    {
+      "verse": 10,
+      "text": "Então Raguel levantou-se e deu-lhe Sara, sua mulher, e metade dos seus bens, servos, gado e dinheiro."
+    },
+    {
+      "verse": 11,
+      "text": "E abençoou-os e deixou-os ir, dizendo: O Deus do céu vos dê uma jornada próspera, meus filhos, para que possais viver."
+    },
+    {
+      "verse": 12,
+      "text": "E disse à sua filha: Honra o teu sogro e a tua sogra, que agora são teus pais, para que eu possa ouvir boas notícias de ti. E beijou-a. Edna também disse a Tobias: O Senhor do céu te restaure, meu querido irmão, e conceda-me ver teus filhos de minha filha Sara, para que eu possa alegrar-me diante do Senhor; eis que entrego a minha filha aos teus cuidados; não a entristeças."
+    }
+  ]
+}

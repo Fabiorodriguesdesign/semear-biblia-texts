@@ -1,0 +1,30 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 15,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "SENHOR, quem habitará no teu tabernáculo? quem morará no teu santo monte?"
+    },
+    {
+      "verse": 2,
+      "text": "Aquele que anda em sinceridade, e pratica a justiça, e fala a verdade no seu coração."
+    },
+    {
+      "verse": 3,
+      "text": "Aquele que não difama com a sua língua, nem faz mal ao seu próximo, nem aceita nenhum opróbrio contra o seu próximo;"
+    },
+    {
+      "verse": 4,
+      "text": "A cujos olhos o réprobo é desprezado; mas honra os que temem ao Senhor. Aquele que, mesmo que jure com dano seu, não muda."
+    },
+    {
+      "verse": 5,
+      "text": "Aquele que não empresta o seu dinheiro com usura, nem recebe peitas contra o inocente. Quem faz isto nunca será abalado."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "book_id": "LUK",
+  "book": "Lucas",
+  "chapter": 13,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Novo_testamento/lucas/biblia_kjv_42lucas.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Naquela mesma ocasião algumas pessoas chegaram e começaram a comentar com Jesus como Pilatos havia mandado matar vários galileus, no momento em que eles ofereciam sacrifícios a Deus."
+    },
+    {
+      "verse": 2,
+      "text": "Então Jesus disse: Vocês pensam que esses galileus eram mais pecadores que todos os outros, por terem sofrido dessa maneira?"
+    },
+    {
+      "verse": 3,
+      "text": "Eu lhes digo que não! Mas se não se arrependerem, todos vocês também perecerão."
+    },
+    {
+      "verse": 4,
+      "text": "Ou vocês pensam que aqueles dezoito que morreram, quando caiu sobre eles a torre de Siloé, eram mais culpados do que todos os outros habitantes de Jerusalém?"
+    },
+    {
+      "verse": 5,
+      "text": "Eu lhes digo que não! Mas se não se arrependerem, todos vocês também perecerão."
+    },
+    {
+      "verse": 6,
+      "text": "Então contou esta parábola: Um homem tinha uma figueira plantada em sua vinha. Foi procurar fruto nela, e não achou nenhum."
+    },
+    {
+      "verse": 7,
+      "text": "Por isso disse ao que cuidava da vinha: Já faz três anos que venho procurar fruto nesta figueira e não acho. Corte-a! Por que deixá-la inutilizar a terra?"
+    },
+    {
+      "verse": 8,
+      "text": "Respondeu o homem: Senhor, deixe-a por mais um ano, e eu cavarei ao redor dela e a adubarei."
+    },
+    {
+      "verse": 9,
+      "text": "Se der fruto no ano que vem, muito bem! Se não, corte-a."
+    },
+    {
+      "verse": 10,
+      "text": "Certo sábado Jesus estava ensinando numa das sinagogas."
+    },
+    {
+      "verse": 11,
+      "text": "E ali estava uma mulher que tinha um espírito que a mantinha doente havia dezoito anos. Ela andava encurvada e de forma alguma podia endireitar-se."
+    },
+    {
+      "verse": 12,
+      "text": "Ao vê-la, Jesus chamou-a à frente e lhe disse: Mulher, você está livre da sua doença."
+    },
+    {
+      "verse": 13,
+      "text": "Então lhe impôs as mãos; e imediatamente ela se endireitou, e passou a louvar a Deus."
+    },
+    {
+      "verse": 14,
+      "text": "Indignado porque Jesus havia curado no sábado, o dirigente da sinagoga disse ao povo: Há seis dias em que se deve trabalhar. Venham para ser curados nesses dias, e não no sábado."
+    },
+    {
+      "verse": 15,
+      "text": "O Senhor lhe respondeu: Hipócritas! Cada um de vocês não desamarra no sábado o seu boi ou jumento do estábulo e o leva dali para dar-lhe água?"
+    },
+    {
+      "verse": 16,
+      "text": "Então, esta mulher, uma filha de Abraão a quem Satanás mantinha presa por dezoito longos anos, não deveria no dia de sábado ser solta desta prisão?"
+    },
+    {
+      "verse": 17,
+      "text": "E quando ele havia dito estas coisas, todos os seus adversários ficaram envergonhados; e todo o povo se alegrava por todas as coisas gloriosas que eram feitas por ele."
+    },
+    {
+      "verse": 18,
+      "text": "Então disse ele: A que é semelhante o reino de Deus, e a que o compararei?"
+    },
+    {
+      "verse": 19,
+      "text": "É como um grão de mostarda que um homem semeou em sua horta. Ele cresceu e se tornou uma árvore, e as aves do céu fizeram ninhos em seus ramos."
+    },
+    {
+      "verse": 20,
+      "text": "E novamente ele disse: A que compararei o reino de Deus?"
+    },
+    {
+      "verse": 21,
+      "text": "É como o fermento que uma mulher misturou com uma grande quantidade de farinha, e toda a massa ficou fermentada."
+    },
+    {
+      "verse": 22,
+      "text": "E ele ia pelas cidades e aldeias, ensinando e caminhando para Jerusalém."
+    },
+    {
+      "verse": 23,
+      "text": "Então disse um a ele: Senhor, são poucos os que se salvam? E ele disse a eles:"
+    },
+    {
+      "verse": 24,
+      "text": "Esforcem-se por entrar pela porta estreita, pois digo-vos que muitos hão de procurar entrar e não vão conseguir."
+    },
+    {
+      "verse": 25,
+      "text": "Quando uma vez o dono da casa se levantar e fechar a porta, e vós começardes a estar de fora e a bater à porta, dizendo: Senhor, Senhor, abre-nos; e ele, respondendo, vos disser: Não sei de onde sois;"
+    },
+    {
+      "verse": 26,
+      "text": "Então vocês dirão: Nós comemos e bebemos com o senhor. O senhor ensinou na nossa cidade."
+    },
+    {
+      "verse": 27,
+      "text": "Mas ele responderá: Não sei de onde são vocês. Afastem-se de mim, vocês que só fazem o mal."
+    },
+    {
+      "verse": 28,
+      "text": "Irão chorar e ranger os dentes quando virem Abraão, Isaque, Jacó e todos os profetas no reino de Deus, enquanto vocês são postos fora."
+    },
+    {
+      "verse": 29,
+      "text": "Mas virão pessoas do Oriente e do Ocidente, do Norte e do Sul, para tomar lugar no reino de Deus."
+    },
+    {
+      "verse": 30,
+      "text": "Alguns dos que agora são os últimos, serão os primeiros; enquanto outros que agora são os primeiros, serão os últimos."
+    },
+    {
+      "verse": 31,
+      "text": "Naquele momento, alguns fariseus foram ter com Jesus e disseram-lhe: Vai-te embora daqui porque Herodes quer matar-te."
+    },
+    {
+      "verse": 32,
+      "text": "Mas Jesus respondeu: Vão lá dizer a essa raposa que eu expulso espíritos maus e faço curas hoje e amanhã, mas ao terceiro dia termino."
+    },
+    {
+      "verse": 33,
+      "text": "Porém, é preciso que eu siga o meu caminho nestes três dias, porque um profeta não pode morrer fora de Jerusalém."
+    },
+    {
+      "verse": 34,
+      "text": "Oh Jerusalém, Jerusalém! Matas os profetas e apedrejas os mensageiros que Deus te envia! Quantas vezes eu quis juntar os teus habitantes, como uma galinha junta os pintainhos debaixo das asas, e tu não quiseste!"
+    },
+    {
+      "verse": 35,
+      "text": "Agora, vão ficar com a casa abandonada. E digo-vos que já não me hão de ver mais, senão quando chegar a altura em que disserem: Bendito seja aquele que vem em nome do Senhor."
+    }
+  ]
+}

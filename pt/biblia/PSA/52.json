@@ -1,0 +1,46 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 52,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos41-60.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Por que te glorias na maldade, ó homem poderoso? A bondade de Deus dura continuamente."
+    },
+    {
+      "verse": 2,
+      "text": "A tua língua maquina maldades; como uma navalha afiada, trabalhando enganosamente."
+    },
+    {
+      "verse": 3,
+      "text": "Amas mais o mal do que o bem; e a mentira mais do que falar a justiça. Selá."
+    },
+    {
+      "verse": 4,
+      "text": "Amas todas as palavras devoradoras, ó língua enganosa."
+    },
+    {
+      "verse": 5,
+      "text": "Deus também te destruirá para sempre, ele te arrebatará, e te arrancará da tua morada, e te desarraigará da terra dos viventes. Selá."
+    },
+    {
+      "verse": 6,
+      "text": "Os justos também verão, e temerão, e se rirão dele:"
+    },
+    {
+      "verse": 7,
+      "text": "Eis que este é o homem que não fez de Deus a sua força; mas confiou na abundância das suas riquezas, e se fortaleceu na sua maldade."
+    },
+    {
+      "verse": 8,
+      "text": "Mas eu sou como uma oliveira verde na casa de Deus; confio na misericórdia de Deus para todo o sempre."
+    },
+    {
+      "verse": 9,
+      "text": "Eu te louvarei para sempre, porque tu o fizeste; e esperarei no teu nome, porque é bom diante dos teus santos."
+    }
+  ]
+}

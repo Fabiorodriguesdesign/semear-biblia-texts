@@ -1,0 +1,110 @@
+{
+  "book_id": "MAT",
+  "book": "Mateus",
+  "chapter": 1,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Novo_testamento/mateus/biblia_kjv_40mateus1-15.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Livro da geração de Jesus Cristo, filho de Davi, filho de Abraão."
+    },
+    {
+      "verse": 2,
+      "text": "Abraão gerou Isaque; Isaque gerou Jacó; Jacó gerou Judá e seus irmãos;"
+    },
+    {
+      "verse": 3,
+      "text": "Judá gerou Perez e Zerá de Tamar; Perez gerou Esrom; Esrom gerou Arão;"
+    },
+    {
+      "verse": 4,
+      "text": "Arão gerou Aminadabe; Aminadabe gerou Naassom; Naassom gerou Salmom;"
+    },
+    {
+      "verse": 5,
+      "text": "Salmom gerou Boaz de Raabe; Boaz gerou Obede de Rute; Obede gerou Jessé;"
+    },
+    {
+      "verse": 6,
+      "text": "Jessé gerou o rei Davi; e o rei Davi gerou Salomão daquela que fora mulher de Urias;"
+    },
+    {
+      "verse": 7,
+      "text": "Salomão gerou Roboão; Roboão gerou Abias; Abias gerou Asa;"
+    },
+    {
+      "verse": 8,
+      "text": "Asa gerou Josafá; Josafá gerou Jorão; Jorão gerou Uzias;"
+    },
+    {
+      "verse": 9,
+      "text": "Uzias gerou Jotão; Jotão gerou Acaz; Acaz gerou Ezequias;"
+    },
+    {
+      "verse": 10,
+      "text": "Ezequias gerou Manassés; Manassés gerou Amom; Amom gerou Josias;"
+    },
+    {
+      "verse": 11,
+      "text": "Josias gerou Jeconias e seus irmãos, no tempo do cativeiro da Babilônia;"
+    },
+    {
+      "verse": 12,
+      "text": "E, depois do cativeiro da Babilônia, Jeconias gerou Salatiel; Salatiel gerou Zorobabel;"
+    },
+    {
+      "verse": 13,
+      "text": "Zorobabel gerou Abiúde; Abiúde gerou Eliaquim; Eliaquim gerou Azor;"
+    },
+    {
+      "verse": 14,
+      "text": "Azor gerou Sadoque; Sadoque gerou Aquim; Aquim gerou Eliúde;"
+    },
+    {
+      "verse": 15,
+      "text": "Eliúde gerou Eleazar; Eleazar gerou Matã; Matã gerou Jacó;"
+    },
+    {
+      "verse": 16,
+      "text": "E Jacó gerou José, marido de Maria, da qual nasceu Jesus, que é chamado o Cristo."
+    },
+    {
+      "verse": 17,
+      "text": "Assim, todas as gerações desde Abraão até Davi são catorze gerações; e desde Davi até o cativeiro da Babilônia, catorze gerações; e desde o cativeiro da Babilônia até Cristo, catorze gerações."
+    },
+    {
+      "verse": 18,
+      "text": "Ora, o nascimento de Jesus Cristo foi assim: Estando Maria, sua mãe, desposada com José, antes de se ajuntarem, achou-se ter concebido do Espírito Santo."
+    },
+    {
+      "verse": 19,
+      "text": "Então José, seu marido, sendo justo e não querendo infamá-la, intentou deixá-la secretamente."
+    },
+    {
+      "verse": 20,
+      "text": "E, projetando ele isso, eis que em sonho lhe apareceu um anjo do Senhor, dizendo: José, filho de Davi, não temas receber a Maria, tua mulher, porque o que nela está gerado é do Espírito Santo."
+    },
+    {
+      "verse": 21,
+      "text": "E ela dará à luz um filho, e lhe porás o nome de JESUS, porque ele salvará o seu povo dos seus pecados."
+    },
+    {
+      "verse": 22,
+      "text": "Tudo isso aconteceu para que se cumprisse o que fora dito da parte do Senhor pelo profeta, que diz:"
+    },
+    {
+      "verse": 23,
+      "text": "Eis que a virgem conceberá e dará à luz um filho, e ele será chamado Emanuel, que, traduzido, é: Deus conosco."
+    },
+    {
+      "verse": 24,
+      "text": "E José, despertando do sono, fez como o anjo do Senhor lhe ordenara e recebeu sua mulher;"
+    },
+    {
+      "verse": 25,
+      "text": "E não a conheceu até que deu à luz seu filho primogênito; e pôs-lhe o nome de JESUS."
+    }
+  ]
+}

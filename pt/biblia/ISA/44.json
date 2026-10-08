@@ -1,0 +1,122 @@
+{
+  "book_id": "ISA",
+  "book": "Isaías",
+  "chapter": 44,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/isaias/biblia_kjv_23isaias41-52.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Agora, pois, ouve, ó Jacó, servo meu, e tu, ó Israel, a quem escolhi."
+    },
+    {
+      "verse": 2,
+      "text": "Assim diz o SENHOR que te criou e te formou desde o ventre, e que te ajudará: Não temas, ó Jacó, servo meu, e tu, Jesurum, a quem escolhi."
+    },
+    {
+      "verse": 3,
+      "text": "Porque derramarei água sobre o sedento, e rios sobre a terra seca; derramarei o meu espírito sobre a tua posteridade, e a minha bênção sobre os teus descendentes."
+    },
+    {
+      "verse": 4,
+      "text": "Eles brotarão entre a erva, como salgueiros junto às correntes de águas."
+    },
+    {
+      "verse": 5,
+      "text": "Um dirá: Eu sou do SENHOR; e outro se chamará pelo nome de Jacó; e outro escreverá com a sua mão ao SENHOR, e por sobrenome tomará o nome de Israel."
+    },
+    {
+      "verse": 6,
+      "text": "Assim diz o SENHOR, Rei de Israel, e seu Redentor, o SENHOR dos Exércitos: Eu sou o primeiro, e eu sou o último, e fora de mim não há Deus."
+    },
+    {
+      "verse": 7,
+      "text": "E quem, como eu, chamará, e o anunciará, e o porá em ordem perante mim, desde que ordenei um povo eterno? E anuncie-lhes as coisas vindouras, e as que hão de vir."
+    },
+    {
+      "verse": 8,
+      "text": "Não vos assombreis, nem vos amedronteis; porventura não vo-lo tenho eu anunciado desde então, e feito ouvir? Vós sois as minhas testemunhas. Porventura há outro Deus além de mim? Não, não há outra Rocha que eu conheça."
+    },
+    {
+      "verse": 9,
+      "text": "Todos os que fazem imagens de escultura são vaidade, e as suas coisas mais desejáveis de nada aproveitam; e as suas próprias testemunhas nada veem nem conhecem, para que eles sejam envergonhados."
+    },
+    {
+      "verse": 10,
+      "text": "Quem formou um deus, ou fundiu uma imagem de escultura que para nada é proveitosa?"
+    },
+    {
+      "verse": 11,
+      "text": "Eis que todos os seus companheiros serão envergonhados; e os artífices são dos homens; ajuntem-se todos, apresentem-se, assombrar-se-ão e envergonhar-se-ão juntamente."
+    },
+    {
+      "verse": 12,
+      "text": "O ferreiro com as tenazes trabalha nas brasas, e o forma com martelos, e o forja com a força dos seus braços; ele tem fome, e a sua força falta; não bebe água, e desfalece."
+    },
+    {
+      "verse": 13,
+      "text": "O carpinteiro estende a régua, e o marca com o giz; trabalha-o com plainas, e o traça com o compasso; e o faz à semelhança de um homem, segundo a beleza de um homem, para ficar em casa."
+    },
+    {
+      "verse": 14,
+      "text": "Corta para si cedros, e toma o cipreste e o carvalho, e se esforça entre as árvores do bosque; planta um freixo, e a chuva o faz crescer."
+    },
+    {
+      "verse": 15,
+      "text": "Então serve ao homem para queimar; e toma deles, e se aquece; e também acende o fogo, e coze pão; também faz um deus, e o adora; faz uma imagem de escultura, e se prostra diante dela."
+    },
+    {
+      "verse": 16,
+      "text": "Metade dele queima no fogo; com a outra metade come carne; assa um assado, e farta-se; também se aquece, e diz: Ah! Já me aquentei, já vi o fogo."
+    },
+    {
+      "verse": 17,
+      "text": "Então do resto faz um deus, uma imagem de escultura; ajoelha-se diante dela, e a adora, e lhe dirige a sua oração, e diz: Livra-me, porquanto tu és o meu deus."
+    },
+    {
+      "verse": 18,
+      "text": "Nada sabem, nem entendem; porque lhes fechou os olhos, para que não vejam; e o seu coração, para que não entendam."
+    },
+    {
+      "verse": 19,
+      "text": "E nenhum deles torna a si, e já não há conhecimento nem entendimento para dizer: Metade queimei no fogo, e cozi pão sobre as suas brasas; assei dele carne, e a comi; e faria eu do resto uma abominação? Ajoelhar-me-ei ao tronco de uma árvore?"
+    },
+    {
+      "verse": 20,
+      "text": "Apascenta-se de cinza; o seu coração enganado o desviou, para que não possa livrar a sua alma, nem dizer: Porventura não há uma mentira na minha mão direita?"
+    },
+    {
+      "verse": 21,
+      "text": "Lembra-te destas coisas, ó Jacó, e Israel, porque tu és meu servo; eu te formei, meu servo és tu; ó Israel, não me esquecerei de ti."
+    },
+    {
+      "verse": 22,
+      "text": "Desfaço as tuas transgressões como a névoa, e os teus pecados como a nuvem; torna para mim, porque eu te remi."
+    },
+    {
+      "verse": 23,
+      "text": "Cantai, ó céus, porque o SENHOR o fez; exultai, vós, as partes mais baixas da terra; rompei em cânticos, vós, montes, ó bosque, e toda a árvore que nele há; porque o SENHOR remiu a Jacó, e glorificou-se em Israel."
+    },
+    {
+      "verse": 24,
+      "text": "Assim diz o SENHOR, teu Redentor, e aquele que te formou desde o ventre: Eu sou o SENHOR que faço todas as coisas, que sozinho estendo os céus, e espraio a terra por mim mesmo."
+    },
+    {
+      "verse": 25,
+      "text": "Que desfaço os sinais dos mentirosos, e enlouqueço os adivinhos; que faço tornar atrás os sábios, e torno a sua ciência em loucura."
+    },
+    {
+      "verse": 26,
+      "text": "Que confirmo a palavra do seu servo, e cumpro o conselho dos seus mensageiros; que digo a Jerusalém: Tu serás habitada; e às cidades de Judá: Sereis edificadas, e levantarei as suas ruínas."
+    },
+    {
+      "verse": 27,
+      "text": "Que digo ao abismo: Seca-te, e farei secar os teus rios."
+    },
+    {
+      "verse": 28,
+      "text": "Que digo de Ciro: Ele é o meu pastor, e cumprirá tudo o que me apraz; dizendo também a Jerusalém: Tu serás edificada; e ao templo: O teu fundamento será lançado."
+    }
+  ]
+}

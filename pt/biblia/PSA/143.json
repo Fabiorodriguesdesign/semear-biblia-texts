@@ -1,0 +1,58 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 143,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos141-150.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ouve a minha oração, ó SENHOR, dá ouvidos às minhas súplicas; na tua fidelidade, responde-me e na tua justiça."
+    },
+    {
+      "verse": 2,
+      "text": "E não entres em juízo com o teu servo, porque à tua vista não se achará justo nenhum vivente."
+    },
+    {
+      "verse": 3,
+      "text": "Pois o inimigo perseguiu a minha alma; esmagou a minha vida por terra; fez-me habitar nas trevas, como os que morreram há muito tempo."
+    },
+    {
+      "verse": 4,
+      "text": "Por isso, o meu espírito está angustiado em mim; o meu coração dentro de mim está desolado."
+    },
+    {
+      "verse": 5,
+      "text": "Lembro-me dos dias antigos; medito em todas as tuas obras; musico sobre a obra das tuas mãos."
+    },
+    {
+      "verse": 6,
+      "text": "Estendo as minhas mãos para ti; a minha alma tem sede de ti, como terra sedenta. Selá."
+    },
+    {
+      "verse": 7,
+      "text": "Ouve-me depressa, ó SENHOR; o meu espírito desfalece; não escondas de mim o teu rosto, para que eu não seja semelhante aos que descem à cova."
+    },
+    {
+      "verse": 8,
+      "text": "Faze-me ouvir da tua benignidade pela manhã, pois em ti confio; faze-me saber o caminho que devo seguir, porque a ti levanto a minha alma."
+    },
+    {
+      "verse": 9,
+      "text": "Livra-me, ó SENHOR, dos meus inimigos; fujo para ti, para me esconder."
+    },
+    {
+      "verse": 10,
+      "text": "Ensina-me a fazer a tua vontade, pois tu és o meu Deus; o teu espírito é bom; guia-me para a terra da retidão."
+    },
+    {
+      "verse": 11,
+      "text": "Vivifica-me, ó SENHOR, por amor do teu nome; por amor da tua justiça, tira a minha alma da angústia."
+    },
+    {
+      "verse": 12,
+      "text": "E, pela tua misericórdia, desarraiga os meus inimigos e destrói todos os que afligem a minha alma, pois eu sou teu servo."
+    }
+  ]
+}

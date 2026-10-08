@@ -1,0 +1,90 @@
+{
+  "book_id": "ECC",
+  "book": "Eclesiastes",
+  "chapter": 10,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/eclesiastes/biblia_kjv_21eclesiastes.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Assim como a mosca morta faz o unguento do perfumista feder e transbordar, assim um pouco de estultícia pesa mais do que a sabedoria e a honra."
+    },
+    {
+      "verse": 2,
+      "text": "O coração do sábio está à sua direita, mas o coração do tolo à sua esquerda."
+    },
+    {
+      "verse": 3,
+      "text": "E, até quando o tolo vai pelo caminho, falta-lhe o seu entendimento e diz a todos que é tolo."
+    },
+    {
+      "verse": 4,
+      "text": "Levantando-se contra ti o espírito do governador, não deixes o teu lugar, porque a brandura faz cessar grandes ofensas."
+    },
+    {
+      "verse": 5,
+      "text": "Há um mal que vi debaixo do sol, como um erro que procede do governador:"
+    },
+    {
+      "verse": 6,
+      "text": "A estultícia está posta em grandes alturas, mas os ricos estão assentados em lugar baixo."
+    },
+    {
+      "verse": 7,
+      "text": "Vi servos a cavalo, e príncipes andando sobre a terra como servos."
+    },
+    {
+      "verse": 8,
+      "text": "Quem abrir uma cova, nela cairá, e quem romper um muro, uma cobra o morderá."
+    },
+    {
+      "verse": 9,
+      "text": "O que arranca pedras, com elas se ferirá, e o que racha lenha, expõe-se ao perigo."
+    },
+    {
+      "verse": 10,
+      "text": "Se o ferro se embotar, e não se afiar o corte, então se deve pôr mais força; mas a sabedoria é excelente para dirigir."
+    },
+    {
+      "verse": 11,
+      "text": "Se a cobra morder antes de estar encantada, não há vantagem no encantador."
+    },
+    {
+      "verse": 12,
+      "text": "Nas palavras da boca do sábio há favor, mas os lábios do tolo o devoram."
+    },
+    {
+      "verse": 13,
+      "text": "O princípio das palavras da sua boca é a estultícia, e o fim da sua boca, loucura perversa."
+    },
+    {
+      "verse": 14,
+      "text": "O tolo multiplica as palavras, mas o homem não sabe o que há de ser; e quem lhe fará saber o que será depois dele?"
+    },
+    {
+      "verse": 15,
+      "text": "O trabalho dos tolos a cada um deles fatiga, porque não sabem ir à cidade."
+    },
+    {
+      "verse": 16,
+      "text": "Ai de ti, ó terra, cujo rei é menino, e cujos príncipes comem de manhã."
+    },
+    {
+      "verse": 17,
+      "text": "Bem-aventurada tu, ó terra, cujo rei é filho dos nobres, e cujos príncipes comem a seu tempo para refazerem as forças, e não para bebedice."
+    },
+    {
+      "verse": 18,
+      "text": "Pela muita preguiça se enfraquece o teto, e pela frouxidão das mãos a casa goteja."
+    },
+    {
+      "verse": 19,
+      "text": "Para rir se fazem banquetes, e o vinho alegra a vida, e o dinheiro a tudo responde."
+    },
+    {
+      "verse": 20,
+      "text": "Nem ainda no teu pensamento amaldiçoes o rei, nem tampouco no mais interior da tua recâmara amaldiçoes o rico; porque as aves dos céus levariam a voz, e os que têm asas dariam notícia da palavra."
+    }
+  ]
+}

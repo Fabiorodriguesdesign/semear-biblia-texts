@@ -1,0 +1,190 @@
+{
+  "book_id": "EZK",
+  "book": "Ezequiel",
+  "chapter": 40,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/ezequiel/biblia_kjv_26ezequiel31-48.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "No vigésimo quinto ano do nosso cativeiro, no princípio do ano, no décimo dia do mês, no décimo quarto ano depois que a cidade foi ferida, naquele mesmo dia a mão do SENHOR estava sobre mim, e me levou para lá."
+    },
+    {
+      "verse": 2,
+      "text": "Em visões de Deus me levou à terra de Israel, e me pôs sobre um monte muito alto, sobre o qual havia como que a estrutura de uma cidade ao sul."
+    },
+    {
+      "verse": 3,
+      "text": "E me levou para lá, e eis que ali estava um homem, cuja aparência era como a aparência de bronze, com um cordel de linho na sua mão, e uma cana de medir; e ele estava em pé à porta."
+    },
+    {
+      "verse": 4,
+      "text": "E disse-me o homem: Filho do homem, vê com os teus olhos, e ouve com os teus ouvidos, e põe no teu coração tudo quanto eu te mostrar; porque para que eu to mostrasse, foste tu trazido para cá: declara tudo quanto vires à casa de Israel."
+    },
+    {
+      "verse": 5,
+      "text": "E eis que havia um muro por fora da casa, em redor, e na mão do homem uma cana de medir de seis côvados de comprimento, cada côvado de um côvado e um palmo; e ele mediu a largura do edifício, uma cana; e a altura, uma cana."
+    },
+    {
+      "verse": 6,
+      "text": "Então veio à porta que olhava para o oriente, e subiu pelos seus degraus, e mediu o umbral da porta, que era de uma cana de largura; e o outro umbral da porta, que era de uma cana de largura."
+    },
+    {
+      "verse": 7,
+      "text": "E cada câmara pequena era de uma cana de comprimento, e de uma cana de largura; e entre as câmaras pequenas havia cinco côvados; e o umbral da porta, junto ao pórtico da porta por dentro, era de uma cana."
+    },
+    {
+      "verse": 8,
+      "text": "Mediu também o pórtico da porta por dentro, uma cana."
+    },
+    {
+      "verse": 9,
+      "text": "Então mediu o pórtico da porta, oito côvados; e os seus pilares, dois côvados; e o pórtico da porta era para dentro."
+    },
+    {
+      "verse": 10,
+      "text": "E as câmaras pequenas da porta para o oriente eram três de um lado, e três do outro; as três eram de uma mesma medida: e os pilares tinham uma mesma medida de um lado e do outro."
+    },
+    {
+      "verse": 11,
+      "text": "E mediu a largura da entrada da porta, dez côvados; e o comprimento da porta, treze côvados."
+    },
+    {
+      "verse": 12,
+      "text": "E o espaço diante das câmaras pequenas era de um côvado de um lado, e o espaço era de um côvado do outro lado: e as câmaras pequenas eram de seis côvados de um lado, e de seis côvados do outro lado."
+    },
+    {
+      "verse": 13,
+      "text": "Mediu então a porta desde o telhado de uma câmara pequena até o telhado de outra: a largura era de vinte e cinco côvados, porta contra porta."
+    },
+    {
+      "verse": 14,
+      "text": "Fez também pilares de sessenta côvados, até o pilar do pátio em redor da porta."
+    },
+    {
+      "verse": 15,
+      "text": "E desde a face da porta da entrada até a face do pórtico da porta interior eram cinquenta côvados."
+    },
+    {
+      "verse": 16,
+      "text": "E havia janelas estreitas para as câmaras pequenas, e para os seus pilares por dentro da porta em redor, e da mesma sorte para os arcos: e havia janelas em redor por dentro: e sobre cada pilar havia palmeiras."
+    },
+    {
+      "verse": 17,
+      "text": "Então me levou ao pátio exterior, e eis que ali havia câmaras, e um pavimento feito para o pátio em redor: trinta câmaras estavam sobre o pavimento."
+    },
+    {
+      "verse": 18,
+      "text": "E o pavimento junto ao lado das portas, defronte do comprimento das portas, era o pavimento inferior."
+    },
+    {
+      "verse": 19,
+      "text": "Então mediu a largura desde a face da porta inferior até a face do pátio interior por fora, cem côvados para o oriente e para o norte."
+    },
+    {
+      "verse": 20,
+      "text": "E a porta do pátio exterior que olhava para o norte, mediu o seu comprimento, e a sua largura."
+    },
+    {
+      "verse": 21,
+      "text": "E as suas câmaras pequenas eram três de um lado e três do outro; e os seus pilares e os seus arcos eram segundo a medida da primeira porta: o seu comprimento era de cinquenta côvados, e a largura de vinte e cinco côvados."
+    },
+    {
+      "verse": 22,
+      "text": "E as suas janelas, e os seus arcos, e as suas palmeiras, eram segundo a medida da porta que olhava para o oriente; e subia-se a ela por sete degraus; e os seus arcos estavam diante deles."
+    },
+    {
+      "verse": 23,
+      "text": "E a porta do pátio interior estava defronte da porta para o norte, e para o oriente; e mediu de porta a porta cem côvados."
+    },
+    {
+      "verse": 24,
+      "text": "Depois disso me levou para o sul, e eis que ali estava uma porta para o sul: e mediu os seus pilares e os seus arcos segundo estas medidas."
+    },
+    {
+      "verse": 25,
+      "text": "E havia janelas nela e nos seus arcos em redor, como aquelas janelas: o comprimento era de cinquenta côvados, e a largura de vinte e cinco côvados."
+    },
+    {
+      "verse": 26,
+      "text": "E havia sete degraus para subir a ela, e os seus arcos estavam diante deles: e tinha palmeiras, uma de um lado, e outra do outro lado, sobre os seus pilares."
+    },
+    {
+      "verse": 27,
+      "text": "E havia uma porta no pátio interior para o sul: e mediu de porta a porta para o sul cem côvados."
+    },
+    {
+      "verse": 28,
+      "text": "E me levou ao pátio interior pela porta do sul: e mediu a porta do sul segundo estas medidas;"
+    },
+    {
+      "verse": 29,
+      "text": "E as suas câmaras pequenas, e os seus pilares, e os seus arcos, segundo estas medidas: e havia janelas nela e nos seus arcos em redor: era de cinquenta côvados de comprimento, e de vinte e cinco côvados de largura."
+    },
+    {
+      "verse": 30,
+      "text": "E os arcos em redor eram de vinte e cinco côvados de comprimento, e de cinco côvados de largura."
+    },
+    {
+      "verse": 31,
+      "text": "E os seus arcos estavam para o pátio exterior; e havia palmeiras sobre os seus pilares: e a subida a ela tinha oito degraus."
+    },
+    {
+      "verse": 32,
+      "text": "E me levou ao pátio interior para o oriente: e mediu a porta segundo estas medidas."
+    },
+    {
+      "verse": 33,
+      "text": "E as suas câmaras pequenas, e os seus pilares, e os seus arcos, eram segundo estas medidas: e havia janelas nela e nos seus arcos em redor: era de cinquenta côvados de comprimento, e de vinte e cinco côvados de largura."
+    },
+    {
+      "verse": 34,
+      "text": "E os seus arcos estavam para o pátio exterior; e havia palmeiras sobre os seus pilares, de um lado e do outro: e a subida a ela tinha oito degraus."
+    },
+    {
+      "verse": 35,
+      "text": "E me levou à porta do norte, e mediu-a segundo estas medidas;"
+    },
+    {
+      "verse": 36,
+      "text": "As suas câmaras pequenas, os seus pilares, e os seus arcos, e as janelas em redor: o comprimento era de cinquenta côvados, e a largura de vinte e cinco côvados."
+    },
+    {
+      "verse": 37,
+      "text": "E os seus pilares estavam para o pátio exterior; e havia palmeiras sobre os seus pilares, de um lado e do outro: e a subida a ela tinha oito degraus."
+    },
+    {
+      "verse": 38,
+      "text": "E as câmaras e as suas entradas estavam junto aos pilares das portas, onde lavavam o holocausto."
+    },
+    {
+      "verse": 39,
+      "text": "E no pórtico da porta havia duas mesas de um lado, e duas mesas do outro lado, para nelas se degolar o holocausto e a oferta pelo pecado e a oferta pela transgressão."
+    },
+    {
+      "verse": 40,
+      "text": "E ao lado de fora, ao subir à entrada da porta do norte, havia duas mesas; e do outro lado, que estava no pórtico da porta, havia duas mesas."
+    },
+    {
+      "verse": 41,
+      "text": "Quatro mesas de um lado, e quatro mesas do outro lado, junto ao lado da porta; oito mesas, sobre as quais degolavam os seus sacrifícios."
+    },
+    {
+      "verse": 42,
+      "text": "E as quatro mesas eram de pedras lavradas para o holocausto, de um côvado e meio de comprimento, e de um côvado e meio de largura, e de um côvado de altura: sobre elas também punham os instrumentos com que degolavam o holocausto e o sacrifício."
+    },
+    {
+      "verse": 43,
+      "text": "E dentro havia ganchos, de um palmo de largura, fixados em redor: e sobre as mesas estava a carne da oferta."
+    },
+    {
+      "verse": 44,
+      "text": "E fora da porta interior estavam as câmaras dos cantores no pátio interior, que estava ao lado da porta do norte; e a sua vista era para o sul: uma ao lado da porta do oriente, tendo a vista para o norte."
+    },
+    {
+      "verse": 45,
+      "text": "E disse-me: Esta câmara, cuja vista é para o sul, é para os sacerdotes, os guardas da guarda da casa."
+    }
+  ]
+}

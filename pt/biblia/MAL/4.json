@@ -1,0 +1,34 @@
+{
+  "book_id": "MAL",
+  "book": "Malaquias",
+  "chapter": 4,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/malaquias/biblia_kjv_39malaquias.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Porque, eis que vem o dia que arderá como um forno; e todos os soberbos, sim, e todos os que praticam a impiedade, serão como restolho; e o dia que vem os abrasará, diz o SENHOR dos Exércitos, de modo que não lhes deixará nem raiz nem ramo."
+    },
+    {
+      "verse": 2,
+      "text": "Mas para vós que temeis o meu nome, o Sol da justiça nascerá com cura nas suas asas; e saireis, e crescereis como bezerros do estábulo."
+    },
+    {
+      "verse": 3,
+      "text": "E pisareis os ímpios; porque eles serão cinzas debaixo das plantas dos vossos pés no dia em que eu fizer isto, diz o SENHOR dos Exércitos."
+    },
+    {
+      "verse": 4,
+      "text": "Lembrai-vos da lei de Moisés, meu servo, a qual lhe ordenei em Horebe para todo o Israel, com os estatutos e os juízos."
+    },
+    {
+      "verse": 5,
+      "text": "Eis que eu vos enviarei Elias, o profeta, antes da vinda do grande e terrível dia do SENHOR:"
+    },
+    {
+      "verse": 6,
+      "text": "E ele converterá o coração dos pais aos filhos, e o coração dos filhos a seus pais, para que eu não venha e fira a terra com maldição."
+    }
+  ]
+}

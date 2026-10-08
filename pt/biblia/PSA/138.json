@@ -1,0 +1,42 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 138,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos121-140.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Eu te louvarei de todo o meu coração; na presença dos deuses a ti cantarei louvores."
+    },
+    {
+      "verse": 2,
+      "text": "Inclinarei-me para o teu santo templo, e louvarei o teu nome pela tua benignidade e pela tua verdade; pois engrandeceste a tua palavra acima de todo o teu nome."
+    },
+    {
+      "verse": 3,
+      "text": "No dia em que eu clamei, me respondeste; e me fortaleceste com força na minha alma."
+    },
+    {
+      "verse": 4,
+      "text": "Todos os reis da terra te louvarão, ó SENHOR, quando ouvirem as palavras da tua boca."
+    },
+    {
+      "verse": 5,
+      "text": "Sim, eles cantarão nos caminhos do SENHOR, pois grande é a glória do SENHOR."
+    },
+    {
+      "verse": 6,
+      "text": "Ainda que o SENHOR seja excelso, atenta para o humilde; mas ao soberbo conhece-o de longe."
+    },
+    {
+      "verse": 7,
+      "text": "Andando eu no meio da angústia, tu me revivificarás; estenderás a tua mão contra a ira dos meus inimigos, e a tua destra me salvará."
+    },
+    {
+      "verse": 8,
+      "text": "O SENHOR aperfeiçoará o que me concerne; a tua benignidade, ó SENHOR, dura para sempre; não desampares as obras das tuas mãos."
+    }
+  ]
+}

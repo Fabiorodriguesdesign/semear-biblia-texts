@@ -1,0 +1,66 @@
+{
+  "book_id": "EST",
+  "book": "Ester",
+  "chapter": 6,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/ester/biblia_kjv_17ester.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Naquela mesma noite fugiu o sono do rei; então mandou trazer o livro das memórias das crônicas, e leram-nas diante do rei."
+    },
+    {
+      "verse": 2,
+      "text": "E achou-se escrito que Mordecai tinha denunciado Bigtã e Teres, dois dos camareiros do rei, guardas da porta, que procuraram pôr as mãos sobre o rei Assuero."
+    },
+    {
+      "verse": 3,
+      "text": "Então disse o rei: Que honra e dignidade se fez a Mordecai por isso? E os servos do rei, que o serviam, disseram: Nada se lhe fez."
+    },
+    {
+      "verse": 4,
+      "text": "Então disse o rei: Quem está no pátio? E Hamã tinha entrado no pátio exterior da casa do rei, para dizer ao rei que enforcassem a Mordecai na forca que lhe tinha preparado."
+    },
+    {
+      "verse": 5,
+      "text": "E os servos do rei lhe disseram: Eis que Hamã está no pátio. E disse o rei: Entre."
+    },
+    {
+      "verse": 6,
+      "text": "Entrou, pois, Hamã. E o rei lhe disse: Que se fará ao homem de cuja honra o rei se agrada? Então Hamã pensou no seu coração: A quem se agradaria o rei de honrar mais do que a mim?"
+    },
+    {
+      "verse": 7,
+      "text": "E Hamã respondeu ao rei: Para o homem de cuja honra o rei se agrada,"
+    },
+    {
+      "verse": 8,
+      "text": "Tragam-se as vestes reais que o rei costuma usar, e o cavalo em que o rei costuma andar, e ponha-se-lhe a coroa real na cabeça:"
+    },
+    {
+      "verse": 9,
+      "text": "E entreguem-se as vestes e o cavalo à mão de um dos príncipes mais nobres do rei, para que vistam aquele homem de cuja honra o rei se agrada, e o levem a cavalo pelas ruas da cidade, e apregoem diante dele: Assim se fará ao homem de cuja honra o rei se agrada."
+    },
+    {
+      "verse": 10,
+      "text": "Então disse o rei a Hamã: Apressa-te, toma as vestes e o cavalo, como disseste, e faze assim a Mordecai, o judeu, que está assentado à porta do rei; coisa nenhuma deixes de fazer de tudo quanto disseste."
+    },
+    {
+      "verse": 11,
+      "text": "Então Hamã tomou as vestes e o cavalo, e vestiu a Mordecai, e o levou a cavalo pelas ruas da cidade, e apregoou diante dele: Assim se fará ao homem de cuja honra o rei se agrada."
+    },
+    {
+      "verse": 12,
+      "text": "Depois Mordecai voltou para a porta do rei; porém Hamã se apressou para sua casa, lamentando e com a cabeça coberta."
+    },
+    {
+      "verse": 13,
+      "text": "E Hamã contou a Zeres, sua mulher, e a todos os seus amigos tudo quanto lhe tinha sucedido. Então os seus sábios e Zeres, sua mulher, lhe disseram: Se Mordecai, diante de quem começaste a cair, é da descendência dos judeus, não prevalecerás contra ele, antes certamente cairás diante dele."
+    },
+    {
+      "verse": 14,
+      "text": "Estando eles ainda falando com ele, chegaram os camareiros do rei, e apressaram-se a levar Hamã ao banquete que Ester tinha preparado."
+    }
+  ]
+}

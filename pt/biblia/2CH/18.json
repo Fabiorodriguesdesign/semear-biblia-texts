@@ -1,0 +1,146 @@
+{
+  "book_id": "2CH",
+  "book": "2 Crônicas",
+  "chapter": 18,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/2cronicas/biblia_kjv_14_2cronicas1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ora, Josafá tinha riquezas e honra em abundância, e aliou-se a Acabe por casamento."
+    },
+    {
+      "verse": 2,
+      "text": "E depois de alguns anos, desceu a Acabe em Samaria. E Acabe matou ovelhas e bois em abundância para ele e para o povo que estava com ele, e o persuadiu a subir com ele a Ramote-Gileade."
+    },
+    {
+      "verse": 3,
+      "text": "E Acabe, rei de Israel, disse a Josafá, rei de Judá: Irás tu comigo a Ramote-Gileade? E ele lhe respondeu: Eu sou como tu és, e o meu povo como o teu povo; e estaremos contigo na guerra."
+    },
+    {
+      "verse": 4,
+      "text": "E Josafá disse ao rei de Israel: Consulta, peço-te, hoje a palavra do Senhor."
+    },
+    {
+      "verse": 5,
+      "text": "Então o rei de Israel ajuntou os profetas, quatrocentos homens, e disse-lhes: Iremos à peleja contra Ramote-Gileade, ou deixarei de ir? E eles disseram: Sobe, porque Deus a entregará nas mãos do rei."
+    },
+    {
+      "verse": 6,
+      "text": "Mas Josafá disse: Não há aqui ainda algum profeta do Senhor, para que o consultemos?"
+    },
+    {
+      "verse": 7,
+      "text": "E o rei de Israel disse a Josafá: Ainda há um homem por quem podemos consultar ao Senhor; porém eu o odeio, porque nunca profetiza de mim o bem, mas sempre o mal; este é Micaías, filho de Inla. E Josafá disse: Não diga o rei assim."
+    },
+    {
+      "verse": 8,
+      "text": "Então o rei de Israel chamou um oficial, e disse: Traze depressa a Micaías, filho de Inla."
+    },
+    {
+      "verse": 9,
+      "text": "E o rei de Israel e Josafá, rei de Judá, estavam assentados, cada um no seu trono, vestidos de suas vestes reais, e estavam assentados numa praça à entrada da porta de Samaria; e todos os profetas profetizavam diante deles."
+    },
+    {
+      "verse": 10,
+      "text": "E Zedequias, filho de Quenaana, fez para si chifres de ferro, e disse: Assim diz o Senhor: Com estes chifres ferirás os sírios, até que os tenhas consumido."
+    },
+    {
+      "verse": 11,
+      "text": "E todos os profetas profetizaram assim, dizendo: Sobe a Ramote-Gileade, e prosperarás, porque o Senhor a entregará nas mãos do rei."
+    },
+    {
+      "verse": 12,
+      "text": "E o mensageiro que foi chamar a Micaías falou-lhe, dizendo: Eis que as palavras dos profetas, a uma voz, anunciam o bem ao rei; seja, pois, a tua palavra como a de um deles, e fala o bem."
+    },
+    {
+      "verse": 13,
+      "text": "Porém Micaías disse: Vive o Senhor, que o que meu Deus disser, isso falarei."
+    },
+    {
+      "verse": 14,
+      "text": "E, vindo ele ao rei, o rei lhe disse: Micaías, iremos à peleja contra Ramote-Gileade, ou deixarei de ir? E ele disse: Subi, e prosperareis, e eles vos serão entregues nas mãos."
+    },
+    {
+      "verse": 15,
+      "text": "E o rei lhe disse: Quantas vezes te conjurarei, para que não me fales senão a verdade em nome do Senhor?"
+    },
+    {
+      "verse": 16,
+      "text": "Então ele disse: Vi todo o Israel disperso pelos montes, como ovelhas que não têm pastor; e disse o Senhor: Estes não têm senhor; volte cada um em paz para sua casa."
+    },
+    {
+      "verse": 17,
+      "text": "Então o rei de Israel disse a Josafá: Não te disse eu que ele não profetizaria de mim o bem, mas o mal?"
+    },
+    {
+      "verse": 18,
+      "text": "Então disse ele: Ouvi, pois, a palavra do Senhor: Vi o Senhor assentado no seu trono, e todo o exército do céu estava à sua mão direita e à sua esquerda."
+    },
+    {
+      "verse": 19,
+      "text": "E disse o Senhor: Quem enganará Acabe, rei de Israel, para que suba e caia em Ramote-Gileade? E um dizia de uma maneira, e outro de outra."
+    },
+    {
+      "verse": 20,
+      "text": "Então saiu um espírito, e pôs-se diante do Senhor, e disse: Eu o enganarei. E o Senhor lhe disse: Com quê?"
+    },
+    {
+      "verse": 21,
+      "text": "E ele disse: Sairei, e serei um espírito de mentira na boca de todos os seus profetas. E o Senhor disse: Tu o enganarás, e também prevalecerás; sai, e faze assim."
+    },
+    {
+      "verse": 22,
+      "text": "Agora, pois, eis que o Senhor pôs um espírito de mentira na boca destes teus profetas, e o Senhor falou o mal contra ti."
+    },
+    {
+      "verse": 23,
+      "text": "Então Zedequias, filho de Quenaana, chegou-se, e feriu a Micaías na face, e disse: Por que caminho saiu de mim o Espírito do Senhor para falar contigo?"
+    },
+    {
+      "verse": 24,
+      "text": "E Micaías disse: Eis que o verás naquele dia, quando entrares numa câmara interior para te esconderes."
+    },
+    {
+      "verse": 25,
+      "text": "Então o rei de Israel disse: Tomai a Micaías, e levai-o a Amom, o governador da cidade, e a Joás, filho do rei;"
+    },
+    {
+      "verse": 26,
+      "text": "E dizei: Assim diz o rei: Ponde este homem na prisão, e sustentai-o com pão de aflição e com água de aflição, até que eu volte em paz."
+    },
+    {
+      "verse": 27,
+      "text": "E Micaías disse: Se tu certamente voltares em paz, então o Senhor não falou por mim. E disse mais: Ouvi, povos todos!"
+    },
+    {
+      "verse": 28,
+      "text": "Assim o rei de Israel e Josafá, rei de Judá, subiram a Ramote-Gileade."
+    },
+    {
+      "verse": 29,
+      "text": "E o rei de Israel disse a Josafá: Eu me disfarçarei, e irei à peleja; tu, porém, veste as tuas vestes. Assim o rei de Israel se disfarçou, e foram à peleja."
+    },
+    {
+      "verse": 30,
+      "text": "Ora, o rei da Síria tinha dado ordem aos capitães dos carros que estavam com ele, dizendo: Não pelejareis nem contra pequeno nem contra grande, senão só contra o rei de Israel."
+    },
+    {
+      "verse": 31,
+      "text": "E sucedeu que, vendo os capitães dos carros a Josafá, disseram: Este é o rei de Israel. Pelo que o cercaram para pelejar; mas Josafá clamou, e o Senhor o socorreu; e Deus os moveu para que se apartassem dele."
+    },
+    {
+      "verse": 32,
+      "text": "Porque sucedeu que, vendo os capitães dos carros que não era o rei de Israel, desviaram-se dele."
+    },
+    {
+      "verse": 33,
+      "text": "Então um homem, que entesara o arco ao acaso, feriu o rei de Israel entre as juntas da armadura; pelo que ele disse ao seu cocheiro: Vira a tua mão, e leva-me para fora do exército, porque estou ferido."
+    },
+    {
+      "verse": 34,
+      "text": "E a peleja se agravou naquele dia; contudo o rei de Israel se susteve em pé no carro contra os sírios até à tarde; e ao pôr do sol morreu."
+    }
+  ]
+}

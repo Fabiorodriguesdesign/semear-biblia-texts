@@ -1,0 +1,51 @@
+{
+  "book_id": "JDT",
+  "book": "Judite",
+  "chapter": 3,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "livro",
+  "source_file": "apocryphal_books/kjv_pt/Judith/3.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Então enviaram-lhe embaixadores com palavras de paz, dizendo,"
+    },
+    {
+      "verse": 2,
+      "text": "Eis que nós, servos de Nabucodonosor, o grande rei, nos prostramos diante de ti; faze de nós o que te parecer bem."
+    },
+    {
+      "verse": 3,
+      "text": "Eis que as nossas casas, e todos os nossos lugares, e todos os nossos campos de trigo, e rebanhos, e manadas, e todos os currais das nossas tendas, estão diante da tua face; usa-os como te agradar."
+    },
+    {
+      "verse": 4,
+      "text": "As nossas cidades também e os seus habitantes são teus servos; vem e trata-os como te parecer bem."
+    },
+    {
+      "verse": 5,
+      "text": "Então os homens vieram a Holofernes, e declararam-lhe estas coisas."
+    },
+    {
+      "verse": 6,
+      "text": "E ele desceu com o seu exército para a costa marítima, e pôs guarnições nas cidades altas, e tomou delas homens escolhidos para ajuda."
+    },
+    {
+      "verse": 7,
+      "text": "Assim, eles e todos os habitantes da região receberam-no com coroas, e danças, e tambores."
+    },
+    {
+      "verse": 8,
+      "text": "Contudo, ele destruiu os seus lugares altos, e cortou os seus bosques; pois ele tinha recebido ordem de destruir todos os deuses da terra, para que todas as nações adorassem apenas a Nabucodonosor, e para que todas as línguas e tribos o chamassem deus."
+    },
+    {
+      "verse": 9,
+      "text": "Ele veio também para Esdrelom, perto de Dotaim, que está diante da grande cordilheira da Judeia,"
+    },
+    {
+      "verse": 10,
+      "text": "E acampou entre Geba e Escitópolis, e lá permaneceu um mês inteiro, para reunir todos os bagagens do seu exército."
+    }
+  ]
+}

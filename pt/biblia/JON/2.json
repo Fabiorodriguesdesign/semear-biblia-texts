@@ -1,0 +1,50 @@
+{
+  "book_id": "JON",
+  "book": "Jonas",
+  "chapter": 2,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/jonas/biblia_kjv_32jonas.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E orou Jonas ao SENHOR, seu Deus, das entranhas do peixe."
+    },
+    {
+      "verse": 2,
+      "text": "E disse: Na minha angústia clamei ao SENHOR, e ele me respondeu; do ventre do inferno gritei, e tu ouviste a minha voz."
+    },
+    {
+      "verse": 3,
+      "text": "Porque tu me lançaste no profundo, no meio dos mares, e a corrente das águas me cercou; todas as tuas ondas e as tuas vagas têm passado por cima de mim."
+    },
+    {
+      "verse": 4,
+      "text": "E eu disse: Lançado estou de diante dos teus olhos; todavia tornarei a ver o teu santo templo."
+    },
+    {
+      "verse": 5,
+      "text": "As águas me cercaram até à alma, o abismo me rodeou, e as algas se enrolaram na minha cabeça."
+    },
+    {
+      "verse": 6,
+      "text": "Eu desci até aos fundamentos dos montes; a terra com os seus ferrolhos me encerrou para sempre; mas tu fizeste subir a minha vida da perdição, ó SENHOR meu Deus."
+    },
+    {
+      "verse": 7,
+      "text": "Quando desfalecia em mim a minha alma, lembrei-me do SENHOR; e entrou a ti a minha oração, no teu santo templo."
+    },
+    {
+      "verse": 8,
+      "text": "Os que observam as vãs idolatrias deixam a sua própria misericórdia."
+    },
+    {
+      "verse": 9,
+      "text": "Mas eu te oferecerei sacrifício com a voz do agradecimento; o que votei pagarei. Do SENHOR vem a salvação."
+    },
+    {
+      "verse": 10,
+      "text": "E falou o SENHOR ao peixe, e este vomitou a Jonas na terra seca."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "book_id": "ISA",
+  "book": "Isaías",
+  "chapter": 4,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/isaias/biblia_kjv_23isaias1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E naquele dia sete mulheres lançarão mão de um homem, dizendo: Comeremos do nosso pão, e vestiremos a nossa roupa; tão somente queremos ser chamadas pelo teu nome; tira o nosso opróbrio."
+    },
+    {
+      "verse": 2,
+      "text": "Naquele dia o Renovo do SENHOR será belo e glorioso; e o fruto da terra será excelente e formoso para os que escaparem de Israel."
+    },
+    {
+      "verse": 3,
+      "text": "E acontecerá que aquele que for deixado em Sião, e o que permanecer em Jerusalém, será chamado santo, a saber, todo aquele que estiver inscrito entre os vivos em Jerusalém;"
+    },
+    {
+      "verse": 4,
+      "text": "Quando o Senhor tiver lavado a imundícia das filhas de Sião, e tiver purgado o sangue de Jerusalém do meio dela, com o espírito de juízo e com o espírito de ardor."
+    },
+    {
+      "verse": 5,
+      "text": "E o SENHOR criará sobre toda a habitação do monte Sião, e sobre as suas assembleias, uma nuvem e fumaça de dia, e o resplendor de um fogo chamejante de noite; porque sobre toda a glória haverá uma defesa."
+    },
+    {
+      "verse": 6,
+      "text": "E haverá um tabernáculo para sombra no dia contra o calor, e para lugar de refúgio, e para abrigo contra a tempestade e contra a chuva."
+    }
+  ]
+}

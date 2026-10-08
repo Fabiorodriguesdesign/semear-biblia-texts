@@ -1,0 +1,38 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 67,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos61-80.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Deus tenha misericórdia de nós e nos abençoe; e faça resplandecer o seu rosto sobre nós (Selá.)"
+    },
+    {
+      "verse": 2,
+      "text": "Para que se conheça na terra o teu caminho, e entre todas as nações a tua salvação."
+    },
+    {
+      "verse": 3,
+      "text": "Louvem-te a ti, ó Deus, os povos; louvem-te os povos todos."
+    },
+    {
+      "verse": 4,
+      "text": "Ó, que as nações se alegrem e cantem de alegria, pois julgarás os povos com retidão e governarás as nações sobre a terra. (Selá)"
+    },
+    {
+      "verse": 5,
+      "text": "Louvem-te a ti, ó Deus, os povos; louvem-te os povos todos."
+    },
+    {
+      "verse": 6,
+      "text": "Então a terra dará o seu fruto; e Deus, o nosso próprio Deus, nos abençoará."
+    },
+    {
+      "verse": 7,
+      "text": "Deus nos abençoará; e todos os confins da terra o temerão."
+    }
+  ]
+}

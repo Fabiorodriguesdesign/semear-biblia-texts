@@ -1,0 +1,58 @@
+{
+  "book_id": "HOS",
+  "book": "Oséias",
+  "chapter": 11,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/oseias/biblia_kjv_28oseias.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Quando Israel era menino, então eu o amei, e do Egito chamei o meu filho."
+    },
+    {
+      "verse": 2,
+      "text": "Quanto mais eu os chamava, mais se afastavam de mim: sacrificavam aos Baalim, e queimavam incenso às imagens de escultura."
+    },
+    {
+      "verse": 3,
+      "text": "Eu também ensinei Efraim a andar, tomando-os pelos seus braços; mas eles não souberam que eu os curava."
+    },
+    {
+      "verse": 4,
+      "text": "Eu os atraí com cordas de homem, com laços de amor: e fui para eles como os que tiram o jugo dos seus queixos, e lhes pus alimento."
+    },
+    {
+      "verse": 5,
+      "text": "Ele não voltará para a terra do Egito, mas o assírio será o seu rei, porque recusaram voltar."
+    },
+    {
+      "verse": 6,
+      "text": "E a espada permanecerá sobre as suas cidades, e consumirá os seus ramos, e os devorará, por causa dos seus próprios conselhos."
+    },
+    {
+      "verse": 7,
+      "text": "E o meu povo está inclinado a desviar-se de mim: embora os chamem para o Altíssimo, nenhum deles o exaltará."
+    },
+    {
+      "verse": 8,
+      "text": "Como te entregarei, ó Efraim? como te livrarei, ó Israel? como te farei como Admá? como te porei como Zeboim? o meu coração está transformado dentro de mim, as minhas compaixões estão acesas juntamente."
+    },
+    {
+      "verse": 9,
+      "text": "Não executarei o furor da minha ira, não voltarei para destruir Efraim: porque eu sou Deus, e não homem; o Santo no meio de ti: e não entrarei na cidade."
+    },
+    {
+      "verse": 10,
+      "text": "Eles andarão após o SENHOR: ele rugirá como leão: quando ele rugir, então os filhos tremerão desde o ocidente."
+    },
+    {
+      "verse": 11,
+      "text": "Eles tremerão como um pássaro do Egito, e como uma pomba da terra da Assíria: e eu os colocarei nas suas casas, diz o SENHOR."
+    },
+    {
+      "verse": 12,
+      "text": "Efraim me cerca com mentiras, e a casa de Israel com engano: mas Judá ainda governa com Deus, e é fiel com os santos."
+    }
+  ]
+}

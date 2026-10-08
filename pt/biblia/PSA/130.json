@@ -1,0 +1,42 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 130,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos121-140.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Das profundezas a ti clamo, ó Senhor."
+    },
+    {
+      "verse": 2,
+      "text": "Senhor, escuta a minha voz; estejam os teus ouvidos atentos à voz das minhas súplicas."
+    },
+    {
+      "verse": 3,
+      "text": "Se tu, Senhor, observares as iniquidades, Senhor, quem subsistirá?"
+    },
+    {
+      "verse": 4,
+      "text": "Mas contigo está o perdão, para que sejas temido."
+    },
+    {
+      "verse": 5,
+      "text": "Aguardo ao Senhor; a minha alma o aguarda, e espero na sua palavra."
+    },
+    {
+      "verse": 6,
+      "text": "A minha alma anseia pelo Senhor, mais do que os guardas pela manhã, sim, mais do que os guardas pela manhã."
+    },
+    {
+      "verse": 7,
+      "text": "Espere Israel no Senhor, porque no Senhor há misericórdia, e com ele há abundante redenção."
+    },
+    {
+      "verse": 8,
+      "text": "E ele remirá a Israel de todas as suas iniquidades."
+    }
+  ]
+}

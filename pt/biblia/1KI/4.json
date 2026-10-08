@@ -1,0 +1,146 @@
+{
+  "book_id": "1KI",
+  "book": "1 Reis",
+  "chapter": 4,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/1reis/biblia_kjv_11_1reis1-10.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Assim o rei Salomão foi rei sobre todo o Israel."
+    },
+    {
+      "verse": 2,
+      "text": "E estes eram os príncipes que ele tinha: Azarias, filho de Zadoque, o sacerdote;"
+    },
+    {
+      "verse": 3,
+      "text": "Eliorefe e Aías, filhos de Sisa, escribas; Josafá, filho de Ailude, o cronista."
+    },
+    {
+      "verse": 4,
+      "text": "E Benaia, filho de Joiada, estava sobre o exército; e Zadoque e Abiatar eram os sacerdotes."
+    },
+    {
+      "verse": 5,
+      "text": "E Azarias, filho de Natã, estava sobre os oficiais; e Zabude, filho de Natã, era o principal oficial, e amigo do rei."
+    },
+    {
+      "verse": 6,
+      "text": "E Aisã estava sobre a casa; e Adonirão, filho de Abda, estava sobre o tributo."
+    },
+    {
+      "verse": 7,
+      "text": "E Salomão tinha doze oficiais sobre todo o Israel, que proviam mantimento para o rei e para a sua casa; cada um no seu mês do ano fazia provisão."
+    },
+    {
+      "verse": 8,
+      "text": "E estes são os seus nomes: O filho de Hur, no monte de Efraim;"
+    },
+    {
+      "verse": 9,
+      "text": "O filho de Decar, em Macaz, e em Saalbim, e Bete-Semes, e Elon-Bete-Hanã;"
+    },
+    {
+      "verse": 10,
+      "text": "O filho de Hesede, em Arubote; a ele pertencia Socó, e toda a terra de Hefer;"
+    },
+    {
+      "verse": 11,
+      "text": "O filho de Abinadabe, em toda a região de Dor; o qual tinha Tafate, filha de Salomão, por mulher;"
+    },
+    {
+      "verse": 12,
+      "text": "Baaná, filho de Ailude; a ele pertenciam Taanque e Megido, e toda Bete-Seã, que está junto a Zaretã, abaixo de Jezreel, desde Bete-Seã até Abel-Meolá, até o lugar que está além de Jocmeão;"
+    },
+    {
+      "verse": 13,
+      "text": "O filho de Geber, em Ramote-Gileade; a ele pertenciam as aldeias de Jair, filho de Manassés, que estão em Gileade; a ele também pertencia a região de Argobe, que está em Basã, sessenta grandes cidades com muros e barras de bronze;"
+    },
+    {
+      "verse": 14,
+      "text": "Ainadabe, filho de Ido, tinha Maanaim."
+    },
+    {
+      "verse": 15,
+      "text": "Aimaás estava em Naftali; ele também tomou Basemate, filha de Salomão, por mulher;"
+    },
+    {
+      "verse": 16,
+      "text": "Baaná, filho de Husai, estava em Aser e em Alote;"
+    },
+    {
+      "verse": 17,
+      "text": "Josafá, filho de Paruá, em Issacar;"
+    },
+    {
+      "verse": 18,
+      "text": "Simei, filho de Elá, em Benjamim;"
+    },
+    {
+      "verse": 19,
+      "text": "Geber, filho de Uri, estava na terra de Gileade, na terra de Siom, rei dos amoritas, e de Ogue, rei de Basã; e ele era o único oficial que estava na terra."
+    },
+    {
+      "verse": 20,
+      "text": "Judá e Israel eram muitos, como a areia que está junto ao mar em multidão, comendo e bebendo, e alegrando-se."
+    },
+    {
+      "verse": 21,
+      "text": "E Salomão dominava sobre todos os reinos desde o rio até a terra dos filisteus, e até a fronteira do Egito; eles traziam presentes, e serviram a Salomão todos os dias da sua vida."
+    },
+    {
+      "verse": 22,
+      "text": "E a provisão de Salomão para um dia era trinta coros de flor de farinha, e sessenta coros de farinha,"
+    },
+    {
+      "verse": 23,
+      "text": "Dez bois cevados, e vinte bois dos pastos, e cem ovelhas, além de veados, e gazelas, e corços, e aves cevadas."
+    },
+    {
+      "verse": 24,
+      "text": "Porque ele dominava sobre toda a região aquém do rio, desde Tifsa até Gaza, sobre todos os reis aquém do rio; e tinha paz de todos os lados em redor dele."
+    },
+    {
+      "verse": 25,
+      "text": "E Judá e Israel habitavam seguros, cada um debaixo da sua videira e debaixo da sua figueira, desde Dã até Berseba, todos os dias de Salomão."
+    },
+    {
+      "verse": 26,
+      "text": "E Salomão tinha quarenta mil cavalos para os seus carros, e doze mil cavaleiros."
+    },
+    {
+      "verse": 27,
+      "text": "E aqueles oficiais proviam mantimento para o rei Salomão, e para todos os que vinham à mesa do rei Salomão, cada um no seu mês; nada lhes faltava."
+    },
+    {
+      "verse": 28,
+      "text": "Cevada também e palha para os cavalos e dromedários traziam ao lugar onde os oficiais estavam, cada um segundo o seu encargo."
+    },
+    {
+      "verse": 29,
+      "text": "E Deus deu a Salomão sabedoria e entendimento em grande medida, e largueza de coração, como a areia que está na praia do mar."
+    },
+    {
+      "verse": 30,
+      "text": "E a sabedoria de Salomão excedeu a sabedoria de todos os filhos do oriente, e toda a sabedoria do Egito."
+    },
+    {
+      "verse": 31,
+      "text": "Porque era mais sábio do que todos os homens; mais do que Etã, o ezraíta, e Hemã, e Calcol, e Darda, filhos de Maol; e a sua fama estava em todas as nações em redor."
+    },
+    {
+      "verse": 32,
+      "text": "E falou três mil provérbios; e os seus cânticos foram mil e cinco."
+    },
+    {
+      "verse": 33,
+      "text": "E falou das árvores, desde o cedro que está no Líbano até o hissopo que nasce na parede; falou também dos animais, e das aves, e dos répteis, e dos peixes."
+    },
+    {
+      "verse": 34,
+      "text": "E vinham de todos os povos para ouvir a sabedoria de Salomão, de todos os reis da terra, que tinham ouvido da sua sabedoria."
+    }
+  ]
+}

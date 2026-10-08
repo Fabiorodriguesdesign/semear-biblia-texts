@@ -1,0 +1,54 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 63,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos61-80.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ó Deus, tu és o meu Deus, de madrugada te buscarei; a minha alma tem sede de ti; a minha carne te deseja muito em uma terra seca e cansada, onde não há água;"
+    },
+    {
+      "verse": 2,
+      "text": "Para ver a tua força e a tua glória, como te vi no santuário."
+    },
+    {
+      "verse": 3,
+      "text": "Porque a tua benignidade é melhor do que a vida, os meus lábios te louvarão."
+    },
+    {
+      "verse": 4,
+      "text": "Assim eu te bendirei enquanto viver; em teu nome levantarei as minhas mãos."
+    },
+    {
+      "verse": 5,
+      "text": "A minha alma se fartará, como de tutano e de gordura; e a minha boca te louvará com alegres lábios,"
+    },
+    {
+      "verse": 6,
+      "text": "Quando me lembrar de ti na minha cama, e meditar em ti nas vigílias da noite."
+    },
+    {
+      "verse": 7,
+      "text": "Porque tu tens sido o meu auxílio; então, à sombra das tuas asas me regozijarei."
+    },
+    {
+      "verse": 8,
+      "text": "A minha alma te segue de perto; a tua destra me sustenta."
+    },
+    {
+      "verse": 9,
+      "text": "Mas aqueles que procuram a minha alma para a destruir, irão para as profundezas da terra."
+    },
+    {
+      "verse": 10,
+      "text": "Eles cairão à espada; serão uma porção para as raposas."
+    },
+    {
+      "verse": 11,
+      "text": "Mas o rei se regozijará em Deus; qualquer que por ele jurar se gloriará; porque se tapará a boca dos que falam a mentira."
+    }
+  ]
+}

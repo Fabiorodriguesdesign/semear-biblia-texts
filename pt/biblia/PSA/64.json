@@ -1,0 +1,50 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 64,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos61-80.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ouve, ó Deus, a minha voz na minha oração; guarda a minha vida do temor do inimigo."
+    },
+    {
+      "verse": 2,
+      "text": "Esconde-me do secreto conselho dos maus, e do tumulto dos que praticam a iniquidade."
+    },
+    {
+      "verse": 3,
+      "text": "Que afiaram as suas línguas como espadas; e armaram por suas flechas palavras amargas,"
+    },
+    {
+      "verse": 4,
+      "text": "Para atirarem em secreto ao perfeito; de repente atiram sobre ele, e não temem."
+    },
+    {
+      "verse": 5,
+      "text": "Eles se animam uns aos outros em matéria má; falam de armar laços secretamente; dizem: Quem os verá?"
+    },
+    {
+      "verse": 6,
+      "text": "Eles investigam iniquidades; realizam uma busca diligente; tanto o pensamento interior de cada um deles, como o coração, é profundo."
+    },
+    {
+      "verse": 7,
+      "text": "Mas Deus atirará sobre eles uma flecha; de repente serão feridos."
+    },
+    {
+      "verse": 8,
+      "text": "Assim farão a sua própria língua cair sobre si mesmos; todos os que os virem fugirão."
+    },
+    {
+      "verse": 9,
+      "text": "E todos os homens temerão, e declararão a obra de Deus; porque sabiamente considerarão o seu feito."
+    },
+    {
+      "verse": 10,
+      "text": "O justo se alegrará no Senhor, e confiará nele; e todos os retos de coração se gloriarão."
+    }
+  ]
+}

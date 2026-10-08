@@ -1,0 +1,35 @@
+{
+  "book_id": "TOB",
+  "book": "Tobias",
+  "chapter": 9,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "livro",
+  "source_file": "apocryphal_books/kjv_pt/Tobit/9.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Então Tobias chamou Rafael e disse-lhe:"
+    },
+    {
+      "verse": 2,
+      "text": "Irmão Azarias, leva contigo um servo e dois camelos, e vai a Ragés, na Média, a Gabael, e recebe o dinheiro, e traz-me o convidado para o casamento."
+    },
+    {
+      "verse": 3,
+      "text": "Pois Raguel jurou que eu não partiria."
+    },
+    {
+      "verse": 4,
+      "text": "Mas meu pai conta os dias; e se eu me demorar muito, ele ficará muito triste."
+    },
+    {
+      "verse": 5,
+      "text": "Então Rafael partiu e hospedou-se com Gabael, e deu-lhe o recibo; e Gabael trouxe-lhe os sacos que estavam selados, e entregou-lhos."
+    },
+    {
+      "verse": 6,
+      "text": "E partiram cedo ambos, e vieram ao casamento; e Tobias abençoou a sua mulher."
+    }
+  ]
+}

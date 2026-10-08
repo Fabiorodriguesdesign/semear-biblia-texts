@@ -1,0 +1,46 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 20,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O Senhor te ouça no dia da tribulação; o nome do Deus de Jacó te defenda;"
+    },
+    {
+      "verse": 2,
+      "text": "Envie-te ajuda do santuário, e te fortaleça de Sião;"
+    },
+    {
+      "verse": 3,
+      "text": "Lembre-se de todas as tuas ofertas, e aceite o teu holocausto; Selá."
+    },
+    {
+      "verse": 4,
+      "text": "Conceda-te segundo o teu próprio coração, e cumpra todo o teu conselho."
+    },
+    {
+      "verse": 5,
+      "text": "Nós nos regozijaremos na tua salvação, e em nome do nosso Deus hastearemos as nossas bandeiras; o Senhor cumpra todas as tuas petições."
+    },
+    {
+      "verse": 6,
+      "text": "Agora sei que o Senhor salva o seu ungido; ele o ouvirá do seu santo céu com a força salvadora da sua destra."
+    },
+    {
+      "verse": 7,
+      "text": "Alguns confiam em carros, e outros em cavalos; mas nós nos lembraremos do nome do Senhor nosso Deus."
+    },
+    {
+      "verse": 8,
+      "text": "Eles são derrubados e caídos; mas nós nos levantamos, e estamos de pé."
+    },
+    {
+      "verse": 9,
+      "text": "Salva, Senhor; que o rei nos ouça quando clamarmos."
+    }
+  ]
+}

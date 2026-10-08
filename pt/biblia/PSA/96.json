@@ -1,0 +1,62 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 96,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos81-100.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantai ao Senhor um cântico novo; cantai ao Senhor, toda a terra."
+    },
+    {
+      "verse": 2,
+      "text": "Cantai ao Senhor, bendizei o seu nome; anunciai a sua salvação de dia em dia."
+    },
+    {
+      "verse": 3,
+      "text": "Anunciai a sua glória entre as nações, as suas maravilhas entre todos os povos."
+    },
+    {
+      "verse": 4,
+      "text": "Porque o Senhor é grande e mui digno de louvor; ele deve ser temido sobre todos os deuses."
+    },
+    {
+      "verse": 5,
+      "text": "Porque todos os deuses das nações são ídolos; mas o Senhor fez os céus."
+    },
+    {
+      "verse": 6,
+      "text": "Honra e majestade estão diante dele; força e formosura estão no seu santuário."
+    },
+    {
+      "verse": 7,
+      "text": "Dai ao Senhor, ó famílias dos povos, dai ao Senhor glória e força."
+    },
+    {
+      "verse": 8,
+      "text": "Dai ao Senhor a glória devida ao seu nome; trazei uma oferta, e entrai nos seus átrios."
+    },
+    {
+      "verse": 9,
+      "text": "Adorai ao Senhor na beleza da santidade; temei diante dele, toda a terra."
+    },
+    {
+      "verse": 10,
+      "text": "Dizei entre as nações que o Senhor reina; o mundo também se firmará para que não se abale; ele julgará os povos com retidão."
+    },
+    {
+      "verse": 11,
+      "text": "Alegrem-se os céus, e regozije-se a terra; brame o mar e a sua plenitude."
+    },
+    {
+      "verse": 12,
+      "text": "Alegre-se o campo, e tudo o que nele há; então se regozijarão todas as árvores do bosque"
+    },
+    {
+      "verse": 13,
+      "text": "Diante do Senhor, porque ele vem, porque vem julgar a terra; ele julgará o mundo com justiça, e os povos com a sua verdade."
+    }
+  ]
+}

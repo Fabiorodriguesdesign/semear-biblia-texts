@@ -1,0 +1,194 @@
+{
+  "book_id": "DEU",
+  "book": "Deuteronômio",
+  "chapter": 1,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/deuteronomio/biblia_kjv_05deuteronomio1-17.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Estas são as palavras que Moisés falou a todo o Israel, além do Jordão, no deserto, na planície defronte do mar Vermelho, entre Parã, Tofel, Labã, Hazerote e Di-Zahab."
+    },
+    {
+      "verse": 2,
+      "text": "(Há onze dias de jornada desde Horebe, pelo caminho do monte Seir, até Cades-Barneia.)"
+    },
+    {
+      "verse": 3,
+      "text": "E aconteceu que, no ano quadragésimo, no mês undécimo, no primeiro dia do mês, Moisés falou aos filhos de Israel, conforme tudo o que o SENHOR lhe havia ordenado acerca deles;"
+    },
+    {
+      "verse": 4,
+      "text": "Depois que feriu a Siom, rei dos amorreus, que habitava em Hesbom, e a Ogue, rei de Basã, que habitava em Astarote e em Edrei:"
+    },
+    {
+      "verse": 5,
+      "text": "Além do Jordão, na terra de Moabe, Moisés começou a declarar esta lei, dizendo:"
+    },
+    {
+      "verse": 6,
+      "text": "O SENHOR, nosso Deus, nos falou em Horebe, dizendo: Já por muito tempo haveis habitado neste monte."
+    },
+    {
+      "verse": 7,
+      "text": "Voltai-vos, e parti, e ide ao monte dos amorreus, e a todos os lugares vizinhos, na planície, nas montanhas, e nos vales, e para o sul, e à beira do mar, à terra dos cananeus, e ao Líbano, até o grande rio, o rio Eufrates."
+    },
+    {
+      "verse": 8,
+      "text": "Eis que tenho posto esta terra diante de vós; entrai e possuí a terra que o SENHOR jurou a vossos pais, Abraão, Isaque e Jacó, que a daria a eles e à sua descendência depois deles."
+    },
+    {
+      "verse": 9,
+      "text": "E naquele tempo eu vos falei, dizendo: Eu sozinho não posso levar-vos."
+    },
+    {
+      "verse": 10,
+      "text": "O SENHOR, vosso Deus, vos multiplicou, e eis que hoje sois como as estrelas do céu em multidão."
+    },
+    {
+      "verse": 11,
+      "text": "(O SENHOR, Deus de vossos pais, vos faça mil vezes mais numerosos do que sois, e vos abençoe, como vos prometeu!)"
+    },
+    {
+      "verse": 12,
+      "text": "Como poderei eu sozinho levar o vosso peso, e a vossa carga, e a vossa contenda?"
+    },
+    {
+      "verse": 13,
+      "text": "Tomai para vós homens sábios, e entendidos, e conhecidos entre as vossas tribos, e eu os porei por vossos chefes."
+    },
+    {
+      "verse": 14,
+      "text": "Então me respondestes, e dissestes: Bom é o que disseste que se faça."
+    },
+    {
+      "verse": 15,
+      "text": "Assim tomei os chefes de vossas tribos, homens sábios e conhecidos, e os constituí chefes sobre vós, capitães de milhares, e capitães de centenas, e capitães de cinquenta, e capitães de dez, e oficiais entre as vossas tribos."
+    },
+    {
+      "verse": 16,
+      "text": "E naquele tempo ordenei a vossos juízes, dizendo: Ouvi as causas entre vossos irmãos, e julgai com justiça entre o homem e seu irmão, e o estrangeiro que está com ele."
+    },
+    {
+      "verse": 17,
+      "text": "Não fareis acepção de pessoas no juízo; ouvireis tanto o pequeno como o grande; não temereis a face de homem algum, porque o juízo é de Deus; e a causa que vos for muito difícil, trazei-ma a mim, e eu a ouvirei."
+    },
+    {
+      "verse": 18,
+      "text": "E naquele tempo vos ordenei todas as coisas que devíeis fazer."
+    },
+    {
+      "verse": 19,
+      "text": "Então partimos de Horebe, e caminhamos por todo aquele grande e terrível deserto, que vistes pelo caminho do monte dos amorreus, como o SENHOR, nosso Deus, nos ordenara; e chegamos a Cades-Barneia."
+    },
+    {
+      "verse": 20,
+      "text": "E eu vos disse: Chegastes ao monte dos amorreus, que o SENHOR, nosso Deus, nos dá."
+    },
+    {
+      "verse": 21,
+      "text": "Eis que o SENHOR, teu Deus, pôs a terra diante de ti; sobe, possui-a, como o SENHOR, Deus de teus pais, te disse; não temas, nem te desanimes."
+    },
+    {
+      "verse": 22,
+      "text": "Então todos vós vos aproximastes de mim, e dissestes: Mandemos homens adiante de nós, para que nos espiem a terra, e nos tragam notícias do caminho pelo qual devemos subir, e das cidades a que devemos ir."
+    },
+    {
+      "verse": 23,
+      "text": "E o dito me agradou; e tomei doze homens de vós, um de cada tribo:"
+    },
+    {
+      "verse": 24,
+      "text": "E eles se viraram e subiram ao monte, e chegaram ao vale de Escol, e o espiaram."
+    },
+    {
+      "verse": 25,
+      "text": "E tomaram do fruto da terra nas suas mãos, e o trouxeram a nós, e nos trouxeram notícias, e disseram: Boa é a terra que o SENHOR, nosso Deus, nos dá."
+    },
+    {
+      "verse": 26,
+      "text": "Contudo, não quisestes subir, mas vos rebelastes contra o mandamento do SENHOR, vosso Deus:"
+    },
+    {
+      "verse": 27,
+      "text": "E murmurastes nas vossas tendas, e dissestes: Porquanto o SENHOR nos odiava, nos tirou da terra do Egito, para nos entregar nas mãos dos amorreus, para nos destruir."
+    },
+    {
+      "verse": 28,
+      "text": "Para onde subiremos? Nossos irmãos desanimaram o nosso coração, dizendo: O povo é maior e mais alto do que nós; as cidades são grandes e muradas até o céu; e além disso, vimos ali os filhos dos anaquins."
+    },
+    {
+      "verse": 29,
+      "text": "Então eu vos disse: Não vos atemorizeis, nem tenhais medo deles."
+    },
+    {
+      "verse": 30,
+      "text": "O SENHOR, vosso Deus, que vai adiante de vós, ele pelejará por vós, conforme tudo o que fez por vós no Egito diante dos vossos olhos;"
+    },
+    {
+      "verse": 31,
+      "text": "E no deserto, onde vistes como o SENHOR, teu Deus, te levou, como um homem leva seu filho, por todo o caminho que andastes, até que chegastes a este lugar."
+    },
+    {
+      "verse": 32,
+      "text": "Contudo, nesta coisa não crestes no SENHOR, vosso Deus,"
+    },
+    {
+      "verse": 33,
+      "text": "Que ia pelo caminho adiante de vós, para vos buscar lugar para acampar, em fogo de noite, para vos mostrar por que caminho devíeis ir, e em nuvem de dia."
+    },
+    {
+      "verse": 34,
+      "text": "E o SENHOR ouviu a voz das vossas palavras, e se irou, e jurou, dizendo:"
+    },
+    {
+      "verse": 35,
+      "text": "Certamente nenhum destes homens desta má geração verá esta boa terra, que jurei dar a vossos pais,"
+    },
+    {
+      "verse": 36,
+      "text": "Salvo Calebe, filho de Jefoné; ele a verá, e a ele darei a terra em que pisou, e a seus filhos, porque seguiu o SENHOR fielmente."
+    },
+    {
+      "verse": 37,
+      "text": "Também o SENHOR se irou contra mim por vossa causa, dizendo: Tu também não entrarás ali."
+    },
+    {
+      "verse": 38,
+      "text": "Mas Josué, filho de Num, que está diante de ti, ele entrará ali; encoraja-o, porque ele fará com que Israel a herde."
+    },
+    {
+      "verse": 39,
+      "text": "E vossos pequeninos, dos quais dissestes que seriam presa, e vossos filhos, que naquele dia não tinham conhecimento entre o bem e o mal, eles entrarão ali, e a eles a darei, e eles a possuirão."
+    },
+    {
+      "verse": 40,
+      "text": "Mas quanto a vós, voltai-vos, e parti para o deserto pelo caminho do mar Vermelho."
+    },
+    {
+      "verse": 41,
+      "text": "Então respondestes, e me dissestes: Pecamos contra o SENHOR, subiremos e pelejaremos, conforme tudo o que o SENHOR, nosso Deus, nos ordenou. E quando cada um de vós cingiu as suas armas de guerra, estivestes prontos para subir ao monte."
+    },
+    {
+      "verse": 42,
+      "text": "E o SENHOR me disse: Dize-lhes: Não subais, nem pelejeis; porque eu não estou entre vós; para que não sejais feridos diante dos vossos inimigos."
+    },
+    {
+      "verse": 43,
+      "text": "Assim vos falei; e não ouvistes, mas vos rebelastes contra o mandamento do SENHOR, e subistes presunçosamente ao monte."
+    },
+    {
+      "verse": 44,
+      "text": "Então os amorreus, que habitavam naquele monte, saíram contra vós, e vos perseguiram, como fazem as abelhas, e vos destruíram em Seir, até Horma."
+    },
+    {
+      "verse": 45,
+      "text": "E voltastes, e chorastes diante do SENHOR; mas o SENHOR não ouviu a vossa voz, nem vos deu ouvidos."
+    },
+    {
+      "verse": 46,
+      "text": "Assim permanecestes em Cades muitos dias, conforme os dias que ali permanecestes."
+    }
+  ]
+}

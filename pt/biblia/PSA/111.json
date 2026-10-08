@@ -1,0 +1,50 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 111,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos101-120.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Louvai ao Senhor. Louvarei ao Senhor de todo o meu coração, na assembleia dos justos e na congregação."
+    },
+    {
+      "verse": 2,
+      "text": "Grandes são as obras do Senhor, procuradas por todos os que nelas tomam prazer."
+    },
+    {
+      "verse": 3,
+      "text": "A sua obra tem glória e majestade, e a sua justiça permanece para sempre."
+    },
+    {
+      "verse": 4,
+      "text": "Ele fez memoráveis as suas maravilhas; compassivo e misericordioso é o Senhor."
+    },
+    {
+      "verse": 5,
+      "text": "Dá mantimento aos que o temem; lembra-se sempre do seu pacto."
+    },
+    {
+      "verse": 6,
+      "text": "Mostrou ao seu povo o poder das suas obras, dando-lhe a herança das nações."
+    },
+    {
+      "verse": 7,
+      "text": "As obras das suas mãos são verdade e justiça; fiéis são todos os seus preceitos;"
+    },
+    {
+      "verse": 8,
+      "text": "Permanecem firmes para todo o sempre; são feitos em verdade e retidão."
+    },
+    {
+      "verse": 9,
+      "text": "Redenção enviou ao seu povo; ordenou o seu convênio para sempre; santo e tremendo é o seu nome."
+    },
+    {
+      "verse": 10,
+      "text": "O temor do Senhor é o princípio da sabedoria; bom entendimento têm todos os que cumprem os seus mandamentos; o seu louvor subsiste para sempre."
+    }
+  ]
+}

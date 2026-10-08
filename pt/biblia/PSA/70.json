@@ -1,0 +1,30 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 70,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos61-80.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Apressa-te, ó Deus, em me livrar; apressa-te em me ajudar, ó SENHOR."
+    },
+    {
+      "verse": 2,
+      "text": "Sejam envergonhados e confundidos os que buscam a minha alma; sejam virados para trás e postos em confusão os que desejam o meu mal."
+    },
+    {
+      "verse": 3,
+      "text": "Sejam virados para trás por recompensa da sua vergonha os que dizem: Ah, ah."
+    },
+    {
+      "verse": 4,
+      "text": "Regozijem-se e alegrem-se em ti todos os que te buscam; e os que amam a tua salvação digam continuamente: Engrandecido seja Deus."
+    },
+    {
+      "verse": 5,
+      "text": "Mas eu sou pobre e necessitado; apressa-te para mim, ó Deus; tu és o meu auxílio e o meu libertador; ó SENHOR, não te demores."
+    }
+  ]
+}

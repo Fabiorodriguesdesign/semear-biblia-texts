@@ -1,0 +1,58 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 76,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos61-80.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Em Judá é Deus conhecido; o seu nome é grande em Israel."
+    },
+    {
+      "verse": 2,
+      "text": "Em Salém também está o seu tabernáculo, e a sua morada em Sião."
+    },
+    {
+      "verse": 3,
+      "text": "Ali quebrou ele as flechas do arco, o escudo, e a espada, e a batalha. Selá."
+    },
+    {
+      "verse": 4,
+      "text": "Tu és mais glorioso e excelente do que os montes de rapina."
+    },
+    {
+      "verse": 5,
+      "text": "Os robustos de coração foram despojados, dormiram o seu sono; e nenhum dos homens de força encontrou as suas mãos."
+    },
+    {
+      "verse": 6,
+      "text": "À tua repreensão, ó Deus de Jacó, tanto o carro como o cavalo caíram num sono profundo."
+    },
+    {
+      "verse": 7,
+      "text": "Tu, sim, tu, deves ser temido; e quem poderá subsistir à tua vista, uma vez que te ires?"
+    },
+    {
+      "verse": 8,
+      "text": "Fizeste ouvir o juízo desde os céus; a terra temeu, e aquietou-se,"
+    },
+    {
+      "verse": 9,
+      "text": "Quando Deus se levantou para julgar, para salvar todos os mansos da terra. Selá."
+    },
+    {
+      "verse": 10,
+      "text": "Certamente a ira do homem te louvará; o restante da ira tu o reprimirás."
+    },
+    {
+      "verse": 11,
+      "text": "Fazei votos, e pagai ao Senhor vosso Deus; todos os que estão ao redor dele tragam presentes àquele que deve ser temido."
+    },
+    {
+      "verse": 12,
+      "text": "Ele ceifará o espírito dos príncipes; ele é terrível para os reis da terra."
+    }
+  ]
+}

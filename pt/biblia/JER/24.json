@@ -1,0 +1,50 @@
+{
+  "book_id": "JER",
+  "book": "Jeremias",
+  "chapter": 24,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/jeremias/biblia_kjv_24jeremias16-30.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O SENHOR mostrou-me, e eis que dois cestos de figos foram postos diante do templo do SENHOR, depois que Nabucodonosor, rei de Babilônia, levou cativo Jeconias, filho de Jeoiaquim, rei de Judá, e os príncipes de Judá, e os carpinteiros e ferreiros de Jerusalém, e os trouxe para Babilônia."
+    },
+    {
+      "verse": 2,
+      "text": "Um cesto tinha figos muito bons, como os figos temporãos; mas o outro cesto tinha figos muito maus, que não se podiam comer, de tão maus que eram."
+    },
+    {
+      "verse": 3,
+      "text": "E disse-me o SENHOR: Que vês tu, Jeremias? E eu disse: Figos; os figos bons, muito bons; e os maus, muito maus, que não se podem comer, de tão maus que são."
+    },
+    {
+      "verse": 4,
+      "text": "Então veio a mim a palavra do SENHOR, dizendo:"
+    },
+    {
+      "verse": 5,
+      "text": "Assim diz o SENHOR, o Deus de Israel: Como a estes figos bons, assim conhecerei os cativos de Judá, os quais enviei deste lugar para a terra dos caldeus, para o seu bem."
+    },
+    {
+      "verse": 6,
+      "text": "Porei os meus olhos sobre eles para o bem, e os farei voltar a esta terra; e os edificarei, e não os destruirei; e os plantarei, e não os arrancarei."
+    },
+    {
+      "verse": 7,
+      "text": "E dar-lhes-ei um coração para que me conheçam, que eu sou o SENHOR; e eles serão o meu povo, e eu serei o seu Deus; porque se voltarão para mim de todo o seu coração."
+    },
+    {
+      "verse": 8,
+      "text": "E como os figos maus, que não se podem comer, de tão maus que são, certamente assim diz o SENHOR, entregarei Zedequias, rei de Judá, e os seus príncipes, e o restante de Jerusalém, que ficou nesta terra, e os que habitam na terra do Egito."
+    },
+    {
+      "verse": 9,
+      "text": "E os entregarei para serem um incômodo e um mal para todos os reinos da terra, um opróbrio e um provérbio, um escárnio e uma maldição em todos os lugares para onde eu os expulsar."
+    },
+    {
+      "verse": 10,
+      "text": "E enviarei entre eles a espada, a fome e a peste, até que sejam consumidos da terra que dei a eles e a seus pais."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 114,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos101-120.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Quando Israel saiu do Egito, e a casa de Jacó de um povo de língua estranha,"
+    },
+    {
+      "verse": 2,
+      "text": "Judá foi seu santuário, e Israel seu domínio."
+    },
+    {
+      "verse": 3,
+      "text": "O mar viu isto, e fugiu; o Jordão voltou para trás."
+    },
+    {
+      "verse": 4,
+      "text": "os montes saltaram como carneiros, as colinas, como cordeiros."
+    },
+    {
+      "verse": 5,
+      "text": "Por que fugir, ó mar? E você, Jordão, por que retroceder?"
+    },
+    {
+      "verse": 6,
+      "text": "Por que vocês saltaram como carneiros, ó montes? E vocês, colinas, por que saltaram como cordeiros?"
+    },
+    {
+      "verse": 7,
+      "text": "Estremeça na presença do Soberano, ó terra, na presença do Deus de Jacó,"
+    },
+    {
+      "verse": 8,
+      "text": "que converteu a rocha num lago, a pederneira numa fonte de águas."
+    }
+  ]
+}

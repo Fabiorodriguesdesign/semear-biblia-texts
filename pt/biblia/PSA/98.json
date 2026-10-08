@@ -1,0 +1,46 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 98,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos81-100.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantai ao SENHOR um cântico novo, porque ele fez maravilhas; a sua destra e o seu braço santo lhe alcançaram a vitória."
+    },
+    {
+      "verse": 2,
+      "text": "O SENHOR fez notória a sua salvação; a sua justiça manifestou abertamente aos olhos dos gentios."
+    },
+    {
+      "verse": 3,
+      "text": "Lembrou-se da sua misericórdia e da sua verdade para com a casa de Israel; todos os confins da terra viram a salvação do nosso Deus."
+    },
+    {
+      "verse": 4,
+      "text": "Celebrai com júbilo ao SENHOR, toda a terra; fazei um barulho alto, e regozijai-vos, e cantai louvores."
+    },
+    {
+      "verse": 5,
+      "text": "Cantai ao SENHOR com harpa; com a harpa e a voz de um salmo."
+    },
+    {
+      "verse": 6,
+      "text": "Com trombetas e som de corneta, fazei um barulho alegre diante do SENHOR, o Rei."
+    },
+    {
+      "verse": 7,
+      "text": "Ruja o mar e a sua plenitude; o mundo e os que nele habitam."
+    },
+    {
+      "verse": 8,
+      "text": "Batam palmas os rios; regozijem-se juntamente os montes"
+    },
+    {
+      "verse": 9,
+      "text": "Diante do SENHOR; porque ele vem para julgar a terra; com justiça julgará o mundo, e os povos com equidade."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "book_id": "ISA",
+  "book": "Isaías",
+  "chapter": 20,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/isaias/biblia_kjv_23isaias1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "No ano em que Tartã veio a Asdode, (quando Sargão, rei da Assíria, o enviou,) e pelejou contra Asdode, e a tomou;"
+    },
+    {
+      "verse": 2,
+      "text": "Naquele mesmo tempo falou o SENHOR por meio de Isaías, filho de Amós, dizendo: Vai, e solta o saco dos teus lombos, e tira o sapato do teu pé. E ele assim o fez, andando nu e descalço."
+    },
+    {
+      "verse": 3,
+      "text": "E disse o SENHOR: Assim como o meu servo Isaías andou nu e descalço três anos, por sinal e prodígio sobre o Egito e sobre a Etiópia;"
+    },
+    {
+      "verse": 4,
+      "text": "Assim o rei da Assíria levará os egípcios presos, e os etíopes cativos, moços e velhos, nus e descalços, e com as nádegas descobertas, para vergonha do Egito."
+    },
+    {
+      "verse": 5,
+      "text": "E eles se assombrarão e se envergonharão da Etiópia, sua esperança, e do Egito, sua glória."
+    },
+    {
+      "verse": 6,
+      "text": "E o morador desta ilha dirá naquele dia: Eis que tal é a nossa esperança, para onde fugimos por socorro, para nos livrarmos do rei da Assíria; e como escaparemos nós?"
+    }
+  ]
+}

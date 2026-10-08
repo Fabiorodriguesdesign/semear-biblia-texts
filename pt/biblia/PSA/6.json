@@ -1,0 +1,50 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 6,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ó Senhor, não me repreendas na tua ira, nem me castigues no teu furor."
+    },
+    {
+      "verse": 2,
+      "text": "Tem misericórdia de mim, Senhor, porque sou fraco; sara-me, Senhor, porque os meus ossos estão perturbados."
+    },
+    {
+      "verse": 3,
+      "text": "A minha alma também está muito perturbada; mas tu, Senhor, até quando?"
+    },
+    {
+      "verse": 4,
+      "text": "Volta-te, Senhor, livra a minha alma; salva-me por tua misericórdia."
+    },
+    {
+      "verse": 5,
+      "text": "Porque na morte não há lembrança de ti; no sepulcro quem te louvará?"
+    },
+    {
+      "verse": 6,
+      "text": "Já estou cansado do meu gemido, toda a noite faço nadar a minha cama; molho o meu leito com as minhas lágrimas."
+    },
+    {
+      "verse": 7,
+      "text": "O meu olho se consome de mágoa, e envelhece por causa de todos os meus inimigos."
+    },
+    {
+      "verse": 8,
+      "text": "Apartai-vos de mim todos os que praticais a iniquidade; porque o Senhor já ouviu a voz do meu pranto."
+    },
+    {
+      "verse": 9,
+      "text": "O Senhor já ouviu a minha súplica; o Senhor aceitará a minha oração."
+    },
+    {
+      "verse": 10,
+      "text": "Envergonhem-se e perturbem-se todos os meus inimigos; tornem atrás e envergonhem-se subitamente."
+    }
+  ]
+}

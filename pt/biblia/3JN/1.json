@@ -1,0 +1,66 @@
+{
+  "book_id": "3JN",
+  "book": "3 João",
+  "chapter": 1,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Novo_testamento/3joao/biblia_kjv_64_3joao.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O presbítero ao amado Gaio, a quem em verdade eu amo."
+    },
+    {
+      "verse": 2,
+      "text": "Amado, desejo que te vá bem em todas as coisas, e que tenhas saúde, assim como bem vai a tua alma."
+    },
+    {
+      "verse": 3,
+      "text": "Porque muito me alegrei quando os irmãos vieram, e testificaram da tua verdade, como tu andas na verdade."
+    },
+    {
+      "verse": 4,
+      "text": "Não tenho maior gozo do que este, o de ouvir que os meus filhos andam na verdade."
+    },
+    {
+      "verse": 5,
+      "text": "Amado, procedes fielmente em tudo o que fazes para com os irmãos e para com os estrangeiros,"
+    },
+    {
+      "verse": 6,
+      "text": "que em presença da igreja testificaram do teu amor; aos quais, se conduzires como é digno de Deus, bem farás;"
+    },
+    {
+      "verse": 7,
+      "text": "porque pelo seu Nome saíram, nada tomando dos gentios."
+    },
+    {
+      "verse": 8,
+      "text": "Portanto, aos tais devemos receber, para que sejamos cooperadores da verdade."
+    },
+    {
+      "verse": 9,
+      "text": "Tenho escrito à igreja; mas Diótrefes, que procura ter entre eles o primado, não nos recebe."
+    },
+    {
+      "verse": 10,
+      "text": "Pelo que, se eu for, trarei à memória as obras que ele faz, proferindo contra nós palavras maliciosas; e, não contente com isto, não recebe os irmãos, e impede os que querem recebê-los, e os lança fora da igreja."
+    },
+    {
+      "verse": 11,
+      "text": "Amado, não sigas o mal, mas o bem. Quem faz o bem é de Deus; mas quem faz o mal não tem visto a Deus."
+    },
+    {
+      "verse": 12,
+      "text": "Todos dão testemunho de Demétrio, até a mesma verdade; e também nós testemunhamos; e vós sabeis que o nosso testemunho é verdadeiro."
+    },
+    {
+      "verse": 13,
+      "text": "Muitas coisas tinha para te escrever, mas não quero escrevê-las com tinta e pena."
+    },
+    {
+      "verse": 14,
+      "text": "Espero, porém, ver-te brevemente, e falaremos de boca a boca. Paz seja contigo. Os amigos te saúdam. Saúda os amigos por nome."
+    }
+  ]
+}

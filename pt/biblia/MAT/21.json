@@ -1,0 +1,194 @@
+{
+  "book_id": "MAT",
+  "book": "Mateus",
+  "chapter": 21,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Novo_testamento/mateus/biblia_kjv_40mateus16-28.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E, quando se aproximaram de Jerusalém, e chegaram a Betfagé, ao Monte das Oliveiras, enviou então Jesus dois discípulos,"
+    },
+    {
+      "verse": 2,
+      "text": "Dizendo-lhes: Ide à aldeia que está defronte de vós, e logo encontrareis uma jumenta amarrada, e um jumentinho com ela; desprendei-a, e trazei-mos."
+    },
+    {
+      "verse": 3,
+      "text": "E, se alguém vos disser alguma coisa, direis: O Senhor precisa deles; e logo os enviará."
+    },
+    {
+      "verse": 4,
+      "text": "Ora, tudo isso aconteceu para que se cumprisse o que foi dito pelo profeta, que diz:"
+    },
+    {
+      "verse": 5,
+      "text": "Dizei à filha de Sião: Eis que o teu Rei aí te vem, manso, e assentado sobre uma jumenta, e sobre um jumentinho, filho de animal de carga."
+    },
+    {
+      "verse": 6,
+      "text": "E, indo os discípulos, e fazendo como Jesus lhes ordenara,"
+    },
+    {
+      "verse": 7,
+      "text": "Trouxeram a jumenta e o jumentinho, e sobre eles puseram as suas vestes, e fizeram-no assentar em cima."
+    },
+    {
+      "verse": 8,
+      "text": "E uma grande multidão estendia as suas vestes pelo caminho, e outros cortavam ramos de árvores, e os espalhavam pelo caminho."
+    },
+    {
+      "verse": 9,
+      "text": "E as multidões que iam adiante, e as que seguiam, clamavam, dizendo: Hosana ao Filho de Davi! Bendito o que vem em nome do Senhor! Hosana nas alturas!"
+    },
+    {
+      "verse": 10,
+      "text": "E, entrando ele em Jerusalém, toda a cidade se alvoroçou, dizendo: Quem é este?"
+    },
+    {
+      "verse": 11,
+      "text": "E a multidão dizia: Este é Jesus, o profeta de Nazaré da Galileia."
+    },
+    {
+      "verse": 12,
+      "text": "E entrou Jesus no templo de Deus, e expulsou todos os que vendiam e compravam no templo, e derribou as mesas dos cambistas e as cadeiras dos que vendiam pombas;"
+    },
+    {
+      "verse": 13,
+      "text": "E disse-lhes: Está escrito: A minha casa será chamada casa de oração; mas vós a tendes convertido em covil de ladrões."
+    },
+    {
+      "verse": 14,
+      "text": "E vieram a ele, no templo, cegos e coxos, e curou-os."
+    },
+    {
+      "verse": 15,
+      "text": "Vendo, então, os principais sacerdotes e os escribas as maravilhas que fazia, e os meninos clamando no templo: Hosana ao Filho de Davi! Indignaram-se,"
+    },
+    {
+      "verse": 16,
+      "text": "E disseram-lhe: Ouves o que estes dizem? E Jesus lhes disse: Sim; nunca lestes: Pela boca dos meninos e das criancinhas de peito aperfeiçoaste o louvor?"
+    },
+    {
+      "verse": 17,
+      "text": "E, deixando-os, saiu da cidade para Betânia, e ali pernoitou."
+    },
+    {
+      "verse": 18,
+      "text": "E, de manhã, voltando para a cidade, teve fome."
+    },
+    {
+      "verse": 19,
+      "text": "E, avistando uma figueira perto do caminho, dirigiu-se a ela, e não achou nela senão folhas. E disse-lhe: Nunca mais nasça fruto de ti! E a figueira secou imediatamente."
+    },
+    {
+      "verse": 20,
+      "text": "E os discípulos, vendo isso, maravilharam-se, dizendo: Como secou imediatamente a figueira?"
+    },
+    {
+      "verse": 21,
+      "text": "Jesus, porém, respondendo, disse-lhes: Em verdade vos digo que, se tiverdes fé e não duvidardes, não só fareis o que foi feito à figueira, mas até, se disserdes a este monte: Ergue-te e lança-te no mar, tudo será feito."
+    },
+    {
+      "verse": 22,
+      "text": "E tudo o que pedirdes na oração, crendo, o recebereis."
+    },
+    {
+      "verse": 23,
+      "text": "E, chegando ao templo, acercaram-se dele os principais sacerdotes e os anciãos do povo, enquanto ele ensinava, dizendo: Com que autoridade fazes tu estas coisas? E quem te deu tal autoridade?"
+    },
+    {
+      "verse": 24,
+      "text": "E Jesus, respondendo, disse-lhes: Eu também vos perguntarei uma coisa; se ma disserdes, também eu vos direi com que autoridade faço estas coisas."
+    },
+    {
+      "verse": 25,
+      "text": "O batismo de João, de onde era? Do céu, ou dos homens? E eles arrazoavam entre si, dizendo: Se dissermos: Do céu, ele nos dirá: Então, por que não o crestes?"
+    },
+    {
+      "verse": 26,
+      "text": "E, se dissermos: Dos homens, tememos o povo; porque todos consideram João como profeta."
+    },
+    {
+      "verse": 27,
+      "text": "E, respondendo a Jesus, disseram: Não sabemos. Ele lhes disse: Nem eu vos digo com que autoridade faço estas coisas."
+    },
+    {
+      "verse": 28,
+      "text": "Mas que vos parece? Um homem tinha dois filhos, e, dirigindo-se ao primeiro, disse: Filho, vai trabalhar hoje na minha vinha."
+    },
+    {
+      "verse": 29,
+      "text": "Ele, respondendo, disse: Não quero. Mas depois, arrependendo-se, foi."
+    },
+    {
+      "verse": 30,
+      "text": "E, dirigindo-se ao segundo, falou-lhe de igual modo. E este, respondendo, disse: Sim, senhor; e não foi."
+    },
+    {
+      "verse": 31,
+      "text": "Qual dos dois fez a vontade do pai? Disseram-lhe eles: O primeiro. Disse-lhes Jesus: Em verdade vos digo que os publicanos e as meretrizes entram adiante de vós no reino de Deus."
+    },
+    {
+      "verse": 32,
+      "text": "Porque João veio a vós no caminho da justiça, e não o crestes; mas os publicanos e as meretrizes o creram; vós, porém, vendo isso, nem depois vos arrependestes para o crer."
+    },
+    {
+      "verse": 33,
+      "text": "Ouvi outra parábola: Havia um homem, pai de família, que plantou uma vinha, e cercou-a de um muro, e cavou nela um lagar, e edificou uma torre, e arrendou-a a uns lavradores, e ausentou-se para longe."
+    },
+    {
+      "verse": 34,
+      "text": "E, chegando o tempo dos frutos, mandou os seus servos aos lavradores, para receber os seus frutos."
+    },
+    {
+      "verse": 35,
+      "text": "E os lavradores, apoderando-se dos servos, feriram um, mataram outro, e apedrejaram outro."
+    },
+    {
+      "verse": 36,
+      "text": "Depois enviou outros servos, em maior número do que os primeiros; e fizeram-lhes o mesmo."
+    },
+    {
+      "verse": 37,
+      "text": "E, por último, enviou-lhes seu filho, dizendo: Terão respeito a meu filho."
+    },
+    {
+      "verse": 38,
+      "text": "Mas os lavradores, vendo o filho, disseram entre si: Este é o herdeiro; vinde, matemo-lo, e apoderemo-nos da sua herança."
+    },
+    {
+      "verse": 39,
+      "text": "E, lançando mão dele, o arrastaram para fora da vinha e o mataram."
+    },
+    {
+      "verse": 40,
+      "text": "Quando, pois, vier o senhor da vinha, que fará àqueles lavradores?"
+    },
+    {
+      "verse": 41,
+      "text": "Disseram-lhe eles: Dará má morte aos maus, e arrendará a sua vinha a outros lavradores, que a seu tempo lhe deem os frutos."
+    },
+    {
+      "verse": 42,
+      "text": "Disse-lhes Jesus: Nunca lestes nas Escrituras: A pedra que os edificadores rejeitaram, essa foi posta por cabeça de esquina; pelo Senhor foi feito isso, e é maravilhoso aos nossos olhos?"
+    },
+    {
+      "verse": 43,
+      "text": "Portanto, eu vos digo que o reino de Deus vos será tirado, e será dado a uma nação que dê os seus frutos."
+    },
+    {
+      "verse": 44,
+      "text": "E quem quer que cair sobre esta pedra, despedaçar-se-á; e aquele sobre quem ela cair, o moerá."
+    },
+    {
+      "verse": 45,
+      "text": "E os principais sacerdotes e os Fariseus, ouvindo as suas parábolas, entenderam que falava deles."
+    },
+    {
+      "verse": 46,
+      "text": "E, procurando prendê-lo, temeram a multidão, porquanto ela o tinha por profeta."
+    }
+  ]
+}

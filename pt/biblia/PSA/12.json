@@ -1,0 +1,42 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 12,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Socorro, Senhor; porque o homem piedoso cessa; porque os fiéis falham dentre os filhos dos homens."
+    },
+    {
+      "verse": 2,
+      "text": "Cada um fala com vaidade ao seu próximo; com lábios lisonjeiros e com coração dobre falam."
+    },
+    {
+      "verse": 3,
+      "text": "O Senhor cortará todos os lábios lisonjeiros, e a língua que fala coisas soberbas;"
+    },
+    {
+      "verse": 4,
+      "text": "Os que disseram: Com a nossa língua prevaleceremos; os nossos lábios são nossos; quem é senhor sobre nós?"
+    },
+    {
+      "verse": 5,
+      "text": "Pela opressão dos pobres, pelo gemido dos necessitados, agora me levantarei, diz o Senhor; porei em segurança aquele a quem eles desprezam."
+    },
+    {
+      "verse": 6,
+      "text": "As palavras do Senhor são palavras puras, como prata provada numa fornalha de barro, purificada sete vezes."
+    },
+    {
+      "verse": 7,
+      "text": "Tu os guardarás, ó Senhor, tu os preservarás desta geração para sempre."
+    },
+    {
+      "verse": 8,
+      "text": "Os ímpios andam por toda parte, quando os mais vis dos homens são exaltados."
+    }
+  ]
+}

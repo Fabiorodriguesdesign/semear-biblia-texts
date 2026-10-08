@@ -1,0 +1,22 @@
+{
+  "book_id": "EST",
+  "book": "Ester",
+  "chapter": 10,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/ester/biblia_kjv_17ester.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E o rei Assuero impôs um tributo sobre a terra e sobre as ilhas do mar."
+    },
+    {
+      "verse": 2,
+      "text": "E todos os atos do seu poder e da sua força, e a declaração da grandeza de Mardoqueu, a quem o rei engrandeceu, porventura não estão escritos no livro das crônicas dos reis da Média e da Pérsia?"
+    },
+    {
+      "verse": 3,
+      "text": "Porque Mardoqueu, o judeu, era o segundo depois do rei Assuero, e grande entre os judeus, e aceito pela multidão de seus irmãos, procurando o bem do seu povo, e falando paz a toda a sua descendência."
+    }
+  ]
+}

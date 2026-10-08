@@ -1,0 +1,42 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 82,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos81-100.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Deus está na congregação dos poderosos; ele julga entre os deuses."
+    },
+    {
+      "verse": 2,
+      "text": "Até quando julgareis injustamente e aceitareis as pessoas dos ímpios? Selá."
+    },
+    {
+      "verse": 3,
+      "text": "Defendei os pobres e os órfãos; fazei justiça aos aflitos e necessitados."
+    },
+    {
+      "verse": 4,
+      "text": "Livrai os pobres e necessitados; livrai-os da mão dos ímpios."
+    },
+    {
+      "verse": 5,
+      "text": "Eles não sabem, nem entendem; eles andam em trevas; todos os fundamentos da terra estão abalados."
+    },
+    {
+      "verse": 6,
+      "text": "Eu disse: Vós sois deuses; e todos vós sois filhos do Altíssimo."
+    },
+    {
+      "verse": 7,
+      "text": "Mas vós morrereis como homens, e caireis como um dos príncipes."
+    },
+    {
+      "verse": 8,
+      "text": "Levanta-te, ó Deus, julga a terra, pois tu herdarás todas as nações."
+    }
+  ]
+}

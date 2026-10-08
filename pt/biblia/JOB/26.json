@@ -1,0 +1,66 @@
+{
+  "book_id": "JOB",
+  "book": "Jó",
+  "chapter": 26,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/jo/biblia_kjv_18jo21-42.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Então Jó respondeu, e disse:"
+    },
+    {
+      "verse": 2,
+      "text": "Como tens ajudado ao que não tem força! Como tens sustentado o braço que não tem vigor!"
+    },
+    {
+      "verse": 3,
+      "text": "Como tens aconselhado ao que não tem sabedoria, e plenamente tens declarado a verdadeira sabedoria!"
+    },
+    {
+      "verse": 4,
+      "text": "A quem proferiste palavras? E de quem é o espírito que saiu de ti?"
+    },
+    {
+      "verse": 5,
+      "text": "Os mortos tremem debaixo das águas, com os seus habitantes."
+    },
+    {
+      "verse": 6,
+      "text": "O Seol está nu perante ele, e não há coberta para o Abadom."
+    },
+    {
+      "verse": 7,
+      "text": "Ele estende o norte sobre o vazio; suspende a terra sobre o nada."
+    },
+    {
+      "verse": 8,
+      "text": "Prende as águas nas suas densas nuvens, e a nuvem não se rasga debaixo delas."
+    },
+    {
+      "verse": 9,
+      "text": "Cobre a face do seu trono, e sobre ele estende a sua nuvem."
+    },
+    {
+      "verse": 10,
+      "text": "Marcou um círculo sobre a face das águas, nos confins da luz e das trevas."
+    },
+    {
+      "verse": 11,
+      "text": "As colunas do céu tremem, e se espantam da sua repreensão."
+    },
+    {
+      "verse": 12,
+      "text": "Com o seu poder acalma o mar, e com o seu entendimento o fere na sua soberba."
+    },
+    {
+      "verse": 13,
+      "text": "Pelo seu sopro ornou os céus; a sua mão formou a serpente veloz."
+    },
+    {
+      "verse": 14,
+      "text": "Eis que estas são apenas as orlas dos seus caminhos; e quão pequeno é o sussurro que dele ouvimos! Mas o trovão do seu poder, quem o poderá entender?"
+    }
+  ]
+}

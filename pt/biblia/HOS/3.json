@@ -1,0 +1,30 @@
+{
+  "book_id": "HOS",
+  "book": "Oséias",
+  "chapter": 3,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/oseias/biblia_kjv_28oseias.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Então o SENHOR me disse: Vai outra vez, ama uma mulher amada de seu amigo, contudo adúltera, segundo o amor do SENHOR para com os filhos de Israel, os quais olham para outros deuses, e amam bolos de passas."
+    },
+    {
+      "verse": 2,
+      "text": "Assim a comprei para mim por quinze [siclos] de prata, e por um homer de cevada, e meio homer de cevada:"
+    },
+    {
+      "verse": 3,
+      "text": "E lhe disse: Tu ficarás por mim muitos dias; não te prostituirás, e não serás de outro homem: assim também eu serei para ti."
+    },
+    {
+      "verse": 4,
+      "text": "Pois os filhos de Israel ficarão muitos dias sem rei, e sem príncipe, e sem sacrifício, e sem imagem, e sem éfode, e sem terafins:"
+    },
+    {
+      "verse": 5,
+      "text": "Depois, voltarão os filhos de Israel, e buscarão o SENHOR seu Deus, e a Davi, seu rei; e temerão ao SENHOR e à sua bondade nos últimos dias."
+    }
+  ]
+}

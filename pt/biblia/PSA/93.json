@@ -1,0 +1,30 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 93,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos81-100.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O Senhor reina, está vestido de majestade; o Senhor está vestido de força, com que se cingiu; o mundo também está firmado, e não pode ser abalado."
+    },
+    {
+      "verse": 2,
+      "text": "O teu trono está firme desde a antiguidade; tu és desde a eternidade."
+    },
+    {
+      "verse": 3,
+      "text": "As cheias levantaram, ó Senhor, as cheias levantaram a sua voz; as cheias levantam as suas ondas."
+    },
+    {
+      "verse": 4,
+      "text": "O Senhor nas alturas é mais poderoso do que o ruído de muitas águas, sim, do que as vagas poderosas do mar."
+    },
+    {
+      "verse": 5,
+      "text": "Os teus testemunhos são muito fiéis; a santidade convém à tua casa, ó Senhor, para sempre."
+    }
+  ]
+}

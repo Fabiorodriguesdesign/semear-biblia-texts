@@ -1,0 +1,46 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 47,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos41-60.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Batei palmas, todos os povos; aclamai a Deus com voz de triunfo."
+    },
+    {
+      "verse": 2,
+      "text": "Porque o Senhor Altíssimo é tremendo; ele é um grande Rei sobre toda a terra."
+    },
+    {
+      "verse": 3,
+      "text": "Ele subjugará os povos debaixo de nós, e as nações debaixo dos nossos pés."
+    },
+    {
+      "verse": 4,
+      "text": "Ele escolherá para nós a nossa herança, a excelência de Jacó, a quem amou. Selá."
+    },
+    {
+      "verse": 5,
+      "text": "Deus subiu com um brado, o Senhor com o som de uma trombeta."
+    },
+    {
+      "verse": 6,
+      "text": "Cantai louvores a Deus, cantai louvores; cantai louvores ao nosso Rei, cantai louvores."
+    },
+    {
+      "verse": 7,
+      "text": "Porque Deus é o Rei de toda a terra; cantai louvores com entendimento."
+    },
+    {
+      "verse": 8,
+      "text": "Deus reina sobre os gentios; Deus está assentado sobre o trono da sua santidade."
+    },
+    {
+      "verse": 9,
+      "text": "Os príncipes dos povos se reúnem, o povo do Deus de Abraão; porque os escudos da terra pertencem a Deus; ele é grandemente exaltado."
+    }
+  ]
+}

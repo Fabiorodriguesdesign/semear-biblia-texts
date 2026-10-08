@@ -1,0 +1,34 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 150,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos141-150.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Louvai ao Senhor. Louvai a Deus no seu santuário; louvai-o no firmamento do seu poder."
+    },
+    {
+      "verse": 2,
+      "text": "Louvai-o pelos seus atos poderosos; louvai-o conforme a excelência da sua grandeza."
+    },
+    {
+      "verse": 3,
+      "text": "Louvai-o ao som de trombeta; louvai-o com o saltério e a harpa."
+    },
+    {
+      "verse": 4,
+      "text": "Louvai-o com o adufe e a dança; louvai-o com instrumentos de cordas e com órgãos."
+    },
+    {
+      "verse": 5,
+      "text": "Louvai-o com os címbalos sonoros; louvai-o com os címbalos altissonantes."
+    },
+    {
+      "verse": 6,
+      "text": "Tudo quanto tem fôlego louve ao Senhor. Louvai ao Senhor."
+    }
+  ]
+}

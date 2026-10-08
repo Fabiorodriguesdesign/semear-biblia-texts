@@ -1,0 +1,34 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 128,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos121-140.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Bem-aventurado todo aquele que teme ao Senhor e anda nos seus caminhos."
+    },
+    {
+      "verse": 2,
+      "text": "Pois comerás do trabalho das tuas mãos; feliz serás, e te irá bem."
+    },
+    {
+      "verse": 3,
+      "text": "A tua mulher será como a videira frutífera, no interior da tua casa; os teus filhos como plantas de oliveira, ao redor da tua mesa."
+    },
+    {
+      "verse": 4,
+      "text": "Eis que assim será abençoado o homem que teme ao Senhor."
+    },
+    {
+      "verse": 5,
+      "text": "De Sião o Senhor te abençoará; verás a prosperidade de Jerusalém por todos os dias da tua vida."
+    },
+    {
+      "verse": 6,
+      "text": "e verás os filhos de teus filhos. A paz seja sobre Israel."
+    }
+  ]
+}

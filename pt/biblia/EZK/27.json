@@ -1,0 +1,154 @@
+{
+  "book_id": "EZK",
+  "book": "Ezequiel",
+  "chapter": 27,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/ezequiel/biblia_kjv_26ezequiel16-30.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A palavra do SENHOR veio de novo a mim, dizendo:"
+    },
+    {
+      "verse": 2,
+      "text": "Agora, tu, filho do homem, levanta uma lamentação sobre Tiro;"
+    },
+    {
+      "verse": 3,
+      "text": "E dize a Tiro, ó tu que habitas na entrada do mar, que és mercadora dos povos para muitas ilhas, Assim diz o Senhor DEUS: Ó Tiro, tu disseste: Eu sou de perfeita beleza."
+    },
+    {
+      "verse": 4,
+      "text": "Os teus limites estão no meio dos mares, os teus construtores aperfeiçoaram a tua beleza."
+    },
+    {
+      "verse": 5,
+      "text": "Fizeram todas as tuas tábuas de abeto de Senir; tomaram cedros do Líbano para te fazerem mastros."
+    },
+    {
+      "verse": 6,
+      "text": "Dos carvalhos de Basã fizeram os teus remos; a companhia dos Assuritas fez os teus bancos de marfim, trazido das ilhas de Quitins."
+    },
+    {
+      "verse": 7,
+      "text": "Linho fino com obra bordada do Egito era o que estendias para ser a tua vela; azul e púrpura das ilhas de Elisá era o que te cobria."
+    },
+    {
+      "verse": 8,
+      "text": "Os habitantes de Sidom e Arvade eram os teus remadores; os teus sábios, ó Tiro, que estavam em ti, eram os teus pilotos."
+    },
+    {
+      "verse": 9,
+      "text": "Os anciãos de Gebal e os seus sábios estavam em ti, os teus calafates; todos os navios do mar com os seus marinheiros estavam em ti para negociar a tua mercadoria."
+    },
+    {
+      "verse": 10,
+      "text": "Os da Pérsia e de Lude e de Pute estavam no teu exército, os teus homens de guerra; eles penduravam o escudo e o capacete em ti; eles expunham a tua formosura."
+    },
+    {
+      "verse": 11,
+      "text": "Os homens de Arvade com o teu exército estavam sobre os teus muros ao redor, e os Gamaditas nas tuas torres; eles penduravam os seus escudos sobre os teus muros ao redor; eles aperfeiçoaram a tua beleza."
+    },
+    {
+      "verse": 12,
+      "text": "Társis era o teu mercador por causa da multidão de toda a espécie de riquezas; com prata, ferro, estanho e chumbo, eles negociavam nas tuas feiras."
+    },
+    {
+      "verse": 13,
+      "text": "Javã, Tubal e Meseque, eles eram os teus mercadores; eles negociavam pessoas de homens e vasos de bronze no teu mercado."
+    },
+    {
+      "verse": 14,
+      "text": "Os da casa de Togarma negociavam nas tuas feiras com cavalos e cavaleiros e mulas."
+    },
+    {
+      "verse": 15,
+      "text": "Os homens de Dedã eram os teus mercadores; muitas ilhas eram a mercadoria da tua mão; eles te traziam por presente chifres de marfim e ébano."
+    },
+    {
+      "verse": 16,
+      "text": "Síria era o teu mercador por causa da multidão das tuas obras; eles negociavam nas tuas feiras com esmeraldas, púrpura, e obra bordada, e linho fino, e coral, e ágata."
+    },
+    {
+      "verse": 17,
+      "text": "Judá e a terra de Israel, eles eram os teus mercadores; eles negociavam no teu mercado trigo de Minite, e Panague, e mel, e azeite, e bálsamo."
+    },
+    {
+      "verse": 18,
+      "text": "Damasco era o teu mercador na multidão das tuas obras, pela multidão de todas as riquezas; no vinho de Helbom, e lã branca."
+    },
+    {
+      "verse": 19,
+      "text": "Dan também e Javã, indo e vindo, negociavam nas tuas feiras; ferro polido, cássia e cálamo, estavam no teu mercado."
+    },
+    {
+      "verse": 20,
+      "text": "Dedã era o teu mercador em roupas preciosas para carros."
+    },
+    {
+      "verse": 21,
+      "text": "Arábia, e todos os príncipes de Quedar, eles negociavam contigo em cordeiros, e carneiros, e bodes; nestes eram eles os teus mercadores."
+    },
+    {
+      "verse": 22,
+      "text": "Os mercadores de Sabá e Raamá, eles eram os teus mercadores; eles negociavam nas tuas feiras com o melhor de todas as especiarias, e com todas as pedras preciosas, e ouro."
+    },
+    {
+      "verse": 23,
+      "text": "Harã, e Cané, e Éden, os mercadores de Sabá, Assur, e Quilmade, eram os teus mercadores."
+    },
+    {
+      "verse": 24,
+      "text": "Estes eram os teus mercadores em toda a sorte de coisas, em roupas azuis, e obra bordada, e em cofres de vestes ricas, atados com cordas, e feitos de cedro, entre a tua mercadoria."
+    },
+    {
+      "verse": 25,
+      "text": "Os navios de Társis cantavam de ti no teu mercado; e tu foste reabastecida, e feita muito gloriosa no meio dos mares."
+    },
+    {
+      "verse": 26,
+      "text": "Os teus remadores te trouxeram a grandes águas; o vento oriental te quebrou no meio dos mares."
+    },
+    {
+      "verse": 27,
+      "text": "As tuas riquezas, e as tuas feiras, a tua mercadoria, os teus marinheiros, e os teus pilotos, os teus calafates, e os que negociavam a tua mercadoria, e todos os teus homens de guerra, que estão em ti, e em toda a tua companhia que está no meio de ti, cairão no meio dos mares no dia da tua ruína."
+    },
+    {
+      "verse": 28,
+      "text": "Os subúrbios tremerão ao som do grito dos teus pilotos."
+    },
+    {
+      "verse": 29,
+      "text": "E todos os que manejam o remo, os marinheiros, e todos os pilotos do mar, descerão dos seus navios, eles ficarão em terra;"
+    },
+    {
+      "verse": 30,
+      "text": "E farão ouvir a sua voz contra ti, e clamarão amargamente, e lançarão pó sobre as suas cabeças, eles se revolverão nas cinzas:"
+    },
+    {
+      "verse": 31,
+      "text": "E farão-se completamente calvos por ti, e cingir-se-ão de saco, e chorarão por ti com amargura de coração e amargo lamento."
+    },
+    {
+      "verse": 32,
+      "text": "E no seu lamento levantarão uma lamentação por ti, e lamentarão sobre ti, dizendo: Que cidade é como Tiro, como a destruída no meio do mar?"
+    },
+    {
+      "verse": 33,
+      "text": "Quando as tuas mercadorias saíam dos mares, tu enchias muitos povos; tu enriquecias os reis da terra com a multidão das tuas riquezas e da tua mercadoria."
+    },
+    {
+      "verse": 34,
+      "text": "No tempo em que fores quebrada pelos mares nas profundezas das águas, a tua mercadoria e toda a tua companhia no meio de ti cairão."
+    },
+    {
+      "verse": 35,
+      "text": "Todos os habitantes das ilhas ficarão espantados contigo, e os seus reis ficarão muito amedrontados, eles ficarão perturbados no seu semblante."
+    },
+    {
+      "verse": 36,
+      "text": "Os mercadores entre os povos assobiarão contra ti; tu serás um terror, e nunca mais serás."
+    }
+  ]
+}

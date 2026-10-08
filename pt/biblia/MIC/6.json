@@ -1,0 +1,74 @@
+{
+  "book_id": "MIC",
+  "book": "Miquéias",
+  "chapter": 6,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/miqueias/biblia_kjv_33miqueias.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ouvi agora o que diz o SENHOR: Levanta-te, contende diante dos montes, e ouçam as colinas a tua voz."
+    },
+    {
+      "verse": 2,
+      "text": "Ouvi, ó montes, a controvérsia do SENHOR, e vós, fortes fundamentos da terra; porque o SENHOR tem uma controvérsia com o seu povo, e pleiteará com Israel."
+    },
+    {
+      "verse": 3,
+      "text": "Ó meu povo, que te tenho feito? e em que te tenho cansado? testifica contra mim."
+    },
+    {
+      "verse": 4,
+      "text": "Porque te tirei da terra do Egito, e te remi da casa da servidão; e enviei diante de ti Moisés, Arão e Miriã."
+    },
+    {
+      "verse": 5,
+      "text": "Ó meu povo, lembra-te agora do que consultou Balaque, rei de Moabe, e do que lhe respondeu Balaão, filho de Beor, desde Sitim até Gilgal; para que conheçais a justiça do SENHOR."
+    },
+    {
+      "verse": 6,
+      "text": "Com que me apresentarei diante do SENHOR, e me inclinarei diante do Deus altíssimo? virei diante dele com holocaustos, com bezerros de um ano?"
+    },
+    {
+      "verse": 7,
+      "text": "Agradar-se-á o SENHOR de milhares de carneiros, ou de dez milhares de rios de azeite? darei o meu primogênito pela minha transgressão, o fruto do meu corpo pelo pecado da minha alma?"
+    },
+    {
+      "verse": 8,
+      "text": "Ele te mostrou, ó homem, o que é bom; e o que o SENHOR requer de ti, senão que pratiques a justiça, e ames a misericórdia, e andes humildemente com o teu Deus?"
+    },
+    {
+      "verse": 9,
+      "text": "A voz do SENHOR clama à cidade, e o homem de sabedoria verá o teu nome; ouvi a vara, e quem a designou."
+    },
+    {
+      "verse": 10,
+      "text": "Ainda há tesouros de impiedade na casa do ímpio, e a medida escassa que é abominável?"
+    },
+    {
+      "verse": 11,
+      "text": "Considerá-los-ei puros com balanças ímpias e com a bolsa de pesos enganosos?"
+    },
+    {
+      "verse": 12,
+      "text": "Porque os seus ricos estão cheios de violência, e os seus habitantes têm falado mentiras, e a sua língua é enganosa na sua boca."
+    },
+    {
+      "verse": 13,
+      "text": "Portanto, também te farei adoecer, ferindo-te, desolando-te por causa dos teus pecados."
+    },
+    {
+      "verse": 14,
+      "text": "Tu comerás, mas não te fartarás; e a tua humilhação estará no meio de ti; e pegarás, mas não livrarás; e o que livrares, entregarei à espada."
+    },
+    {
+      "verse": 15,
+      "text": "Tu semearás, mas não segarás; pisarás as azeitonas, mas não te ungirás com azeite; e o vinho doce, mas não beberás vinho."
+    },
+    {
+      "verse": 16,
+      "text": "Porque os estatutos de Onri são guardados, e todas as obras da casa de Acabe, e andais nos seus conselhos; para que eu te faça uma desolação, e os seus habitantes um assobio; portanto, levareis o opróbrio do meu povo."
+    }
+  ]
+}

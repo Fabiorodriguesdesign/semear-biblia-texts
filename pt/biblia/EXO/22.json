@@ -1,0 +1,134 @@
+{
+  "book_id": "EXO",
+  "book": "Êxodo",
+  "chapter": 22,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/exodo/biblia_kjv_02exodo21-40.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Se um homem roubar um boi, ou uma ovelha, e o matar, ou o vender, restituirá cinco bois por um boi, e quatro ovelhas por uma ovelha."
+    },
+    {
+      "verse": 2,
+      "text": "Se o ladrão for achado arrombando, e for ferido de modo que morra, não haverá culpa de sangue por ele."
+    },
+    {
+      "verse": 3,
+      "text": "Se o sol já houver nascido sobre ele, haverá culpa de sangue por ele; pois deveria fazer restituição total; se não tiver nada, então será vendido pelo seu roubo."
+    },
+    {
+      "verse": 4,
+      "text": "Se o furto for certamente achado em sua mão vivo, seja boi, ou jumento, ou ovelha, restituirá o dobro."
+    },
+    {
+      "verse": 5,
+      "text": "Se um homem fizer com que um campo ou vinha seja pastado, e soltar o seu animal, e este pastar no campo de outro homem, do melhor do seu próprio campo, e do melhor da sua própria vinha, fará restituição."
+    },
+    {
+      "verse": 6,
+      "text": "Se o fogo se espalhar, e pegar em espinhos, de modo que os montões de trigo, ou o trigo em pé, ou o campo, sejam consumidos, aquele que acendeu o fogo certamente fará restituição."
+    },
+    {
+      "verse": 7,
+      "text": "Se um homem entregar ao seu próximo dinheiro ou bens para guardar, e isso for roubado da casa do homem, se o ladrão for achado, pagará o dobro."
+    },
+    {
+      "verse": 8,
+      "text": "Se o ladrão não for achado, então o dono da casa será levado aos juízes, para ver se não pôs a mão nos bens do seu próximo."
+    },
+    {
+      "verse": 9,
+      "text": "Por toda sorte de transgressão, seja por boi, por jumento, por ovelha, por vestuário, ou por qualquer coisa perdida, que outro alegue ser sua, a causa de ambas as partes virá perante os juízes; e a quem os juízes condenarem, pagará o dobro ao seu próximo."
+    },
+    {
+      "verse": 10,
+      "text": "Se um homem entregar ao seu próximo um jumento, ou um boi, ou uma ovelha, ou qualquer animal, para guardar; e ele morrer, ou for ferido, ou levado, ninguém o vendo:"
+    },
+    {
+      "verse": 11,
+      "text": "Então o juramento do SENHOR estará entre ambos, de que não pôs a mão nos bens do seu próximo; e o dono o aceitará, e ele não o indenizará."
+    },
+    {
+      "verse": 12,
+      "text": "Mas se lhe for roubado, fará restituição ao seu dono."
+    },
+    {
+      "verse": 13,
+      "text": "Se for despedaçado, então o trará por testemunha, e não indenizará o que foi despedaçado."
+    },
+    {
+      "verse": 14,
+      "text": "E se um homem pedir emprestado algo ao seu próximo, e isso for ferido, ou morrer, não estando o seu dono com ele, certamente o indenizará."
+    },
+    {
+      "verse": 15,
+      "text": "Mas se o seu dono estiver com ele, não o indenizará; se era alugado, veio pelo seu aluguel."
+    },
+    {
+      "verse": 16,
+      "text": "E se um homem seduzir uma virgem que não está desposada, e se deitar com ela, certamente a dotará para ser sua mulher."
+    },
+    {
+      "verse": 17,
+      "text": "Se o pai dela se recusar totalmente a dá-la a ele, pagará dinheiro conforme o dote das virgens."
+    },
+    {
+      "verse": 18,
+      "text": "Não permitirás que uma feiticeira viva."
+    },
+    {
+      "verse": 19,
+      "text": "Todo aquele que se deitar com um animal, certamente será morto."
+    },
+    {
+      "verse": 20,
+      "text": "Aquele que sacrificar a qualquer deus, exceto somente ao SENHOR, será totalmente destruído."
+    },
+    {
+      "verse": 21,
+      "text": "Não afligirás o estrangeiro, nem o oprimirás; porque fostes estrangeiros na terra do Egito."
+    },
+    {
+      "verse": 22,
+      "text": "Não afligireis nenhuma viúva, nem órfão."
+    },
+    {
+      "verse": 23,
+      "text": "Se de alguma forma os afligirdes, e eles clamarem a mim, certamente ouvirei o seu clamor;"
+    },
+    {
+      "verse": 24,
+      "text": "E a minha ira se acenderá, e vos matarei à espada; e vossas mulheres serão viúvas, e vossos filhos órfãos."
+    },
+    {
+      "verse": 25,
+      "text": "Se emprestares dinheiro a algum do meu povo que é pobre contigo, não serás para ele como usurário, nem lhe imporás usura."
+    },
+    {
+      "verse": 26,
+      "text": "Se de alguma forma tomares a vestimenta do teu próximo em penhor, lha restituirás antes que o sol se ponha:"
+    },
+    {
+      "verse": 27,
+      "text": "Porque essa é a sua única cobertura, é a sua vestimenta para a sua pele; em que dormirá? E acontecerá que, quando ele clamar a mim, eu o ouvirei; porque sou misericordioso."
+    },
+    {
+      "verse": 28,
+      "text": "Não amaldiçoarás os deuses, nem amaldiçoarás o governante do teu povo."
+    },
+    {
+      "verse": 29,
+      "text": "Não demorarás a oferecer as primícias dos teus frutos maduros, e dos teus licores; o primogênito dos teus filhos me darás."
+    },
+    {
+      "verse": 30,
+      "text": "Assim farás com os teus bois, e com as tuas ovelhas; sete dias estará com sua mãe; ao oitavo dia mo darás."
+    },
+    {
+      "verse": 31,
+      "text": "E sereis homens santos para mim; nem comereis carne que foi despedaçada por animais no campo; lançá-la-eis aos cães."
+    }
+  ]
+}

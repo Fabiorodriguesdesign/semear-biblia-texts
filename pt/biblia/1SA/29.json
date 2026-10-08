@@ -1,0 +1,54 @@
+{
+  "book_id": "1SA",
+  "book": "1 Samuel",
+  "chapter": 29,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/1samuel/biblia_kjv_09_1samuel21-31.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E os filisteus ajuntaram todos os seus exércitos em Afeque; e Israel acampou junto à fonte que está em Jezreel."
+    },
+    {
+      "verse": 2,
+      "text": "E os príncipes dos filisteus iam passando em centenas e em milhares; porém Davi e os seus homens iam na retaguarda com Aquis."
+    },
+    {
+      "verse": 3,
+      "text": "Então disseram os príncipes dos filisteus: Que fazem aqui estes hebreus? E disse Aquis aos príncipes dos filisteus: Não é este Davi, o servo de Saul, rei de Israel, que esteve comigo há dias e anos, e nenhuma culpa achei nele desde o dia em que se revoltou até hoje?"
+    },
+    {
+      "verse": 4,
+      "text": "Porém os príncipes dos filisteus muito se indignaram contra ele; e os príncipes dos filisteus lhe disseram: Faze voltar este homem, para que torne ao seu lugar que lhe designaste, e não desça conosco à batalha, para que no combate não se torne nosso adversário; pois com que se reconciliaria com seu senhor? Porventura não seria com as cabeças destes homens?"
+    },
+    {
+      "verse": 5,
+      "text": "Não é este Davi, de quem cantavam nas danças, dizendo: Saul feriu os seus milhares, e Davi os seus dez milhares?"
+    },
+    {
+      "verse": 6,
+      "text": "Então Aquis chamou a Davi, e disse-lhe: Vive o SENHOR, que tu és reto, e a tua saída e a tua entrada comigo no arraial me agrada; porque nenhuma maldade achei em ti desde o dia em que vieste a mim até ao dia de hoje; porém aos príncipes não agradas."
+    },
+    {
+      "verse": 7,
+      "text": "Agora, pois, volta, e vai em paz, para que não desagrades aos príncipes dos filisteus."
+    },
+    {
+      "verse": 8,
+      "text": "Então disse Davi a Aquis: Porém que fiz eu? E que achaste no teu servo, desde o dia em que estive diante de ti até ao dia de hoje, para que eu não vá e peleje contra os inimigos do rei, meu senhor?"
+    },
+    {
+      "verse": 9,
+      "text": "Então Aquis respondeu, e disse a Davi: Bem sei que tu és bom aos meus olhos, como um anjo de Deus; porém os príncipes dos filisteus disseram: Não subirá este conosco à batalha."
+    },
+    {
+      "verse": 10,
+      "text": "Agora, pois, levanta-te pela manhã cedo, com os servos de teu senhor que vieram contigo, e ide-vos, assim que tiverdes luz."
+    },
+    {
+      "verse": 11,
+      "text": "Então Davi e os seus homens se levantaram cedo, para partir pela manhã, e voltaram para a terra dos filisteus; e os filisteus subiram a Jezreel."
+    }
+  ]
+}

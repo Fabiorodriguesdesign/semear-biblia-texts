@@ -1,0 +1,59 @@
+{
+  "book_id": "ADE",
+  "book": "Adições a Ester",
+  "chapter": 1,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "adicao",
+  "source_file": "apocryphal_books/kjv_pt/AdditionsToEsther/1.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "No quarto ano do reinado de Ptolomeu e Cleópatra, Dositeu, que dizia ser sacerdote e levita, e Ptolomeu, seu filho, trouxeram esta carta dos Purim, a qual disseram ser a mesma, e que Lisímaco, filho de Ptolomeu, que estava em Jerusalém, a tinha interpretado."
+    },
+    {
+      "verse": 2,
+      "text": "No segundo ano do reinado de Artaxerxes, o grande, no primeiro dia do mês de Nisã, Mardoqueu, filho de Jair, filho de Simei, filho de Quis, da tribo de Benjamim, teve um sonho;"
+    },
+    {
+      "verse": 3,
+      "text": "O qual era judeu, e habitava na cidade de Susã, um grande homem, sendo servidor na corte do rei."
+    },
+    {
+      "verse": 4,
+      "text": "Ele era também um dos cativos que Nabucodonosor, rei de Babilônia, levou de Jerusalém com Jeconias, rei da Judeia; e este foi o seu sonho:"
+    },
+    {
+      "verse": 5,
+      "text": "Eis um ruído de tumulto, com trovões, e terremotos, e alvoroço na terra:"
+    },
+    {
+      "verse": 6,
+      "text": "E eis que dois grandes dragões saíram prontos para lutar, e o seu grito foi grande."
+    },
+    {
+      "verse": 7,
+      "text": "E ao seu grito todas as nações se prepararam para a batalha, para que pudessem lutar contra o povo justo."
+    },
+    {
+      "verse": 8,
+      "text": "E eis um dia de trevas e obscuridade, tribulação e angústia, aflição e grande alvoroço, sobre a terra."
+    },
+    {
+      "verse": 9,
+      "text": "E toda a nação justa foi perturbada, temendo os seus próprios males, e estavam prontos para perecer."
+    },
+    {
+      "verse": 10,
+      "text": "Então clamaram a Deus, e ao seu clamor, como que de uma pequena fonte, fez-se um grande dilúvio, sim, muita água."
+    },
+    {
+      "verse": 11,
+      "text": "A luz e o sol nasceram, e os humildes foram exaltados, e devoraram os gloriosos."
+    },
+    {
+      "verse": 12,
+      "text": "Ora, quando Mardoqueu, que tinha visto este sonho, e o que Deus tinha determinado fazer, acordou, guardou este sonho na mente, e até à noite de todas as maneiras desejava conhecê-lo."
+    }
+  ]
+}

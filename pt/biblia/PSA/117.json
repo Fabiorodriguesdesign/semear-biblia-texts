@@ -1,0 +1,18 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 117,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos101-120.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Louvai ao Senhor, todas as nações; louvai-o, todos os povos."
+    },
+    {
+      "verse": 2,
+      "text": "Porque a sua benignidade é grande para conosco, e a verdade do Senhor é para sempre. Louvai ao Senhor."
+    }
+  ]
+}

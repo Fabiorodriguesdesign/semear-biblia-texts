@@ -1,0 +1,46 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 137,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos121-140.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Junto aos rios de Babilônia, ali nos assentamos e choramos, quando nos lembramos de Sião."
+    },
+    {
+      "verse": 2,
+      "text": "Nos salgueiros que há no meio dela, penduramos as nossas harpas."
+    },
+    {
+      "verse": 3,
+      "text": "Pois ali aqueles que nos levaram cativos nos pediam uma canção; e os que nos assolavam nos pediam alegria, dizendo: Cantai-nos uma das canções de Sião."
+    },
+    {
+      "verse": 4,
+      "text": "Como cantaremos a canção do SENHOR em terra estranha?"
+    },
+    {
+      "verse": 5,
+      "text": "Se eu me esquecer de ti, ó Jerusalém, esqueça-se a minha destra da sua destreza."
+    },
+    {
+      "verse": 6,
+      "text": "Apegue-se-me a língua ao céu da boca, se eu não me lembrar de ti, se eu não preferir Jerusalém à minha maior alegria."
+    },
+    {
+      "verse": 7,
+      "text": "Lembra-te, SENHOR, dos filhos de Edom no dia de Jerusalém, que diziam: Arrasai-a, arrasai-a até aos seus alicerces."
+    },
+    {
+      "verse": 8,
+      "text": "Ó filha de Babilônia, que hás de ser destruída; feliz aquele que te retribuir o pago que tu nos pagaste a nós."
+    },
+    {
+      "verse": 9,
+      "text": "Feliz aquele que pegar em teus filhos e der com eles nas pedras."
+    }
+  ]
+}

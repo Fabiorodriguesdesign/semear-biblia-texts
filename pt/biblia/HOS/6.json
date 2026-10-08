@@ -1,0 +1,54 @@
+{
+  "book_id": "HOS",
+  "book": "Oséias",
+  "chapter": 6,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/oseias/biblia_kjv_28oseias.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Vinde, e voltemos ao SENHOR: pois ele despedaçou, e nos curará; ele feriu, e nos ligará a ferida."
+    },
+    {
+      "verse": 2,
+      "text": "Depois de dois dias nos reviverá: ao terceiro dia nos levantará, e viveremos diante dele."
+    },
+    {
+      "verse": 3,
+      "text": "Então conheceremos, se continuarmos a conhecer o SENHOR: a sua saída é preparada como a manhã; e ele virá a nós como a chuva, como a chuva tardia e a temporã à terra."
+    },
+    {
+      "verse": 4,
+      "text": "Ó Efraim, que te farei? Ó Judá, que te farei? porque a vossa bondade é como a nuvem da manhã, e como o orvalho da madrugada que passa."
+    },
+    {
+      "verse": 5,
+      "text": "Portanto os cortei pelos profetas; eu os matei pelas palavras da minha boca: e os teus juízos [serão] como a luz que sai."
+    },
+    {
+      "verse": 6,
+      "text": "Pois desejei misericórdia, e não sacrifício; e o conhecimento de Deus mais do que holocaustos."
+    },
+    {
+      "verse": 7,
+      "text": "Mas eles, como homens, transgrediram o pacto: ali agiram traiçoeiramente contra mim."
+    },
+    {
+      "verse": 8,
+      "text": "Gileade é uma cidade dos que praticam a iniquidade, e está contaminada com sangue."
+    },
+    {
+      "verse": 9,
+      "text": "E como tropas de salteadores esperam por um homem, assim a companhia de sacerdotes assassina no caminho por consentimento: pois cometem luxúria."
+    },
+    {
+      "verse": 10,
+      "text": "Eu vi uma coisa horrível na casa de Israel: ali está a prostituição de Efraim, Israel está contaminado."
+    },
+    {
+      "verse": 11,
+      "text": "Também, ó Judá, ele pôs uma colheita para ti, quando eu tornei a trazer o cativeiro do meu povo."
+    }
+  ]
+}

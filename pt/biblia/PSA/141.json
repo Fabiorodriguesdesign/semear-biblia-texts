@@ -1,0 +1,50 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 141,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos141-150.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "SENHOR, a ti clamo, escuta-me; inclina os teus ouvidos à minha voz, quando a ti clamar."
+    },
+    {
+      "verse": 2,
+      "text": "Suba a minha oração perante a tua face como incenso, e as minhas mãos levantadas sejam como o sacrifício da tarde."
+    },
+    {
+      "verse": 3,
+      "text": "Põe, ó SENHOR, uma guarda à minha boca; guarda a porta dos meus lábios."
+    },
+    {
+      "verse": 4,
+      "text": "Não inclines o meu coração para o mal, para praticar obras más, com aqueles que praticam a iniquidade; e não coma eu das suas delícias."
+    },
+    {
+      "verse": 5,
+      "text": "Fira-me o justo, será isso uma benignidade; e repreenda-me, isso será como óleo sobre a minha cabeça; não o recuse a minha cabeça, pois a minha oração também será contra as suas calamidades."
+    },
+    {
+      "verse": 6,
+      "text": "Quando os seus juízes forem derrubados em lugares pedregosos, ouvirão as minhas palavras, pois são doces."
+    },
+    {
+      "verse": 7,
+      "text": "Os nossos ossos estão espalhados à boca da sepultura, como quando se lavra e fende a terra."
+    },
+    {
+      "verse": 8,
+      "text": "Mas os meus olhos estão em ti, ó DEUS, Senhor; em ti confio, não desampares a minha alma."
+    },
+    {
+      "verse": 9,
+      "text": "Guarda-me dos laços que me armaram e das armadilhas dos que praticam a iniquidade."
+    },
+    {
+      "verse": 10,
+      "text": "Caiam os ímpios nas suas próprias redes, enquanto eu escapo ileso."
+    }
+  ]
+}

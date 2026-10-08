@@ -1,0 +1,166 @@
+{
+  "book_id": "MAT",
+  "book": "Mateus",
+  "chapter": 23,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Novo_testamento/mateus/biblia_kjv_40mateus16-28.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Então falou Jesus à multidão e aos seus discípulos,"
+    },
+    {
+      "verse": 2,
+      "text": "Dizendo: Na cadeira de Moisés estão assentados os escribas e fariseus."
+    },
+    {
+      "verse": 3,
+      "text": "Todas as coisas, pois, que vos disserem que observeis, observai-as e fazei-as; mas não procedais em conformidade com as suas obras, porque dizem e não fazem."
+    },
+    {
+      "verse": 4,
+      "text": "Pois atam fardos pesados e difíceis de suportar, e os põem aos ombros dos homens; mas eles mesmos nem com o dedo querem movê-los."
+    },
+    {
+      "verse": 5,
+      "text": "E fazem todas as suas obras para serem vistos pelos homens; pois alargam os seus filactérios, e aumentam as franjas dos seus mantos,"
+    },
+    {
+      "verse": 6,
+      "text": "E amam os primeiros lugares nos banquetes, e as primeiras cadeiras nas sinagogas,"
+    },
+    {
+      "verse": 7,
+      "text": "E as saudações nas praças, e o serem chamados pelos homens: Rabi, Rabi."
+    },
+    {
+      "verse": 8,
+      "text": "Vós, porém, não queirais ser chamados Rabi; porque um é o vosso Mestre, a saber, o Cristo, e todos vós sois irmãos."
+    },
+    {
+      "verse": 9,
+      "text": "E a ninguém na terra chameis vosso pai, porque um só é o vosso Pai, o qual está nos céus."
+    },
+    {
+      "verse": 10,
+      "text": "Nem vos chameis mestres, porque um só é o vosso Mestre, que é o Cristo."
+    },
+    {
+      "verse": 11,
+      "text": "Mas o maior dentre vós será vosso servo."
+    },
+    {
+      "verse": 12,
+      "text": "E qualquer que a si mesmo se exaltar será humilhado; e qualquer que a si mesmo se humilhar será exaltado."
+    },
+    {
+      "verse": 13,
+      "text": "Mas ai de vós, escribas e fariseus, hipócritas! pois que fechais aos homens o reino dos céus; nem vós entrais, nem deixais entrar os que estão entrando."
+    },
+    {
+      "verse": 14,
+      "text": "Ai de vós, escribas e fariseus, hipócritas! pois que devorais as casas das viúvas, e para pretexto fazeis longas orações; por isso recebereis maior condenação."
+    },
+    {
+      "verse": 15,
+      "text": "Ai de vós, escribas e fariseus, hipócritas! pois que percorreis o mar e a terra para fazer um prosélito; e, depois de o terdes feito, o fazeis duas vezes mais filho do inferno do que vós."
+    },
+    {
+      "verse": 16,
+      "text": "Ai de vós, guias cegos! que dizeis: Qualquer que jurar pelo templo, isso nada é; mas o que jurar pelo ouro do templo, esse é devedor."
+    },
+    {
+      "verse": 17,
+      "text": "Insensatos e cegos! Pois qual é maior: o ouro, ou o templo que santifica o ouro?"
+    },
+    {
+      "verse": 18,
+      "text": "E qualquer que jurar pelo altar, isso nada é; mas o que jurar pela oferta que está sobre ele, esse é devedor."
+    },
+    {
+      "verse": 19,
+      "text": "Insensatos e cegos! Pois qual é maior: a oferta, ou o altar que santifica a oferta?"
+    },
+    {
+      "verse": 20,
+      "text": "Portanto, o que jurar pelo altar, jura por ele e por tudo o que sobre ele está."
+    },
+    {
+      "verse": 21,
+      "text": "E o que jurar pelo templo, jura por ele e por aquele que nele habita."
+    },
+    {
+      "verse": 22,
+      "text": "E o que jurar pelo céu, jura pelo trono de Deus e por aquele que nele está assentado."
+    },
+    {
+      "verse": 23,
+      "text": "Ai de vós, escribas e fariseus, hipócritas! pois que dizimais a hortelã, o endro e o cominho, e desprezais o mais importante da lei, o juízo, a misericórdia e a fé; deveis, porém, fazer estas coisas, e não omitir aquelas."
+    },
+    {
+      "verse": 24,
+      "text": "Guias cegos! que coais um mosquito e engolis um camelo."
+    },
+    {
+      "verse": 25,
+      "text": "Ai de vós, escribas e fariseus, hipócritas! pois que limpais o exterior do copo e do prato, mas o interior está cheio de rapina e de intemperança."
+    },
+    {
+      "verse": 26,
+      "text": "Fariseu cego! Limpa primeiro o interior do copo e do prato, para que também o exterior fique limpo."
+    },
+    {
+      "verse": 27,
+      "text": "Ai de vós, escribas e fariseus, hipócritas! pois que sois semelhantes aos sepulcros caiados, que por fora realmente parecem formosos, mas interiormente estão cheios de ossos de mortos e de toda imundícia."
+    },
+    {
+      "verse": 28,
+      "text": "Assim também vós exteriormente pareceis justos aos homens, mas interiormente estais cheios de hipocrisia e de iniquidade."
+    },
+    {
+      "verse": 29,
+      "text": "Ai de vós, escribas e fariseus, hipócritas! pois que edificais os sepulcros dos profetas e adornais os monumentos dos justos,"
+    },
+    {
+      "verse": 30,
+      "text": "E dizeis: Se vivêssemos nos dias de nossos pais, nunca lhes seríamos cúmplices no sangue dos profetas."
+    },
+    {
+      "verse": 31,
+      "text": "Assim, vós mesmos testificais que sois filhos dos que mataram os profetas."
+    },
+    {
+      "verse": 32,
+      "text": "Enchei vós, pois, a medida de vossos pais."
+    },
+    {
+      "verse": 33,
+      "text": "Serpentes, raça de víboras! Como escapareis da condenação do inferno?"
+    },
+    {
+      "verse": 34,
+      "text": "Portanto, eis que eu vos envio profetas, sábios e escribas; e a uns deles matareis e crucificareis; e a outros deles açoitareis nas vossas sinagogas e os perseguireis de cidade em cidade;"
+    },
+    {
+      "verse": 35,
+      "text": "Para que sobre vós caia todo o sangue justo derramado sobre a terra, desde o sangue de Abel, o justo, até ao sangue de Zacarias, filho de Baraquias, que matastes entre o templo e o altar."
+    },
+    {
+      "verse": 36,
+      "text": "Em verdade vos digo que todas estas coisas hão de vir sobre esta geração."
+    },
+    {
+      "verse": 37,
+      "text": "Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados! Quantas vezes quis eu ajuntar os teus filhos, como a galinha ajunta os seus pintinhos debaixo das asas, e tu não quiseste!"
+    },
+    {
+      "verse": 38,
+      "text": "Eis que a vossa casa vos é deixada deserta."
+    },
+    {
+      "verse": 39,
+      "text": "Porque eu vos digo que desde agora me não vereis mais, até que digais: Bendito o que vem em nome do Senhor."
+    }
+  ]
+}

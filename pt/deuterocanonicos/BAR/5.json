@@ -1,0 +1,47 @@
+{
+  "book_id": "BAR",
+  "book": "Baruque",
+  "chapter": 5,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "livro",
+  "source_file": "apocryphal_books/kjv_pt/Baruch/5.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Despe, ó Jerusalém, a veste do teu luto e aflição, e veste a formosura da glória que vem de Deus para sempre."
+    },
+    {
+      "verse": 2,
+      "text": "Cobre-te com uma veste dupla da justiça que vem de Deus; e põe na tua cabeça um diadema da glória do Eterno."
+    },
+    {
+      "verse": 3,
+      "text": "Porque Deus mostrará o teu brilho a todo país debaixo do céu."
+    },
+    {
+      "verse": 4,
+      "text": "Porque o teu nome será chamado por Deus para sempre A paz da justiça, e A glória da adoração de Deus."
+    },
+    {
+      "verse": 5,
+      "text": "Levanta-te, ó Jerusalém, e põe-te no alto, e olha ao redor para o oriente, e vê os teus filhos reunidos do ocidente ao oriente pela palavra do Santo, regozijando-se na lembrança de Deus."
+    },
+    {
+      "verse": 6,
+      "text": "Porque partiram de ti a pé, e foram levados pelos seus inimigos: mas Deus os traz a ti exaltados com glória, como filhos do reino."
+    },
+    {
+      "verse": 7,
+      "text": "Porque Deus ordenou que todo monte alto, e as margens de longa duração, fossem derrubados, e os vales enchidos, para tornar o terreno plano, para que Israel possa ir em segurança na glória de Deus."
+    },
+    {
+      "verse": 8,
+      "text": "Além disso, até os bosques e toda árvore de cheiro suave sombrearão Israel pelo mandamento de Deus."
+    },
+    {
+      "verse": 9,
+      "text": "Porque Deus conduzirá Israel com alegria na luz da sua glória com a misericórdia e a justiça que vêm dele."
+    }
+  ]
+}

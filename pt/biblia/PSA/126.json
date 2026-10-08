@@ -1,0 +1,34 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 126,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos121-140.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Quando o Senhor trouxe do cativeiro os que voltaram a Sião, éramos como os que estão sonhando."
+    },
+    {
+      "verse": 2,
+      "text": "Então a nossa boca se encheu de riso e a nossa língua de cânticos. Então se dizia entre as nações: Grandes coisas fez o Senhor por eles."
+    },
+    {
+      "verse": 3,
+      "text": "Sim, grandes coisas fez o Senhor por nós, e por isso estamos alegres."
+    },
+    {
+      "verse": 4,
+      "text": "Faze regressar os nossos cativos, Senhor, como as correntes no sul."
+    },
+    {
+      "verse": 5,
+      "text": "Os que semeiam em lágrimas, com cânticos de júbilo segarão."
+    },
+    {
+      "verse": 6,
+      "text": "Aquele que sai chorando, levando a semente para semear, voltará com cânticos de júbilo, trazendo consigo os seus molhos."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "book_id": "BAR",
+  "book": "Baruque",
+  "chapter": 1,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "livro",
+  "source_file": "apocryphal_books/kjv_pt/Baruch/1.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Estas são as palavras do livro que Baruque, filho de Nerias, filho de Maasias, filho de Zedequias, filho de Hasadias, filho de Hilquias, escreveu em Babilônia,"
+    },
+    {
+      "verse": 2,
+      "text": "No quinto ano, no sétimo dia do mês, no tempo em que os caldeus tomaram a Jerusalém e a queimaram com fogo."
+    },
+    {
+      "verse": 3,
+      "text": "E Baruque leu as palavras deste livro aos ouvidos de Jeconias, filho de Jeoaquim, rei de Judá, e aos ouvidos de todo o povo que veio ouvir o livro,"
+    },
+    {
+      "verse": 4,
+      "text": "E aos ouvidos dos nobres, e dos filhos do rei, e aos ouvidos dos anciãos, e de todo o povo, desde o menor até o maior, de todos os que habitavam em Babilônia, junto ao rio Sude."
+    },
+    {
+      "verse": 5,
+      "text": "Então choraram, jejuaram e oraram perante o Senhor."
+    },
+    {
+      "verse": 6,
+      "text": "Fizeram também uma coleta de dinheiro, segundo o poder de cada um:"
+    },
+    {
+      "verse": 7,
+      "text": "E enviaram-na a Jerusalém, a Jeoaquim, o sumo sacerdote, filho de Hilquias, filho de Salum, e aos sacerdotes, e a todo o povo que se achava com ele em Jerusalém,"
+    },
+    {
+      "verse": 8,
+      "text": "No tempo em que recebeu os vasos da casa do Senhor, que foram tirados do templo, para torná-los à terra de Judá, no décimo dia do mês Sivã, a saber, os vasos de prata, que Zedequias, filho de Josias, rei de Judá, tinha feito,"
+    },
+    {
+      "verse": 9,
+      "text": "Depois que Nabucodonosor, rei de Babilônia, tinha levado cativos Jeconias, e os príncipes, e os cativos, e os homens valentes, e o povo da terra, de Jerusalém, e os tinha trazido a Babilônia."
+    },
+    {
+      "verse": 10,
+      "text": "Disseram, pois: Eis que vos enviamos dinheiro para comprares holocaustos, e ofertas pelo pecado, e incenso, e preparai maná, e oferecei sobre o altar do Senhor nosso Deus;"
+    },
+    {
+      "verse": 11,
+      "text": "E orai pela vida de Nabucodonosor, rei de Babilônia, e pela vida de Belsazar, seu filho, para que os seus dias sejam sobre a terra como os dias do céu:"
+    },
+    {
+      "verse": 12,
+      "text": "E o Senhor nos dará força, e alumiará os nossos olhos, e viveremos sob a sombra de Nabucodonosor, rei de Babilônia, e sob a sombra de Belsazar, seu filho, e servi-los-emos muitos dias, e acharemos graça aos seus olhos."
+    },
+    {
+      "verse": 13,
+      "text": "Orai também por nós ao Senhor nosso Deus, porque temos pecado contra o Senhor nosso Deus; e até este dia o furor do Senhor e a sua ira não se desviaram de nós."
+    },
+    {
+      "verse": 14,
+      "text": "E lereis este livro que vos enviamos, para fazerdes confissão na casa do Senhor, nas festas e dias solenes."
+    },
+    {
+      "verse": 15,
+      "text": "E direis: Ao Senhor nosso Deus pertence a justiça, mas a nós a confusão de rosto, como hoje sucede aos de Judá, e aos habitantes de Jerusalém,"
+    },
+    {
+      "verse": 16,
+      "text": "E aos nossos reis, e aos nossos príncipes, e aos nossos sacerdotes, e aos nossos profetas, e aos nossos pais:"
+    },
+    {
+      "verse": 17,
+      "text": "Porque temos pecado perante o Senhor,"
+    },
+    {
+      "verse": 18,
+      "text": "E desobedecemos-lhe, e não escutamos a voz do Senhor nosso Deus, para andar nos mandamentos que ele nos deu:"
+    },
+    {
+      "verse": 19,
+      "text": "Desde o dia em que o Senhor tirou os nossos pais da terra do Egito, até este dia, temos sido desobedientes ao Senhor nosso Deus, e temos sido negligentes em não ouvir a sua voz."
+    },
+    {
+      "verse": 20,
+      "text": "Pelo que os males se apegaram a nós, e a maldição, que o Senhor ordenou por Moisés, seu servo, no tempo em que tirou os nossos pais da terra do Egito, para nos dar uma terra que mana leite e mel, como hoje se vê."
+    },
+    {
+      "verse": 21,
+      "text": "Todavia, não escutamos a voz do Senhor nosso Deus, conforme todas as palavras dos profetas, que ele nos enviou:"
+    },
+    {
+      "verse": 22,
+      "text": "Mas cada um seguiu a imaginação do seu próprio coração perverso, para servir a deuses estranhos, e para fazer o mal aos olhos do Senhor nosso Deus."
+    }
+  ]
+}

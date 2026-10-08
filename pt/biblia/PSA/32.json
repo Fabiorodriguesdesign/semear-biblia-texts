@@ -1,0 +1,54 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 32,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos21-40.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Bem-aventurado aquele cuja transgressão é perdoada, e cujo pecado é coberto."
+    },
+    {
+      "verse": 2,
+      "text": "Bem-aventurado o homem a quem o SENHOR não imputa iniquidade, e em cujo espírito não há engano."
+    },
+    {
+      "verse": 3,
+      "text": "Quando eu guardei silêncio, os meus ossos envelheceram pelo meu bramido durante todo o dia."
+    },
+    {
+      "verse": 4,
+      "text": "Porque de dia e de noite a tua mão pesava sobre mim; o meu humor se tornou em sequidão de estio. Selá."
+    },
+    {
+      "verse": 5,
+      "text": "Eu te reconheci o meu pecado, e a minha iniquidade não encobri. Eu disse: Confessarei as minhas transgressões ao SENHOR; e tu perdoaste a iniquidade do meu pecado. Selá."
+    },
+    {
+      "verse": 6,
+      "text": "Por isso, todo aquele que é piedoso orará a ti, a tempo de te poder achar; certamente, nas inundações de grandes águas, elas não chegarão a ele."
+    },
+    {
+      "verse": 7,
+      "text": "Tu és o meu esconderijo; tu me preservarás da angústia; tu me cingirás de canções de livramento. Selá."
+    },
+    {
+      "verse": 8,
+      "text": "Instruir-te-ei, e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos."
+    },
+    {
+      "verse": 9,
+      "text": "Não sejais como o cavalo, nem como a mula, que não têm entendimento, cuja boca precisa de freio e cabresto para os segurar, para que não se cheguem a ti."
+    },
+    {
+      "verse": 10,
+      "text": "Muitas dores terá o ímpio, mas aquele que confia no SENHOR, a misericórdia o cercará."
+    },
+    {
+      "verse": 11,
+      "text": "Alegrai-vos no SENHOR, e regozijai-vos, vós, os justos; e cantai de alegria, todos vós que sois retos de coração."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 100,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos81-100.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Fazei um barulho alegre ao SENHOR, todas as terras."
+    },
+    {
+      "verse": 2,
+      "text": "Servi ao SENHOR com alegria; apresentai-vos diante dele com cânticos."
+    },
+    {
+      "verse": 3,
+      "text": "Sabei que o SENHOR é Deus; foi ele quem nos fez, e não nós a nós mesmos; somos o seu povo e as ovelhas do seu pasto."
+    },
+    {
+      "verse": 4,
+      "text": "Entrai por suas portas com ações de graças, e em seus átrios com louvor; sede-lhe gratos e bendizei o seu nome."
+    },
+    {
+      "verse": 5,
+      "text": "Porque o SENHOR é bom; a sua misericórdia é eterna; e a sua verdade permanece por todas as gerações."
+    }
+  ]
+}

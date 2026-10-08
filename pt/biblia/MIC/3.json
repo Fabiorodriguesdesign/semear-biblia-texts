@@ -1,0 +1,58 @@
+{
+  "book_id": "MIC",
+  "book": "Miquéias",
+  "chapter": 3,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/miqueias/biblia_kjv_33miqueias.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E eu disse: Ouvi, rogo-vos, ó chefes de Jacó, e vós, príncipes da casa de Israel: Não é a vós que pertence saber o juízo?"
+    },
+    {
+      "verse": 2,
+      "text": "Vós que odiais o bem e amais o mal; que lhes arrancais a pele e a carne de cima dos ossos;"
+    },
+    {
+      "verse": 3,
+      "text": "Que também comeis a carne do meu povo, e lhes esfolais a pele; e lhes quebrais os ossos, e os fazeis em pedaços, como para a panela, e como carne dentro do caldeirão."
+    },
+    {
+      "verse": 4,
+      "text": "Então clamarão ao SENHOR, mas ele não os ouvirá; esconderá deles o seu rosto naquele tempo, assim como eles se comportaram mal nas suas obras."
+    },
+    {
+      "verse": 5,
+      "text": "Assim diz o SENHOR acerca dos profetas que fazem errar o meu povo, que mordem com os seus dentes e clamam: Paz; e aquele que não lhes põe na boca, eles até preparam guerra contra ele."
+    },
+    {
+      "verse": 6,
+      "text": "Portanto, a noite será para vós, para que não tenhais visão; e será escuro para vós, para que não adivinheis; e o sol se porá sobre os profetas, e o dia se escurecerá sobre eles."
+    },
+    {
+      "verse": 7,
+      "text": "Então os videntes se envergonharão, e os adivinhos se confundirão; sim, todos eles cobrirão os seus lábios; porque não há resposta de Deus."
+    },
+    {
+      "verse": 8,
+      "text": "Mas eu, na verdade, estou cheio de poder pelo espírito do SENHOR, e de juízo, e de força, para declarar a Jacó a sua transgressão, e a Israel o seu pecado."
+    },
+    {
+      "verse": 9,
+      "text": "Ouvi isto, rogo-vos, vós, chefes da casa de Jacó, e príncipes da casa de Israel, que abominais o juízo e perverteis toda a equidade."
+    },
+    {
+      "verse": 10,
+      "text": "Eles edificam Sião com sangue, e Jerusalém com iniquidade."
+    },
+    {
+      "verse": 11,
+      "text": "Os seus chefes julgam por recompensa, e os seus sacerdotes ensinam por aluguel, e os seus profetas adivinham por dinheiro; contudo, eles se apoiarão no SENHOR e dirão: Não está o SENHOR entre nós? nenhum mal pode vir sobre nós."
+    },
+    {
+      "verse": 12,
+      "text": "Portanto, Sião, por vossa causa, será lavrada como um campo, e Jerusalém se tornará em montões de ruínas, e o monte da casa como os altos de uma floresta."
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "book_id": "EZR",
+  "book": "Esdras",
+  "chapter": 2,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/esdras/biblia_kjv_15esdras.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Estes são os filhos da província que subiram do cativeiro, dos que foram levados, que Nabucodonosor, rei de Babilônia, levara para Babilônia, e tornaram a Jerusalém e a Judá, cada um para a sua cidade;"
+    },
+    {
+      "verse": 2,
+      "text": "Os que vieram com Zorobabel: Jesua, Neemias, Seraías, Reelaías, Mardoqueu, Bilsã, Mispar, Bigvai, Reum, Baaná. O número dos homens do povo de Israel:"
+    },
+    {
+      "verse": 3,
+      "text": "Os filhos de Paros, dois mil cento e setenta e dois."
+    },
+    {
+      "verse": 4,
+      "text": "Os filhos de Sefatias, trezentos e setenta e dois."
+    },
+    {
+      "verse": 5,
+      "text": "Os filhos de Ara, setecentos e setenta e cinco."
+    },
+    {
+      "verse": 6,
+      "text": "Os filhos de Paate-Moabe, dos filhos de Jesua e Joabe, dois mil oitocentos e doze."
+    },
+    {
+      "verse": 7,
+      "text": "Os filhos de Elão, mil duzentos e cinquenta e quatro."
+    },
+    {
+      "verse": 8,
+      "text": "Os filhos de Zatu, novecentos e quarenta e cinco."
+    },
+    {
+      "verse": 9,
+      "text": "Os filhos de Zacai, setecentos e sessenta."
+    },
+    {
+      "verse": 10,
+      "text": "Os filhos de Bani, seiscentos e quarenta e dois."
+    },
+    {
+      "verse": 11,
+      "text": "Os filhos de Bebai, seiscentos e vinte e três."
+    },
+    {
+      "verse": 12,
+      "text": "Os filhos de Azgade, mil duzentos e vinte e dois."
+    },
+    {
+      "verse": 13,
+      "text": "Os filhos de Adonicão, seiscentos e sessenta e seis."
+    },
+    {
+      "verse": 14,
+      "text": "Os filhos de Bigvai, dois mil e cinquenta e seis."
+    },
+    {
+      "verse": 15,
+      "text": "Os filhos de Adim, quatrocentos e cinquenta e quatro."
+    },
+    {
+      "verse": 16,
+      "text": "Os filhos de Ater, de Ezequias, noventa e oito."
+    },
+    {
+      "verse": 17,
+      "text": "Os filhos de Bezai, trezentos e vinte e três."
+    },
+    {
+      "verse": 18,
+      "text": "Os filhos de Jorá, cento e doze."
+    },
+    {
+      "verse": 19,
+      "text": "Os filhos de Hasum, duzentos e vinte e três."
+    },
+    {
+      "verse": 20,
+      "text": "Os filhos de Gibar, noventa e cinco."
+    },
+    {
+      "verse": 21,
+      "text": "Os filhos de Belém, cento e vinte e três."
+    },
+    {
+      "verse": 22,
+      "text": "Os homens de Netofá, cinquenta e seis."
+    },
+    {
+      "verse": 23,
+      "text": "Os homens de Anatote, cento e vinte e oito."
+    },
+    {
+      "verse": 24,
+      "text": "Os filhos de Azmavete, quarenta e dois."
+    },
+    {
+      "verse": 25,
+      "text": "Os filhos de Quiriate-Arim, Quefira e Beerote, setecentos e quarenta e três."
+    },
+    {
+      "verse": 26,
+      "text": "Os filhos de Ramá e Geba, seiscentos e vinte e um."
+    },
+    {
+      "verse": 27,
+      "text": "Os homens de Micmás, cento e vinte e dois."
+    },
+    {
+      "verse": 28,
+      "text": "Os homens de Betel e Ai, duzentos e vinte e três."
+    },
+    {
+      "verse": 29,
+      "text": "Os filhos de Nebo, cinquenta e dois."
+    },
+    {
+      "verse": 30,
+      "text": "Os filhos de Magbis, cento e cinquenta e seis."
+    },
+    {
+      "verse": 31,
+      "text": "Os filhos do outro Elão, mil duzentos e cinquenta e quatro."
+    },
+    {
+      "verse": 32,
+      "text": "Os filhos de Harim, trezentos e vinte."
+    },
+    {
+      "verse": 33,
+      "text": "Os filhos de Lode, Hadide e Ono, setecentos e vinte e cinco."
+    },
+    {
+      "verse": 34,
+      "text": "Os filhos de Jericó, trezentos e quarenta e cinco."
+    },
+    {
+      "verse": 35,
+      "text": "Os filhos de Senaá, três mil seiscentos e trinta."
+    },
+    {
+      "verse": 36,
+      "text": "Os sacerdotes: os filhos de Jedaías, da casa de Jesua, novecentos e setenta e três."
+    },
+    {
+      "verse": 37,
+      "text": "Os filhos de Imer, mil e cinquenta e dois."
+    },
+    {
+      "verse": 38,
+      "text": "Os filhos de Pasur, mil duzentos e quarenta e sete."
+    },
+    {
+      "verse": 39,
+      "text": "Os filhos de Harim, mil e dezessete."
+    },
+    {
+      "verse": 40,
+      "text": "Os levitas: os filhos de Jesua e Cadmiel, dos filhos de Hodavias, setenta e quatro."
+    },
+    {
+      "verse": 41,
+      "text": "Os cantores: os filhos de Asafe, cento e vinte e oito."
+    },
+    {
+      "verse": 42,
+      "text": "Os filhos dos porteiros: os filhos de Salum, os filhos de Ater, os filhos de Talmom, os filhos de Acube, os filhos de Hatita, os filhos de Sobai, ao todo cento e trinta e nove."
+    },
+    {
+      "verse": 43,
+      "text": "Os netinins: os filhos de Ziá, os filhos de Hasufa, os filhos de Tabaote,"
+    },
+    {
+      "verse": 44,
+      "text": "Os filhos de Queros, os filhos de Siaá, os filhos de Padom,"
+    },
+    {
+      "verse": 45,
+      "text": "Os filhos de Lebana, os filhos de Hagaba, os filhos de Acube,"
+    },
+    {
+      "verse": 46,
+      "text": "Os filhos de Hagabe, os filhos de Salmai, os filhos de Hanã,"
+    },
+    {
+      "verse": 47,
+      "text": "Os filhos de Gidel, os filhos de Gaar, os filhos de Reaías,"
+    },
+    {
+      "verse": 48,
+      "text": "Os filhos de Rezim, os filhos de Necoda, os filhos de Gazão,"
+    },
+    {
+      "verse": 49,
+      "text": "Os filhos de Uzá, os filhos de Pasea, os filhos de Besai,"
+    },
+    {
+      "verse": 50,
+      "text": "Os filhos de Asna, os filhos de Meunim, os filhos de Nefusim,"
+    },
+    {
+      "verse": 51,
+      "text": "Os filhos de Bacbuque, os filhos de Hacufa, os filhos de Harur,"
+    },
+    {
+      "verse": 52,
+      "text": "Os filhos de Bazlute, os filhos de Meída, os filhos de Harsa,"
+    },
+    {
+      "verse": 53,
+      "text": "Os filhos de Barcos, os filhos de Sísera, os filhos de Tamá,"
+    },
+    {
+      "verse": 54,
+      "text": "Os filhos de Nezia, os filhos de Hatifa."
+    },
+    {
+      "verse": 55,
+      "text": "Os filhos dos servos de Salomão: os filhos de Sotai, os filhos de Soferete, os filhos de Peruda,"
+    },
+    {
+      "verse": 56,
+      "text": "Os filhos de Jaala, os filhos de Darcom, os filhos de Gidel,"
+    },
+    {
+      "verse": 57,
+      "text": "Os filhos de Sefatias, os filhos de Hatil, os filhos de Poquerete-Hazebaim, os filhos de Ami."
+    },
+    {
+      "verse": 58,
+      "text": "Todos os netinins e os filhos dos servos de Salomão, trezentos e noventa e dois."
+    },
+    {
+      "verse": 59,
+      "text": "E estes são os que subiram de Tel-Mela, Tel-Harsa, Querube, Adã e Imer; mas não puderam mostrar a casa de seus pais, nem a sua descendência, se eram de Israel:"
+    },
+    {
+      "verse": 60,
+      "text": "Os filhos de Delaías, os filhos de Tobias, os filhos de Necoda, seiscentos e cinquenta e dois."
+    },
+    {
+      "verse": 61,
+      "text": "E dos filhos dos sacerdotes: os filhos de Habaías, os filhos de Coz, os filhos de Barzilai, que tomou mulher das filhas de Barzilai, o gileadita, e foi chamado pelo nome deles."
+    },
+    {
+      "verse": 62,
+      "text": "Estes buscaram o seu registro entre os que estavam arrolados por genealogia, mas não o acharam; por isso, como imundos, foram excluídos do sacerdócio."
+    },
+    {
+      "verse": 63,
+      "text": "E o Tirsata lhes disse que não comessem das coisas santíssimas, até que se levantasse um sacerdote com Urim e com Tumim."
+    },
+    {
+      "verse": 64,
+      "text": "Toda a congregação junta era de quarenta e dois mil trezentos e sessenta,"
+    },
+    {
+      "verse": 65,
+      "text": "Além dos seus servos e das suas servas, dos quais havia sete mil trezentos e trinta e sete; e entre eles havia duzentos cantores e cantoras."
+    },
+    {
+      "verse": 66,
+      "text": "Os seus cavalos eram setecentos e trinta e seis; os seus mulos, duzentos e quarenta e cinco;"
+    },
+    {
+      "verse": 67,
+      "text": "Os seus camelos, quatrocentos e trinta e cinco; os seus jumentos, seis mil setecentos e vinte."
+    },
+    {
+      "verse": 68,
+      "text": "E alguns dos chefes dos pais, quando vieram à casa do SENHOR, que está em Jerusalém, ofereceram voluntariamente para a casa de Deus, para a restaurarem no seu lugar:"
+    },
+    {
+      "verse": 69,
+      "text": "Segundo as suas posses, deram para o tesouro da obra sessenta e uma mil dracmas de ouro, e cinco mil libras de prata, e cem vestes sacerdotais."
+    },
+    {
+      "verse": 70,
+      "text": "Assim os sacerdotes, e os levitas, e alguns do povo, e os cantores, e os porteiros, e os netinins, habitaram nas suas cidades, e todo o Israel nas suas cidades."
+    }
+  ]
+}

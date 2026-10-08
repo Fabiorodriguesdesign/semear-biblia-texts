@@ -1,0 +1,34 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 53,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos41-60.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Disse o tolo no seu coração: Não há Deus. Corruptos são eles, e fizeram abominável iniquidade; não há quem faça o bem."
+    },
+    {
+      "verse": 2,
+      "text": "Deus olhou do céu para os filhos dos homens, para ver se havia algum que entendesse, que buscasse a Deus."
+    },
+    {
+      "verse": 3,
+      "text": "Cada um deles se desviou; todos se tornaram imundos; não há quem faça o bem, não, nem um."
+    },
+    {
+      "verse": 4,
+      "text": "Não têm conhecimento os que praticam a iniquidade? que comem o meu povo como comem pão; não invocaram a Deus."
+    },
+    {
+      "verse": 5,
+      "text": "Ali estavam eles em grande temor, onde não havia temor; porque Deus espalhou os ossos daquele que acampa contra ti; tu os envergonhaste, porque Deus os desprezou."
+    },
+    {
+      "verse": 6,
+      "text": "Oh, se a salvação de Israel viesse de Sião! Quando Deus trouxer de volta o cativeiro do seu povo, Jacó se regozijará, e Israel se alegrará."
+    }
+  ]
+}

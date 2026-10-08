@@ -1,0 +1,38 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 14,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Disse o néscio no seu coração: Não há Deus. Corromperam-se, fizeram obras abomináveis, não há quem faça o bem."
+    },
+    {
+      "verse": 2,
+      "text": "O Senhor olhou desde os céus para os filhos dos homens, para ver se havia algum que entendesse e buscasse a Deus."
+    },
+    {
+      "verse": 3,
+      "text": "Todos se desviaram, juntamente se fizeram imundos; não há quem faça o bem, não, nem um só."
+    },
+    {
+      "verse": 4,
+      "text": "Não têm conhecimento todos os que praticam a iniquidade? que comem o meu povo como comem pão, e não invocam ao Senhor."
+    },
+    {
+      "verse": 5,
+      "text": "Ali se acharam em grande temor, porque Deus está na geração dos justos."
+    },
+    {
+      "verse": 6,
+      "text": "Vós envergonhastes o conselho dos pobres, porque o Senhor é o seu refúgio."
+    },
+    {
+      "verse": 7,
+      "text": "Oh, se a salvação de Israel viesse de Sião! quando o Senhor trouxer de volta o cativeiro do seu povo, Jacó se regozijará, e Israel se alegrará."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "book_id": "DEU",
+  "book": "Deuteronômio",
+  "chapter": 11,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/deuteronomio/biblia_kjv_05deuteronomio1-17.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Amarás, pois, ao SENHOR, teu Deus, e guardarás a sua ordenança, e os seus estatutos, e os seus juízos, e os seus mandamentos, sempre."
+    },
+    {
+      "verse": 2,
+      "text": "E sabei hoje: porque não falo com vossos filhos que não conheceram, e que não viram o castigo do SENHOR, vosso Deus, a sua grandeza, a sua mão poderosa, e o seu braço estendido,"
+    },
+    {
+      "verse": 3,
+      "text": "E os seus milagres, e os seus atos, que fez no meio do Egito a Faraó, rei do Egito, e a toda a sua terra;"
+    },
+    {
+      "verse": 4,
+      "text": "E o que fez ao exército do Egito, aos seus cavalos, e aos seus carros; como fez que as águas do mar Vermelho os cobrissem, enquanto vos perseguiam, e como o SENHOR os destruiu até este dia;"
+    },
+    {
+      "verse": 5,
+      "text": "E o que vos fez no deserto, até que chegastes a este lugar;"
+    },
+    {
+      "verse": 6,
+      "text": "E o que fez a Datã e Abirão, filhos de Eliabe, filho de Rúben: como a terra abriu a sua boca, e os tragou, e as suas casas, e as suas tendas, e toda a substância que estava em sua possessão, no meio de todo o Israel:"
+    },
+    {
+      "verse": 7,
+      "text": "Mas os vossos olhos viram todos os grandes atos do SENHOR que ele fez."
+    },
+    {
+      "verse": 8,
+      "text": "Guardareis, pois, todos os mandamentos que hoje vos mando, para que sejais fortes, e entreis e possuais a terra, a que ides para a possuir;"
+    },
+    {
+      "verse": 9,
+      "text": "E para que prolongueis os vossos dias na terra, que o SENHOR jurou a vossos pais dar a eles e à sua descendência, terra que mana leite e mel."
+    },
+    {
+      "verse": 10,
+      "text": "Porque a terra a que entras para a possuir, não é como a terra do Egito, de onde saístes, onde semeavas a tua semente, e a regavas com o teu pé, como uma horta de legumes:"
+    },
+    {
+      "verse": 11,
+      "text": "Mas a terra a que ides para a possuir, é terra de montes e de vales, e bebe água da chuva do céu:"
+    },
+    {
+      "verse": 12,
+      "text": "Terra de que o SENHOR, teu Deus, cuida; os olhos do SENHOR, teu Deus, estão sempre sobre ela, desde o princípio do ano até o fim do ano."
+    },
+    {
+      "verse": 13,
+      "text": "E será que, se diligentemente ouvirdes os meus mandamentos que hoje vos mando, para amar ao SENHOR, vosso Deus, e para o servir com todo o vosso coração e com toda a vossa alma,"
+    },
+    {
+      "verse": 14,
+      "text": "Então darei a chuva da vossa terra no seu tempo, a chuva temporã e a serôdia, para que recolhas o teu cereal, e o teu vinho, e o teu azeite."
+    },
+    {
+      "verse": 15,
+      "text": "E enviarei erva nos teus campos para o teu gado, para que comas e te fartes."
+    },
+    {
+      "verse": 16,
+      "text": "Guardai-vos, para que o vosso coração não se engane, e vos desvieis, e sirvais a outros deuses, e os adoreis;"
+    },
+    {
+      "verse": 17,
+      "text": "E então a ira do SENHOR se acenda contra vós, e ele feche o céu, para que não haja chuva, e a terra não dê o seu fruto; e para que não pereçais depressa da boa terra que o SENHOR vos dá."
+    },
+    {
+      "verse": 18,
+      "text": "Portanto, poreis estas minhas palavras no vosso coração e na vossa alma, e as atareis por sinal na vossa mão, para que vos sejam por frontais entre os vossos olhos."
+    },
+    {
+      "verse": 19,
+      "text": "E as ensinareis a vossos filhos, falando delas assentado em tua casa, e andando pelo caminho, quando te deitares, e quando te levantares."
+    },
+    {
+      "verse": 20,
+      "text": "E as escreverás nos umbrais da tua casa, e nas tuas portas:"
+    },
+    {
+      "verse": 21,
+      "text": "Para que se multipliquem os vossos dias, e os dias de vossos filhos, na terra que o SENHOR jurou a vossos pais dar-lhes, como os dias do céu sobre a terra."
+    },
+    {
+      "verse": 22,
+      "text": "Porque se diligentemente guardardes todos estes mandamentos que vos mando, para os cumprirdes, para amar ao SENHOR, vosso Deus, para andardes em todos os seus caminhos, e para vos apegardes a ele;"
+    },
+    {
+      "verse": 23,
+      "text": "Então o SENHOR expulsará todas estas nações de diante de vós, e possuireis nações maiores e mais poderosas do que vós."
+    },
+    {
+      "verse": 24,
+      "text": "Todo lugar onde pisar a planta do vosso pé será vosso; desde o deserto e o Líbano, desde o rio, o rio Eufrates, até o mar ocidental será o vosso termo."
+    },
+    {
+      "verse": 25,
+      "text": "Nenhum homem poderá resistir diante de vós; o SENHOR, vosso Deus, porá o temor de vós e o pavor de vós sobre toda a terra que pisardes, como vos disse."
+    },
+    {
+      "verse": 26,
+      "text": "Eis que hoje ponho diante de vós uma bênção e uma maldição;"
+    },
+    {
+      "verse": 27,
+      "text": "A bênção, se obedecerdes aos mandamentos do SENHOR, vosso Deus, que hoje vos mando:"
+    },
+    {
+      "verse": 28,
+      "text": "E a maldição, se não obedecerdes aos mandamentos do SENHOR, vosso Deus, mas vos desviardes do caminho que hoje vos mando, para ir após outros deuses, que não conhecestes."
+    },
+    {
+      "verse": 29,
+      "text": "E será que, quando o SENHOR, teu Deus, te houver introduzido na terra a que vais para a possuir, então porás a bênção sobre o monte Gerizim, e a maldição sobre o monte Ebal."
+    },
+    {
+      "verse": 30,
+      "text": "Não estão eles além do Jordão, pelo caminho onde o sol se põe, na terra dos cananeus, que habitam na campina defronte de Gilgal, junto aos carvalhos de Moré?"
+    },
+    {
+      "verse": 31,
+      "text": "Porque passareis o Jordão para entrar e possuir a terra que o SENHOR, vosso Deus, vos dá, e a possuireis, e nela habitareis."
+    },
+    {
+      "verse": 32,
+      "text": "E guardareis para cumprir todos os estatutos e juízos que hoje ponho diante de vós."
+    }
+  ]
+}

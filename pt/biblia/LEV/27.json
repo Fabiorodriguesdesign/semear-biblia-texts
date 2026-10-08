@@ -1,0 +1,146 @@
+{
+  "book_id": "LEV",
+  "book": "Levítico",
+  "chapter": 27,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/levitico/biblia_kjv_03levitico16-27.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E falou o SENHOR a Moisés, dizendo:"
+    },
+    {
+      "verse": 2,
+      "text": "Fala aos filhos de Israel e dize-lhes: Quando um homem fizer um voto singular, as pessoas serão para o SENHOR segundo a tua avaliação."
+    },
+    {
+      "verse": 3,
+      "text": "E a tua avaliação será do homem de vinte anos até sessenta anos, a tua avaliação será de cinquenta siclos de prata, segundo o siclo do santuário."
+    },
+    {
+      "verse": 4,
+      "text": "E se for mulher, a tua avaliação será de trinta siclos."
+    },
+    {
+      "verse": 5,
+      "text": "E se for de cinco anos até vinte anos, a tua avaliação será do homem vinte siclos, e da mulher dez siclos."
+    },
+    {
+      "verse": 6,
+      "text": "E se for de um mês até cinco anos, a tua avaliação será do homem cinco siclos de prata, e da mulher a tua avaliação será de três siclos de prata."
+    },
+    {
+      "verse": 7,
+      "text": "E se for de sessenta anos para cima; se for homem, a tua avaliação será de quinze siclos, e da mulher dez siclos."
+    },
+    {
+      "verse": 8,
+      "text": "Mas, se for mais pobre do que a tua avaliação, então se apresentará diante do sacerdote, e o sacerdote o avaliará; segundo a sua capacidade, aquele que votou o sacerdote o avaliará."
+    },
+    {
+      "verse": 9,
+      "text": "E se for um animal do qual os homens trazem uma oferta ao SENHOR, tudo o que qualquer homem der de tal ao SENHOR será santo."
+    },
+    {
+      "verse": 10,
+      "text": "Não o alterará, nem o trocará, um bom por um mau, ou um mau por um bom; e se de todo trocar animal por animal, então ele e a sua troca serão santos."
+    },
+    {
+      "verse": 11,
+      "text": "E se for algum animal imundo, do qual não oferecem sacrifício ao SENHOR, então apresentará o animal diante do sacerdote:"
+    },
+    {
+      "verse": 12,
+      "text": "E o sacerdote o avaliará, seja bom ou mau; como tu o avaliares, que és o sacerdote, assim será."
+    },
+    {
+      "verse": 13,
+      "text": "Mas, se ele o quiser resgatar, então acrescentará a quinta parte sobre a tua avaliação."
+    },
+    {
+      "verse": 14,
+      "text": "E quando um homem santificar a sua casa para ser santa ao SENHOR, então o sacerdote a avaliará, seja boa ou má; como o sacerdote a avaliar, assim ficará."
+    },
+    {
+      "verse": 15,
+      "text": "E se aquele que a santificou quiser resgatar a sua casa, então acrescentará a quinta parte do dinheiro da tua avaliação a ela, e será sua."
+    },
+    {
+      "verse": 16,
+      "text": "E se um homem santificar ao SENHOR alguma parte de um campo da sua possessão, então a tua avaliação será segundo a sua semente; um ômer de semente de cevada será avaliado em cinquenta siclos de prata."
+    },
+    {
+      "verse": 17,
+      "text": "Se ele santificar o seu campo desde o ano do jubileu, segundo a tua avaliação ficará."
+    },
+    {
+      "verse": 18,
+      "text": "Mas, se ele santificar o seu campo depois do jubileu, então o sacerdote lhe calculará o dinheiro segundo os anos que restam, até o ano do jubileu, e será abatido da tua avaliação."
+    },
+    {
+      "verse": 19,
+      "text": "E se aquele que santificou o campo o quiser de alguma forma resgatar, então acrescentará a quinta parte do dinheiro da tua avaliação a ele, e lhe será assegurado."
+    },
+    {
+      "verse": 20,
+      "text": "E se ele não quiser resgatar o campo, ou se tiver vendido o campo a outro homem, não será mais resgatado."
+    },
+    {
+      "verse": 21,
+      "text": "Mas o campo, quando sair no jubileu, será santo ao SENHOR, como um campo consagrado; a sua posse será do sacerdote."
+    },
+    {
+      "verse": 22,
+      "text": "E se um homem santificar ao SENHOR um campo que ele comprou, que não é dos campos da sua possessão;"
+    },
+    {
+      "verse": 23,
+      "text": "Então o sacerdote lhe calculará o valor da tua avaliação, até o ano do jubileu; e ele dará a tua avaliação naquele dia, como coisa santa ao SENHOR."
+    },
+    {
+      "verse": 24,
+      "text": "No ano do jubileu, o campo voltará para aquele de quem foi comprado, para aquele a quem pertencia a posse da terra."
+    },
+    {
+      "verse": 25,
+      "text": "E todas as tuas avaliações serão segundo o siclo do santuário; vinte geras serão o siclo."
+    },
+    {
+      "verse": 26,
+      "text": "Somente o primogênito dos animais, que deve ser o primogênito do SENHOR, nenhum homem o santificará; seja boi ou ovelha, é do SENHOR."
+    },
+    {
+      "verse": 27,
+      "text": "E se for de um animal imundo, então o resgatará segundo a tua avaliação, e lhe acrescentará a quinta parte; ou, se não for resgatado, será vendido segundo a tua avaliação."
+    },
+    {
+      "verse": 28,
+      "text": "Não obstante, nenhuma coisa consagrada que um homem consagrar ao SENHOR de tudo o que tem, tanto de homem como de animal, e do campo da sua possessão, será vendida ou resgatada; toda coisa consagrada é santíssima ao SENHOR."
+    },
+    {
+      "verse": 29,
+      "text": "Nenhum consagrado, que for consagrado de homens, será resgatado; mas certamente será morto."
+    },
+    {
+      "verse": 30,
+      "text": "E todo o dízimo da terra, seja da semente da terra, ou do fruto da árvore, é do SENHOR; é santo ao SENHOR."
+    },
+    {
+      "verse": 31,
+      "text": "E se um homem quiser de todo resgatar algo dos seus dízimos, acrescentará a quinta parte."
+    },
+    {
+      "verse": 32,
+      "text": "E quanto ao dízimo do gado, ou do rebanho, de tudo o que passar debaixo da vara, o décimo será santo ao SENHOR."
+    },
+    {
+      "verse": 33,
+      "text": "Não investigará se é bom ou mau, nem o trocará; e se o trocar de todo, então tanto ele como a sua troca serão santos; não será resgatado."
+    },
+    {
+      "verse": 34,
+      "text": "Estes são os mandamentos que o SENHOR ordenou a Moisés para os filhos de Israel no monte Sinai."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "book_id": "2KI",
+  "book": "2 Reis",
+  "chapter": 8,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/2reis/biblia_kjv_12_2reis1-10.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Então falou Eliseu à mulher cujo filho ele ressuscitara, dizendo: Levanta-te, e vai-te, tu e a tua casa, e peregrina onde puderes peregrinar; porque o SENHOR chamou a fome, a qual também virá sobre a terra por sete anos."
+    },
+    {
+      "verse": 2,
+      "text": "E a mulher se levantou, e fez conforme a palavra do homem de Deus; e foi-se ela com a sua casa, e peregrinou na terra dos filisteus sete anos."
+    },
+    {
+      "verse": 3,
+      "text": "E sucedeu que, ao fim dos sete anos, a mulher voltou da terra dos filisteus; e saiu a clamar ao rei pela sua casa e pela sua terra."
+    },
+    {
+      "verse": 4,
+      "text": "E o rei falava com Geazi, servo do homem de Deus, dizendo: Conta-me, peço-te, todas as grandes coisas que Eliseu tem feito."
+    },
+    {
+      "verse": 5,
+      "text": "E sucedeu que, contando ele ao rei como ressuscitara a um morto, eis que a mulher cujo filho ele ressuscitara clamou ao rei pela sua casa e pela sua terra. Então disse Geazi: Ó rei meu senhor, esta é a mulher, e este é o seu filho a quem Eliseu ressuscitou."
+    },
+    {
+      "verse": 6,
+      "text": "E o rei perguntou à mulher, e ela lho contou. Então o rei lhe nomeou um oficial, dizendo: Restitui-lhe tudo quanto era seu, e todas as rendas do campo, desde o dia em que deixou a terra até agora."
+    },
+    {
+      "verse": 7,
+      "text": "Depois veio Eliseu a Damasco; e Ben-Hadade, rei da Síria, estava doente, e lhe anunciaram, dizendo: O homem de Deus é chegado aqui."
+    },
+    {
+      "verse": 8,
+      "text": "Então o rei disse a Hazael: Toma um presente na tua mão, e vai, e encontra-te com o homem de Deus, e pergunta ao SENHOR por ele, dizendo: Sararei eu desta doença?"
+    },
+    {
+      "verse": 9,
+      "text": "Assim Hazael foi encontrá-lo, e tomou um presente na sua mão, a saber, de tudo o que de bom havia em Damasco, quarenta camelos de carga; e veio, e pôs-se diante dele, e disse: Teu filho Ben-Hadade, rei da Síria, me enviou a ti, dizendo: Sararei eu desta doença?"
+    },
+    {
+      "verse": 10,
+      "text": "E Eliseu lhe disse: Vai, dize-lhe: Certamente sararás; mas o SENHOR me mostrou que ele certamente morrerá."
+    },
+    {
+      "verse": 11,
+      "text": "E firmou o seu rosto, e o endureceu, até que se envergonhou; e o homem de Deus chorou."
+    },
+    {
+      "verse": 12,
+      "text": "Então disse Hazael: Por que chora o meu senhor? E ele disse: Porque sei o mal que hás de fazer aos filhos de Israel; porás a fogo as suas fortalezas, e os seus jovens matarás à espada, e os seus meninos despedaçarás, e as suas mulheres grávidas fenderás."
+    },
+    {
+      "verse": 13,
+      "text": "Então disse Hazael: Pois que é teu servo, que é um cão, para fazer tão grande coisa? E Eliseu disse: O SENHOR me mostrou que tu hás de ser rei da Síria."
+    },
+    {
+      "verse": 14,
+      "text": "Assim partiu de Eliseu, e veio a seu senhor, o qual lhe disse: Que te disse Eliseu? E ele respondeu: Disse-me que certamente sararias."
+    },
+    {
+      "verse": 15,
+      "text": "E sucedeu que, ao outro dia, tomou uma coberta, e a molhou na água, e a estendeu sobre o seu rosto, e ele morreu; e Hazael reinou em seu lugar."
+    },
+    {
+      "verse": 16,
+      "text": "E no quinto ano de Jorão, filho de Acabe, rei de Israel, sendo Josafá ainda rei de Judá, começou a reinar Jeorão, filho de Josafá, rei de Judá."
+    },
+    {
+      "verse": 17,
+      "text": "Tinha trinta e dois anos quando começou a reinar, e reinou oito anos em Jerusalém."
+    },
+    {
+      "verse": 18,
+      "text": "E andou no caminho dos reis de Israel, como fizera a casa de Acabe; porque a filha de Acabe era sua mulher; e fez o que era mau aos olhos do SENHOR."
+    },
+    {
+      "verse": 19,
+      "text": "Contudo o SENHOR não quis destruir a Judá por amor de Davi, seu servo, como lhe tinha prometido, de lhe dar para sempre uma lâmpada a ele e a seus filhos."
+    },
+    {
+      "verse": 20,
+      "text": "Nos seus dias Edom se rebelou de debaixo da mão de Judá, e puseram sobre si um rei."
+    },
+    {
+      "verse": 21,
+      "text": "Pelo que Jorão passou a Zair, e todos os carros com ele; e levantou-se de noite, e feriu os edomitas, que o cercavam, como também os capitães dos carros; e o povo fugiu para as suas tendas."
+    },
+    {
+      "verse": 22,
+      "text": "Contudo Edom se rebelou de debaixo da mão de Judá até ao dia de hoje. Também Libna se rebelou naquele mesmo tempo."
+    },
+    {
+      "verse": 23,
+      "text": "Ora, o restante dos atos de Jorão, e tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Judá?"
+    },
+    {
+      "verse": 24,
+      "text": "E Jorão dormiu com seus pais, e foi sepultado com seus pais na cidade de Davi; e Acazias, seu filho, reinou em seu lugar."
+    },
+    {
+      "verse": 25,
+      "text": "No ano duodécimo de Jorão, filho de Acabe, rei de Israel, começou a reinar Acazias, filho de Jeorão, rei de Judá."
+    },
+    {
+      "verse": 26,
+      "text": "Tinha Acazias vinte e dois anos quando começou a reinar, e reinou um ano em Jerusalém. E o nome de sua mãe era Atalia, filha de Onri, rei de Israel."
+    },
+    {
+      "verse": 27,
+      "text": "E andou no caminho da casa de Acabe, e fez o que era mau aos olhos do SENHOR, como a casa de Acabe; porque era genro da casa de Acabe."
+    },
+    {
+      "verse": 28,
+      "text": "E foi com Jorão, filho de Acabe, à guerra contra Hazael, rei da Síria, em Ramote-Gileade; e os sírios feriram a Jorão."
+    },
+    {
+      "verse": 29,
+      "text": "E o rei Jorão voltou para curar-se em Jezreel das feridas que os sírios lhe fizeram em Ramá, quando pelejava contra Hazael, rei da Síria. E Acazias, filho de Jeorão, rei de Judá, desceu para ver a Jorão, filho de Acabe, em Jezreel, porque estava doente."
+    }
+  ]
+}

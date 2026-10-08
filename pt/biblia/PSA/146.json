@@ -1,0 +1,50 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 146,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos141-150.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Louvai ao SENHOR. Louva, ó minha alma, ao SENHOR."
+    },
+    {
+      "verse": 2,
+      "text": "Enquanto eu viver, louvarei ao SENHOR; cantarei louvores ao meu Deus enquanto eu tiver existência."
+    },
+    {
+      "verse": 3,
+      "text": "Não confieis em príncipes, nem no filho do homem, em quem não há socorro."
+    },
+    {
+      "verse": 4,
+      "text": "O seu fôlego sai, ele volta para a sua terra; nesse mesmo dia perecem os seus pensamentos."
+    },
+    {
+      "verse": 5,
+      "text": "Feliz é aquele que tem o Deus de Jacó por seu auxílio, cuja esperança está no SENHOR, seu Deus:"
+    },
+    {
+      "verse": 6,
+      "text": "Que fez o céu e a terra, o mar e tudo o que neles há; que guarda a verdade para sempre;"
+    },
+    {
+      "verse": 7,
+      "text": "Que executa juízo para os oprimidos; que dá alimento aos famintos. O SENHOR liberta os prisioneiros:"
+    },
+    {
+      "verse": 8,
+      "text": "O SENHOR abre os olhos dos cegos; o SENHOR levanta os que estão abatidos; o SENHOR ama os justos;"
+    },
+    {
+      "verse": 9,
+      "text": "O SENHOR preserva os estrangeiros; ele alivia o órfão e a viúva, mas o caminho dos ímpios ele transtorna."
+    },
+    {
+      "verse": 10,
+      "text": "O SENHOR reinará para sempre, o teu Deus, ó Sião, por todas as gerações. Louvai ao SENHOR."
+    }
+  ]
+}

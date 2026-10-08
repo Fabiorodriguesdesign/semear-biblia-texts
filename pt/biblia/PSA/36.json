@@ -1,0 +1,58 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 36,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos21-40.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A transgressão do ímpio diz no meu coração que não há temor de Deus perante os seus olhos."
+    },
+    {
+      "verse": 2,
+      "text": "Porque se lisonjeia a si mesmo aos seus próprios olhos, até que a sua iniquidade seja achada para ser odiosa."
+    },
+    {
+      "verse": 3,
+      "text": "As palavras da sua boca são iniquidade e engano; deixou de ser sábio e de fazer o bem."
+    },
+    {
+      "verse": 4,
+      "text": "Maquina o mal na sua cama; põe-se num caminho que não é bom; não aborrece o mal."
+    },
+    {
+      "verse": 5,
+      "text": "A tua misericórdia, ó SENHOR, está nos céus; e a tua fidelidade chega até às nuvens."
+    },
+    {
+      "verse": 6,
+      "text": "A tua justiça é como as grandes montanhas; os teus juízos são um grande abismo; ó SENHOR, tu preservas o homem e o animal."
+    },
+    {
+      "verse": 7,
+      "text": "Quão excelente é a tua benignidade, ó Deus! por isso os filhos dos homens se abrigam à sombra das tuas asas."
+    },
+    {
+      "verse": 8,
+      "text": "Eles se fartarão da gordura da tua casa; e tu os farás beber do rio das tuas delícias."
+    },
+    {
+      "verse": 9,
+      "text": "Porque contigo está o manancial da vida; na tua luz veremos a luz."
+    },
+    {
+      "verse": 10,
+      "text": "Ó continua a tua benignidade para com os que te conhecem; e a tua justiça para com os retos de coração."
+    },
+    {
+      "verse": 11,
+      "text": "Não venha contra mim o pé da soberba, e não me remova a mão dos ímpios."
+    },
+    {
+      "verse": 12,
+      "text": "Ali caíram os que praticam a iniquidade; foram lançados por terra e não se poderão levantar."
+    }
+  ]
+}

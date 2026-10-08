@@ -1,0 +1,186 @@
+{
+  "book_id": "JER",
+  "book": "Jeremias",
+  "chapter": 32,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/jeremias/biblia_kjv_24jeremias31-40.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A palavra que veio a Jeremias da parte do SENHOR, no décimo ano de Zedequias, rei de Judá, que foi o décimo oitavo ano de Nabucodonosor."
+    },
+    {
+      "verse": 2,
+      "text": "Ora, nesse tempo o exército do rei da Babilônia cercava Jerusalém; e Jeremias, o profeta, estava encerrado no pátio da guarda, que estava na casa do rei de Judá."
+    },
+    {
+      "verse": 3,
+      "text": "Porque Zedequias, rei de Judá, o havia encerrado, dizendo: Por que profetizas tu, dizendo: Assim diz o SENHOR: Eis que entregarei esta cidade na mão do rei da Babilônia, e ele a tomará;"
+    },
+    {
+      "verse": 4,
+      "text": "E Zedequias, rei de Judá, não escapará da mão dos caldeus, mas certamente será entregue na mão do rei da Babilônia, e com ele falará boca a boca, e os seus olhos verão os seus olhos;"
+    },
+    {
+      "verse": 5,
+      "text": "E ele levará Zedequias para a Babilônia, e ali estará até que eu o visite, diz o SENHOR; ainda que pelejeis contra os caldeus, não prosperareis."
+    },
+    {
+      "verse": 6,
+      "text": "Disse, pois, Jeremias: Veio a mim a palavra do SENHOR, dizendo:"
+    },
+    {
+      "verse": 7,
+      "text": "Eis que Hanameel, filho de Salum, teu tio, virá a ti, dizendo: Compra para ti o meu campo que está em Anatote, pois a ti pertence o direito de resgate para o comprares."
+    },
+    {
+      "verse": 8,
+      "text": "Veio, pois, a mim Hanameel, filho de meu tio, segundo a palavra do SENHOR, ao pátio da guarda, e disse-me: Compra, peço-te, o meu campo que está em Anatote, na terra de Benjamim, porque teu é o direito de herança e teu é o resgate; compra-o para ti. Então entendi que isto era a palavra do SENHOR."
+    },
+    {
+      "verse": 9,
+      "text": "Comprei, pois, o campo de Hanameel, filho de meu tio, que estava em Anatote, e pesei-lhe o dinheiro, dezessete siclos de prata."
+    },
+    {
+      "verse": 10,
+      "text": "E assinei a escritura, e a selei, e chamei testemunhas, e pesei-lhe o dinheiro na balança."
+    },
+    {
+      "verse": 11,
+      "text": "E tomei a escritura da compra, a selada, segundo a lei e o costume, e a aberta;"
+    },
+    {
+      "verse": 12,
+      "text": "E dei a escritura da compra a Baruque, filho de Nerias, filho de Maaseias, na presença de Hanameel, filho de meu tio, e na presença das testemunhas que assinaram a escritura da compra, e na presença de todos os judeus que estavam sentados no pátio da guarda."
+    },
+    {
+      "verse": 13,
+      "text": "E ordenei a Baruque, na presença deles, dizendo:"
+    },
+    {
+      "verse": 14,
+      "text": "Assim diz o SENHOR dos Exércitos, o Deus de Israel: Toma estas escrituras, esta escritura de compra, a selada e a aberta, e mete-as num vaso de barro, para que se possam conservar muitos dias."
+    },
+    {
+      "verse": 15,
+      "text": "Porque assim diz o SENHOR dos Exércitos, o Deus de Israel: Ainda se comprarão casas, e campos, e vinhas nesta terra."
+    },
+    {
+      "verse": 16,
+      "text": "E, depois de ter dado a escritura da compra a Baruque, filho de Nerias, orei ao SENHOR, dizendo:"
+    },
+    {
+      "verse": 17,
+      "text": "Ah! Senhor DEUS! Eis que tu fizeste os céus e a terra com o teu grande poder, e com o teu braço estendido; nada há que te seja demasiado difícil."
+    },
+    {
+      "verse": 18,
+      "text": "Tu usas de benignidade para com milhares, e retribuis a iniquidade dos pais no seio de seus filhos depois deles; o Grande, o Poderoso Deus, cujo nome é o SENHOR dos Exércitos;"
+    },
+    {
+      "verse": 19,
+      "text": "Grande em conselho, e magnífico em obras; porque os teus olhos estão abertos sobre todos os caminhos dos filhos dos homens, para dar a cada um segundo os seus caminhos e segundo o fruto das suas obras;"
+    },
+    {
+      "verse": 20,
+      "text": "Que puseste sinais e maravilhas na terra do Egito, até este dia, e em Israel, e entre os outros homens; e te fizeste um nome, como se vê neste dia."
+    },
+    {
+      "verse": 21,
+      "text": "E tiraste o teu povo Israel da terra do Egito com sinais, e com maravilhas, e com mão forte, e com braço estendido, e com grande terror;"
+    },
+    {
+      "verse": 22,
+      "text": "E lhes deste esta terra, que juraste a seus pais que lhes darias, terra que mana leite e mel;"
+    },
+    {
+      "verse": 23,
+      "text": "E entraram nela, e a possuíram; mas não obedeceram à tua voz, nem andaram na tua lei; nada fizeram de tudo o que lhes mandaste fazer; por isso, fizeste vir sobre eles todo este mal."
+    },
+    {
+      "verse": 24,
+      "text": "Eis aqui os baluartes, já chegaram à cidade para a tomar; e a cidade é entregue na mão dos caldeus, que pelejam contra ela, pela espada, e pela fome, e pela pestilência; e o que tu disseste se cumpriu; e eis que tu o vês."
+    },
+    {
+      "verse": 25,
+      "text": "E tu me disseste, ó Senhor DEUS: Compra para ti o campo por dinheiro, e chama testemunhas; ainda que a cidade seja entregue na mão dos caldeus."
+    },
+    {
+      "verse": 26,
+      "text": "Então veio a palavra do SENHOR a Jeremias, dizendo:"
+    },
+    {
+      "verse": 27,
+      "text": "Eis que eu sou o SENHOR, o Deus de toda a carne; acaso haveria alguma coisa demasiado difícil para mim?"
+    },
+    {
+      "verse": 28,
+      "text": "Portanto, assim diz o SENHOR: Eis que eu entrego esta cidade na mão dos caldeus, e na mão de Nabucodonosor, rei da Babilônia, e ele a tomará."
+    },
+    {
+      "verse": 29,
+      "text": "E os caldeus, que pelejam contra esta cidade, entrarão nela e porão fogo a esta cidade, e a queimarão, com as casas sobre cujos telhados ofereceram incenso a Baal, e derramaram libações a outros deuses, para me provocarem à ira."
+    },
+    {
+      "verse": 30,
+      "text": "Porque os filhos de Israel e os filhos de Judá não fizeram senão o que era mau aos meus olhos, desde a sua mocidade; porque os filhos de Israel só me provocaram à ira com a obra das suas mãos, diz o SENHOR."
+    },
+    {
+      "verse": 31,
+      "text": "Porque esta cidade, desde o dia em que a edificaram até este dia, tem sido para mim uma provocação da minha ira e do meu furor, para que eu a removesse de diante da minha face,"
+    },
+    {
+      "verse": 32,
+      "text": "Por causa de toda a maldade dos filhos de Israel e dos filhos de Judá, que fizeram para me provocarem à ira, eles, os seus reis, os seus príncipes, os seus sacerdotes, e os seus profetas, e os homens de Judá, e os habitantes de Jerusalém."
+    },
+    {
+      "verse": 33,
+      "text": "E viraram-me as costas, e não o rosto; ainda que eu os ensinava, levantando-me de madrugada e ensinando-os, contudo não deram ouvidos, para receberem instrução."
+    },
+    {
+      "verse": 34,
+      "text": "Mas puseram as suas abominações na casa que se chama pelo meu nome, para a profanarem."
+    },
+    {
+      "verse": 35,
+      "text": "E edificaram os altos de Baal, que estão no vale do filho de Hinom, para fazerem passar seus filhos e suas filhas pelo fogo a Moloque; o que nunca lhes ordenei, nem me subiu ao coração que fizessem tal abominação, para fazerem pecar a Judá."
+    },
+    {
+      "verse": 36,
+      "text": "E agora, pois, assim diz o SENHOR, o Deus de Israel, acerca desta cidade, da qual vós dizeis: Já está entregue na mão do rei da Babilônia, pela espada, e pela fome, e pela pestilência:"
+    },
+    {
+      "verse": 37,
+      "text": "Eis que os congregarei de todas as terras, para onde os lancei na minha ira, e no meu furor, e em grande indignação; e os farei voltar a este lugar, e farei que habitem em segurança."
+    },
+    {
+      "verse": 38,
+      "text": "E eles serão o meu povo, e eu serei o seu Deus."
+    },
+    {
+      "verse": 39,
+      "text": "E lhes darei um só coração, e um só caminho, para que me temam todos os dias, para seu bem e bem de seus filhos depois deles."
+    },
+    {
+      "verse": 40,
+      "text": "E farei com eles uma aliança eterna de que não me desviarei deles, para lhes fazer bem; e porei o meu temor nos seus corações, para que nunca se apartem de mim."
+    },
+    {
+      "verse": 41,
+      "text": "E alegrar-me-ei por causa deles, fazendo-lhes bem; e os plantarei nesta terra em verdade, com todo o meu coração e com toda a minha alma."
+    },
+    {
+      "verse": 42,
+      "text": "Porque assim diz o SENHOR: Como eu trouxe sobre este povo todo este grande mal, assim lhes trarei todo o bem que lhes tenho prometido."
+    },
+    {
+      "verse": 43,
+      "text": "E comprar-se-ão campos nesta terra, da qual vós dizeis: Está assolada, sem homens nem animais; está entregue na mão dos caldeus."
+    },
+    {
+      "verse": 44,
+      "text": "Comprarão campos por dinheiro, e assinarão as escrituras, e as selarão, e chamarão testemunhas na terra de Benjamim, e nos contornos de Jerusalém, e nas cidades de Judá, e nas cidades da montanha, e nas cidades do vale, e nas cidades do sul; porque os farei voltar do seu cativeiro, diz o SENHOR."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 121,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos121-140.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Levanto os meus olhos para os montes e pergunto: De onde me vem o socorro?"
+    },
+    {
+      "verse": 2,
+      "text": "O meu socorro vem do Senhor, que fez os céus e a terra."
+    },
+    {
+      "verse": 3,
+      "text": "Ele não permitirá que você tropece; o seu protetor se manterá alerta."
+    },
+    {
+      "verse": 4,
+      "text": "Eis que não dormitará nem dormirá aquele que guarda a Israel."
+    },
+    {
+      "verse": 5,
+      "text": "O Senhor é quem te guarda; o Senhor é a tua sombra à tua mão direita."
+    },
+    {
+      "verse": 6,
+      "text": "De dia o sol não te ferirá, nem a lua de noite."
+    },
+    {
+      "verse": 7,
+      "text": "O Senhor te guardará de todo o mal; ele guardará a tua vida."
+    },
+    {
+      "verse": 8,
+      "text": "O Senhor guardará a tua saída e a tua entrada, desde agora e para sempre."
+    }
+  ]
+}

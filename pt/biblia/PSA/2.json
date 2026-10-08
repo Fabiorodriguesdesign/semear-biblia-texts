@@ -1,0 +1,58 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 2,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Por que se amotinam as nações, e os povos imaginam coisas vãs?"
+    },
+    {
+      "verse": 2,
+      "text": "Os reis da terra se levantam e os príncipes conspiram contra o Senhor e contra o seu ungido, dizendo:"
+    },
+    {
+      "verse": 3,
+      "text": "Rompamos as suas ataduras, e sacudamos de nós as suas cordas."
+    },
+    {
+      "verse": 4,
+      "text": "Aquele que habita nos céus se rirá; o Senhor zombará deles."
+    },
+    {
+      "verse": 5,
+      "text": "Então lhes falará na sua ira, e no seu furor os confundirá."
+    },
+    {
+      "verse": 6,
+      "text": "Eu, porém, ungi o meu Rei sobre o meu santo monte de Sião."
+    },
+    {
+      "verse": 7,
+      "text": "Proclamarei o decreto: o Senhor me disse: Tu és meu Filho, eu hoje te gerei."
+    },
+    {
+      "verse": 8,
+      "text": "Pede-me, e eu te darei os gentios por herança, e os fins da terra por tua possessão."
+    },
+    {
+      "verse": 9,
+      "text": "Tu os quebrarás com uma vara de ferro; tu os despedaçarás como a um vaso de oleiro."
+    },
+    {
+      "verse": 10,
+      "text": "Agora, pois, ó reis, sede prudentes; deixai-vos instruir, juízes da terra."
+    },
+    {
+      "verse": 11,
+      "text": "Servi ao Senhor com temor, e alegrai-vos com tremor."
+    },
+    {
+      "verse": 12,
+      "text": "Beijai o Filho, para que se não ire, e pereçais no caminho, quando em breve se acender a sua ira. Bem-aventurados todos aqueles que nele confiam."
+    }
+  ]
+}

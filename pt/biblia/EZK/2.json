@@ -1,0 +1,50 @@
+{
+  "book_id": "EZK",
+  "book": "Ezequiel",
+  "chapter": 2,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/ezequiel/biblia_kjv_26ezequiel1-15.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Então me disse: Filho do homem, põe-te em pé, e te falarei."
+    },
+    {
+      "verse": 2,
+      "text": "E entrou em mim o espírito, quando ele me falou, e me pôs em pé, e ouvi o que me falava."
+    },
+    {
+      "verse": 3,
+      "text": "E disse-me: Filho do homem, eu te envio aos filhos de Israel, às nações rebeldes que se rebelaram contra mim; eles e seus pais transgrediram contra mim, até este mesmo dia."
+    },
+    {
+      "verse": 4,
+      "text": "E os filhos são de semblante impudente e de coração obstinado. Eu te envio a eles; e lhes dirás: Assim diz o Senhor DEUS."
+    },
+    {
+      "verse": 5,
+      "text": "E eles, quer ouçam quer deixem de ouvir (porque são casa rebelde), contudo saberão que houve um profeta no meio deles."
+    },
+    {
+      "verse": 6,
+      "text": "E tu, filho do homem, não os temas, nem temas as suas palavras, ainda que estejam contigo sarças e espinhos, e tu habites entre escorpiões; não temas as suas palavras, nem te espantes com os seus semblantes, ainda que sejam casa rebelde."
+    },
+    {
+      "verse": 7,
+      "text": "Mas tu lhes falarás as minhas palavras, quer ouçam quer deixem de ouvir; porque são muito rebeldes."
+    },
+    {
+      "verse": 8,
+      "text": "Mas tu, filho do homem, ouve o que eu te digo; não sejas rebelde como aquela casa rebelde; abre a tua boca, e come o que eu te dou."
+    },
+    {
+      "verse": 9,
+      "text": "Então olhei, e eis que uma mão me foi estendida; e eis que nela havia um rolo de livro;"
+    },
+    {
+      "verse": 10,
+      "text": "E ele o estendeu diante de mim; e estava escrito por dentro e por fora; e nele estavam escritas lamentações, e prantos, e ais."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 43,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos41-60.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Julga-me, ó Deus, e pleiteia a minha causa contra uma nação ímpia; livra-me do homem enganoso e injusto."
+    },
+    {
+      "verse": 2,
+      "text": "Pois tu és o Deus da minha fortaleza; por que me rejeitas? Por que ando lamentando por causa da opressão do inimigo?"
+    },
+    {
+      "verse": 3,
+      "text": "Envia a tua luz e a tua verdade; que elas me guiem; que me levem ao teu santo monte, e aos teus tabernáculos."
+    },
+    {
+      "verse": 4,
+      "text": "Então irei ao altar de Deus, a Deus, a minha grande alegria; e ao som da harpa te louvarei, ó Deus, Deus meu."
+    },
+    {
+      "verse": 5,
+      "text": "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, o qual é a salvação da minha face, e o meu Deus."
+    }
+  ]
+}

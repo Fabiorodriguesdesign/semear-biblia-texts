@@ -1,0 +1,70 @@
+{
+  "book_id": "AMO",
+  "book": "Amós",
+  "chapter": 3,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/amos/biblia_kjv_30amos.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ouvi esta palavra que o SENHOR fala contra vós, ó filhos de Israel, contra toda a família que fiz subir da terra do Egito, dizendo:"
+    },
+    {
+      "verse": 2,
+      "text": "De todas as famílias da terra só a vós vos conheci; portanto, vos castigarei por todas as vossas iniquidades."
+    },
+    {
+      "verse": 3,
+      "text": "Andarão dois juntos, se não estiverem de acordo?"
+    },
+    {
+      "verse": 4,
+      "text": "Bramirá o leão no bosque, sem que tenha presa? Levantará o leãozinho a sua voz da sua cova, se nada tiver apanhado?"
+    },
+    {
+      "verse": 5,
+      "text": "Cairá a ave no laço em terra, se não houver armadilha para ela? Levantar-se-á o laço da terra, sem que tenha apanhado alguma coisa?"
+    },
+    {
+      "verse": 6,
+      "text": "Tocar-se-á a trombeta na cidade, e o povo não se assustará? Sucederá algum mal na cidade, sem que o SENHOR o tenha feito?"
+    },
+    {
+      "verse": 7,
+      "text": "Certamente o Senhor DEUS não fará coisa alguma, sem ter revelado o seu segredo aos seus servos, os profetas."
+    },
+    {
+      "verse": 8,
+      "text": "Bramiu o leão, quem não temerá? Falou o Senhor DEUS, quem não profetizará?"
+    },
+    {
+      "verse": 9,
+      "text": "Publicai nos palácios de Asdode, e nos palácios da terra do Egito, e dizei: Ajuntai-vos sobre os montes de Samaria, e vede as grandes perturbações no meio dela, e as opressões no seu interior."
+    },
+    {
+      "verse": 10,
+      "text": "Porque não sabem fazer o que é reto, diz o SENHOR, aqueles que entesouram nos seus palácios a violência e a roubalheira."
+    },
+    {
+      "verse": 11,
+      "text": "Portanto, assim diz o Senhor DEUS: Um adversário haverá, e estará ao redor da terra; e derrubará de ti a tua força, e os teus palácios serão saqueados."
+    },
+    {
+      "verse": 12,
+      "text": "Assim diz o SENHOR: Como o pastor livra da boca do leão duas pernas, ou um pedaço da orelha, assim serão livrados os filhos de Israel que habitam em Samaria no canto da cama, e em Damasco no leito."
+    },
+    {
+      "verse": 13,
+      "text": "Ouvi, e testificai na casa de Jacó, diz o Senhor DEUS, o Deus dos Exércitos:"
+    },
+    {
+      "verse": 14,
+      "text": "Que no dia em que eu visitar as transgressões de Israel sobre ele, também visitarei os altares de Betel; e as pontas do altar serão cortadas, e cairão por terra."
+    },
+    {
+      "verse": 15,
+      "text": "E ferirei a casa de inverno com a casa de verão; e as casas de marfim perecerão, e as grandes casas terão fim, diz o SENHOR."
+    }
+  ]
+}

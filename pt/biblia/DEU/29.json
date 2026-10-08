@@ -1,0 +1,126 @@
+{
+  "book_id": "DEU",
+  "book": "Deuteronômio",
+  "chapter": 29,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/deuteronomio/biblia_kjv_05deuteronomio18-34.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Estas são as palavras da aliança que o SENHOR ordenou a Moisés que fizesse com os filhos de Israel na terra de Moabe, além da aliança que fizera com eles em Horebe."
+    },
+    {
+      "verse": 2,
+      "text": "E Moisés chamou a todo o Israel, e disse-lhes: Vistes tudo quanto o SENHOR fez perante os vossos olhos, na terra do Egito, a Faraó, e a todos os seus servos, e a toda a sua terra;"
+    },
+    {
+      "verse": 3,
+      "text": "As grandes tentações que os teus olhos viram, os sinais e aqueles grandes milagres:"
+    },
+    {
+      "verse": 4,
+      "text": "Todavia o SENHOR não vos deu um coração para entender, nem olhos para ver, nem ouvidos para ouvir, até ao dia de hoje."
+    },
+    {
+      "verse": 5,
+      "text": "E quarenta anos vos conduzi no deserto; as vossas vestes não se envelheceram sobre vós, nem o teu sapato se envelheceu sobre o teu pé."
+    },
+    {
+      "verse": 6,
+      "text": "Não comestes pão, nem bebestes vinho nem bebida forte; para que soubésseis que eu sou o SENHOR vosso Deus."
+    },
+    {
+      "verse": 7,
+      "text": "E quando chegastes a este lugar, Siom, rei de Hesbom, e Ogue, rei de Basã, nos saíram ao encontro à peleja, e os ferimos."
+    },
+    {
+      "verse": 8,
+      "text": "E tomamos a sua terra, e a demos por herança aos rubenitas, e aos gaditas, e à meia tribo dos manassitas."
+    },
+    {
+      "verse": 9,
+      "text": "Guardai, pois, as palavras desta aliança, e cumpri-as, para que prospereis em tudo o que fizerdes."
+    },
+    {
+      "verse": 10,
+      "text": "Vós todos estais hoje perante o SENHOR vosso Deus; os vossos chefes das vossas tribos, os vossos anciãos, e os vossos oficiais, com todos os homens de Israel,"
+    },
+    {
+      "verse": 11,
+      "text": "Vossos meninos, vossas mulheres, e o estrangeiro que está no meio do teu arraial, desde o rachador da tua lenha até ao tirador da tua água;"
+    },
+    {
+      "verse": 12,
+      "text": "Para que entres na aliança do SENHOR teu Deus, e no seu juramento, que o SENHOR teu Deus hoje faz contigo:"
+    },
+    {
+      "verse": 13,
+      "text": "Para que hoje te estabeleça por seu povo, e ele te seja por Deus, como te tem dito, e como jurou a teus pais, a Abraão, a Isaque e a Jacó."
+    },
+    {
+      "verse": 14,
+      "text": "E não somente convosco faço esta aliança e este juramento;"
+    },
+    {
+      "verse": 15,
+      "text": "Mas com aquele que hoje está aqui conosco perante o SENHOR nosso Deus, e também com aquele que hoje não está aqui conosco:"
+    },
+    {
+      "verse": 16,
+      "text": "(Porque vós sabeis como habitamos na terra do Egito; e como passamos pelo meio das nações pelas quais passastes;"
+    },
+    {
+      "verse": 17,
+      "text": "E vistes as suas abominações, e os seus ídolos, madeira e pedra, prata e ouro, que havia entre eles:)"
+    },
+    {
+      "verse": 18,
+      "text": "Para que entre vós não haja homem, nem mulher, nem família, nem tribo, cujo coração hoje se desvie do SENHOR nosso Deus, para ir servir aos deuses destas nações; para que entre vós não haja raiz que produza fel e absinto;"
+    },
+    {
+      "verse": 19,
+      "text": "E aconteça que, ouvindo as palavras desta maldição, se abençoe em seu coração, dizendo: Terei paz, ainda que ande na dureza do meu coração, para acrescentar à sede a bebedeira."
+    },
+    {
+      "verse": 20,
+      "text": "O SENHOR não o perdoará; mas então a ira do SENHOR e o seu zelo se acenderão contra esse homem, e toda a maldição que está escrita neste livro cairá sobre ele, e o SENHOR apagará o seu nome de debaixo do céu."
+    },
+    {
+      "verse": 21,
+      "text": "E o SENHOR o separará para mal, de todas as tribos de Israel, conforme todas as maldições da aliança que estão escritas neste livro da lei:"
+    },
+    {
+      "verse": 22,
+      "text": "De maneira que a geração vindoura de vossos filhos, que se levantarem depois de vós, e o estrangeiro que vier de uma terra longínqua, dirão, quando virem as pragas daquela terra, e as enfermidades com que o SENHOR a tiver afligido;"
+    },
+    {
+      "verse": 23,
+      "text": "E que toda a sua terra é enxofre, e sal, e queimadura, que não será semeada, nem produzirá, nem nela crescerá erva alguma, assim como a destruição de Sodoma e Gomorra, de Admá e Zeboim, que o SENHOR destruiu na sua ira e no seu furor:"
+    },
+    {
+      "verse": 24,
+      "text": "Então todas as nações dirão: Por que fez o SENHOR assim a esta terra? Que significa o calor desta grande ira?"
+    },
+    {
+      "verse": 25,
+      "text": "Então os homens dirão: Porque deixaram a aliança do SENHOR Deus de seus pais, que ele fez com eles, quando os tirou da terra do Egito:"
+    },
+    {
+      "verse": 26,
+      "text": "E foram, e serviram a outros deuses, e os adoraram, deuses que eles não conheceram, e que ele não lhes tinha dado:"
+    },
+    {
+      "verse": 27,
+      "text": "Pelo que a ira do SENHOR se acendeu contra esta terra, para trazer sobre ela toda a maldição que está escrita neste livro:"
+    },
+    {
+      "verse": 28,
+      "text": "E o SENHOR os arrancou da sua terra com ira, e com furor, e com grande indignação, e os lançou em outra terra, como hoje se vê."
+    },
+    {
+      "verse": 29,
+      "text": "As coisas encobertas pertencem ao SENHOR nosso Deus, porém as reveladas nos pertencem a nós e a nossos filhos para sempre, para que cumpramos todas as palavras desta lei."
+    }
+  ]
+}

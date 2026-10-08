@@ -1,0 +1,122 @@
+{
+  "book_id": "JOS",
+  "book": "Josué",
+  "chapter": 18,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/josue/biblia_kjv_06josue11-24.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E toda a congregação dos filhos de Israel se ajuntou em Siló, e ali armaram a tenda da congregação, depois que a terra lhes foi sujeita."
+    },
+    {
+      "verse": 2,
+      "text": "E dentre os filhos de Israel ficaram sete tribos que ainda não tinham repartido a sua herança."
+    },
+    {
+      "verse": 3,
+      "text": "E disse Josué aos filhos de Israel: Até quando sereis remissos em entrar para possuir a terra que o Senhor Deus de vossos pais vos deu?"
+    },
+    {
+      "verse": 4,
+      "text": "Dai-me de entre vós, por cada tribo, três homens, para que eu os envie, e se levantem, e percorram a terra, e a demarquem segundo a sua herança, e então voltem a mim."
+    },
+    {
+      "verse": 5,
+      "text": "E dividi-la-ão em sete partes: Judá ficará no seu termo para o sul, e a casa de José ficará no seu termo para o norte."
+    },
+    {
+      "verse": 6,
+      "text": "E vós demarcareis a terra em sete partes, e me trareis a mim aqui, para que eu aqui lance as sortes perante o Senhor nosso Deus."
+    },
+    {
+      "verse": 7,
+      "text": "Porquanto os levitas não têm parte no meio de vós, porque o sacerdócio do Senhor é a sua herança; e Gade, e Rúben, e a meia tribo de Manassés, já receberam a sua herança além do Jordão para o oriente, a qual lhes deu Moisés, o servo do Senhor."
+    },
+    {
+      "verse": 8,
+      "text": "Então aqueles homens se levantaram e se foram; e Josué deu ordem aos que iam demarcar a terra, dizendo: Ide, e percorrei a terra, e demarcai-a, e então voltai a mim, para que eu aqui vos lance as sortes perante o Senhor, em Siló."
+    },
+    {
+      "verse": 9,
+      "text": "Foram, pois, aqueles homens, e passaram pela terra, e a demarcaram, em sete partes segundo as cidades, descrevendo-a num livro; e voltaram a Josué, ao arraial em Siló."
+    },
+    {
+      "verse": 10,
+      "text": "Então Josué lhes lançou as sortes em Siló, perante o Senhor; e ali repartiu Josué a terra aos filhos de Israel, conforme as suas divisões."
+    },
+    {
+      "verse": 11,
+      "text": "E subiu a sorte da tribo dos filhos de Benjamim, segundo as suas famílias; e caiu o termo da sua sorte entre os filhos de Judá e os filhos de José."
+    },
+    {
+      "verse": 12,
+      "text": "E foi o seu termo do lado do norte desde o Jordão; e subia este termo para o lado de Jericó, do norte, e subia pela montanha para o ocidente, e as suas saídas eram no deserto de Bete-Áven."
+    },
+    {
+      "verse": 13,
+      "text": "E dali passava este termo a Luz, à banda de Luz, que é Betel, para o sul; e descia este termo a Atarote-Adar, ao pé do monte que está do lado do sul de Bete-Horom de baixo."
+    },
+    {
+      "verse": 14,
+      "text": "E este termo estendia-se, e virava para o lado do ocidente, para o sul, desde o monte que está diante de Bete-Horom para o sul; e as suas saídas eram em Quiriate-Baal (que é Quiriate-Jearim), cidade dos filhos de Judá; este era o termo do ocidente."
+    },
+    {
+      "verse": 15,
+      "text": "E o termo do sul era desde a ponta de Quiriate-Jearim; e saía este termo para o ocidente, e chegava até à fonte das águas de Neftoa."
+    },
+    {
+      "verse": 16,
+      "text": "E descia este termo até à extremidade do monte que está defronte do vale do filho de Hinom, que está no vale dos refains do lado do norte; e descia pelo vale de Hinom, ao lado dos jebuseus para o sul, e descia a En-Rogel;"
+    },
+    {
+      "verse": 17,
+      "text": "E estendia-se para o norte, e saía a En-Semes, e saía a Gelilote, que está defronte da subida de Adumim; e descia à pedra de Boã, filho de Rúben."
+    },
+    {
+      "verse": 18,
+      "text": "E passava ao lado que está defronte de Arabá, para o norte, e descia a Arabá."
+    },
+    {
+      "verse": 19,
+      "text": "E passava este termo ao lado de Bete-Hogla para o norte; e as saídas deste termo eram na baía do Mar Salgado, para o norte, na extremidade do Jordão para o sul; este era o termo do sul."
+    },
+    {
+      "verse": 20,
+      "text": "O Jordão, porém, o terminava do lado do oriente; esta era a herança dos filhos de Benjamim, nos seus termos em redor, segundo as suas famílias."
+    },
+    {
+      "verse": 21,
+      "text": "E as cidades da tribo dos filhos de Benjamim, segundo as suas famílias, eram: Jericó, e Bete-Hogla, e o vale de Queziz,"
+    },
+    {
+      "verse": 22,
+      "text": "E Bete-Arabá, e Zemaraim, e Betel,"
+    },
+    {
+      "verse": 23,
+      "text": "E Avim, e Pará, e Ofra,"
+    },
+    {
+      "verse": 24,
+      "text": "E Quefar-Amonai, e Ofni, e Gaba; doze cidades e as suas aldeias."
+    },
+    {
+      "verse": 25,
+      "text": "Gibeom, e Ramá, e Beerote,"
+    },
+    {
+      "verse": 26,
+      "text": "E Mizpá, e Quefira, e Mosa,"
+    },
+    {
+      "verse": 27,
+      "text": "E Requém, e Irpeel, e Tarala,"
+    },
+    {
+      "verse": 28,
+      "text": "E Zela, Elefe, e Jebus (que é Jerusalém), Gibeá, e Quiriate; catorze cidades e as suas aldeias. Esta é a herança dos filhos de Benjamim, segundo as suas famílias."
+    }
+  ]
+}

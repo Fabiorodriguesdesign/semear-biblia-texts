@@ -1,0 +1,162 @@
+{
+  "book_id": "NEH",
+  "book": "Neemias",
+  "chapter": 9,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/neemias/biblia_kjv_16neemias.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ora, no dia vinte e quatro deste mês, os filhos de Israel se ajuntaram com jejum, e com sacos, e com terra sobre si."
+    },
+    {
+      "verse": 2,
+      "text": "E a descendência de Israel separou-se de todos os estrangeiros, e puseram-se em pé, e confessaram os seus pecados e as iniqüidades de seus pais."
+    },
+    {
+      "verse": 3,
+      "text": "E puseram-se em pé no seu lugar, e leram no livro da lei do Senhor seu Deus uma quarta parte do dia; e outra quarta parte confessaram e adoraram ao Senhor seu Deus."
+    },
+    {
+      "verse": 4,
+      "text": "Então se levantaram sobre as escadas, dos levitas, Jesuá, e Bani, Cadmiel, Sebanias, Buni, Serebias, Bani e Quenani, e clamaram em alta voz ao Senhor seu Deus."
+    },
+    {
+      "verse": 5,
+      "text": "Então os levitas, Jesuá, e Cadmiel, Bani, Hasabnéias, Serebias, Hodias, Sebanias e Petaías, disseram: Levantai-vos e bendizei ao Senhor vosso Deus para todo o sempre; e bendito seja o teu glorioso nome, que é exaltado acima de toda bênção e louvor."
+    },
+    {
+      "verse": 6,
+      "text": "Tu, sim, tu és o Senhor somente; tu fizeste o céu, o céu dos céus, com todo o seu exército, a terra e tudo o que nela há, os mares e tudo o que neles há, e tu os preservas a todos; e o exército do céu te adora."
+    },
+    {
+      "verse": 7,
+      "text": "Tu és o Senhor Deus, que escolheste a Abrão, e o tiraste de Ur dos caldeus, e lhe deste o nome de Abraão;"
+    },
+    {
+      "verse": 8,
+      "text": "E achaste o seu coração fiel diante de ti, e fizeste com ele uma aliança para dar a terra dos cananeus, dos heteus, dos amorreus, e dos perizeus, e dos jebuseus, e dos girgaseus, para a dares, digo, à sua descendência, e cumpriste as tuas palavras; porque tu és justo."
+    },
+    {
+      "verse": 9,
+      "text": "E viste a aflição de nossos pais no Egito, e ouviste o seu clamor junto ao Mar Vermelho;"
+    },
+    {
+      "verse": 10,
+      "text": "E mostraste sinais e maravilhas sobre Faraó, e sobre todos os seus servos, e sobre todo o povo da sua terra; porque sabias que eles soberbamente os trataram. Assim fizeste para ti um nome, como hoje se vê."
+    },
+    {
+      "verse": 11,
+      "text": "E dividiste o mar diante deles, de modo que passaram pelo meio do mar em terra seca; e os seus perseguidores lançaste nas profundezas, como uma pedra nas águas impetuosas."
+    },
+    {
+      "verse": 12,
+      "text": "Além disso, tu os guiaste de dia por uma coluna de nuvem; e de noite por uma coluna de fogo, para lhes dar luz no caminho por onde haviam de ir."
+    },
+    {
+      "verse": 13,
+      "text": "Desceste também sobre o monte Sinai, e falaste com eles do céu, e deste-lhes juízos retos e leis verdadeiras, bons estatutos e mandamentos."
+    },
+    {
+      "verse": 14,
+      "text": "E lhes fizeste conhecer o teu santo sábado, e lhes ordenaste preceitos, estatutos e leis, pela mão de Moisés, teu servo."
+    },
+    {
+      "verse": 15,
+      "text": "E lhes deste pão do céu para a sua fome, e lhes tiraste água da rocha para a sua sede, e lhes prometeste que entrariam para possuir a terra que tinhas jurado dar-lhes."
+    },
+    {
+      "verse": 16,
+      "text": "Mas eles e nossos pais agiram com soberba, e endureceram a sua cerviz, e não deram ouvidos aos teus mandamentos,"
+    },
+    {
+      "verse": 17,
+      "text": "E recusaram-se a obedecer, nem se lembraram das tuas maravilhas que fizeste entre eles; mas endureceram a sua cerviz, e na sua rebelião nomearam um capitão para voltar à sua servidão; mas tu és um Deus pronto a perdoar, clemente e misericordioso, tardio em irar-se, e de grande benignidade, e não os desamparaste."
+    },
+    {
+      "verse": 18,
+      "text": "Sim, quando fizeram para si um bezerro de fundição, e disseram: Este é o teu Deus que te tirou do Egito, e praticaram grandes provocações;"
+    },
+    {
+      "verse": 19,
+      "text": "Contudo, tu, na tua multiforme misericórdia, não os desamparaste no deserto; a coluna de nuvem não se apartou deles de dia, para os guiar no caminho; nem a coluna de fogo de noite, para lhes mostrar a luz, e o caminho por onde haviam de ir."
+    },
+    {
+      "verse": 20,
+      "text": "Deste também o teu bom espírito para os instruir, e não retiraste o teu maná da sua boca, e lhes deste água para a sua sede."
+    },
+    {
+      "verse": 21,
+      "text": "Sim, quarenta anos os sustentaste no deserto, de modo que nada lhes faltou; as suas vestes não envelheceram, e os seus pés não incharam."
+    },
+    {
+      "verse": 22,
+      "text": "Além disso, deste-lhes reinos e nações, e os dividiste em cantos; assim possuíram a terra de Siom, e a terra do rei de Hesbom, e a terra de Ogue, rei de Basã."
+    },
+    {
+      "verse": 23,
+      "text": "Também multiplicaste os seus filhos como as estrelas do céu, e os trouxeste à terra a respeito da qual tinhas prometido a seus pais que entrariam para a possuir."
+    },
+    {
+      "verse": 24,
+      "text": "Assim os filhos entraram e possuíram a terra, e tu subjugaste diante deles os habitantes da terra, os cananeus, e os entregaste nas suas mãos, com os seus reis e o povo da terra, para que fizessem com eles como quisessem."
+    },
+    {
+      "verse": 25,
+      "text": "E tomaram cidades fortes e uma terra fértil, e possuíram casas cheias de todos os bens, poços cavados, vinhas e olivais, e árvores frutíferas em abundância; assim comeram, e se fartaram, e engordaram, e se deleitaram na tua grande bondade."
+    },
+    {
+      "verse": 26,
+      "text": "Contudo, foram desobedientes e se rebelaram contra ti, e lançaram a tua lei para trás das costas, e mataram os teus profetas que testificavam contra eles para os converter a ti, e praticaram grandes provocações."
+    },
+    {
+      "verse": 27,
+      "text": "Por isso os entregaste nas mãos dos seus inimigos, que os afligiram; e no tempo da sua angústia, quando clamaram a ti, tu os ouviste do céu; e segundo a tua multiforme misericórdia lhes deste libertadores, que os salvaram das mãos dos seus inimigos."
+    },
+    {
+      "verse": 28,
+      "text": "Mas, depois de terem repouso, tornaram a fazer o mal diante de ti; por isso os deixaste na mão dos seus inimigos, de modo que estes dominaram sobre eles; contudo, quando voltaram e clamaram a ti, tu os ouviste do céu; e muitas vezes os livraste segundo as tuas misericórdias;"
+    },
+    {
+      "verse": 29,
+      "text": "E testificaste contra eles, para que os fizesses voltar à tua lei; contudo, agiram com soberba e não deram ouvidos aos teus mandamentos, mas pecaram contra os teus juízos (os quais, se um homem os cumprir, viverá neles); e retiraram o ombro, e endureceram a sua cerviz, e não quiseram ouvir."
+    },
+    {
+      "verse": 30,
+      "text": "Contudo, muitos anos os suportaste, e testificaste contra eles pelo teu espírito nos teus profetas; contudo, não quiseram dar ouvidos; por isso os entregaste nas mãos dos povos das terras."
+    },
+    {
+      "verse": 31,
+      "text": "Contudo, por causa das tuas grandes misericórdias, não os consumiste totalmente, nem os desamparaste; porque tu és um Deus clemente e misericordioso."
+    },
+    {
+      "verse": 32,
+      "text": "Agora, pois, nosso Deus, o grande, o poderoso e o terrível Deus, que guardas a aliança e a misericórdia, não te pareça pouca toda a angústia que nos sobreveio, a nós, aos nossos reis, aos nossos príncipes, e aos nossos sacerdotes, e aos nossos profetas, e a nossos pais, e a todo o teu povo, desde os dias dos reis da Assíria até este dia."
+    },
+    {
+      "verse": 33,
+      "text": "Contudo, tu és justo em tudo o que nos sobreveio; porque tu fizeste o que é reto, mas nós fizemos o que é ímpio."
+    },
+    {
+      "verse": 34,
+      "text": "Nem os nossos reis, os nossos príncipes, os nossos sacerdotes, nem os nossos pais guardaram a tua lei, nem deram ouvidos aos teus mandamentos e aos teus testemunhos, com que testificaste contra eles."
+    },
+    {
+      "verse": 35,
+      "text": "Porque eles não te serviram no seu reino, e na tua grande bondade que lhes deste, e na terra grande e fértil que puseste diante deles, nem se converteram das suas más obras."
+    },
+    {
+      "verse": 36,
+      "text": "Eis que hoje somos servos, e quanto à terra que deste a nossos pais para comerem do seu fruto e do seu bem, eis que nela somos servos."
+    },
+    {
+      "verse": 37,
+      "text": "E ela produz muito para os reis que puseste sobre nós por causa dos nossos pecados; também eles dominam sobre os nossos corpos e sobre o nosso gado, à sua vontade, e estamos em grande angústia."
+    },
+    {
+      "verse": 38,
+      "text": "E por causa de tudo isto, fazemos uma aliança segura, e a escrevemos; e os nossos príncipes, levitas e sacerdotes a selam."
+    }
+  ]
+}

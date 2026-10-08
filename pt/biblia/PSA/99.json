@@ -1,0 +1,46 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 99,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos81-100.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O SENHOR reina; tremam os povos; ele está entronizado entre os querubins; mova-se a terra."
+    },
+    {
+      "verse": 2,
+      "text": "O SENHOR é grande em Sião; e ele é exaltado sobre todos os povos."
+    },
+    {
+      "verse": 3,
+      "text": "Louvem o teu grande e temível nome, pois é santo."
+    },
+    {
+      "verse": 4,
+      "text": "A força do rei também ama o juízo; tu estabeleces a equidade, tu executas o juízo e a justiça em Jacó."
+    },
+    {
+      "verse": 5,
+      "text": "Exaltai ao SENHOR nosso Deus, e adorai aos seus pés; porque ele é santo."
+    },
+    {
+      "verse": 6,
+      "text": "Moisés e Arão entre os seus sacerdotes, e Samuel entre os que invocam o seu nome; eles clamaram ao SENHOR, e ele lhes respondeu."
+    },
+    {
+      "verse": 7,
+      "text": "Ele lhes falou na coluna de nuvem; eles guardaram os seus testemunhos e a ordenança que ele lhes deu."
+    },
+    {
+      "verse": 8,
+      "text": "Tu lhes respondeste, ó SENHOR nosso Deus; tu foste um Deus que os perdoaste, embora tenhas tomado vingança de suas invenções."
+    },
+    {
+      "verse": 9,
+      "text": "Exaltai o SENHOR nosso Deus, e adorai no seu santo monte; porque o SENHOR nosso Deus é santo."
+    }
+  ]
+}

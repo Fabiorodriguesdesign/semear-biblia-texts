@@ -1,0 +1,42 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 101,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos101-120.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Cantarei a misericórdia e o juízo; a ti, Senhor, cantarei."
+    },
+    {
+      "verse": 2,
+      "text": "Portar-me-ei com inteligência no caminho reto. Quando virás a mim? Andarei em minha casa com um coração sincero."
+    },
+    {
+      "verse": 3,
+      "text": "Não porei coisa má diante dos meus olhos. Odeio a obra daqueles que se desviam; não se me pegará a mim."
+    },
+    {
+      "verse": 4,
+      "text": "Um coração perverso se apartará de mim; não conhecerei o homem mau."
+    },
+    {
+      "verse": 5,
+      "text": "Aquele que calunia em segredo a seu próximo, a esse destruirei; o que tem olhar altivo e coração soberbo, não o suportarei."
+    },
+    {
+      "verse": 6,
+      "text": "Os meus olhos estarão sobre os fiéis da terra, para que habitem comigo; o que anda num caminho reto, esse me servirá."
+    },
+    {
+      "verse": 7,
+      "text": "O que usa de engano não ficará dentro da minha casa; o que fala mentiras não permanecerá perante os meus olhos."
+    },
+    {
+      "verse": 8,
+      "text": "Pela manhã destruirei todos os ímpios da terra, para desarraigar da cidade do Senhor todos os que praticam a iniquidade."
+    }
+  ]
+}

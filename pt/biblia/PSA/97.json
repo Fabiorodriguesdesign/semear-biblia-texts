@@ -1,0 +1,58 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 97,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos81-100.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O SENHOR reina; regozije-se a terra; alegrem-se a multidão de ilhas."
+    },
+    {
+      "verse": 2,
+      "text": "Nuvens e escuridão estão ao redor dele; retidão e justiça são a base do seu trono."
+    },
+    {
+      "verse": 3,
+      "text": "Um fogo vai adiante dele e consome os seus inimigos em redor."
+    },
+    {
+      "verse": 4,
+      "text": "Os seus relâmpagos iluminaram o mundo; a terra viu e tremeu."
+    },
+    {
+      "verse": 5,
+      "text": "Os montes derreteram-se como cera na presença do SENHOR, na presença do Senhor de toda a terra."
+    },
+    {
+      "verse": 6,
+      "text": "Os céus declaram a sua justiça, e todos os povos veem a sua glória."
+    },
+    {
+      "verse": 7,
+      "text": "Confundidos sejam todos os que servem imagens de escultura, que se gloriam de ídolos; adorai-o, todos os deuses."
+    },
+    {
+      "verse": 8,
+      "text": "Sião ouviu e se alegrou; e as filhas de Judá se regozijaram por causa dos teus juízos, ó SENHOR."
+    },
+    {
+      "verse": 9,
+      "text": "Pois tu, SENHOR, és o Altíssimo sobre toda a terra; tu és exaltado muito acima de todos os deuses."
+    },
+    {
+      "verse": 10,
+      "text": "Vós que amais ao SENHOR, odiai o mal; ele preserva as almas dos seus santos; ele os livra da mão dos ímpios."
+    },
+    {
+      "verse": 11,
+      "text": "A luz é semeada para os justos, e a alegria para os retos de coração."
+    },
+    {
+      "verse": 12,
+      "text": "Alegrai-vos no SENHOR, vós justos, e dai graças em memória da sua santidade."
+    }
+  ]
+}

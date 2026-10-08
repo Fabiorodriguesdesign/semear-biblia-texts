@@ -1,0 +1,50 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 112,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos101-120.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Louvai ao Senhor. Bem-aventurado o homem que teme ao Senhor, que em seus mandamentos tem grande prazer."
+    },
+    {
+      "verse": 2,
+      "text": "A sua semente será poderosa na terra; a geração dos retos será abençoada."
+    },
+    {
+      "verse": 3,
+      "text": "Prosperidade e riquezas haverá na sua casa, e a sua justiça permanece para sempre."
+    },
+    {
+      "verse": 4,
+      "text": "A luz raia nas trevas para o íntegro, para quem é misericordioso, compassivo e justo."
+    },
+    {
+      "verse": 5,
+      "text": "Feliz é o homem que empresta com generosidade e que com honestidade conduz os seus negócios."
+    },
+    {
+      "verse": 6,
+      "text": "O justo jamais será abalado; para sempre se lembrarão dele."
+    },
+    {
+      "verse": 7,
+      "text": "Não temerá más notícias; o seu coração está firme, confiante no SENHOR."
+    },
+    {
+      "verse": 8,
+      "text": "O seu coração está seguro e nada temerá. No final, verá a derrota dos seus adversários."
+    },
+    {
+      "verse": 9,
+      "text": "Reparte generosamente com os pobres; a sua justiça dura para sempre; seu poder será exaltado em honra."
+    },
+    {
+      "verse": 10,
+      "text": "O ímpio o vê e fica irado, range os dentes e definha. O desejo dos ímpios se frustrará."
+    }
+  ]
+}

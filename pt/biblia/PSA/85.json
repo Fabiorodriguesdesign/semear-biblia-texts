@@ -1,0 +1,62 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 85,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos81-100.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Senhor, tu tens sido favorável à tua terra; tu trouxeste de volta o cativeiro de Jacó."
+    },
+    {
+      "verse": 2,
+      "text": "Tu perdoaste a iniquidade do teu povo, tu cobriste todo o seu pecado. Selá."
+    },
+    {
+      "verse": 3,
+      "text": "Tu retiraste toda a tua ira; tu te desviaste da fúria da tua ira."
+    },
+    {
+      "verse": 4,
+      "text": "Volta-nos, ó Deus da nossa salvação, e faze cessar a tua ira para conosco."
+    },
+    {
+      "verse": 5,
+      "text": "Estarás irado conosco para sempre? Estenderás a tua ira a todas as gerações?"
+    },
+    {
+      "verse": 6,
+      "text": "Não nos reavivarás de novo, para que o teu povo se regozije em ti?"
+    },
+    {
+      "verse": 7,
+      "text": "Mostra-nos a tua misericórdia, ó Senhor, e concede-nos a tua salvação."
+    },
+    {
+      "verse": 8,
+      "text": "Ouvirei o que Deus, o Senhor, falará, pois ele falará de paz ao seu povo e aos seus santos; mas não os deixes voltar à loucura."
+    },
+    {
+      "verse": 9,
+      "text": "Certamente a sua salvação está perto daqueles que o temem; para que a glória possa habitar em nossa terra."
+    },
+    {
+      "verse": 10,
+      "text": "Misericórdia e verdade se encontraram; justiça e paz se beijaram."
+    },
+    {
+      "verse": 11,
+      "text": "A verdade brotará da terra; e a justiça olhará do céu."
+    },
+    {
+      "verse": 12,
+      "text": "Sim, o Senhor dará o que é bom; e a nossa terra dará o seu fruto."
+    },
+    {
+      "verse": 13,
+      "text": "A justiça irá adiante dele; e nos porá no caminho dos seus passos."
+    }
+  ]
+}

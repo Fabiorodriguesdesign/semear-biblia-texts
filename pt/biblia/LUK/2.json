@@ -1,0 +1,218 @@
+{
+  "book_id": "LUK",
+  "book": "Lucas",
+  "chapter": 2,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Novo_testamento/lucas/biblia_kjv_42lucas.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E aconteceu naqueles dias que saiu um decreto da parte de César Augusto, para que todo o mundo se alistasse."
+    },
+    {
+      "verse": 2,
+      "text": "(Este primeiro alistamento foi feito sendo Cirênio governador da Síria.)"
+    },
+    {
+      "verse": 3,
+      "text": "E todos iam alistar-se, cada um à sua própria cidade."
+    },
+    {
+      "verse": 4,
+      "text": "E subiu também José da Galileia, da cidade de Nazaré, à Judeia, à cidade de Davi, chamada Belém (porque era da casa e família de Davi),"
+    },
+    {
+      "verse": 5,
+      "text": "A fim de alistar-se com Maria, sua esposa, que estava grávida."
+    },
+    {
+      "verse": 6,
+      "text": "E aconteceu que, estando eles ali, se cumpriram os dias em que ela havia de dar à luz."
+    },
+    {
+      "verse": 7,
+      "text": "E deu à luz seu filho primogênito, e envolveu-o em panos, e deitou-o numa manjedoura, porque não havia lugar para eles na estalagem."
+    },
+    {
+      "verse": 8,
+      "text": "Ora, havia naquela mesma comarca pastores que estavam no campo, e guardavam durante as vigílias da noite o seu rebanho."
+    },
+    {
+      "verse": 9,
+      "text": "E eis que o anjo do Senhor veio sobre eles, e a glória do Senhor os cercou de resplendor, e tiveram grande temor."
+    },
+    {
+      "verse": 10,
+      "text": "E o anjo lhes disse: Não temais, porque eis aqui vos trago boas novas de grande alegria, que será para todo o povo:"
+    },
+    {
+      "verse": 11,
+      "text": "Pois, na cidade de Davi, vos nasceu hoje o Salvador, que é Cristo, o Senhor."
+    },
+    {
+      "verse": 12,
+      "text": "E isto vos será por sinal: Achareis o menino envolto em panos, e deitado numa manjedoura."
+    },
+    {
+      "verse": 13,
+      "text": "E, no mesmo instante, apareceu com o anjo uma multidão da milícia celestial, louvando a Deus, e dizendo:"
+    },
+    {
+      "verse": 14,
+      "text": "Glória a Deus nas alturas, paz na terra, boa vontade para com os homens."
+    },
+    {
+      "verse": 15,
+      "text": "E aconteceu que, ausentando-se deles os anjos para o céu, disseram os pastores uns aos outros: Vamos, pois, até Belém, e vejamos isso que aconteceu, e que o Senhor nos fez saber."
+    },
+    {
+      "verse": 16,
+      "text": "E foram apressadamente, e acharam Maria e José, e o menino deitado na manjedoura."
+    },
+    {
+      "verse": 17,
+      "text": "E, vendo-o, divulgaram a palavra que acerca do menino lhes fora dita."
+    },
+    {
+      "verse": 18,
+      "text": "E todos os que a ouviram se maravilharam do que os pastores lhes diziam."
+    },
+    {
+      "verse": 19,
+      "text": "Mas Maria guardava todas estas coisas, conferindo-as em seu coração."
+    },
+    {
+      "verse": 20,
+      "text": "E os pastores voltaram, glorificando e louvando a Deus por tudo o que tinham ouvido e visto, como lhes havia sido dito."
+    },
+    {
+      "verse": 21,
+      "text": "E, cumpridos os oito dias para a circuncisão do menino, foi-lhe posto o nome de JESUS, o qual lhe foi dado pelo anjo antes de ser concebido no ventre."
+    },
+    {
+      "verse": 22,
+      "text": "E, cumprindo-se os dias da purificação dela, segundo a lei de Moisés, o levaram a Jerusalém, para o apresentarem ao Senhor;"
+    },
+    {
+      "verse": 23,
+      "text": "(Segundo o que está escrito na lei do Senhor: Todo o macho que abrir a madre será consagrado ao Senhor;)"
+    },
+    {
+      "verse": 24,
+      "text": "E para oferecerem um sacrifício, segundo o que diz a lei do Senhor: Um par de rolas ou dois pombinhos."
+    },
+    {
+      "verse": 25,
+      "text": "Havia em Jerusalém um homem cujo nome era Simeão; e este homem era justo e temente a Deus, esperando a consolação de Israel; e o Espírito Santo estava sobre ele."
+    },
+    {
+      "verse": 26,
+      "text": "E fora-lhe revelado pelo Espírito Santo que não morreria antes de ver o Cristo do Senhor."
+    },
+    {
+      "verse": 27,
+      "text": "E, pelo Espírito, foi ao templo; e, quando os pais trouxeram o menino Jesus, para com ele fazerem o que a lei ordenava,"
+    },
+    {
+      "verse": 28,
+      "text": "Então ele o tomou nos seus braços, e louvou a Deus, e disse:"
+    },
+    {
+      "verse": 29,
+      "text": "Agora, Senhor, despedes em paz o teu servo, segundo a tua palavra;"
+    },
+    {
+      "verse": 30,
+      "text": "Pois já os meus olhos viram a tua salvação,"
+    },
+    {
+      "verse": 31,
+      "text": "A qual tu preparaste perante a face de todos os povos;"
+    },
+    {
+      "verse": 32,
+      "text": "Luz para iluminar as nações, e glória do teu povo Israel."
+    },
+    {
+      "verse": 33,
+      "text": "E José e sua mãe se maravilhavam das coisas que dele se diziam."
+    },
+    {
+      "verse": 34,
+      "text": "E Simeão os abençoou, e disse a Maria, sua mãe: Eis que este é posto para queda e elevação de muitos em Israel, e para sinal que será contradito;"
+    },
+    {
+      "verse": 35,
+      "text": "(E uma espada traspassará a tua própria alma), para que se manifestem os pensamentos de muitos corações."
+    },
+    {
+      "verse": 36,
+      "text": "E estava ali uma profetisa, Ana, filha de Fanuel, da tribo de Aser. Esta era já muito avançada em idade, e tinha vivido com o marido sete anos desde a sua virgindade;"
+    },
+    {
+      "verse": 37,
+      "text": "E era viúva, de quase oitenta e quatro anos, e não se afastava do templo, servindo a Deus em jejuns e orações, de noite e de dia."
+    },
+    {
+      "verse": 38,
+      "text": "E, sobrevindo na mesma hora, dava graças ao Senhor, e falava dele a todos os que esperavam a redenção em Jerusalém."
+    },
+    {
+      "verse": 39,
+      "text": "E, cumprindo eles tudo segundo a lei do Senhor, voltaram para a Galileia, para a sua cidade de Nazaré."
+    },
+    {
+      "verse": 40,
+      "text": "E o menino crescia, e se fortalecia em espírito, cheio de sabedoria; e a graça de Deus estava sobre ele."
+    },
+    {
+      "verse": 41,
+      "text": "Ora, todos os anos iam seus pais a Jerusalém à festa da páscoa."
+    },
+    {
+      "verse": 42,
+      "text": "E, tendo ele doze anos, subiram a Jerusalém, segundo o costume do dia da festa."
+    },
+    {
+      "verse": 43,
+      "text": "E, regressando eles, cumpridos os dias, ficou o menino Jesus em Jerusalém, e seus pais não o souberam."
+    },
+    {
+      "verse": 44,
+      "text": "Pensando, porém, eles que ele estava na companhia, andaram caminho de um dia, e buscaram-no entre os parentes e conhecidos;"
+    },
+    {
+      "verse": 45,
+      "text": "E, não o achando, voltaram a Jerusalém, buscando-o."
+    },
+    {
+      "verse": 46,
+      "text": "E aconteceu que, passados três dias, o acharam no templo, assentado no meio dos doutores, ouvindo-os e interrogando-os."
+    },
+    {
+      "verse": 47,
+      "text": "E todos os que o ouviam se admiravam da sua inteligência e respostas."
+    },
+    {
+      "verse": 48,
+      "text": "E, quando o viram, maravilharam-se, e sua mãe lhe disse: Filho, por que fizeste assim para conosco? Eis que teu pai e eu, angustiados, te procurávamos."
+    },
+    {
+      "verse": 49,
+      "text": "E ele lhes disse: Por que é que me procuráveis? Não sabeis que me convém tratar dos negócios de meu Pai?"
+    },
+    {
+      "verse": 50,
+      "text": "E eles não entenderam a palavra que lhes dissera."
+    },
+    {
+      "verse": 51,
+      "text": "E desceu com eles, e foi para Nazaré, e era-lhes sujeito. E sua mãe guardava no coração todas estas coisas."
+    },
+    {
+      "verse": 52,
+      "text": "E crescia Jesus em sabedoria, e em estatura, e em graça para com Deus e os homens."
+    }
+  ]
+}

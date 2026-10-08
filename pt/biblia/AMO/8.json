@@ -1,0 +1,66 @@
+{
+  "book_id": "AMO",
+  "book": "Amós",
+  "chapter": 8,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/amos/biblia_kjv_30amos.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Assim me mostrou o Senhor DEUS; e eis um cesto de frutos de verão."
+    },
+    {
+      "verse": 2,
+      "text": "E disse: Que vês tu, Amós? E eu disse: Um cesto de frutos de verão. Então o SENHOR me disse: Chegou o fim sobre o meu povo Israel; nunca mais passarei por ele."
+    },
+    {
+      "verse": 3,
+      "text": "E os cânticos do templo serão uivos naquele dia, diz o Senhor DEUS; muitos serão os cadáveres em todos os lugares; em silêncio os lançarão fora."
+    },
+    {
+      "verse": 4,
+      "text": "Ouvi isto, vós que engolis o necessitado, e destruís os pobres da terra,"
+    },
+    {
+      "verse": 5,
+      "text": "Dizendo: Quando passará a lua nova, para vendermos o trigo? E o sábado, para abrirmos os celeiros de trigo, diminuindo o efa, e aumentando o siclo, e falsificando as balanças com engano?"
+    },
+    {
+      "verse": 6,
+      "text": "Para comprarmos os pobres por dinheiro, e os necessitados por um par de sapatos, e vendermos o refugo do trigo?"
+    },
+    {
+      "verse": 7,
+      "text": "Jurou o SENHOR pela glória de Jacó, que nunca me esquecerei de nenhuma das suas obras."
+    },
+    {
+      "verse": 8,
+      "text": "Porventura não tremerá a terra por causa disto? E não lamentará todo aquele que nela habita? E não subirá toda ela como o Nilo, e não será agitada e submergida como o rio do Egito?"
+    },
+    {
+      "verse": 9,
+      "text": "E acontecerá naquele dia, diz o Senhor DEUS, que farei que o sol se ponha ao meio-dia, e a terra escureça em dia claro."
+    },
+    {
+      "verse": 10,
+      "text": "E tornarei as vossas festas em luto, e todos os vossos cânticos em lamentações; e porei saco sobre todos os lombos, e calva sobre toda a cabeça; e farei que isso seja como o luto por um filho único, e o seu fim como dia de amargura."
+    },
+    {
+      "verse": 11,
+      "text": "Eis que vêm dias, diz o Senhor DEUS, em que enviarei fome sobre a terra, não fome de pão, nem sede de água, mas de ouvir as palavras do SENHOR."
+    },
+    {
+      "verse": 12,
+      "text": "E irão errantes de mar a mar, e do norte até ao oriente; correrão por toda a parte, buscando a palavra do SENHOR, mas não a acharão."
+    },
+    {
+      "verse": 13,
+      "text": "Naquele dia as virgens formosas e os jovens desmaiarão de sede."
+    },
+    {
+      "verse": 14,
+      "text": "Os que juram pelo pecado de Samaria, e dizem: Vive o teu deus, ó Dã! E: Vive o caminho de Berseba! Cairão, e nunca mais se levantarão."
+    }
+  ]
+}

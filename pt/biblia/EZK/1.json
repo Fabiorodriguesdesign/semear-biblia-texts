@@ -1,0 +1,122 @@
+{
+  "book_id": "EZK",
+  "book": "Ezequiel",
+  "chapter": 1,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/ezequiel/biblia_kjv_26ezequiel1-15.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ora, aconteceu no trigésimo ano, no quarto mês, no quinto dia do mês, estando eu no meio dos cativos, junto ao rio Quebar, que os céus se abriram, e eu vi visões de Deus."
+    },
+    {
+      "verse": 2,
+      "text": "No quinto dia do mês, que era o quinto ano do cativeiro do rei Jeoaquim,"
+    },
+    {
+      "verse": 3,
+      "text": "A palavra do SENHOR veio expressamente a Ezequiel, o sacerdote, filho de Buzi, na terra dos caldeus, junto ao rio Quebar; e a mão do SENHOR estava ali sobre ele."
+    },
+    {
+      "verse": 4,
+      "text": "E olhei, e eis que um redemoinho vinha do norte, uma grande nuvem, com um fogo que se envolvia em si mesmo, e um resplendor ao redor dela; e do meio dela saía uma cor de âmbar, do meio do fogo."
+    },
+    {
+      "verse": 5,
+      "text": "Também do meio dela saía a semelhança de quatro seres viventes. E esta era a sua aparência: tinham a semelhança de homem."
+    },
+    {
+      "verse": 6,
+      "text": "E cada um tinha quatro rostos, e cada um quatro asas."
+    },
+    {
+      "verse": 7,
+      "text": "E os seus pés eram pés direitos; e a planta dos seus pés era como a planta do pé de um bezerro; e cintilavam como a cor de bronze polido."
+    },
+    {
+      "verse": 8,
+      "text": "E tinham mãos de homem debaixo das suas asas, aos seus quatro lados; e os quatro tinham os seus rostos e as suas asas."
+    },
+    {
+      "verse": 9,
+      "text": "As suas asas estavam unidas uma à outra; não se viravam quando andavam; cada um andava para a frente."
+    },
+    {
+      "verse": 10,
+      "text": "Quanto à semelhança dos seus rostos, os quatro tinham rosto de homem, e rosto de leão, à direita; e os quatro tinham rosto de boi, à esquerda; e os quatro também tinham rosto de águia."
+    },
+    {
+      "verse": 11,
+      "text": "Assim eram os seus rostos; e as suas asas estavam estendidas para cima; duas asas de cada um estavam unidas uma à outra, e duas cobriam os seus corpos."
+    },
+    {
+      "verse": 12,
+      "text": "E cada um andava para a frente; para onde o espírito havia de ir, iam; não se viravam quando andavam."
+    },
+    {
+      "verse": 13,
+      "text": "Quanto à semelhança dos seres viventes, a sua aparência era como brasas de fogo acesas, e como a aparência de lâmpadas; o fogo subia e descia entre os seres viventes; e o fogo era resplandecente, e do fogo saíam relâmpagos."
+    },
+    {
+      "verse": 14,
+      "text": "E os seres viventes corriam e voltavam como o aspecto de um relâmpago."
+    },
+    {
+      "verse": 15,
+      "text": "Ora, enquanto eu olhava para os seres viventes, eis que havia uma roda sobre a terra, junto aos seres viventes, com os seus quatro rostos."
+    },
+    {
+      "verse": 16,
+      "text": "A aparência das rodas e a sua obra era como a cor de berilo; e as quatro tinham uma mesma semelhança; e a sua aparência e a sua obra era como se estivesse uma roda no meio de outra roda."
+    },
+    {
+      "verse": 17,
+      "text": "Quando andavam, iam sobre os seus quatro lados; não se viravam quando andavam."
+    },
+    {
+      "verse": 18,
+      "text": "Quanto aos seus aros, eram tão altos que metiam medo; e os seus aros estavam cheios de olhos ao redor, nos quatro."
+    },
+    {
+      "verse": 19,
+      "text": "E quando os seres viventes andavam, as rodas andavam ao lado deles; e quando os seres viventes se elevavam da terra, as rodas se elevavam."
+    },
+    {
+      "verse": 20,
+      "text": "Para onde o espírito havia de ir, iam; para lá o espírito deles havia de ir; e as rodas se elevavam juntamente com eles; porque o espírito do ser vivente estava nas rodas."
+    },
+    {
+      "verse": 21,
+      "text": "Quando aqueles andavam, estes andavam; e quando aqueles paravam, estes paravam; e quando aqueles se elevavam da terra, as rodas se elevavam juntamente com eles; porque o espírito do ser vivente estava nas rodas."
+    },
+    {
+      "verse": 22,
+      "text": "E a semelhança do firmamento sobre as cabeças dos seres viventes era como a cor do cristal terrível, estendido por cima das suas cabeças."
+    },
+    {
+      "verse": 23,
+      "text": "E debaixo do firmamento estavam as suas asas direitas, uma para a outra; cada um tinha duas, que cobriam de um lado, e cada um tinha duas, que cobriam do outro lado, os seus corpos."
+    },
+    {
+      "verse": 24,
+      "text": "E, andando eles, ouvi o ruído das suas asas, como o ruído de muitas águas, como a voz do Todo-Poderoso, a voz de fala, como o ruído de um exército; quando paravam, abaixavam as suas asas."
+    },
+    {
+      "verse": 25,
+      "text": "E ouviu-se uma voz do firmamento que estava por cima das suas cabeças, quando paravam, e tinham abaixado as suas asas."
+    },
+    {
+      "verse": 26,
+      "text": "E por cima do firmamento, que estava por cima das suas cabeças, havia a semelhança de um trono, como a aparência de uma pedra de safira; e sobre a semelhança do trono havia uma semelhança como a aparência de um homem, por cima dele."
+    },
+    {
+      "verse": 27,
+      "text": "E vi como a cor de âmbar, como a aparência de fogo ao redor, dentro dela; desde a aparência dos seus lombos, e daí para cima; e desde a aparência dos seus lombos, e daí para baixo, vi como a aparência de fogo, e havia um resplendor ao redor."
+    },
+    {
+      "verse": 28,
+      "text": "Como a aparência do arco que está na nuvem no dia da chuva, assim era a aparência do resplendor ao redor. Esta era a aparência da semelhança da glória do SENHOR. E, vendo-o eu, caí sobre o meu rosto, e ouvi a voz de quem falava."
+    }
+  ]
+}

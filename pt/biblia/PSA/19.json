@@ -1,0 +1,66 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 19,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Os céus declaram a glória de Deus; e o firmamento anuncia a obra das suas mãos."
+    },
+    {
+      "verse": 2,
+      "text": "Um dia faz discurso a outro dia, e uma noite mostra conhecimento a outra noite."
+    },
+    {
+      "verse": 3,
+      "text": "Não há fala nem linguagem, onde a sua voz não seja ouvida."
+    },
+    {
+      "verse": 4,
+      "text": "A sua linha se estende por toda a terra, e as suas palavras até o fim do mundo. Neles pôs um tabernáculo para o sol,"
+    },
+    {
+      "verse": 5,
+      "text": "Que é como um noivo que sai da sua câmara, e se regozija como um homem forte para correr uma corrida."
+    },
+    {
+      "verse": 6,
+      "text": "A sua saída é desde a extremidade do céu, e o seu circuito até as extremidades dele; e não há nada escondido do seu calor."
+    },
+    {
+      "verse": 7,
+      "text": "A lei do Senhor é perfeita, convertendo a alma; o testemunho do Senhor é fiel, tornando sábio o simples."
+    },
+    {
+      "verse": 8,
+      "text": "Os estatutos do Senhor são retos, alegrando o coração; o mandamento do Senhor é puro, iluminando os olhos."
+    },
+    {
+      "verse": 9,
+      "text": "O temor do Senhor é limpo, permanecendo para sempre; os juízos do Senhor são verdadeiros e justos em tudo."
+    },
+    {
+      "verse": 10,
+      "text": "Mais desejáveis são eles do que o ouro, sim, do que muito ouro fino; mais doces também do que o mel e o favo de mel."
+    },
+    {
+      "verse": 11,
+      "text": "Além disso, por eles é o teu servo advertido; e em guardá-los há grande recompensa."
+    },
+    {
+      "verse": 12,
+      "text": "Quem pode entender os seus erros? purifica-me das faltas secretas."
+    },
+    {
+      "verse": 13,
+      "text": "Guarda também o teu servo dos pecados presunçosos; que eles não tenham domínio sobre mim; então serei reto, e serei inocente da grande transgressão."
+    },
+    {
+      "verse": 14,
+      "text": "Sejam agradáveis as palavras da minha boca, e a meditação do meu coração, à tua vista, ó Senhor, minha força, e meu redentor."
+    }
+  ]
+}

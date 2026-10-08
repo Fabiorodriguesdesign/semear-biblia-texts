@@ -1,0 +1,62 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 108,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos101-120.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ó Deus, o meu coração está firme; cantarei e entoarei louvores, sim, com a minha glória."
+    },
+    {
+      "verse": 2,
+      "text": "Despertai, saltério e harpa; eu mesmo despertarei ao romper da alva."
+    },
+    {
+      "verse": 3,
+      "text": "Louvar-te-ei, Senhor, entre os povos; e a ti cantarei louvores entre as nações."
+    },
+    {
+      "verse": 4,
+      "text": "Porque a tua benignidade se estende até os céus, e a tua verdade chega até as mais altas nuvens."
+    },
+    {
+      "verse": 5,
+      "text": "Sê exaltado, ó Deus, acima dos céus; e a tua glória sobre toda a terra."
+    },
+    {
+      "verse": 6,
+      "text": "Salva-nos com a tua mão direita e responde-me, para que sejam libertos aqueles a quem amas."
+    },
+    {
+      "verse": 7,
+      "text": "Do seu santuário Deus falou: \"No meu triunfo dividirei Siquém e repartirei o vale de Sucote."
+    },
+    {
+      "verse": 8,
+      "text": "Gileade me pertence, e Manassés também; Efraim é o meu capacete, Judá é o meu cetro."
+    },
+    {
+      "verse": 9,
+      "text": "Moabe é a bacia em que me lavo, em Edom atiro a minha sandália; sobre a Filístia dou o meu brado de vitória!\""
+    },
+    {
+      "verse": 10,
+      "text": "Quem me levará à cidade fortificada? Quem me guiará a Edom?"
+    },
+    {
+      "verse": 11,
+      "text": "Não nos rejeitaste, ó Deus? Tu não sais, ó Deus, com os nossos exércitos!"
+    },
+    {
+      "verse": 12,
+      "text": "Dá-nos ajuda contra os adversários, pois inútil é o socorro do homem."
+    },
+    {
+      "verse": 13,
+      "text": "Com Deus conquistaremos a vitória, e ele pisará os nossos adversários."
+    }
+  ]
+}

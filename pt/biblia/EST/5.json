@@ -1,0 +1,66 @@
+{
+  "book_id": "EST",
+  "book": "Ester",
+  "chapter": 5,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/ester/biblia_kjv_17ester.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Sucedeu, pois, que ao terceiro dia Ester se vestiu de trajes reais, e se pôs no pátio interior da casa do rei, defronte da casa do rei; e o rei estava assentado no seu trono real, na casa real, defronte da porta da casa."
+    },
+    {
+      "verse": 2,
+      "text": "E sucedeu que, vendo o rei à rainha Ester, que estava no pátio, ela alcançou favor à sua vista; e o rei estendeu para Ester o cetro de ouro que tinha na mão. Então Ester se chegou, e tocou a ponta do cetro."
+    },
+    {
+      "verse": 3,
+      "text": "Então o rei lhe disse: Que queres, rainha Ester? E qual é a tua petição? Até metade do reino se te dará."
+    },
+    {
+      "verse": 4,
+      "text": "E Ester disse: Se bem parecer ao rei, venham hoje o rei e Hamã ao banquete que lhe preparei."
+    },
+    {
+      "verse": 5,
+      "text": "Então disse o rei: Fazei apressar a Hamã, para que faça o que Ester disse. Assim vieram o rei e Hamã ao banquete que Ester tinha preparado."
+    },
+    {
+      "verse": 6,
+      "text": "E disse o rei a Ester ao banquete do vinho: Qual é a tua petição? E ser-te-á concedida; e qual é o teu desejo? Até metade do reino se fará."
+    },
+    {
+      "verse": 7,
+      "text": "Então respondeu Ester, e disse: Minha petição e meu desejo é:"
+    },
+    {
+      "verse": 8,
+      "text": "Se achei favor aos olhos do rei, e se ao rei apraz conceder a minha petição e cumprir o meu desejo, venham o rei e Hamã ao banquete que lhes prepararei, e amanhã farei como o rei disse."
+    },
+    {
+      "verse": 9,
+      "text": "Então saiu Hamã naquele dia alegre e de bom coração; porém, vendo Hamã a Mordecai à porta do rei, e que não se levantava nem se movia por ele, Hamã se encheu de indignação contra Mordecai."
+    },
+    {
+      "verse": 10,
+      "text": "Todavia Hamã se refreou; e, chegando à sua casa, mandou chamar os seus amigos e Zeres, sua mulher."
+    },
+    {
+      "verse": 11,
+      "text": "E Hamã lhes contou a glória das suas riquezas, e a multidão de seus filhos, e tudo em que o rei o tinha engrandecido, e como o tinha exaltado sobre os príncipes e servos do rei."
+    },
+    {
+      "verse": 12,
+      "text": "Disse mais Hamã: Tampouco a rainha Ester a ninguém fez vir com o rei ao banquete que preparou, senão a mim; e também para amanhã sou convidado por ela com o rei."
+    },
+    {
+      "verse": 13,
+      "text": "Todavia tudo isto de nada me serve, enquanto vejo o judeu Mordecai assentado à porta do rei."
+    },
+    {
+      "verse": 14,
+      "text": "Então Zeres, sua mulher, e todos os seus amigos lhe disseram: Faça-se uma forca de cinquenta côvados de altura, e amanhã dize ao rei que nela enforquem a Mordecai; e então entra alegre com o rei ao banquete. E a coisa agradou a Hamã; e mandou fazer a forca."
+    }
+  ]
+}

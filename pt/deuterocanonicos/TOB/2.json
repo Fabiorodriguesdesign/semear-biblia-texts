@@ -1,0 +1,67 @@
+{
+  "book_id": "TOB",
+  "book": "Tobias",
+  "chapter": 2,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "livro",
+  "source_file": "apocryphal_books/kjv_pt/Tobit/2.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Agora, quando voltei para minha casa, e Ana, minha mulher, me foi restituída, e Tobias, meu filho, no dia de Pentecostes, que é a santa festa das sete semanas, foi-me preparado um bom jantar, e sentei-me para comer."
+    },
+    {
+      "verse": 2,
+      "text": "E vi abundância de carne, e disse a meu filho: Vai, e traz qualquer pobre que encontrares entre nossos irmãos, que se lembre do Senhor; e eis que eu esperarei por ti."
+    },
+    {
+      "verse": 3,
+      "text": "Mas ele veio e disse: Pai, um dos nossos foi estrangulado e lançado na praça."
+    },
+    {
+      "verse": 4,
+      "text": "Então, antes de provar qualquer coisa, levantei-me e levei-o para uma casa até que o sol se pusesse."
+    },
+    {
+      "verse": 5,
+      "text": "Depois voltei, lavei-me e comi o meu pão com tristeza,"
+    },
+    {
+      "verse": 6,
+      "text": "lembrando-me daquela profecia de Amós, como ele disse: As vossas festas serão transformadas em luto, e todos os vossos cânticos em lamentação."
+    },
+    {
+      "verse": 7,
+      "text": "E chorei; e, quando o sol se pôs, fui, cavei uma sepultura e sepultei-o."
+    },
+    {
+      "verse": 8,
+      "text": "Os meus vizinhos zombaram de mim e diziam: Este homem não tem medo de ser morto por este motivo, pois já foi procurado para ser morto; e, contudo, foge; e eis que sepulta os mortos."
+    },
+    {
+      "verse": 9,
+      "text": "Naquela mesma noite, voltei da sepultura, e, estando contaminado, deitei-me junto à parede do pátio, e o meu rosto estava descoberto."
+    },
+    {
+      "verse": 10,
+      "text": "E eu não sabia que havia pardais na parede; e, estando os meus olhos abertos, os pardais deixaram cair esterco quente nos meus olhos, e vieram manchas brancas nos meus olhos; e fui aos médicos, mas eles não me curaram; e Aicar alimentou-me até que fui a Elimais."
+    },
+    {
+      "verse": 11,
+      "text": "E a minha mulher Ana tomou trabalho de tecelagem nas mãos."
+    },
+    {
+      "verse": 12,
+      "text": "E quando ela enviou o trabalho aos donos, eles pagaram-lhe o salário, e deram-lhe também um cabrito."
+    },
+    {
+      "verse": 13,
+      "text": "E quando o cabrito entrou em minha casa, começou a balir; e eu disse-lhe: De onde vem este cabrito? Não será ele furtado? Devolve-o aos donos, pois não nos é lícito comer coisa alguma furtada."
+    },
+    {
+      "verse": 14,
+      "text": "Mas ela respondeu-me: Foi-me dado como presente além do salário. Contudo, eu não acreditei nela, e pedi-lhe que o devolvesse aos donos; e fiquei envergonhado por causa dela. Mas ela respondeu-me: Onde estão as tuas esmolas e as tuas obras justas? Eis que todas elas são conhecidas em ti."
+    }
+  ]
+}

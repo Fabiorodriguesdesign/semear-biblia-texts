@@ -1,0 +1,34 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 13,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Até quando te esquecerás de mim, ó Senhor? para sempre? até quando esconderás de mim o teu rosto?"
+    },
+    {
+      "verse": 2,
+      "text": "Até quando tomarei conselho na minha alma, tendo tristeza no meu coração diariamente? até quando o meu inimigo se exaltará sobre mim?"
+    },
+    {
+      "verse": 3,
+      "text": "Considera e ouve-me, ó Senhor meu Deus; ilumina os meus olhos, para que eu não durma o sono da morte;"
+    },
+    {
+      "verse": 4,
+      "text": "Para que o meu inimigo não diga: Prevaleci contra ele; e os que me atribulam não se alegrem quando eu for abalado."
+    },
+    {
+      "verse": 5,
+      "text": "Mas eu confiei na tua misericórdia; o meu coração se alegrará na tua salvação."
+    },
+    {
+      "verse": 6,
+      "text": "Cantarei ao Senhor, porquanto me tem feito muito bem."
+    }
+  ]
+}

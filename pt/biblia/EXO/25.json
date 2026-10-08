@@ -1,0 +1,170 @@
+{
+  "book_id": "EXO",
+  "book": "Êxodo",
+  "chapter": 25,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/exodo/biblia_kjv_02exodo21-40.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E falou o SENHOR a Moisés, dizendo:"
+    },
+    {
+      "verse": 2,
+      "text": "Fala aos filhos de Israel, que me tragam uma oferta; de todo homem cujo coração o mover voluntariamente, dele tomareis a minha oferta."
+    },
+    {
+      "verse": 3,
+      "text": "E esta é a oferta que tomareis deles: ouro, e prata, e bronze,"
+    },
+    {
+      "verse": 4,
+      "text": "E azul, e púrpura, e carmesim, e linho fino, e pelos de cabras,"
+    },
+    {
+      "verse": 5,
+      "text": "E peles de carneiros tintas de vermelho, e peles de texugos, e madeira de acácia,"
+    },
+    {
+      "verse": 6,
+      "text": "Azeite para a luz, especiarias para o azeite da unção, e para o incenso aromático,"
+    },
+    {
+      "verse": 7,
+      "text": "Pedras de ônix, e pedras de engaste para o éfode, e para o peitoral."
+    },
+    {
+      "verse": 8,
+      "text": "E me farão um santuário, para que eu habite no meio deles."
+    },
+    {
+      "verse": 9,
+      "text": "Conforme tudo o que eu te mostrar, o modelo do tabernáculo, e o modelo de todos os seus instrumentos, assim o fareis."
+    },
+    {
+      "verse": 10,
+      "text": "E farão uma arca de madeira de acácia; de dois côvados e meio será o seu comprimento, e de um côvado e meio a sua largura, e de um côvado e meio a sua altura."
+    },
+    {
+      "verse": 11,
+      "text": "E a cobrirás de ouro puro; por dentro e por fora a cobrirás, e farás sobre ela uma coroa de ouro ao redor."
+    },
+    {
+      "verse": 12,
+      "text": "E fundirás para ela quatro argolas de ouro, e as porás nos seus quatro cantos; duas argolas de um lado dela, e duas argolas do outro lado dela."
+    },
+    {
+      "verse": 13,
+      "text": "E farás varais de madeira de acácia, e os cobrirás de ouro."
+    },
+    {
+      "verse": 14,
+      "text": "E meterás os varais nas argolas, aos lados da arca, para que com eles a arca seja levada."
+    },
+    {
+      "verse": 15,
+      "text": "Os varais estarão nas argolas da arca; não serão tirados dela."
+    },
+    {
+      "verse": 16,
+      "text": "E porás na arca o testemunho que eu te darei."
+    },
+    {
+      "verse": 17,
+      "text": "E farás um propiciatório de ouro puro; de dois côvados e meio será o seu comprimento, e de um côvado e meio a sua largura."
+    },
+    {
+      "verse": 18,
+      "text": "E farás dois querubins de ouro; de ouro batido os farás, nas duas extremidades do propiciatório."
+    },
+    {
+      "verse": 19,
+      "text": "Farás um querubim numa extremidade, e o outro querubim na outra extremidade; do próprio propiciatório fareis os querubins nas suas duas extremidades."
+    },
+    {
+      "verse": 20,
+      "text": "E os querubins estenderão as suas asas por cima, cobrindo com as suas asas o propiciatório; e as suas faces estarão uma para a outra; as faces dos querubins estarão voltadas para o propiciatório."
+    },
+    {
+      "verse": 21,
+      "text": "E porás o propiciatório em cima da arca; e na arca porás o testemunho que eu te darei."
+    },
+    {
+      "verse": 22,
+      "text": "E ali me encontrarei contigo, e de cima do propiciatório, do meio dos dois querubins que estão sobre a arca do testemunho, falarei contigo de tudo o que eu te ordenar para os filhos de Israel."
+    },
+    {
+      "verse": 23,
+      "text": "Também farás uma mesa de madeira de acácia; de dois côvados será o seu comprimento, e de um côvado a sua largura, e de um côvado e meio a sua altura."
+    },
+    {
+      "verse": 24,
+      "text": "E a cobrirás de ouro puro, e lhe farás uma coroa de ouro ao redor."
+    },
+    {
+      "verse": 25,
+      "text": "E lhe farás uma moldura da largura de uma mão ao redor, e farás uma coroa de ouro para a sua moldura ao redor."
+    },
+    {
+      "verse": 26,
+      "text": "E lhe farás quatro argolas de ouro, e porás as argolas nos quatro cantos que estão nos seus quatro pés."
+    },
+    {
+      "verse": 27,
+      "text": "Junto à moldura estarão as argolas, para os lugares dos varais, para levar a mesa."
+    },
+    {
+      "verse": 28,
+      "text": "E farás os varais de madeira de acácia, e os cobrirás de ouro, para que a mesa seja levada com eles."
+    },
+    {
+      "verse": 29,
+      "text": "E farás os seus pratos, e as suas colheres, e as suas coberturas, e as suas tigelas, com que se hão de cobrir; de ouro puro os farás."
+    },
+    {
+      "verse": 30,
+      "text": "E sobre a mesa porás o pão da proposição perante mim continuamente."
+    },
+    {
+      "verse": 31,
+      "text": "E farás um candelabro de ouro puro; de obra batida se fará o candelabro; o seu pé, e as suas hastes, os seus copos, os seus botões, e as suas flores, serão do mesmo."
+    },
+    {
+      "verse": 32,
+      "text": "E seis hastes sairão dos seus lados; três hastes do candelabro de um lado, e três hastes do candelabro do outro lado:"
+    },
+    {
+      "verse": 33,
+      "text": "Três copos feitos como amêndoas, com um botão e uma flor numa haste; e três copos feitos como amêndoas na outra haste, com um botão e uma flor: assim nas seis hastes que saem do candelabro."
+    },
+    {
+      "verse": 34,
+      "text": "E no candelabro haverá quatro copos feitos como amêndoas, com os seus botões e as suas flores."
+    },
+    {
+      "verse": 35,
+      "text": "E haverá um botão debaixo de duas hastes do mesmo, e um botão debaixo de duas hastes do mesmo, e um botão debaixo de duas hastes do mesmo, conforme as seis hastes que saem do candelabro."
+    },
+    {
+      "verse": 36,
+      "text": "Os seus botões e as suas hastes serão do mesmo; tudo será uma obra batida de ouro puro."
+    },
+    {
+      "verse": 37,
+      "text": "E farás as suas sete lâmpadas; e acenderão as suas lâmpadas, para que alumiem defronte dele."
+    },
+    {
+      "verse": 38,
+      "text": "E as suas tenazes, e os seus apagadores, serão de ouro puro."
+    },
+    {
+      "verse": 39,
+      "text": "De um talento de ouro puro o fará, com todos estes utensílios."
+    },
+    {
+      "verse": 40,
+      "text": "E vê que os faças conforme o seu modelo, que te foi mostrado no monte."
+    }
+  ]
+}

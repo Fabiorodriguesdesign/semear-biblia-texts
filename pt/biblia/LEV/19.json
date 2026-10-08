@@ -1,0 +1,158 @@
+{
+  "book_id": "LEV",
+  "book": "Levítico",
+  "chapter": 19,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/levitico/biblia_kjv_03levitico16-27.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E falou o SENHOR a Moisés, dizendo:"
+    },
+    {
+      "verse": 2,
+      "text": "Fala a toda a congregação dos filhos de Israel, e dize-lhes: Sereis santos, porque eu, o SENHOR vosso Deus, sou santo."
+    },
+    {
+      "verse": 3,
+      "text": "Temerá cada um a sua mãe e a seu pai, e guardareis os meus sábados: Eu sou o SENHOR vosso Deus."
+    },
+    {
+      "verse": 4,
+      "text": "Não vos volteis para os ídolos, nem façais para vós deuses de fundição: Eu sou o SENHOR vosso Deus."
+    },
+    {
+      "verse": 5,
+      "text": "E se oferecerdes um sacrifício de ofertas pacíficas ao SENHOR, oferecê-lo-eis de vossa própria vontade."
+    },
+    {
+      "verse": 6,
+      "text": "Comer-se-á no mesmo dia em que o oferecerdes, e no dia seguinte; e se alguma coisa ficar até ao terceiro dia, será queimada no fogo."
+    },
+    {
+      "verse": 7,
+      "text": "E se for comido de todo no terceiro dia, é abominável; não será aceito."
+    },
+    {
+      "verse": 8,
+      "text": "Portanto, todo aquele que o comer levará a sua iniquidade, porque profanou a coisa sagrada do SENHOR; e essa alma será cortada do meio do seu povo."
+    },
+    {
+      "verse": 9,
+      "text": "E quando colherdes a seara da vossa terra, não colhereis totalmente os cantos do vosso campo, nem recolhereis as espigas da vossa seara."
+    },
+    {
+      "verse": 10,
+      "text": "E não rabiscarás a tua vinha, nem recolherás cada uva da tua vinha; deixá-las-ás para o pobre e para o estrangeiro: Eu sou o SENHOR vosso Deus."
+    },
+    {
+      "verse": 11,
+      "text": "Não furtareis, nem tratareis com falsidade, nem mentireis uns aos outros."
+    },
+    {
+      "verse": 12,
+      "text": "E não jurareis falsamente pelo meu nome, nem profanarás o nome do teu Deus: Eu sou o SENHOR."
+    },
+    {
+      "verse": 13,
+      "text": "Não defraudarás o teu próximo, nem o roubarás; o salário daquele que é contratado não ficará contigo toda a noite até de manhã."
+    },
+    {
+      "verse": 14,
+      "text": "Não amaldiçoarás o surdo, nem porás tropeço diante do cego, mas temerás o teu Deus: Eu sou o SENHOR."
+    },
+    {
+      "verse": 15,
+      "text": "Não fareis injustiça em juízo; não respeitarás a pessoa do pobre, nem honrarás a pessoa do poderoso; mas com justiça julgarás o teu próximo."
+    },
+    {
+      "verse": 16,
+      "text": "Não andarás para cima e para baixo como um mexeriqueiro entre o teu povo; nem te porás contra o sangue do teu próximo: Eu sou o SENHOR."
+    },
+    {
+      "verse": 17,
+      "text": "Não odiarás o teu irmão no teu coração; de qualquer maneira repreenderás o teu próximo, e não sofrerás pecado sobre ele."
+    },
+    {
+      "verse": 18,
+      "text": "Não te vingarás, nem guardarás rancor contra os filhos do teu povo, mas amarás o teu próximo como a ti mesmo: Eu sou o SENHOR."
+    },
+    {
+      "verse": 19,
+      "text": "Guardareis os meus estatutos. Não deixarás que o teu gado se acasale com uma espécie diversa; não semearás o teu campo com semente misturada; nem se porá sobre ti uma veste misturada de linho e lã."
+    },
+    {
+      "verse": 20,
+      "text": "E quem se deitar carnalmente com uma mulher, que é uma serva, prometida a um marido, e de modo algum redimida, nem lhe foi dada a liberdade; ela será açoitada; não serão mortos, porque ela não era livre."
+    },
+    {
+      "verse": 21,
+      "text": "E ele trará a sua oferta pela culpa ao SENHOR, à porta da tenda da congregação, um carneiro por oferta pela culpa."
+    },
+    {
+      "verse": 22,
+      "text": "E o sacerdote fará por ele expiação com o carneiro da oferta pela culpa perante o SENHOR, pelo seu pecado que ele cometeu; e o pecado que ele cometeu lhe será perdoado."
+    },
+    {
+      "verse": 23,
+      "text": "E quando entrardes na terra, e tiverdes plantado toda a sorte de árvores para alimento, então contareis o seu fruto como incircunciso; três anos vos será como incircunciso; não se comerá dele."
+    },
+    {
+      "verse": 24,
+      "text": "Mas no quarto ano todo o seu fruto será santo para louvar ao SENHOR."
+    },
+    {
+      "verse": 25,
+      "text": "E no quinto ano comereis do seu fruto, para que vos dê o seu aumento: Eu sou o SENHOR vosso Deus."
+    },
+    {
+      "verse": 26,
+      "text": "Não comereis coisa alguma com o sangue; nem usareis de encantamento, nem observareis os tempos."
+    },
+    {
+      "verse": 27,
+      "text": "Não arredondareis os cantos das vossas cabeças, nem estragareis os cantos da vossa barba."
+    },
+    {
+      "verse": 28,
+      "text": "Não fareis cortes na vossa carne pelos mortos, nem imprimireis marcas sobre vós: Eu sou o SENHOR."
+    },
+    {
+      "verse": 29,
+      "text": "Não prostituas a tua filha, para a fazer prostituta; para que a terra não caia em prostituição, e a terra se encha de maldade."
+    },
+    {
+      "verse": 30,
+      "text": "Guardareis os meus sábados, e reverenciareis o meu santuário: Eu sou o SENHOR."
+    },
+    {
+      "verse": 31,
+      "text": "Não deis atenção aos que têm espíritos familiares, nem procureis os magos, para serdes contaminados por eles: Eu sou o SENHOR vosso Deus."
+    },
+    {
+      "verse": 32,
+      "text": "Levantar-te-ás diante da cabeça encanecida, e honrarás a face do ancião, e temerás o teu Deus: Eu sou o SENHOR."
+    },
+    {
+      "verse": 33,
+      "text": "E se um estrangeiro peregrinar contigo na vossa terra, não o afligireis."
+    },
+    {
+      "verse": 34,
+      "text": "Mas o estrangeiro que habita convosco ser-vos-á como um nascido entre vós, e amá-lo-eis como a vós mesmos; porque fostes estrangeiros na terra do Egito: Eu sou o SENHOR vosso Deus."
+    },
+    {
+      "verse": 35,
+      "text": "Não fareis injustiça em juízo, em metrologia, em peso, ou em medida."
+    },
+    {
+      "verse": 36,
+      "text": "Balanças justas, pesos justos, um efa justo, e um him justo, tereis: Eu sou o SENHOR vosso Deus, que vos tirei da terra do Egito."
+    },
+    {
+      "verse": 37,
+      "text": "Portanto, observareis todos os meus estatutos, e todos os meus juízos, e os cumprireis: Eu sou o SENHOR."
+    }
+  ]
+}

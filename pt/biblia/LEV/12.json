@@ -1,0 +1,42 @@
+{
+  "book_id": "LEV",
+  "book": "Levítico",
+  "chapter": 12,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/levitico/biblia_kjv_03levitico1-15.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E o SENHOR falou a Moisés, dizendo:"
+    },
+    {
+      "verse": 2,
+      "text": "Fala aos filhos de Israel, dizendo: Se uma mulher conceber semente, e der à luz um filho homem, então será imunda por sete dias; segundo os dias da separação por sua enfermidade, será imunda."
+    },
+    {
+      "verse": 3,
+      "text": "E no oitavo dia a carne do seu prepúcio será circuncidada."
+    },
+    {
+      "verse": 4,
+      "text": "E ela continuará então no sangue da sua purificação por trinta e três dias; não tocará em nenhuma coisa sagrada, nem entrará no santuário, até que os dias da sua purificação se cumpram."
+    },
+    {
+      "verse": 5,
+      "text": "Mas se ela der à luz uma filha, então será imunda por duas semanas, como na sua separação; e continuará no sangue da sua purificação por sessenta e seis dias."
+    },
+    {
+      "verse": 6,
+      "text": "E quando os dias da sua purificação se cumprirem, por um filho, ou por uma filha, trará um cordeiro do primeiro ano para holocausto, e um pombinho, ou uma rola, para oferta pelo pecado, à porta da tenda da congregação, ao sacerdote:"
+    },
+    {
+      "verse": 7,
+      "text": "O qual o oferecerá perante o SENHOR, e fará expiação por ela; e ela será purificada do fluxo do seu sangue. Esta é a lei para aquela que deu à luz um homem ou uma mulher."
+    },
+    {
+      "verse": 8,
+      "text": "E se ela não puder trazer um cordeiro, então trará duas rolas, ou dois pombinhos; um para o holocausto, e o outro para a oferta pelo pecado; e o sacerdote fará expiação por ela, e ela será limpa."
+    }
+  ]
+}

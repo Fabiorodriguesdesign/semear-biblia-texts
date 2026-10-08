@@ -1,0 +1,78 @@
+{
+  "book_id": "ECC",
+  "book": "Eclesiastes",
+  "chapter": 8,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/eclesiastes/biblia_kjv_21eclesiastes.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Quem é como o sábio? E quem sabe a interpretação das coisas? A sabedoria do homem faz brilhar o seu rosto, e a dureza do seu rosto se transforma."
+    },
+    {
+      "verse": 2,
+      "text": "Eu te aconselho a guardar o mandamento do rei, e isso por causa do juramento a Deus."
+    },
+    {
+      "verse": 3,
+      "text": "Não te apresses a sair da presença dele, nem persistas em alguma coisa má, porque ele faz tudo o que quer."
+    },
+    {
+      "verse": 4,
+      "text": "Porque a palavra do rei tem poder; e quem lhe dirá: Que fazes?"
+    },
+    {
+      "verse": 5,
+      "text": "Quem guarda o mandamento não experimentará nenhum mal; e o coração do sábio discernirá o tempo e o modo."
+    },
+    {
+      "verse": 6,
+      "text": "Porque para todo o propósito há tempo e modo; porquanto a miséria do homem pesa sobre ele."
+    },
+    {
+      "verse": 7,
+      "text": "Porque não sabe o que há de suceder; pois quem lho dará a entender como há de ser?"
+    },
+    {
+      "verse": 8,
+      "text": "Nenhum homem há que tenha domínio sobre o espírito, para o reter; nem tem poder sobre o dia da morte; nem há armas nessa peleja; nem tampouco a impiedade livrará aos ímpios."
+    },
+    {
+      "verse": 9,
+      "text": "Tudo isto vi, quando apliquei o meu coração a toda a obra que se faz debaixo do sol; tempo há em que um homem domina sobre outro homem para desgraça sua."
+    },
+    {
+      "verse": 10,
+      "text": "Vi também os ímpios sepultados, e eis que voltavam; e os que haviam andado no lugar santo foram esquecidos na cidade onde assim fizeram; também isso é vaidade."
+    },
+    {
+      "verse": 11,
+      "text": "Visto como não se executa logo o juízo sobre a má obra, por isso o coração dos filhos dos homens está inteiramente disposto para praticar o mal."
+    },
+    {
+      "verse": 12,
+      "text": "Ainda que o pecador faça o mal cem vezes, e os seus dias se prolonguem, eu sei com certeza que bem sucede aos que temem a Deus, aos que temem diante dele."
+    },
+    {
+      "verse": 13,
+      "text": "Mas ao ímpio não irá bem, e ele não prolongará os seus dias, que são como a sombra; porque não teme diante de Deus."
+    },
+    {
+      "verse": 14,
+      "text": "Ainda há outra vaidade que se faz sobre a terra: que há justos a quem sucede segundo as obras dos ímpios, e há ímpios a quem sucede segundo as obras dos justos. Disse eu que também isto é vaidade."
+    },
+    {
+      "verse": 15,
+      "text": "Então louvei eu a alegria, porquanto o homem nenhuma coisa melhor tem debaixo do sol do que comer, beber e alegrar-se; porque isso o acompanhará no seu trabalho nos dias da sua vida que Deus lhe dá debaixo do sol."
+    },
+    {
+      "verse": 16,
+      "text": "Quando apliquei o meu coração a conhecer a sabedoria, e a ver o trabalho que se faz sobre a terra (pois nem de dia nem de noite vê sono com os seus olhos),"
+    },
+    {
+      "verse": 17,
+      "text": "Então vi toda a obra de Deus, que o homem não pode perceber a obra que se faz debaixo do sol; por mais que trabalhe o homem para a buscar, não a achará; e, ainda que diga o sábio que a conhece, nem por isso a poderá achar."
+    }
+  ]
+}

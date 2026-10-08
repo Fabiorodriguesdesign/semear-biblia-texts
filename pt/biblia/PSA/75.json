@@ -1,0 +1,50 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 75,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos61-80.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A ti, ó Deus, damos graças, a ti damos graças, pois o teu nome está perto; os homens declaram as tuas maravilhas."
+    },
+    {
+      "verse": 2,
+      "text": "Quando eu receber a congregação, julgarei retamente."
+    },
+    {
+      "verse": 3,
+      "text": "A terra e todos os seus habitantes estão dissolvidos; eu sustento as suas colunas. Selá."
+    },
+    {
+      "verse": 4,
+      "text": "Eu disse aos loucos: Não façais loucuras; e aos ímpios: Não levanteis a fronte;"
+    },
+    {
+      "verse": 5,
+      "text": "Não levanteis a vossa fronte altivamente; não faleis com cerviz dura."
+    },
+    {
+      "verse": 6,
+      "text": "Porque a promoção não vem do oriente, nem do ocidente, nem do sul."
+    },
+    {
+      "verse": 7,
+      "text": "Mas Deus é o juiz; a um abate, e a outro exalta."
+    },
+    {
+      "verse": 8,
+      "text": "Porque na mão do Senhor há um cálice, e o vinho é tinto; está cheio de mistura, e ele derrama do mesmo; mas as suas fezes, todos os ímpios da terra as espremerão e beberão."
+    },
+    {
+      "verse": 9,
+      "text": "Mas eu anunciarei para sempre; cantarei louvores ao Deus de Jacó."
+    },
+    {
+      "verse": 10,
+      "text": "Todos os chifres dos ímpios também cortarei; mas os chifres dos justos serão exaltados."
+    }
+  ]
+}

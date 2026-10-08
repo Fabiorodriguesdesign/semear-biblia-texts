@@ -1,0 +1,35 @@
+{
+  "book_id": "ADE",
+  "book": "Adições a Ester",
+  "chapter": 2,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "adicao",
+  "source_file": "apocryphal_books/kjv_pt/AdditionsToEsther/2.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E Mardoqueu descansou na corte com Gabata e Tara, os dois eunucos do rei, e guardas do palácio."
+    },
+    {
+      "verse": 2,
+      "text": "E ele ouviu as suas maquinações, e investigou os seus propósitos, e soube que estavam prestes a deitar as mãos ao rei Artaxerxes; e assim ele certificou o rei a respeito deles."
+    },
+    {
+      "verse": 3,
+      "text": "Então o rei examinou os dois eunucos, e depois que eles o confessaram, foram estrangulados."
+    },
+    {
+      "verse": 4,
+      "text": "E o rei fez um registro destas coisas, e Mardoqueu também escreveu sobre isso."
+    },
+    {
+      "verse": 5,
+      "text": "Assim o rei ordenou a Mardoqueu que servisse na corte, e por isso ele o recompensou."
+    },
+    {
+      "verse": 6,
+      "text": "No entanto, Hamã, filho de Hamedata, o agagita, que estava em grande honra com o rei, procurou molestar Mardoqueu e o seu povo por causa dos dois eunucos do rei."
+    }
+  ]
+}

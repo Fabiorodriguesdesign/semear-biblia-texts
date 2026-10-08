@@ -1,0 +1,246 @@
+{
+  "book_id": "LEV",
+  "book": "Levítico",
+  "chapter": 13,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/levitico/biblia_kjv_03levitico1-15.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E o SENHOR falou a Moisés e a Arão, dizendo:"
+    },
+    {
+      "verse": 2,
+      "text": "Quando um homem tiver na pele da sua carne um inchaço, uma crosta ou uma mancha brilhante, e estiver na pele da sua carne como a praga da lepra; então será levado a Arão, o sacerdote, ou a um dos seus filhos, os sacerdotes:"
+    },
+    {
+      "verse": 3,
+      "text": "E o sacerdote examinará a praga na pele da carne; e quando o cabelo na praga se tornar branco, e a praga à vista for mais profunda do que a pele da sua carne, é uma praga de lepra; e o sacerdote o examinará, e o declarará imundo."
+    },
+    {
+      "verse": 4,
+      "text": "Se a mancha brilhante for branca na pele da sua carne, e à vista não for mais profunda do que a pele, e o seu cabelo não se tiver tornado branco; então o sacerdote encerrará o que tem a praga por sete dias:"
+    },
+    {
+      "verse": 5,
+      "text": "E o sacerdote o examinará no sétimo dia; e eis que, se a praga à sua vista estiver parada, e a praga não se espalhar na pele; então o sacerdote o encerrará por mais sete dias:"
+    },
+    {
+      "verse": 6,
+      "text": "E o sacerdote o examinará novamente no sétimo dia; e eis que, se a praga estiver um pouco escura, e a praga não se espalhar na pele, o sacerdote o declarará limpo; é apenas uma crosta; e ele lavará as suas roupas, e ficará limpo."
+    },
+    {
+      "verse": 7,
+      "text": "Mas se a crosta se espalhar muito na pele, depois de ter sido visto pelo sacerdote para a sua purificação, será visto novamente pelo sacerdote:"
+    },
+    {
+      "verse": 8,
+      "text": "E se o sacerdote vir que, eis que a crosta se espalha na pele, então o sacerdote o declarará imundo: é uma lepra."
+    },
+    {
+      "verse": 9,
+      "text": "Quando a praga da lepra estiver num homem, então ele será levado ao sacerdote;"
+    },
+    {
+      "verse": 10,
+      "text": "E o sacerdote o verá; e eis que, se o inchaço for branco na pele, e tiver tornado o cabelo branco, e houver carne viva e crua no inchaço;"
+    },
+    {
+      "verse": 11,
+      "text": "É uma lepra antiga na pele da sua carne, e o sacerdote o declarará imundo, e não o encerrará; porque ele é imundo."
+    },
+    {
+      "verse": 12,
+      "text": "E se uma lepra se espalhar pela pele, e a lepra cobrir toda a pele daquele que tem a praga, da sua cabeça até o seu pé, onde quer que o sacerdote olhe;"
+    },
+    {
+      "verse": 13,
+      "text": "Então o sacerdote considerará; e eis que, se a lepra tiver coberto toda a sua carne, ele declarará limpo aquele que tem a praga; tudo se tornou branco; ele está limpo."
+    },
+    {
+      "verse": 14,
+      "text": "Mas quando aparecer nele carne viva, ele será imundo."
+    },
+    {
+      "verse": 15,
+      "text": "E o sacerdote verá a carne viva, e o declarará imundo; porque a carne viva é imunda; é uma lepra."
+    },
+    {
+      "verse": 16,
+      "text": "Ou se a carne viva voltar a mudar e se tornar branca, ele virá ao sacerdote;"
+    },
+    {
+      "verse": 17,
+      "text": "E o sacerdote o verá; e eis que, se a praga se tornou branca; então o sacerdote declarará limpo aquele que tem a praga; ele está limpo."
+    },
+    {
+      "verse": 18,
+      "text": "A carne também, na qual, mesmo na sua pele, havia um furúnculo, e está curada,"
+    },
+    {
+      "verse": 19,
+      "text": "E no lugar do furúnculo houver um inchaço branco, ou uma mancha brilhante, branca e um tanto avermelhada, e for mostrado ao sacerdote;"
+    },
+    {
+      "verse": 20,
+      "text": "E se, quando o sacerdote o vir, eis que está à vista mais baixo do que a pele, e o seu cabelo se tornou branco; o sacerdote o declarará imundo; é uma praga de lepra que brotou do furúnculo."
+    },
+    {
+      "verse": 21,
+      "text": "Mas se o sacerdote o examinar, e eis que não há nele cabelos brancos, e se não for mais baixo do que a pele, mas for um pouco escuro; então o sacerdote o encerrará por sete dias:"
+    },
+    {
+      "verse": 22,
+      "text": "E se se espalhar muito na pele, então o sacerdote o declarará imundo: é uma praga."
+    },
+    {
+      "verse": 23,
+      "text": "Mas se a mancha brilhante permanecer no seu lugar, e não se espalhar, é um furúnculo ardente; e o sacerdote o declarará limpo."
+    },
+    {
+      "verse": 24,
+      "text": "Ou se houver alguma carne, em cuja pele haja uma queimadura quente, e a carne viva que queima tiver uma mancha branca brilhante, um tanto avermelhada, ou branca;"
+    },
+    {
+      "verse": 25,
+      "text": "Então o sacerdote a examinará; e eis que, se o cabelo na mancha brilhante se tornou branco, e está à vista mais profundo do que a pele; é uma lepra que brotou da queimadura; portanto, o sacerdote o declarará imundo; é a praga da lepra."
+    },
+    {
+      "verse": 26,
+      "text": "Mas se o sacerdote o examinar, e eis que não há cabelo branco na mancha brilhante, e não é mais baixo do que a outra pele, mas é um pouco escuro; então o sacerdote o encerrará por sete dias:"
+    },
+    {
+      "verse": 27,
+      "text": "E o sacerdote o examinará no sétimo dia; e se se espalhar muito na pele, então o sacerdote o declarará imundo; é a praga da lepra."
+    },
+    {
+      "verse": 28,
+      "text": "E se a mancha brilhante permanecer no seu lugar, e não se espalhar na pele, mas for um pouco escura; é um inchaço da queimadura, e o sacerdote o declarará limpo; porque é uma inflamação da queimadura."
+    },
+    {
+      "verse": 29,
+      "text": "Se um homem ou mulher tiver uma praga na cabeça ou na barba;"
+    },
+    {
+      "verse": 30,
+      "text": "Então o sacerdote verá a praga; e eis que, se estiver à vista mais profunda do que a pele; e houver nela um cabelo fino e amarelo; então o sacerdote o declarará imundo; é uma tinha seca, uma lepra na cabeça ou na barba."
+    },
+    {
+      "verse": 31,
+      "text": "E se o sacerdote olhar para a praga da tinha, e eis que não está à vista mais profunda do que a pele, e que não há nela cabelo preto; então o sacerdote encerrará aquele que tem a praga da tinha por sete dias:"
+    },
+    {
+      "verse": 32,
+      "text": "E no sétimo dia o sacerdote examinará a praga; e eis que, se a tinha não se espalhar, e não houver nela cabelo amarelo, e a tinha não estiver à vista mais profunda do que a pele;"
+    },
+    {
+      "verse": 33,
+      "text": "Ele será raspado, mas a tinha não raspará; e o sacerdote encerrará aquele que tem a tinha por mais sete dias:"
+    },
+    {
+      "verse": 34,
+      "text": "E no sétimo dia o sacerdote examinará a tinha; e eis que, se a tinha não se espalhou na pele, nem está à vista mais profunda do que a pele; então o sacerdote o declarará limpo; e ele lavará as suas roupas, e ficará limpo."
+    },
+    {
+      "verse": 35,
+      "text": "Mas se a tinha se espalhar muito na pele após a sua purificação;"
+    },
+    {
+      "verse": 36,
+      "text": "Então o sacerdote o examinará; e eis que, se a tinha se espalhou na pele, o sacerdote não procurará por cabelo amarelo; ele é imundo."
+    },
+    {
+      "verse": 37,
+      "text": "Mas se a tinha estiver à sua vista parada, e nela tiver crescido cabelo preto; a tinha está curada, ele está limpo; e o sacerdote o declarará limpo."
+    },
+    {
+      "verse": 38,
+      "text": "Se um homem ou uma mulher tiver também na pele da sua carne manchas brilhantes, manchas brancas brilhantes;"
+    },
+    {
+      "verse": 39,
+      "text": "Então o sacerdote olhará; e eis que, se as manchas brilhantes na pele da sua carne forem de um branco escuro; é uma mancha sardenta que cresce na pele; ele está limpo."
+    },
+    {
+      "verse": 40,
+      "text": "E o homem cujo cabelo caiu da sua cabeça, ele é calvo; contudo, está limpo."
+    },
+    {
+      "verse": 41,
+      "text": "E aquele a quem o cabelo caiu da parte da sua cabeça em direção ao seu rosto, ele é calvo na testa; contudo, está limpo."
+    },
+    {
+      "verse": 42,
+      "text": "E se houver na cabeça calva, ou na testa calva, uma ferida branca avermelhada; é uma lepra que surgiu na sua cabeça calva, ou na sua testa calva."
+    },
+    {
+      "verse": 43,
+      "text": "Então o sacerdote o examinará; e eis que, se o inchaço da ferida for branco avermelhado na sua cabeça calva, ou na sua testa calva, como a lepra aparece na pele da carne;"
+    },
+    {
+      "verse": 44,
+      "text": "Ele é um homem leproso, ele é imundo; o sacerdote o declarará totalmente imundo; a sua praga está na sua cabeça."
+    },
+    {
+      "verse": 45,
+      "text": "E o leproso em quem está a praga, as suas roupas serão rasgadas, e a sua cabeça descoberta, e ele porá uma cobertura sobre o seu lábio superior, e clamará: Imundo, imundo."
+    },
+    {
+      "verse": 46,
+      "text": "Todos os dias em que a praga estiver nele, ele será contaminado; ele é imundo; ele habitará sozinho; fora do arraial será a sua habitação."
+    },
+    {
+      "verse": 47,
+      "text": "A vestimenta também em que está a praga da lepra, seja uma vestimenta de lã, ou uma vestimenta de linho;"
+    },
+    {
+      "verse": 48,
+      "text": "Seja na urdidura, ou na trama; de linho, ou de lã; seja numa pele, ou em qualquer coisa feita de pele;"
+    },
+    {
+      "verse": 49,
+      "text": "E se a praga for esverdeada ou avermelhada na vestimenta, ou na pele, seja na urdidura, ou na trama, ou em qualquer coisa de pele; é uma praga de lepra, e será mostrada ao sacerdote:"
+    },
+    {
+      "verse": 50,
+      "text": "E o sacerdote examinará a praga, e encerrará aquilo que tem a praga por sete dias:"
+    },
+    {
+      "verse": 51,
+      "text": "E ele examinará a praga no sétimo dia; se a praga se espalhou na vestimenta, seja na urdidura, ou na trama, ou numa pele, ou em qualquer obra que seja feita de pele; a praga é uma lepra corrosiva; é imunda."
+    },
+    {
+      "verse": 52,
+      "text": "Portanto, queimará aquela vestimenta, seja urdidura ou trama, em lã ou em linho, ou qualquer coisa de pele, em que a praga estiver; porque é uma lepra corrosiva; será queimada no fogo."
+    },
+    {
+      "verse": 53,
+      "text": "E se o sacerdote olhar, e eis que a praga não se espalhou na vestimenta, seja na urdidura, ou na trama, ou em qualquer coisa de pele;"
+    },
+    {
+      "verse": 54,
+      "text": "Então o sacerdote ordenará que lavem a coisa em que está a praga, e a encerrará por mais sete dias:"
+    },
+    {
+      "verse": 55,
+      "text": "E o sacerdote examinará a praga, depois de lavada; e eis que, se a praga não mudou de cor, e a praga não se espalhou; é imunda; a queimarás no fogo; é corrosão interior, quer esteja nua por dentro ou por fora."
+    },
+    {
+      "verse": 56,
+      "text": "E se o sacerdote olhar, e eis que a praga está um pouco escura depois de lavada; então a rasgará da vestimenta, ou da pele, ou da urdidura, ou da trama:"
+    },
+    {
+      "verse": 57,
+      "text": "E se ainda aparecer na vestimenta, seja na urdidura, ou na trama, ou em qualquer coisa de pele; é uma praga que se espalha; queimarás com fogo aquilo em que está a praga."
+    },
+    {
+      "verse": 58,
+      "text": "E a vestimenta, seja urdidura, ou trama, ou qualquer coisa de pele que seja, que lavares, se a praga se apartar delas, então será lavada pela segunda vez, e ficará limpa."
+    },
+    {
+      "verse": 59,
+      "text": "Esta é a lei da praga da lepra numa vestimenta de lã ou de linho, seja na urdidura, ou na trama, ou em qualquer coisa de peles, para a declarar limpa, ou para a declarar imunda."
+    }
+  ]
+}

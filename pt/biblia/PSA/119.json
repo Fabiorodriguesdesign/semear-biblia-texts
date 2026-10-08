@@ -1,0 +1,714 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 119,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos101-120.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Bem-aventurados os retos em seus caminhos, que andam na lei do Senhor."
+    },
+    {
+      "verse": 2,
+      "text": "Bem-aventurados os que guardam os seus testemunhos, e que o buscam com todo o coração."
+    },
+    {
+      "verse": 3,
+      "text": "E não praticam iniquidade, mas andam nos seus caminhos."
+    },
+    {
+      "verse": 4,
+      "text": "Tu ordenaste os teus mandamentos, para que diligentemente os observássemos."
+    },
+    {
+      "verse": 5,
+      "text": "Quem dera que os meus caminhos fossem dirigidos a observar os teus mandamentos."
+    },
+    {
+      "verse": 6,
+      "text": "Então não ficaria confundido, atentando eu para todos os teus mandamentos."
+    },
+    {
+      "verse": 7,
+      "text": "Louvar-te-ei com retidão de coração quando tiver aprendido os teus justos juízos."
+    },
+    {
+      "verse": 8,
+      "text": "Observarei os teus estatutos; não me desampares totalmente."
+    },
+    {
+      "verse": 9,
+      "text": "Como purificará o jovem o seu caminho? Observando-o de acordo com a tua palavra."
+    },
+    {
+      "verse": 10,
+      "text": "De todo o meu coração tenho te buscado; não me deixes desviar dos teus mandamentos."
+    },
+    {
+      "verse": 11,
+      "text": "Escondi a tua palavra no meu coração, para não pecar contra ti."
+    },
+    {
+      "verse": 12,
+      "text": "Bendito és tu, ó Senhor; ensina-me os teus estatutos."
+    },
+    {
+      "verse": 13,
+      "text": "Com os meus lábios declarei todos os juízos da tua boca."
+    },
+    {
+      "verse": 14,
+      "text": "Regozijo-me no caminho dos teus testemunhos, tanto como em todas as riquezas."
+    },
+    {
+      "verse": 15,
+      "text": "Em teus preceitos medito, e observo os teus caminhos."
+    },
+    {
+      "verse": 16,
+      "text": "Deleitar-me-ei nos teus estatutos; não me esquecerei da tua palavra."
+    },
+    {
+      "verse": 17,
+      "text": "Faze bem ao teu servo, para que eu viva e observe a tua palavra."
+    },
+    {
+      "verse": 18,
+      "text": "Abre tu os meus olhos, para que veja as maravilhas da tua lei."
+    },
+    {
+      "verse": 19,
+      "text": "Sou peregrino na terra; não escondas de mim os teus mandamentos."
+    },
+    {
+      "verse": 20,
+      "text": "A minha alma está quebrantada de desejar os teus juízos em todo o tempo."
+    },
+    {
+      "verse": 21,
+      "text": "Tu repreendeste os soberbos, os malditos, que se desviam dos teus mandamentos."
+    },
+    {
+      "verse": 22,
+      "text": "Tira de sobre mim o opróbrio e o desprezo, pois guardei os teus testemunhos."
+    },
+    {
+      "verse": 23,
+      "text": "Príncipes também se assentaram e falavam contra mim, mas o teu servo meditava nos teus estatutos."
+    },
+    {
+      "verse": 24,
+      "text": "Os teus testemunhos são o meu prazer e os meus conselheiros."
+    },
+    {
+      "verse": 25,
+      "text": "A minha alma apega-se ao pó; vivifica-me segundo a tua palavra."
+    },
+    {
+      "verse": 26,
+      "text": "Meus caminhos te descrevi, e tu me ouviste; ensina-me os teus estatutos."
+    },
+    {
+      "verse": 27,
+      "text": "Faze-me entender o caminho dos teus preceitos; assim meditarei nas tuas maravilhas."
+    },
+    {
+      "verse": 28,
+      "text": "A minha alma se consome de tristeza; fortalece-me segundo a tua palavra."
+    },
+    {
+      "verse": 29,
+      "text": "Desvia de mim o caminho da falsidade, e ensina-me benignidade a tua lei."
+    },
+    {
+      "verse": 30,
+      "text": "Escolhi o caminho da fidelidade; diante de mim pus as tuas ordenanças."
+    },
+    {
+      "verse": 31,
+      "text": "Apego-me aos teus testemunhos, ó Senhor; não seja eu envergonhado."
+    },
+    {
+      "verse": 32,
+      "text": "Percorrerei o caminho dos teus mandamentos, quando dilatares o meu coração."
+    },
+    {
+      "verse": 33,
+      "text": "Ensina-me, ó Senhor, o caminho dos teus estatutos, e eu o guardarei até o fim."
+    },
+    {
+      "verse": 34,
+      "text": "Dá-me entendimento, e guardarei a tua lei, e observá-la-ei de todo o meu coração."
+    },
+    {
+      "verse": 35,
+      "text": "Faze-me andar na vereda dos teus mandamentos, porque nela tenho prazer."
+    },
+    {
+      "verse": 36,
+      "text": "Inclina o meu coração aos teus testemunhos, e não à cobiça."
+    },
+    {
+      "verse": 37,
+      "text": "Desvia os meus olhos de contemplarem a vaidade, e vivifica-me no teu caminho."
+    },
+    {
+      "verse": 38,
+      "text": "Confirma a tua palavra ao teu servo, que é dedicado ao teu temor."
+    },
+    {
+      "verse": 39,
+      "text": "Desvia de mim o opróbrio que temo, pois os teus juízos são bons."
+    },
+    {
+      "verse": 40,
+      "text": "Eis que tenho desejado os teus preceitos; vivifica-me na tua justiça."
+    },
+    {
+      "verse": 41,
+      "text": "Venham também sobre mim as tuas misericórdias, ó Senhor, e a tua salvação, segundo a tua palavra."
+    },
+    {
+      "verse": 42,
+      "text": "Assim terei que responder ao que me afronta, pois confio na tua palavra."
+    },
+    {
+      "verse": 43,
+      "text": "E não tires de todo da minha boca a palavra da verdade, pois tenho esperado nos teus juízos."
+    },
+    {
+      "verse": 44,
+      "text": "Assim, observarei de contínuo a tua lei, para todo o sempre."
+    },
+    {
+      "verse": 45,
+      "text": "E andarei em liberdade, pois busco os teus preceitos."
+    },
+    {
+      "verse": 46,
+      "text": "Também falarei dos teus testemunhos perante os reis, e não me envergonharei."
+    },
+    {
+      "verse": 47,
+      "text": "E deleitar-me-ei nos teus mandamentos, que eu amo."
+    },
+    {
+      "verse": 48,
+      "text": "Também levantarei as minhas mãos para os teus mandamentos, que amo, e meditarei nos teus estatutos."
+    },
+    {
+      "verse": 49,
+      "text": "Lembra-te da palavra dada ao teu servo, na qual me fizeste esperar."
+    },
+    {
+      "verse": 50,
+      "text": "Isto é a minha consolação na minha aflição, porque a tua palavra me vivificou."
+    },
+    {
+      "verse": 51,
+      "text": "Os soberbos zombaram grandemente de mim; contudo não me desviei da tua lei."
+    },
+    {
+      "verse": 52,
+      "text": "Lembrei-me dos teus juízos de outrora, ó Senhor, e me consolei."
+    },
+    {
+      "verse": 53,
+      "text": "O horror apoderou-se de mim, por causa dos ímpios que abandonam a tua lei."
+    },
+    {
+      "verse": 54,
+      "text": "Os teus estatutos têm sido os meus cânticos na casa da minha peregrinação."
+    },
+    {
+      "verse": 55,
+      "text": "Lembrei-me do teu nome, ó Senhor, de noite, e guardei a tua lei."
+    },
+    {
+      "verse": 56,
+      "text": "Isto eu tive, porque guardei os teus preceitos."
+    },
+    {
+      "verse": 57,
+      "text": "Tu és a minha porção, ó Senhor; eu disse que guardaria as tuas palavras."
+    },
+    {
+      "verse": 58,
+      "text": "Supliquei o teu favor de todo o meu coração; sê misericordioso para comigo, segundo a tua palavra."
+    },
+    {
+      "verse": 59,
+      "text": "Considerei os meus caminhos, e voltei os meus pés para os teus testemunhos."
+    },
+    {
+      "verse": 60,
+      "text": "Apressei-me, e não tardei em guardar os teus mandamentos."
+    },
+    {
+      "verse": 61,
+      "text": "As cordas dos ímpios me cingiram, mas não me esqueci da tua lei."
+    },
+    {
+      "verse": 62,
+      "text": "À meia-noite me levantarei para te dar graças, por causa dos teus retos juízos."
+    },
+    {
+      "verse": 63,
+      "text": "Sou companheiro de todos os que te temem e dos que guardam os teus preceitos."
+    },
+    {
+      "verse": 64,
+      "text": "A terra, ó Senhor, está cheia da tua misericórdia; ensina-me os teus estatutos."
+    },
+    {
+      "verse": 65,
+      "text": "Fizeste bem ao teu servo, ó Senhor, segundo a tua palavra."
+    },
+    {
+      "verse": 66,
+      "text": "Ensina-me o bom juízo e o conhecimento, pois cri nos teus mandamentos."
+    },
+    {
+      "verse": 67,
+      "text": "Antes de ser afligido, eu me desviava; mas agora guardo a tua palavra."
+    },
+    {
+      "verse": 68,
+      "text": "Tu és bom e fazes o bem; ensina-me os teus estatutos."
+    },
+    {
+      "verse": 69,
+      "text": "Os soberbos forjaram mentiras contra mim, mas eu guardarei os teus preceitos de todo o coração."
+    },
+    {
+      "verse": 70,
+      "text": "O coração deles é como gordura; mas eu me deleito na tua lei."
+    },
+    {
+      "verse": 71,
+      "text": "Foi-me bom ter sido afligido, para que aprendesse os teus estatutos."
+    },
+    {
+      "verse": 72,
+      "text": "Melhor é para mim a lei da tua boca do que milhares de ouro e prata."
+    },
+    {
+      "verse": 73,
+      "text": "As tuas mãos me fizeram e me formaram; dá-me entendimento para que eu aprenda os teus mandamentos."
+    },
+    {
+      "verse": 74,
+      "text": "Os que te temem se alegrarão quando me virem, porque tenho esperado na tua palavra."
+    },
+    {
+      "verse": 75,
+      "text": "Eu sei, ó Senhor, que os teus juízos são retos, e que em tua fidelidade me afligiste."
+    },
+    {
+      "verse": 76,
+      "text": "Rogo-te que a tua benignidade seja para meu consolo, segundo a tua palavra ao teu servo."
+    },
+    {
+      "verse": 77,
+      "text": "Venham sobre mim as tuas ternas misericórdias, para que eu viva; pois a tua lei é o meu deleite."
+    },
+    {
+      "verse": 78,
+      "text": "Sejam envergonhados os soberbos, pois me trataram perversamente sem causa; mas eu meditarei nos teus preceitos."
+    },
+    {
+      "verse": 79,
+      "text": "Voltem-se para mim os que te temem, e os que conheceram os teus testemunhos."
+    },
+    {
+      "verse": 80,
+      "text": "Seja o meu coração irrepreensível nos teus estatutos, para que eu não seja envergonhado."
+    },
+    {
+      "verse": 81,
+      "text": "A minha alma desfalece pela tua salvação, mas espero na tua palavra."
+    },
+    {
+      "verse": 82,
+      "text": "Os meus olhos desfalecem pela tua palavra, dizendo: Quando me consolarás?"
+    },
+    {
+      "verse": 83,
+      "text": "Pois sou como um odre na fumaça; contudo não me esqueço dos teus estatutos."
+    },
+    {
+      "verse": 84,
+      "text": "Quantos são os dias do teu servo? Quando executarás o juízo sobre os que me perseguem?"
+    },
+    {
+      "verse": 85,
+      "text": "Os soberbos cavaram covas para mim, o que não é conforme a tua lei."
+    },
+    {
+      "verse": 86,
+      "text": "Todos os teus mandamentos são fiéis; eles me perseguem injustamente; ajuda-me."
+    },
+    {
+      "verse": 87,
+      "text": "Quase me consumiram sobre a terra, mas eu não abandonei os teus preceitos."
+    },
+    {
+      "verse": 88,
+      "text": "Vivifica-me segundo a tua benignidade; assim guardarei o testemunho da tua boca."
+    },
+    {
+      "verse": 89,
+      "text": "Para sempre, ó Senhor, a tua palavra está firmada nos céus."
+    },
+    {
+      "verse": 90,
+      "text": "A tua fidelidade é de geração em geração; tu estabeleceste a terra, e ela permanece."
+    },
+    {
+      "verse": 91,
+      "text": "Eles continuam até hoje, segundo as tuas ordenanças; porque todos são teus servos."
+    },
+    {
+      "verse": 92,
+      "text": "Se a tua lei não fosse o meu deleite, então eu teria perecido na minha aflição."
+    },
+    {
+      "verse": 93,
+      "text": "Nunca me esquecerei dos teus preceitos, pois com eles me vivificaste."
+    },
+    {
+      "verse": 94,
+      "text": "Eu sou teu, salva-me; pois tenho buscado os teus preceitos."
+    },
+    {
+      "verse": 95,
+      "text": "Os ímpios me esperaram para me destruir, mas eu considerarei os teus testemunhos."
+    },
+    {
+      "verse": 96,
+      "text": "Tenho visto o fim de toda a perfeição, mas o teu mandamento é excessivamente amplo."
+    },
+    {
+      "verse": 97,
+      "text": "Oh! quanto amo a tua lei! é a minha meditação todo o dia."
+    },
+    {
+      "verse": 98,
+      "text": "Tu, pelos teus mandamentos, me fazes mais sábio do que os meus inimigos, pois estão sempre comigo."
+    },
+    {
+      "verse": 99,
+      "text": "Tenho mais entendimento do que todos os meus mestres, porque os teus testemunhos são a minha meditação."
+    },
+    {
+      "verse": 100,
+      "text": "Entendo mais do que os antigos, porque guardo os teus preceitos."
+    },
+    {
+      "verse": 101,
+      "text": "Retirei os meus pés de todo caminho mau, para guardar a tua palavra."
+    },
+    {
+      "verse": 102,
+      "text": "Não me apartei dos teus juízos, pois tu me ensinaste."
+    },
+    {
+      "verse": 103,
+      "text": "Quão doces são as tuas palavras ao meu paladar! sim, mais doces do que o mel à minha boca!"
+    },
+    {
+      "verse": 104,
+      "text": "Pelos teus mandamentos alcancei entendimento; por isso odeio todo falso caminho."
+    },
+    {
+      "verse": 105,
+      "text": "Lâmpada para os meus pés é tua palavra, e luz para o meu caminho."
+    },
+    {
+      "verse": 106,
+      "text": "Jurei, e o cumprirei, que guardarei os teus justos juízos."
+    },
+    {
+      "verse": 107,
+      "text": "Estou aflitíssimo; vivifica-me, ó Senhor, segundo a tua palavra."
+    },
+    {
+      "verse": 108,
+      "text": "Aceita, rogo-te, as ofertas voluntárias da minha boca, ó Senhor, e ensina-me os teus juízos."
+    },
+    {
+      "verse": 109,
+      "text": "A minha alma está continuamente na minha mão, contudo não me esqueço da tua lei."
+    },
+    {
+      "verse": 110,
+      "text": "Os ímpios me armaram uma cilada, contudo não me desviei dos teus preceitos."
+    },
+    {
+      "verse": 111,
+      "text": "Os teus testemunhos tomei por herança para sempre, pois são o regozijo do meu coração."
+    },
+    {
+      "verse": 112,
+      "text": "Inclinei o meu coração a guardar os teus estatutos para sempre, até ao fim."
+    },
+    {
+      "verse": 113,
+      "text": "Odeio os pensamentos vãos, mas amo a tua lei."
+    },
+    {
+      "verse": 114,
+      "text": "Tu és o meu esconderijo e o meu escudo; espero na tua palavra."
+    },
+    {
+      "verse": 115,
+      "text": "Apartai-vos de mim, malfeitores, pois guardarei os mandamentos do meu Deus."
+    },
+    {
+      "verse": 116,
+      "text": "Sustenta-me segundo a tua palavra, para que eu viva, e não me deixes envergonhado da minha esperança."
+    },
+    {
+      "verse": 117,
+      "text": "Sustenta-me, e serei salvo, e de contínuo terei respeito aos teus estatutos."
+    },
+    {
+      "verse": 118,
+      "text": "Tu tens pisado aos pés todos os que se desviam dos teus estatutos, pois o engano deles é falsidade."
+    },
+    {
+      "verse": 119,
+      "text": "Tu tiraste da terra todos os ímpios, como a escória, por isso amo os teus testemunhos."
+    },
+    {
+      "verse": 120,
+      "text": "O meu corpo se arrepiou com temor de ti, e temi os teus juízos."
+    },
+    {
+      "verse": 121,
+      "text": "Fiz juízo e justiça; não me entregues aos meus opressores."
+    },
+    {
+      "verse": 122,
+      "text": "Fica por fiador do teu servo para o bem; não deixes que os soberbos me oprimam."
+    },
+    {
+      "verse": 123,
+      "text": "Os meus olhos desfaleceram pela tua salvação e pela promessa da tua justiça."
+    },
+    {
+      "verse": 124,
+      "text": "Trata com o teu servo segundo a tua misericórdia, e ensina-me os teus estatutos."
+    },
+    {
+      "verse": 125,
+      "text": "Eu sou teu servo; dá-me entendimento, para que eu conheça os teus testemunhos."
+    },
+    {
+      "verse": 126,
+      "text": "É tempo de agires, Senhor, pois eles anularam a tua lei."
+    },
+    {
+      "verse": 127,
+      "text": "Por isso amo os teus mandamentos mais do que o ouro, sim, mais do que o ouro fino."
+    },
+    {
+      "verse": 128,
+      "text": "Por isso, estimo retos todos os teus preceitos a respeito de tudo; e odeio todo falso caminho."
+    },
+    {
+      "verse": 129,
+      "text": "Os teus testemunhos são maravilhosos; por isso a minha alma os guarda."
+    },
+    {
+      "verse": 130,
+      "text": "A entrada das tuas palavras dá luz; dá entendimento aos símplices."
+    },
+    {
+      "verse": 131,
+      "text": "Abri a minha boca, e ofeguei, pois desejava os teus mandamentos."
+    },
+    {
+      "verse": 132,
+      "text": "Olha para mim, e tem misericórdia de mim, como costumas fazer para com os que amam o teu nome."
+    },
+    {
+      "verse": 133,
+      "text": "Ordena os meus passos na tua palavra, e não se domine de mim iniquidade alguma."
+    },
+    {
+      "verse": 134,
+      "text": "Livra-me da opressão do homem; assim guardarei os teus preceitos."
+    },
+    {
+      "verse": 135,
+      "text": "Faze o teu rosto resplandecer sobre o teu servo, e ensina-me os teus estatutos."
+    },
+    {
+      "verse": 136,
+      "text": "Rios de águas correm dos meus olhos, porque não guardam a tua lei."
+    },
+    {
+      "verse": 137,
+      "text": "Justo és tu, ó Senhor, e retos são os teus juízos."
+    },
+    {
+      "verse": 138,
+      "text": "Os teus testemunhos que ordenaste são retos e muito fiéis."
+    },
+    {
+      "verse": 139,
+      "text": "O meu zelo me consumiu, porque os meus inimigos se esqueceram das tuas palavras."
+    },
+    {
+      "verse": 140,
+      "text": "A tua palavra é muito pura; por isso o teu servo a ama."
+    },
+    {
+      "verse": 141,
+      "text": "Eu sou pequeno e desprezado, mas não me esqueço dos teus preceitos."
+    },
+    {
+      "verse": 142,
+      "text": "A tua justiça é uma justiça eterna, e a tua lei é a verdade."
+    },
+    {
+      "verse": 143,
+      "text": "A tribulação e a angústia se apoderaram de mim, mas os teus mandamentos são o meu deleite."
+    },
+    {
+      "verse": 144,
+      "text": "A justiça dos teus testemunhos é eterna; dá-me entendimento, e viverei."
+    },
+    {
+      "verse": 145,
+      "text": "Clamei de todo o meu coração; ouve-me, ó Senhor; guardarei os teus estatutos."
+    },
+    {
+      "verse": 146,
+      "text": "A ti clamei; salva-me, e guardarei os teus testemunhos."
+    },
+    {
+      "verse": 147,
+      "text": "Preveni o raiar da manhã, e clamei; esperei na tua palavra."
+    },
+    {
+      "verse": 148,
+      "text": "Os meus olhos previnem as vigílias da noite, para que eu medite na tua palavra."
+    },
+    {
+      "verse": 149,
+      "text": "Ouve a minha voz, segundo a tua benignidade; ó Senhor, vivifica-me segundo o teu juízo."
+    },
+    {
+      "verse": 150,
+      "text": "Aproximam-se os que seguem a maldade; estão longe da tua lei."
+    },
+    {
+      "verse": 151,
+      "text": "Tu estás perto, ó Senhor, e todos os teus mandamentos são a verdade."
+    },
+    {
+      "verse": 152,
+      "text": "Quanto aos teus testemunhos, sei desde a antiguidade que tu os fundaste para sempre."
+    },
+    {
+      "verse": 153,
+      "text": "Considera a minha aflição, e livra-me, pois não me esqueço da tua lei."
+    },
+    {
+      "verse": 154,
+      "text": "Pleiteia a minha causa, e livra-me; vivifica-me segundo a tua palavra."
+    },
+    {
+      "verse": 155,
+      "text": "A salvação está longe dos ímpios, pois não buscam os teus estatutos."
+    },
+    {
+      "verse": 156,
+      "text": "Grandes são as tuas ternas misericórdias, ó Senhor; vivifica-me segundo os teus juízos."
+    },
+    {
+      "verse": 157,
+      "text": "Muitos são os meus perseguidores e os meus inimigos, mas não me desvio dos teus testemunhos."
+    },
+    {
+      "verse": 158,
+      "text": "Vi os transgressores, e me entristeci, porque não guardavam a tua palavra."
+    },
+    {
+      "verse": 159,
+      "text": "Considera como amo os teus preceitos; vivifica-me, ó Senhor, segundo a tua benignidade."
+    },
+    {
+      "verse": 160,
+      "text": "A tua palavra é verdadeira desde o princípio, e cada um dos teus retos juízos dura para sempre."
+    },
+    {
+      "verse": 161,
+      "text": "Príncipes me perseguiram sem causa, mas o meu coração teme a tua palavra."
+    },
+    {
+      "verse": 162,
+      "text": "Regozijo-me com a tua palavra, como quem acha grande despojo."
+    },
+    {
+      "verse": 163,
+      "text": "Odeio e abomino a mentira, mas amo a tua lei."
+    },
+    {
+      "verse": 164,
+      "text": "Sete vezes ao dia te louvo, por causa dos teus retos juízos."
+    },
+    {
+      "verse": 165,
+      "text": "Grande paz têm os que amam a tua lei, e nada os fará tropeçar."
+    },
+    {
+      "verse": 166,
+      "text": "Senhor, tenho esperado na tua salvação, e tenho cumprido os teus mandamentos."
+    },
+    {
+      "verse": 167,
+      "text": "A minha alma tem guardado os teus testemunhos, e eu os amo excessivamente."
+    },
+    {
+      "verse": 168,
+      "text": "Tenho guardado os teus preceitos e os teus testemunhos, pois todos os meus caminhos estão diante de ti."
+    },
+    {
+      "verse": 169,
+      "text": "Aproxime-se o meu clamor perante ti, ó Senhor; dá-me entendimento, segundo a tua palavra."
+    },
+    {
+      "verse": 170,
+      "text": "Chegue a minha súplica perante ti; livra-me segundo a tua palavra."
+    },
+    {
+      "verse": 171,
+      "text": "Os meus lábios proferirão louvor, quando me tiveres ensinado os teus estatutos."
+    },
+    {
+      "verse": 172,
+      "text": "A minha língua falará da tua palavra, pois todos os teus mandamentos são justiça."
+    },
+    {
+      "verse": 173,
+      "text": "Esteja a tua mão pronta para me ajudar, pois escolhi os teus preceitos."
+    },
+    {
+      "verse": 174,
+      "text": "Tenho desejado a tua salvação, ó Senhor, e a tua lei é o meu deleite."
+    },
+    {
+      "verse": 175,
+      "text": "Viva a minha alma, e te louvará; e ajudem-me os teus juízos."
+    },
+    {
+      "verse": 176,
+      "text": "Andei desgarrado como uma ovelha perdida; busca o teu servo, pois não me esqueço dos teus mandamentos."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "book_id": "SIR",
+  "book": "Eclesiástico (Sirácida)",
+  "chapter": 5,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "livro",
+  "source_file": "apocryphal_books/kjv_pt/Ecclesiasticus/5.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Não te apoies nas riquezas injustas e não digas: Tenho o suficiente para a minha vida."
+    },
+    {
+      "verse": 2,
+      "text": "Não sigas o desejo do teu coração e a tua força para andar nos desejos da tua alma."
+    },
+    {
+      "verse": 3,
+      "text": "Não digas: Quem me dominará? Pois o Senhor vingar-se-á certamente de ti."
+    },
+    {
+      "verse": 4,
+      "text": "Não digas: Pequei, e que mal me aconteceu? Pois o Senhor é paciente, mas não deixará de castigar."
+    },
+    {
+      "verse": 5,
+      "text": "Não estejas tão seguro do perdão que acrescentes pecado sobre pecado."
+    },
+    {
+      "verse": 6,
+      "text": "E não digas: A sua misericórdia é grande, ele perdoará a multidão dos meus pecados."
+    },
+    {
+      "verse": 7,
+      "text": "Pois a misericórdia e a ira vêm dele, e a sua indignação repousa sobre os pecadores."
+    },
+    {
+      "verse": 8,
+      "text": "Não tardes em converter-te ao Senhor e não adies de dia para dia."
+    },
+    {
+      "verse": 9,
+      "text": "Pois a ira do Senhor virá repentinamente, e serás destruído no tempo da vingança."
+    },
+    {
+      "verse": 10,
+      "text": "Não te confies nas riquezas injustas, pois não te servirão de nada no dia da calamidade."
+    },
+    {
+      "verse": 11,
+      "text": "Não peneires com todo o vento e não andes em todo o caminho; pois assim faz o pecador de língua dupla."
+    },
+    {
+      "verse": 12,
+      "text": "Sê firme no teu entendimento e que a tua palavra seja uma só."
+    },
+    {
+      "verse": 13,
+      "text": "Sê pronto a ouvir e lento a responder."
+    },
+    {
+      "verse": 14,
+      "text": "Se tens entendimento, responde ao teu próximo; se não, põe a mão sobre a tua boca."
+    },
+    {
+      "verse": 15,
+      "text": "Honra e desonra estão no falar, e a língua do homem é a sua ruína."
+    },
+    {
+      "verse": 16,
+      "text": "Não sejas chamado de mexeriqueiro e não te embosques com a tua língua; pois há vergonha sobre o ladrão e condenação sobre a língua dupla."
+    },
+    {
+      "verse": 17,
+      "text": "Não sejas ignorante nas coisas grandes nem nas pequenas."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "book_id": "SIR",
+  "book": "Eclesiástico (Sirácida)",
+  "chapter": 9,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "livro",
+  "source_file": "apocryphal_books/kjv_pt/Ecclesiasticus/9.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Não sejas ciumento da esposa do teu peito, para não lhe ensinares a maldade contra ti."
+    },
+    {
+      "verse": 2,
+      "text": "Não entregues a tua alma à mulher, para que ela não se domine sobre a tua força."
+    },
+    {
+      "verse": 3,
+      "text": "Não te encontres com uma mulher libertina, para não caíres nas suas armadilhas."
+    },
+    {
+      "verse": 4,
+      "text": "Não te habitues com uma cantora, para não seres preso pelos seus encantos."
+    },
+    {
+      "verse": 5,
+      "text": "Não olhes fixamente para uma donzela, para não seres punido pelos seus encantos."
+    },
+    {
+      "verse": 6,
+      "text": "Não entregues a tua alma às prostitutas, para não destruíres a tua herança."
+    },
+    {
+      "verse": 7,
+      "text": "Não olhes ao redor nas ruas da cidade e não erres nos seus lugares desertos."
+    },
+    {
+      "verse": 8,
+      "text": "Desvia o teu olhar de uma mulher formosa e não olhes para a beleza alheia; pela beleza da mulher, muitos se perderam, e por ela o desejo arde como fogo."
+    },
+    {
+      "verse": 9,
+      "text": "Não te sentes com uma mulher casada, nem te reclines com ela à mesa, para que o teu coração não se incline para ela e, com o teu sangue, não caias na perdição."
+    },
+    {
+      "verse": 10,
+      "text": "Não abandones o teu antigo amigo, pois o novo não será como ele; um amigo novo é como um vinho novo; quando envelhecer, bebê-lo-ás com prazer."
+    },
+    {
+      "verse": 11,
+      "text": "Não tenhas inveja da glória do pecador, pois não sabes qual será o seu fim."
+    },
+    {
+      "verse": 12,
+      "text": "Não te deleites no que agrada aos ímpios; lembra-te de que eles não serão justificados até ao inferno."
+    },
+    {
+      "verse": 13,
+      "text": "Mantém-te longe do homem que tem poder para matar, e não terás medo da morte; e, se te aproximares dele, não cometas erro, para que ele não te tire a vida; sabe que caminhas no meio de laços e que andas sobre as ameias da cidade."
+    },
+    {
+      "verse": 14,
+      "text": "Tanto quanto puderes, conhece os teus vizinhos e aconselha-te com os sábios."
+    },
+    {
+      "verse": 15,
+      "text": "Que os teus companheiros sejam homens de entendimento, e que todo o teu discurso seja sobre a lei do Altíssimo."
+    },
+    {
+      "verse": 16,
+      "text": "Que homens justos sejam os teus convivas, e que a tua glória esteja no temor do Senhor."
+    },
+    {
+      "verse": 17,
+      "text": "A obra é louvada pela mão do artífice, e o guia do povo pela sabedoria da sua palavra."
+    },
+    {
+      "verse": 18,
+      "text": "Um homem falador é temido na sua cidade, e o que é precipitado nas suas palavras será odiado."
+    }
+  ]
+}

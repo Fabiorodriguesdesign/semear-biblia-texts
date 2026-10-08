@@ -1,0 +1,50 @@
+{
+  "book_id": "EST",
+  "book": "Ester",
+  "chapter": 7,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/ester/biblia_kjv_17ester.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Vieram, pois, o rei e Hamã para banquetear com a rainha Ester."
+    },
+    {
+      "verse": 2,
+      "text": "E disse o rei a Ester também no segundo dia, ao banquete do vinho: Qual é a tua petição, rainha Ester? E ser-te-á concedida; e qual é o teu desejo? E se fará, ainda que seja metade do reino."
+    },
+    {
+      "verse": 3,
+      "text": "Então respondeu a rainha Ester, e disse: Se, ó rei, achei favor aos teus olhos, e se ao rei apraz, dê-se-me a minha vida pela minha petição, e o meu povo pelo meu desejo;"
+    },
+    {
+      "verse": 4,
+      "text": "Porque fomos vendidos, eu e o meu povo, para sermos destruídos, para sermos mortos e para perecermos; e se ainda por servos e por servas nos vendessem, eu me calaria, ainda que o inimigo não poderia compensar o dano do rei."
+    },
+    {
+      "verse": 5,
+      "text": "Então respondeu o rei Assuero, e disse à rainha Ester: Quem é esse, e onde está esse, que no seu coração ousou fazer tal coisa?"
+    },
+    {
+      "verse": 6,
+      "text": "E disse Ester: O adversário e inimigo é este perverso Hamã. Então Hamã se perturbou perante o rei e a rainha."
+    },
+    {
+      "verse": 7,
+      "text": "E o rei se levantou do banquete do vinho no seu furor, e foi para o jardim do palácio; e Hamã se pôs em pé para pedir à rainha Ester a sua vida; porque viu que já o mal lhe estava determinado pelo rei."
+    },
+    {
+      "verse": 8,
+      "text": "Tornou, pois, o rei do jardim do palácio à casa do banquete do vinho; e Hamã tinha caído sobre o leito em que Ester estava. Então disse o rei: Porventura forçará também a rainha na minha presença, nesta casa? Saindo a palavra da boca do rei, cobriram o rosto de Hamã."
+    },
+    {
+      "verse": 9,
+      "text": "Então Harbona, um dos camareiros, disse perante o rei: Eis que também a forca de cinquenta côvados de altura, que Hamã fizera para Mordecai, que falara bem em favor do rei, está em casa de Hamã. Então disse o rei: Enforcai-o nela."
+    },
+    {
+      "verse": 10,
+      "text": "E enforcaram a Hamã na forca que ele tinha preparado para Mordecai. Então o furor do rei se aplacou."
+    }
+  ]
+}

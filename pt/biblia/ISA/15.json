@@ -1,0 +1,46 @@
+{
+  "book_id": "ISA",
+  "book": "Isaías",
+  "chapter": 15,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/isaias/biblia_kjv_23isaias1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O peso de Moabe. Porque de noite Ar de Moabe foi destruída, e reduzida a silêncio; porque de noite Quir de Moabe foi destruída, e reduzida a silêncio;"
+    },
+    {
+      "verse": 2,
+      "text": "Subiu a Bait e a Dibom, aos altos, para chorar; sobre Nebo e sobre Medeba uivará Moabe; em todas as suas cabeças haverá calvície, e toda a barba será rapada."
+    },
+    {
+      "verse": 3,
+      "text": "Nas suas ruas cingir-se-ão de saco; sobre os seus telhados e nas suas praças, todos uivarão, chorando abundantemente."
+    },
+    {
+      "verse": 4,
+      "text": "E Hesbom clamará, e Eleale; a sua voz será ouvida até Jaaz; por isso os soldados armados de Moabe clamarão; a sua alma lhes será penosa."
+    },
+    {
+      "verse": 5,
+      "text": "O meu coração clamará por Moabe; os seus fugitivos fugirão até Zoar, como uma novilha de três anos; porque pela subida de Luíte, com choro, subirão; porque no caminho de Horonaim levantarão um grito de destruição."
+    },
+    {
+      "verse": 6,
+      "text": "Porque as águas de Nimrim se tornarão em desolação; porque a erva secou, a relva murchou, e não há verdura alguma."
+    },
+    {
+      "verse": 7,
+      "text": "Por isso a abundância que ajuntaram, e o que entesouraram, levarão para o ribeiro dos salgueiros."
+    },
+    {
+      "verse": 8,
+      "text": "Porque o clamor rodeou os termos de Moabe; o seu uivo chegou até Eglaim, e o seu uivo até Beerelim."
+    },
+    {
+      "verse": 9,
+      "text": "Porque as águas de Dimom se encherão de sangue; porque trarei mais sobre Dimom, leões sobre os que escaparem de Moabe, e sobre o restante da terra."
+    }
+  ]
+}

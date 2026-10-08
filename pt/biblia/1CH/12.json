@@ -1,0 +1,170 @@
+{
+  "book_id": "1CH",
+  "book": "1 Crônicas",
+  "chapter": 12,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/1cronicas/biblia_kjv_13_1cronicas1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ora, estes são os que vieram a Davi a Ziclague, enquanto ele ainda se mantinha escondido por causa de Saul, filho de Quis: e eles estavam entre os homens valentes, ajudantes da guerra."
+    },
+    {
+      "verse": 2,
+      "text": "Eles estavam armados com arcos, e podiam usar tanto a mão direita quanto a esquerda em arremessar pedras e atirar flechas com o arco, mesmo dos irmãos de Saul de Benjamim."
+    },
+    {
+      "verse": 3,
+      "text": "O chefe era Aiezer, depois Joás, os filhos de Semaá, o gibeatita; e Jeziel, e Pelete, os filhos de Azmavete; e Beraquiá, e Jeú, o anatotita,"
+    },
+    {
+      "verse": 4,
+      "text": "E Ismaías, o gibeonita, um homem valente entre os trinta, e sobre os trinta; e Jeremias, e Jaaziel, e Joanã, e Jozabade, o gederatita,"
+    },
+    {
+      "verse": 5,
+      "text": "Eluzai, e Jeremote, e Bealias, e Semarias, e Sefatias, o harufita,"
+    },
+    {
+      "verse": 6,
+      "text": "Elcana, e Issias, e Azareel, e Joezer, e Jasobeão, os coraítas,"
+    },
+    {
+      "verse": 7,
+      "text": "E Joela, e Zebadias, os filhos de Jeroão de Gedor."
+    },
+    {
+      "verse": 8,
+      "text": "E dos gaditas se separaram para Davi na fortaleza no deserto homens de força, e homens de guerra aptos para a batalha, que podiam manejar escudo e lança, cujos rostos eram como rostos de leões, e eram tão ligeiros como as corças sobre os montes;"
+    },
+    {
+      "verse": 9,
+      "text": "Ezer, o primeiro, Obadias, o segundo, Eliabe, o terceiro,"
+    },
+    {
+      "verse": 10,
+      "text": "Mismana, o quarto, Jeremias, o quinto,"
+    },
+    {
+      "verse": 11,
+      "text": "Atai, o sexto, Eliel, o sétimo,"
+    },
+    {
+      "verse": 12,
+      "text": "Joanã, o oitavo, Elzabade, o nono,"
+    },
+    {
+      "verse": 13,
+      "text": "Jeremias, o décimo, Macbanai, o undécimo."
+    },
+    {
+      "verse": 14,
+      "text": "Estes eram dos filhos de Gade, capitães do exército: um dos menores estava sobre cem, e o maior sobre mil."
+    },
+    {
+      "verse": 15,
+      "text": "Estes são os que passaram o Jordão no primeiro mês, quando ele transbordava por todas as suas ribanceiras; e puseram em fuga a todos os dos vales, tanto para o oriente, quanto para o ocidente."
+    },
+    {
+      "verse": 16,
+      "text": "E vieram alguns dos filhos de Benjamim e Judá à fortaleza a Davi."
+    },
+    {
+      "verse": 17,
+      "text": "E Davi lhes saiu ao encontro, e lhes falou, dizendo: Se vós vindes a mim pacificamente para me ajudar, o meu coração se unirá convosco: mas se vós vindes para me trair aos meus inimigos, sem que haja maldade em minhas mãos, o Deus de nossos pais o veja, e o repreenda."
+    },
+    {
+      "verse": 18,
+      "text": "Então o espírito veio sobre Amasai, que era chefe dos capitães, e ele disse: Teus somos, Davi, e contigo, ó filho de Jessé: paz, paz seja contigo, e paz seja com teus ajudantes; porque teu Deus te ajuda. Então Davi os recebeu, e os fez capitães da banda."
+    },
+    {
+      "verse": 19,
+      "text": "E alguns de Manassés caíram para Davi, quando ele veio com os filisteus contra Saul para a batalha: mas eles não os ajudaram: porque os senhores dos filisteus, por conselho, o mandaram embora, dizendo: Ele cairá para seu senhor Saul para o perigo de nossas cabeças."
+    },
+    {
+      "verse": 20,
+      "text": "Quando ele foi a Ziclague, caíram para ele de Manassés, Adná, e Jozabade, e Jediael, e Micael, e Jozabade, e Eliú, e Ziletai, capitães dos milhares que eram de Manassés."
+    },
+    {
+      "verse": 21,
+      "text": "E eles ajudaram Davi contra a banda dos salteadores: porque todos eles eram homens valentes, e eram capitães no exército."
+    },
+    {
+      "verse": 22,
+      "text": "Porque naquele tempo, dia após dia, vinham a Davi para o ajudar, até que se fez um grande exército, como o exército de Deus."
+    },
+    {
+      "verse": 23,
+      "text": "E estes são os números das bandas que estavam prontas armadas para a guerra, e vieram a Davi a Hebrom, para transferir a ele o reino de Saul, conforme a palavra do SENHOR."
+    },
+    {
+      "verse": 24,
+      "text": "Os filhos de Judá que traziam escudo e lança foram seis mil e oitocentos, prontos armados para a guerra."
+    },
+    {
+      "verse": 25,
+      "text": "Dos filhos de Simeão, homens valentes para a guerra, sete mil e cem."
+    },
+    {
+      "verse": 26,
+      "text": "Dos filhos de Levi quatro mil e seiscentos."
+    },
+    {
+      "verse": 27,
+      "text": "E Joiada era o líder dos aaronitas, e com ele estavam três mil e setecentos;"
+    },
+    {
+      "verse": 28,
+      "text": "E Zadoque, um jovem valente, e da casa de seu pai vinte e dois capitães."
+    },
+    {
+      "verse": 29,
+      "text": "E dos filhos de Benjamim, os parentes de Saul, três mil: porque até então a maior parte deles tinha guardado a guarda da casa de Saul."
+    },
+    {
+      "verse": 30,
+      "text": "E dos filhos de Efraim vinte mil e oitocentos, homens valentes, famosos em toda a casa de seus pais."
+    },
+    {
+      "verse": 31,
+      "text": "E da meia tribo de Manassés dezoito mil, que foram expressos por nome, para vir e fazer Davi rei."
+    },
+    {
+      "verse": 32,
+      "text": "E dos filhos de Issacar, que eram homens que tinham entendimento dos tempos, para saber o que Israel devia fazer; os chefes deles eram duzentos; e todos os seus irmãos estavam ao seu comando."
+    },
+    {
+      "verse": 33,
+      "text": "De Zebulom, os que saíam para a batalha, peritos na guerra, com todos os instrumentos de guerra, cinquenta mil, que podiam manter a ordem: eles não eram de coração dobre."
+    },
+    {
+      "verse": 34,
+      "text": "E de Naftali mil capitães, e com eles com escudo e lança trinta e sete mil."
+    },
+    {
+      "verse": 35,
+      "text": "E dos danitas peritos na guerra vinte e oito mil e seiscentos."
+    },
+    {
+      "verse": 36,
+      "text": "E de Aser, os que saíam para a batalha, peritos na guerra, quarenta mil."
+    },
+    {
+      "verse": 37,
+      "text": "E do outro lado do Jordão, dos rubenitas, e dos gaditas, e da meia tribo de Manassés, com toda a sorte de instrumentos de guerra para a batalha, cento e vinte mil."
+    },
+    {
+      "verse": 38,
+      "text": "Todos estes homens de guerra, que podiam manter a ordem, vieram com um coração perfeito a Hebrom, para fazer Davi rei sobre todo o Israel: e todo o restante de Israel também era de um só coração para fazer Davi rei."
+    },
+    {
+      "verse": 39,
+      "text": "E ali estiveram com Davi três dias, comendo e bebendo: porque seus irmãos lhes tinham preparado."
+    },
+    {
+      "verse": 40,
+      "text": "Além disso, os que estavam perto deles, até Issacar e Zebulom e Naftali, trouxeram pão sobre jumentos, e sobre camelos, e sobre mulos, e sobre bois, e carne, farinha, bolos de figos, e cachos de passas, e vinho, e azeite, e bois, e ovelhas em abundância: porque havia alegria em Israel."
+    }
+  ]
+}

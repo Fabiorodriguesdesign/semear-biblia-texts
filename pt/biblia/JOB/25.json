@@ -1,0 +1,34 @@
+{
+  "book_id": "JOB",
+  "book": "Jó",
+  "chapter": 25,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/jo/biblia_kjv_18jo21-42.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Então respondeu Bildade, o suíta, e disse:"
+    },
+    {
+      "verse": 2,
+      "text": "Com ele estão o domínio e o temor; ele faz a paz nas suas alturas."
+    },
+    {
+      "verse": 3,
+      "text": "Acaso têm número os seus exércitos? E sobre quem não se levanta a sua luz?"
+    },
+    {
+      "verse": 4,
+      "text": "Como, pois, pode o homem ser justo para com Deus? Ou como pode ser puro aquele que nasce de mulher?"
+    },
+    {
+      "verse": 5,
+      "text": "Eis que até a lua não tem brilho, e as estrelas não são puras aos seus olhos;"
+    },
+    {
+      "verse": 6,
+      "text": "quanto menos o homem, que é um verme, e o filho do homem, que é um vermezinho!"
+    }
+  ]
+}

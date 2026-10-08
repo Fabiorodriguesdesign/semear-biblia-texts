@@ -1,0 +1,54 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 58,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos41-60.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Falais, de fato, a justiça, ó congregação? Julgais com retidão, ó filhos dos homens?"
+    },
+    {
+      "verse": 2,
+      "text": "Sim, no coração operais a maldade; pesais a violência das vossas mãos na terra."
+    },
+    {
+      "verse": 3,
+      "text": "Os ímpios se desviam desde o ventre; andam errados desde que nascem, falando mentiras."
+    },
+    {
+      "verse": 4,
+      "text": "O seu veneno é como o veneno de uma serpente; são como a víbora surda que tapa o seu ouvido;"
+    },
+    {
+      "verse": 5,
+      "text": "Que não ouvirá a voz dos encantadores, encantando com muita sabedoria."
+    },
+    {
+      "verse": 6,
+      "text": "Quebra-lhes os dentes, ó Deus, na sua boca; quebra os grandes dentes dos leõezinhos, ó Senhor."
+    },
+    {
+      "verse": 7,
+      "text": "Que eles se derretam como águas que correm continuamente; quando ele enverga o seu arco para atirar as suas flechas, que elas sejam como que cortadas em pedaços."
+    },
+    {
+      "verse": 8,
+      "text": "Como um caracol que se derrete, que cada um deles passe; como o aborto de uma mulher, para que não vejam o sol."
+    },
+    {
+      "verse": 9,
+      "text": "Antes que as vossas panelas possam sentir os espinhos, ele os levará como com um redemoinho, tanto vivos, como na sua ira."
+    },
+    {
+      "verse": 10,
+      "text": "O justo se alegrará quando vir a vingança; ele lavará os seus pés no sangue dos ímpios."
+    },
+    {
+      "verse": 11,
+      "text": "De modo que um homem dirá: Na verdade, há uma recompensa para o justo; na verdade, ele é um Deus que julga na terra."
+    }
+  ]
+}

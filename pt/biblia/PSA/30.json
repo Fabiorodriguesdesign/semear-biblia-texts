@@ -1,0 +1,58 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 30,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos21-40.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Exaltar-te-ei, ó SENHOR, porque tu me exaltaste; e não fizeste com que meus inimigos se alegrassem sobre mim."
+    },
+    {
+      "verse": 2,
+      "text": "SENHOR meu Deus, clamei a ti, e tu me saraste."
+    },
+    {
+      "verse": 3,
+      "text": "SENHOR, fizeste subir a minha alma da sepultura; conservaste-me a vida para que não descesse ao abismo."
+    },
+    {
+      "verse": 4,
+      "text": "Cantai ao SENHOR, ó santos seus, e dai graças à memória da sua santidade."
+    },
+    {
+      "verse": 5,
+      "text": "Porque a sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite, mas a alegria vem pela manhã."
+    },
+    {
+      "verse": 6,
+      "text": "E na minha prosperidade eu disse: Jamais serei abalado."
+    },
+    {
+      "verse": 7,
+      "text": "SENHOR, pela tua benevolência fizeste forte a minha montanha; tu escondeste o teu rosto, e eu fiquei perturbado."
+    },
+    {
+      "verse": 8,
+      "text": "A ti clamei, ó SENHOR; e ao SENHOR supliquei."
+    },
+    {
+      "verse": 9,
+      "text": "Que proveito há no meu sangue, quando eu descer à cova? Porventura o pó te louvará? declarará ele a tua verdade?"
+    },
+    {
+      "verse": 10,
+      "text": "Ouve, SENHOR, e tem piedade de mim; SENHOR, sê o meu auxílio."
+    },
+    {
+      "verse": 11,
+      "text": "Tornaste o meu pranto em dança; tiraste o meu saco, e me cingiste de alegria;"
+    },
+    {
+      "verse": 12,
+      "text": "Para que a minha glória te cante louvores, e não se cale. SENHOR meu Deus, eu te darei graças para sempre."
+    }
+  ]
+}

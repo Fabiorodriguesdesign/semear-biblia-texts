@@ -1,0 +1,22 @@
+{
+  "book_id": "PSA",
+  "book": "Salmos",
+  "chapter": 131,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/salmos/biblia_kjv_19salmos121-140.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Senhor, o meu coração não se altiva, nem os meus olhos se levantam; não me exercito em grandes assuntos, nem em coisas muito elevadas para mim."
+    },
+    {
+      "verse": 2,
+      "text": "Certamente que me tenho portado e sossegado, como uma criança desmamada de sua mãe; a minha alma está como uma criança desmamada."
+    },
+    {
+      "verse": 3,
+      "text": "Espere Israel no Senhor, desde agora e para sempre."
+    }
+  ]
+}

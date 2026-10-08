@@ -1,0 +1,46 @@
+{
+  "book_id": "HOS",
+  "book": "Oséias",
+  "chapter": 14,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/oseias/biblia_kjv_28oseias.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ó Israel, volta para o SENHOR teu Deus; pois caíste pela tua iniquidade."
+    },
+    {
+      "verse": 2,
+      "text": "Tomai convosco palavras, e voltai para o SENHOR: dizei-lhe: Tira toda a iniquidade, e recebe-nos benignamente: assim renderemos os bezerros dos nossos lábios."
+    },
+    {
+      "verse": 3,
+      "text": "A Assíria não nos salvará; não cavalgaremos em cavalos: nem diremos mais à obra das nossas mãos: Vós sois nossos deuses: pois em ti o órfão encontra misericórdia."
+    },
+    {
+      "verse": 4,
+      "text": "Eu sararei a sua apostasia, eu os amarei livremente: pois a minha ira se desviou dele."
+    },
+    {
+      "verse": 5,
+      "text": "Eu serei como o orvalho para Israel: ele crescerá como o lírio, e lançará as suas raízes como o Líbano."
+    },
+    {
+      "verse": 6,
+      "text": "Os seus ramos se estenderão, e a sua beleza será como a da oliveira, e o seu cheiro como o do Líbano."
+    },
+    {
+      "verse": 7,
+      "text": "Os que habitam debaixo da sua sombra voltarão; eles reviverão como o trigo, e crescerão como a vide: o cheiro dele será como o vinho do Líbano."
+    },
+    {
+      "verse": 8,
+      "text": "Efraim dirá: Que tenho eu a ver mais com os ídolos? Eu o ouvi, e o observei: Eu sou como um pinheiro verde. De mim é achado o teu fruto."
+    },
+    {
+      "verse": 9,
+      "text": "Quem é sábio, e entenderá estas coisas? prudente, e as saberá? pois os caminhos do SENHOR são retos, e o justo andará neles: mas os transgressores cairão neles."
+    }
+  ]
+}

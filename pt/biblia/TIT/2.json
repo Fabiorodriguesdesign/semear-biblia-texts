@@ -1,0 +1,70 @@
+{
+  "book_id": "TIT",
+  "book": "Tito",
+  "chapter": 2,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Novo_testamento/tito/biblia_kjv_56tito.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Tu, porém, fala o que convém à sã doutrina:"
+    },
+    {
+      "verse": 2,
+      "text": "Que os velhos sejam sóbrios, graves, prudentes, sãos na fé, no amor e na paciência."
+    },
+    {
+      "verse": 3,
+      "text": "As mulheres idosas, semelhantemente, que sejam sérias no seu viver, não caluniadoras, não dadas a muito vinho, mestras no bem;"
+    },
+    {
+      "verse": 4,
+      "text": "Para que ensinem as mulheres novas a serem prudentes, a amarem seus maridos e seus filhos,"
+    },
+    {
+      "verse": 5,
+      "text": "A serem discretas, castas, boas donas de casa, bondosas, sujeitas a seus maridos, a fim de que a palavra de Deus não seja blasfemada."
+    },
+    {
+      "verse": 6,
+      "text": "Exorta semelhantemente os jovens a que sejam moderados."
+    },
+    {
+      "verse": 7,
+      "text": "Em tudo te dando por exemplo de boas obras; na doutrina, mostrando incorrupção, gravidade, sinceridade,"
+    },
+    {
+      "verse": 8,
+      "text": "Linguagem sã e irrepreensível, para que o adversário se envergonhe, não tendo nenhum mal que dizer de nós."
+    },
+    {
+      "verse": 9,
+      "text": "Exorta os servos a que se sujeitem a seus senhores, e em tudo lhes agradem, não contradizendo;"
+    },
+    {
+      "verse": 10,
+      "text": "Não defraudando, antes mostrando toda a boa lealdade, para que em tudo adornem a doutrina de Deus, nosso Salvador."
+    },
+    {
+      "verse": 11,
+      "text": "Porque a graça de Deus se há manifestado, trazendo salvação a todos os homens,"
+    },
+    {
+      "verse": 12,
+      "text": "Ensinando-nos que, renunciando à impiedade e às concupiscências mundanas, vivamos neste presente século sóbria, justa e piamente,"
+    },
+    {
+      "verse": 13,
+      "text": "Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Salvador Jesus Cristo;"
+    },
+    {
+      "verse": 14,
+      "text": "O qual se deu a si mesmo por nós, para nos remir de toda a iniquidade, e purificar para si um povo seu especial, zeloso de boas obras."
+    },
+    {
+      "verse": 15,
+      "text": "Fala estas coisas, e exorta e repreende com toda a autoridade. Ninguém te despreze."
+    }
+  ]
+}

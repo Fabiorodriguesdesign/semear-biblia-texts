@@ -1,0 +1,226 @@
+{
+  "book_id": "1CH",
+  "book": "1 Crônicas",
+  "chapter": 1,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/1cronicas/biblia_kjv_13_1cronicas1-20.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Adão, Sete, Enos,"
+    },
+    {
+      "verse": 2,
+      "text": "Cainã, Maalalel, Jarede,"
+    },
+    {
+      "verse": 3,
+      "text": "Enoque, Matusalém, Lameque,"
+    },
+    {
+      "verse": 4,
+      "text": "Noé, Sem, Cam e Jafé."
+    },
+    {
+      "verse": 5,
+      "text": "Os filhos de Jafé: Gômer, Magogue, Madai, Javã, Tubal, Meseque e Tiras."
+    },
+    {
+      "verse": 6,
+      "text": "E os filhos de Gômer: Asquenaz, Rifate e Togarma."
+    },
+    {
+      "verse": 7,
+      "text": "E os filhos de Javã: Elisá, Társis, Quitim e Dodanim."
+    },
+    {
+      "verse": 8,
+      "text": "Os filhos de Cam: Cuxe, Mizraim, Pute e Canaã."
+    },
+    {
+      "verse": 9,
+      "text": "E os filhos de Cuxe: Sebá, Havilá, Sabtá, Raamá e Sabtecá. E os filhos de Raamá: Sebá e Dedã."
+    },
+    {
+      "verse": 10,
+      "text": "E Cuxe gerou Ninrode; este começou a ser poderoso na terra."
+    },
+    {
+      "verse": 11,
+      "text": "E Mizraim gerou Ludim, Anamim, Leabim e Naftuim,"
+    },
+    {
+      "verse": 12,
+      "text": "E Patrusim, e Casluim (dos quais vieram os filisteus), e Caftorim."
+    },
+    {
+      "verse": 13,
+      "text": "E Canaã gerou Sidom, seu primogênito, e Hete,"
+    },
+    {
+      "verse": 14,
+      "text": "E também o jebuseu, o amorreu e o girgaseu,"
+    },
+    {
+      "verse": 15,
+      "text": "E o heveu, o arqueu e o sineu,"
+    },
+    {
+      "verse": 16,
+      "text": "E o arvadeu, o zemareu e o hamateu."
+    },
+    {
+      "verse": 17,
+      "text": "Os filhos de Sem: Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter e Meseque."
+    },
+    {
+      "verse": 18,
+      "text": "E Arfaxade gerou Salá, e Salá gerou Éber."
+    },
+    {
+      "verse": 19,
+      "text": "E a Éber nasceram dois filhos: o nome de um foi Pelegue, porque em seus dias a terra foi dividida; e o nome de seu irmão foi Joctã."
+    },
+    {
+      "verse": 20,
+      "text": "E Joctã gerou Almodá, Selefe, Hazarmavete e Jerá,"
+    },
+    {
+      "verse": 21,
+      "text": "Hadorão também, Uzal e Dicla,"
+    },
+    {
+      "verse": 22,
+      "text": "E Ebal, Abimael e Sebá,"
+    },
+    {
+      "verse": 23,
+      "text": "E Ofir, Havilá e Jobabe. Todos estes foram os filhos de Joctã."
+    },
+    {
+      "verse": 24,
+      "text": "Sem, Arfaxade, Salá,"
+    },
+    {
+      "verse": 25,
+      "text": "Éber, Pelegue, Reú,"
+    },
+    {
+      "verse": 26,
+      "text": "Serugue, Naor, Terá,"
+    },
+    {
+      "verse": 27,
+      "text": "Abrão; este é Abraão."
+    },
+    {
+      "verse": 28,
+      "text": "Os filhos de Abraão: Isaque e Ismael."
+    },
+    {
+      "verse": 29,
+      "text": "Estas são as suas gerações: O primogênito de Ismael, Nebaiote; depois Quedar, Adbeel e Mibsão,"
+    },
+    {
+      "verse": 30,
+      "text": "Mismá, Dumá, Massá, Hadade e Temá,"
+    },
+    {
+      "verse": 31,
+      "text": "Jetur, Nafis e Quedemá. Estes são os filhos de Ismael."
+    },
+    {
+      "verse": 32,
+      "text": "Ora, os filhos de Quetura, concubina de Abraão: ela deu à luz Zinrã, Joqsã, Medã, Midiã, Isbaque e Suá. E os filhos de Joqsã: Sebá e Dedã."
+    },
+    {
+      "verse": 33,
+      "text": "E os filhos de Midiã: Efá, Éfer, Enoque, Abida e Elda. Todos estes foram os filhos de Quetura."
+    },
+    {
+      "verse": 34,
+      "text": "E Abraão gerou Isaque. Os filhos de Isaque: Esaú e Israel."
+    },
+    {
+      "verse": 35,
+      "text": "Os filhos de Esaú: Elifaz, Reuel, Jeús, Jalão e Corá."
+    },
+    {
+      "verse": 36,
+      "text": "Os filhos de Elifaz: Temã, Omar, Zefi, Gatã, Quenaz, Timna e Amaleque."
+    },
+    {
+      "verse": 37,
+      "text": "Os filhos de Reuel: Naate, Zerá, Samá e Mizá."
+    },
+    {
+      "verse": 38,
+      "text": "E os filhos de Seir: Lotã, Sobal, Zibeão, Aná, Disom, Ézer e Disã."
+    },
+    {
+      "verse": 39,
+      "text": "E os filhos de Lotã: Hori e Homã; e Timna era irmã de Lotã."
+    },
+    {
+      "verse": 40,
+      "text": "Os filhos de Sobal: Aliã, Manaate, Ebal, Sefi e Onã. E os filhos de Zibeão: Aiá e Aná."
+    },
+    {
+      "verse": 41,
+      "text": "Os filhos de Aná: Disom. E os filhos de Disom: Anrã, Esbã, Itrã e Querã."
+    },
+    {
+      "verse": 42,
+      "text": "Os filhos de Ézer: Bilã, Zaavã e Jacã. Os filhos de Disã: Uz e Arã."
+    },
+    {
+      "verse": 43,
+      "text": "Ora, estes são os reis que reinaram na terra de Edom, antes que reinasse rei algum sobre os filhos de Israel: Belá, filho de Beor; e o nome da sua cidade era Dinabá."
+    },
+    {
+      "verse": 44,
+      "text": "E, morrendo Belá, Jobabe, filho de Zerá, de Bozra, reinou em seu lugar."
+    },
+    {
+      "verse": 45,
+      "text": "E, morrendo Jobabe, Husã, da terra dos temanitas, reinou em seu lugar."
+    },
+    {
+      "verse": 46,
+      "text": "E, morrendo Husã, Hadade, filho de Bedade, que feriu Midiã no campo de Moabe, reinou em seu lugar; e o nome da sua cidade era Avite."
+    },
+    {
+      "verse": 47,
+      "text": "E, morrendo Hadade, Samlá, de Masrecá, reinou em seu lugar."
+    },
+    {
+      "verse": 48,
+      "text": "E, morrendo Samlá, Saul, de Reobote, junto ao rio, reinou em seu lugar."
+    },
+    {
+      "verse": 49,
+      "text": "E, morrendo Saul, Baal-Hanã, filho de Acbor, reinou em seu lugar."
+    },
+    {
+      "verse": 50,
+      "text": "E, morrendo Baal-Hanã, Hadade reinou em seu lugar; e o nome da sua cidade era Pai; e o nome de sua mulher era Mehetabel, filha de Matrede, filha de Mezaabe."
+    },
+    {
+      "verse": 51,
+      "text": "Hadade também morreu. E os duques de Edom foram: o duque Timna, o duque Aliá, o duque Jetete,"
+    },
+    {
+      "verse": 52,
+      "text": "O duque Aolibamá, o duque Elá, o duque Pinom,"
+    },
+    {
+      "verse": 53,
+      "text": "O duque Quenaz, o duque Temã, o duque Mibzar,"
+    },
+    {
+      "verse": 54,
+      "text": "O duque Magdiel, o duque Irã. Estes são os duques de Edom."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "book_id": "2SA",
+  "book": "2 Samuel",
+  "chapter": 8,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/2samuel/biblia_kjv_10_2samuel1-10.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E sucedeu depois disso que Davi feriu os filisteus, e os sujeitou; e Davi tomou Metegue-Amá da mão dos filisteus."
+    },
+    {
+      "verse": 2,
+      "text": "Também feriu os moabitas, e os mediu com cordel, fazendo-os deitar por terra; e mediu duas cordas para os matar, e uma corda inteira para os deixar com vida. Assim ficaram os moabitas servos de Davi, e traziam presentes."
+    },
+    {
+      "verse": 3,
+      "text": "Feriu também Davi a Hadadezer, filho de Reobe, rei de Zobá, quando ele ia restaurar o seu domínio sobre o rio Eufrates."
+    },
+    {
+      "verse": 4,
+      "text": "E Davi tomou dele mil e setecentos cavaleiros e vinte mil homens de infantaria; e Davi jarretou todos os cavalos dos carros, mas reservou deles para cem carros."
+    },
+    {
+      "verse": 5,
+      "text": "E, vindo os sírios de Damasco socorrer a Hadadezer, rei de Zobá, Davi feriu dos sírios vinte e dois mil homens."
+    },
+    {
+      "verse": 6,
+      "text": "Então Davi pôs guarnições na Síria de Damasco, e os sírios ficaram servos de Davi, e traziam presentes; e o SENHOR guardava a Davi por onde quer que ia."
+    },
+    {
+      "verse": 7,
+      "text": "E Davi tomou os escudos de ouro que havia nos servos de Hadadezer, e os trouxe para Jerusalém."
+    },
+    {
+      "verse": 8,
+      "text": "E de Beta e de Berotai, cidades de Hadadezer, o rei Davi tomou muitíssimo bronze."
+    },
+    {
+      "verse": 9,
+      "text": "Ouvindo, pois, Toí, rei de Hamate, que Davi ferira todo o exército de Hadadezer,"
+    },
+    {
+      "verse": 10,
+      "text": "Então Toí enviou Jorão, seu filho, ao rei Davi, para o saudar e para o abençoar, por haver pelejado contra Hadadezer e por o haver ferido; porque Hadadezer fazia guerra a Toí; e Jorão trouxe consigo vasos de prata, e vasos de ouro, e vasos de bronze."
+    },
+    {
+      "verse": 11,
+      "text": "Os quais também o rei Davi dedicou ao SENHOR, com a prata e com o ouro que já havia dedicado de todas as nações que sujeitara;"
+    },
+    {
+      "verse": 12,
+      "text": "Da Síria, e de Moabe, e dos filhos de Amom, e dos filisteus, e de Amaleque, e do despojo de Hadadezer, filho de Reobe, rei de Zobá."
+    },
+    {
+      "verse": 13,
+      "text": "E Davi ganhou nome, voltando de ferir os sírios no vale do Sal, sendo dezoito mil homens."
+    },
+    {
+      "verse": 14,
+      "text": "E pôs guarnições em Edom; em todo o Edom pôs guarnições, e todos os edomitas ficaram servos de Davi; e o SENHOR guardava a Davi por onde quer que ia."
+    },
+    {
+      "verse": 15,
+      "text": "Assim Davi reinou sobre todo o Israel; e Davi fazia juízo e justiça a todo o seu povo."
+    },
+    {
+      "verse": 16,
+      "text": "E Joabe, filho de Zeruiá, era sobre o exército; e Josafá, filho de Ailude, era cronista;"
+    },
+    {
+      "verse": 17,
+      "text": "E Zadoque, filho de Aitube, e Aimeleque, filho de Abiatar, eram os sacerdotes; e Seraías era o escrivão;"
+    },
+    {
+      "verse": 18,
+      "text": "E Benaia, filho de Joiada, era sobre os quereteus e sobre os peleteus; e os filhos de Davi eram príncipes."
+    }
+  ]
+}

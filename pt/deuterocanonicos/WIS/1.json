@@ -1,0 +1,75 @@
+{
+  "book_id": "WIS",
+  "book": "Sabedoria de Salomão",
+  "chapter": 1,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "livro",
+  "source_file": "apocryphal_books/kjv_pt/WisdomOfSolomon/1.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Amai a justiça, vós que governais a terra, pensai retamente sobre o Senhor e buscai-o na simplicidade do coração."
+    },
+    {
+      "verse": 2,
+      "text": "Porque ele é encontrado pelos que não o tentam e manifesta-se aos que não desconfiam dele."
+    },
+    {
+      "verse": 3,
+      "text": "Pois os pensamentos tortuosos afastam de Deus, e a sabedoria, quando provada, confunde os insensatos."
+    },
+    {
+      "verse": 4,
+      "text": "A sabedoria não entrará numa alma que faz o mal, nem habitará num corpo sujeito ao pecado."
+    },
+    {
+      "verse": 5,
+      "text": "O Espírito Santo, que instrui, foge da falsidade, afasta-se dos pensamentos insensatos e é repelido quando a injustiça se aproxima."
+    },
+    {
+      "verse": 6,
+      "text": "A sabedoria é um espírito amigo dos homens, mas não deixará impune o blasfemador pelos seus lábios, porque Deus é testemunha dos seus sentimentos, observador veraz do seu coração e ouvinte da sua língua."
+    },
+    {
+      "verse": 7,
+      "text": "Pois o Espírito do Senhor enche o universo, e ele, que mantém todas as coisas unidas, sabe tudo o que se diz."
+    },
+    {
+      "verse": 8,
+      "text": "Por isso, ninguém que profere coisas injustas pode ocultar-se, e a justiça, que castiga, não o deixará passar."
+    },
+    {
+      "verse": 9,
+      "text": "Os desígnios do ímpio serão examinados; o ruído das suas palavras chegará até ao Senhor, como prova das suas iniquidades."
+    },
+    {
+      "verse": 10,
+      "text": "O ouvido zeloso ouve tudo, e o murmúrio das queixas não fica oculto."
+    },
+    {
+      "verse": 11,
+      "text": "Guardai-vos, pois, de queixas inúteis e refreai a língua da maledicência; pois a palavra dita em segredo não ficará sem efeito, e a boca mentirosa mata a alma."
+    },
+    {
+      "verse": 12,
+      "text": "Não busqueis a morte pelo erro da vossa vida, nem atraiais a destruição pelas obras das vossas mãos."
+    },
+    {
+      "verse": 13,
+      "text": "Porque Deus não fez a morte, nem se alegra com a perdição dos vivos."
+    },
+    {
+      "verse": 14,
+      "text": "Ele criou tudo para a existência; as criaturas do mundo são saudáveis, não há nelas veneno de morte, nem o reino da morte domina a terra."
+    },
+    {
+      "verse": 15,
+      "text": "Porque a justiça é imortal."
+    },
+    {
+      "verse": 16,
+      "text": "Mas os ímpios atraem a morte com as mãos e as palavras; julgando-a sua amiga, definham por ela e fazem com ela uma aliança, pois são dignos de lhe pertencer."
+    }
+  ]
+}

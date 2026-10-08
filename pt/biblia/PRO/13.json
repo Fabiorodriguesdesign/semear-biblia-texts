@@ -1,0 +1,110 @@
+{
+  "book_id": "PRO",
+  "book": "Provérbios",
+  "chapter": 13,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/proverbios/biblia_kjv_20proverbios1-15.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "O filho sábio ouve a instrução do pai, mas o escarnecedor não ouve a repreensão."
+    },
+    {
+      "verse": 2,
+      "text": "O homem comerá o bem do fruto da sua boca, mas a alma dos transgressores comerá a violência."
+    },
+    {
+      "verse": 3,
+      "text": "O que guarda a sua boca guarda a sua vida, mas o que abre muito os seus lábios terá destruição."
+    },
+    {
+      "verse": 4,
+      "text": "A alma do preguiçoso deseja, e nada tem, mas a alma dos diligentes será engordada."
+    },
+    {
+      "verse": 5,
+      "text": "O justo odeia a mentira, mas o ímpio é abominável e se envergonha."
+    },
+    {
+      "verse": 6,
+      "text": "A justiça guarda o que é reto no caminho, mas a impiedade derruba o pecador."
+    },
+    {
+      "verse": 7,
+      "text": "Há quem se faça rico, e não tenha nada; há quem se faça pobre, e tenha grandes riquezas."
+    },
+    {
+      "verse": 8,
+      "text": "O resgate da vida de um homem são as suas riquezas, mas o pobre não ouve repreensão."
+    },
+    {
+      "verse": 9,
+      "text": "A luz dos justos se alegra, mas a lâmpada dos ímpios se apagará."
+    },
+    {
+      "verse": 10,
+      "text": "Somente pela soberba vem a contenda, mas com os que se aconselham bem está a sabedoria."
+    },
+    {
+      "verse": 11,
+      "text": "A riqueza obtida com vaidade diminuirá, mas quem a ajunta com trabalho a aumentará."
+    },
+    {
+      "verse": 12,
+      "text": "A esperança adiada adoece o coração, mas o desejo cumprido é árvore de vida."
+    },
+    {
+      "verse": 13,
+      "text": "Quem despreza a palavra será destruído, mas quem teme o mandamento será recompensado."
+    },
+    {
+      "verse": 14,
+      "text": "A lei do sábio é uma fonte de vida, para desviar dos laços da morte."
+    },
+    {
+      "verse": 15,
+      "text": "O bom entendimento dá favor, mas o caminho dos transgressores é duro."
+    },
+    {
+      "verse": 16,
+      "text": "Todo homem prudente age com conhecimento, mas o tolo expõe a sua loucura."
+    },
+    {
+      "verse": 17,
+      "text": "O mensageiro ímpio cai no mal, mas o embaixador fiel é saúde."
+    },
+    {
+      "verse": 18,
+      "text": "Pobreza e vergonha serão para o que recusa a instrução, mas o que guarda a repreensão será honrado."
+    },
+    {
+      "verse": 19,
+      "text": "O desejo cumprido é doce para a alma, mas é abominação para os tolos desviar-se do mal."
+    },
+    {
+      "verse": 20,
+      "text": "O que anda com os sábios será sábio, mas o companheiro dos tolos será destruído."
+    },
+    {
+      "verse": 21,
+      "text": "O mal persegue os pecadores, mas aos justos o bem será retribuído."
+    },
+    {
+      "verse": 22,
+      "text": "O homem de bem deixa herança aos filhos de seus filhos, e a riqueza do pecador é depositada para o justo."
+    },
+    {
+      "verse": 23,
+      "text": "Muita comida há na lavoura dos pobres, mas há quem seja destruído por falta de juízo."
+    },
+    {
+      "verse": 24,
+      "text": "O que poupa a sua vara odeia a seu filho, mas o que o ama, desde cedo o castiga."
+    },
+    {
+      "verse": 25,
+      "text": "O justo come para satisfação da sua alma, mas o ventre dos ímpios terá falta."
+    }
+  ]
+}

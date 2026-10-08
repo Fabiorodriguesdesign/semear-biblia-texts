@@ -1,0 +1,87 @@
+{
+  "book_id": "SIR",
+  "book": "Eclesiástico (Sirácida)",
+  "chapter": 8,
+  "language": "pt-BR",
+  "collection": "deuterocanonicos_catolicos",
+  "kind": "livro",
+  "source_file": "apocryphal_books/kjv_pt/Ecclesiasticus/8.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Não entres em litígio com um homem poderoso, para não caíres nas suas mãos."
+    },
+    {
+      "verse": 2,
+      "text": "Não contendas com um homem rico, para que ele não te supere com o seu peso; pois o ouro e a prata destruíram muitos e chegaram até ao coração dos reis."
+    },
+    {
+      "verse": 3,
+      "text": "Não contendas com um homem falador e não amontoes lenha sobre o seu fogo."
+    },
+    {
+      "verse": 4,
+      "text": "Não zombes de um homem sem educação, para que os teus antepassados não sejam desonrados."
+    },
+    {
+      "verse": 5,
+      "text": "Não reproves um homem que se desvia do pecado; lembra-te de que todos somos culpáveis."
+    },
+    {
+      "verse": 6,
+      "text": "Não desprezes um homem na sua velhice, pois alguns de nós envelhecerão."
+    },
+    {
+      "verse": 7,
+      "text": "Não te alegres com a morte de um inimigo; lembra-te de que todos morremos."
+    },
+    {
+      "verse": 8,
+      "text": "Não desprezes o discurso dos sábios e medita nos seus provérbios; pois deles aprenderás a instrução e a servir aos grandes."
+    },
+    {
+      "verse": 9,
+      "text": "Não desprezes o discurso dos anciãos, pois eles aprenderam dos seus pais; deles aprenderás a sabedoria e a dar resposta no tempo da necessidade."
+    },
+    {
+      "verse": 10,
+      "text": "Não acendas as brasas do pecador, para não seres queimado pela chama do seu fogo."
+    },
+    {
+      "verse": 11,
+      "text": "Não te deixes provocar pela face do insolente, para que ele não se embosque como um espião contra as tuas palavras."
+    },
+    {
+      "verse": 12,
+      "text": "Não emprestes a um homem mais poderoso do que tu; e, se emprestares, considera-o como perdido."
+    },
+    {
+      "verse": 13,
+      "text": "Não sejas fiador além das tuas forças; e, se fores fiador, considera-te como devedor."
+    },
+    {
+      "verse": 14,
+      "text": "Não litiges com um juiz, pois julgarão a seu favor por causa da sua dignidade."
+    },
+    {
+      "verse": 15,
+      "text": "Não viajes com um homem temerário, para que ele não se torne um peso para ti; pois ele agirá segundo a sua vontade, e tu perecerás com a sua insensatez."
+    },
+    {
+      "verse": 16,
+      "text": "Não contendas com um homem colérico e não viajes com ele pelo deserto; pois o sangue é como nada aos seus olhos, e onde não há ajuda, ele destruir-te-á."
+    },
+    {
+      "verse": 17,
+      "text": "Não te aconselhes com um tolo, pois ele não poderá guardar segredo."
+    },
+    {
+      "verse": 18,
+      "text": "Não faças nada de secreto diante de um estranho, pois não sabes o que ele fará."
+    },
+    {
+      "verse": 19,
+      "text": "Não reveles o teu coração a qualquer homem, para que ele não te retribua com ingratidão."
+    }
+  ]
+}

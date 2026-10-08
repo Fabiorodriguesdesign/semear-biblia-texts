@@ -1,0 +1,98 @@
+{
+  "book_id": "LAM",
+  "book": "Lamentações",
+  "chapter": 5,
+  "language": "pt-BR",
+  "collection": "biblia_protestante_66",
+  "source_file": "bible_books/bible_books/portugues/Velho_testamento/lamentacoes/biblia_kjv_25lamentacoes.json",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Lembra-te, ó Senhor, do que nos aconteceu; considera, e contempla o nosso opróbrio."
+    },
+    {
+      "verse": 2,
+      "text": "A nossa herança foi entregue a estranhos, as nossas casas a estrangeiros."
+    },
+    {
+      "verse": 3,
+      "text": "Somos órfãos e sem pai, as nossas mães são como viúvas."
+    },
+    {
+      "verse": 4,
+      "text": "Bebemos a nossa água por dinheiro; a nossa lenha nos é vendida."
+    },
+    {
+      "verse": 5,
+      "text": "Os nossos pescoços estão sob perseguição; trabalhamos, e não temos descanso."
+    },
+    {
+      "verse": 6,
+      "text": "Demos a mão aos egípcios, e aos assírios, para nos fartarmos de pão."
+    },
+    {
+      "verse": 7,
+      "text": "Os nossos pais pecaram, e já não existem; e nós suportamos as suas iniquidades."
+    },
+    {
+      "verse": 8,
+      "text": "Servos governaram sobre nós; não há quem nos livre da sua mão."
+    },
+    {
+      "verse": 9,
+      "text": "Obtivemos o nosso pão com o perigo das nossas vidas por causa da espada do deserto."
+    },
+    {
+      "verse": 10,
+      "text": "A nossa pele estava negra como um forno por causa da terrível fome."
+    },
+    {
+      "verse": 11,
+      "text": "Violentaram as mulheres em Sião, e as donzelas nas cidades de Judá."
+    },
+    {
+      "verse": 12,
+      "text": "Os príncipes são enforcados pela sua mão; as faces dos anciãos não foram honradas."
+    },
+    {
+      "verse": 13,
+      "text": "Levaram os jovens para moer, e as crianças caíram debaixo da lenha."
+    },
+    {
+      "verse": 14,
+      "text": "Os anciãos cessaram da porta, os jovens da sua música."
+    },
+    {
+      "verse": 15,
+      "text": "A alegria do nosso coração cessou; a nossa dança se converteu em luto."
+    },
+    {
+      "verse": 16,
+      "text": "A coroa caiu da nossa cabeça; ai de nós, que pecamos!"
+    },
+    {
+      "verse": 17,
+      "text": "Por isso o nosso coração desfalece; por estas coisas os nossos olhos se escurecem."
+    },
+    {
+      "verse": 18,
+      "text": "Por causa do monte de Sião, que está desolado, as raposas andam sobre ele."
+    },
+    {
+      "verse": 19,
+      "text": "Tu, ó Senhor, permaneces para sempre; o teu trono de geração em geração."
+    },
+    {
+      "verse": 20,
+      "text": "Por que te esqueces de nós para sempre, e nos abandonas por tanto tempo?"
+    },
+    {
+      "verse": 21,
+      "text": "Converte-nos a ti, ó Senhor, e seremos convertidos; renova os nossos dias como antigamente."
+    },
+    {
+      "verse": 22,
+      "text": "Mas tu nos rejeitaste completamente; estás muito irado contra nós."
+    }
+  ]
+}
