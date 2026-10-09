@@ -1,20 +1,19 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  29,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/29",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E dali parti para outro lugar no deserto, e aproximei-me da extremidade oriental desta cadeia de montanhas."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E ali eu vi Ã¡rvores aromÃ¡ticas que exalavam o perfume do olÃ­bano e da mirra, e as Ã¡rvores tambÃ©m eram semelhantes Ã amendoeira."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 29,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/29",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E dali parti para outro lugar no deserto, e aproximei-me da extremidade oriental desta cadeia de montanhas."
+    },
+    {
+      "verse": 2,
+      "text": "E ali eu vi árvores aromáticas que exalavam o perfume do olíbano e da mirra, e as árvores também eram semelhantes à amendoeira."
+    }
+  ]
 }
