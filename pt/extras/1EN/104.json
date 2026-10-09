@@ -1,64 +1,64 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  104,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/104",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "Juro convosco que, no cÃ©u, os anjos vos recordam para bem perante a glÃ³ria do Grande; e os vossos nomes estÃ£o escritos perante a glÃ³ria do Grande."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "Apoi-vos na esperanÃ§a; pois outrora fostes envergonhados por causa da iniquidade e da tribulaÃ§Ã£o; mas agora vÃ³s resplendereis como luzes do cÃ©u, e vossa luz serÃ¡ vista, e os portais do cÃ©u vos serÃ£o abertos."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E no vosso clamor, clamaÃ­ por justiÃ§a, e ela se manifestarÃ¡ perante vÃ³s; pois toda a vossa tribulaÃ§Ã£o recairÃ¡ sobre os governantes e sobre todos aqueles que auxiliaram Ã queles que vos pilharam."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Sede esperanÃ§osos e nÃ£o abandoneis vossa esperanÃ§a, pois tereis grande alegria, tal qual os anjos do cÃ©u."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "Que obras vos serÃ£o exigidas? NÃ£o tereis de vos esconder no dia do grande juÃ­zo, e nÃ£o sereis achados como pecadores, e o juÃ­zo eterno estarÃ¡ longe de vÃ³s por todas as geraÃ§Ãµes do mundo."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E agora, nÃ£o temais, vÃ³s justos, quando virdes os pecadores a crescerem fortes e a prosperarem em seus caminhos; nÃ£o vos associeis a eles, mas mantende-vos afastados da sua violÃªncia; pois vÃ³s vos tornareis companheiros das hostes do cÃ©u."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E, embora vÃ³s, pecadores, digais: \"Todas as nossas iniquidades nÃ£o serÃ£o examinadas e registradas\", contudo, eles registrarÃ£o todas as vossas iniquidades a cada dia."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E agora vos mostro que a luz e as trevas, o dia e a noite, tudo veem dos vossos pecados."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "NÃ£o sejais Ã­mpios em vosso coraÃ§Ã£o, nem mintais, nem altereis as palavras da verdade, nem imputeis falsidade Ã s palavras do Santo e Grande, nem considereis vossos Ã­dolos; pois toda a vossa mentira e toda a vossa impiedade nÃ£o resultam em justiÃ§a, mas em grande pecado."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E agora sei que os pecadores alterarÃ£o e corromperÃ£o as palavras da justiÃ§a de muitas maneiras, e proferirÃ£o palavras Ã­mpias, e mentirÃ£o, e praticarÃ£o grandes enganos, e escreverÃ£o livros acerca de suas palavras."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "Mas quando eles escreverem fielmente todas as minhas palavras em suas lÃ­nguas, e nÃ£o alterarem nem diminuÃ­rem nada das minhas palavras, mas as escreverem todas fielmente â tudo o que primeiramente testemunhei a respeito deles."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E sei que outro mistÃ©rio hÃ¡: que os livros serÃ£o dados aos justos e aos sÃ¡bios, para que sejam causa de alegria, retidÃ£o e grande sabedoria."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E a eles serÃ£o entregues os livros, e eles crerÃ£o neles e se alegrarÃ£o com eles, e entÃ£o todos os justos que aprenderam deles todos os caminhos da retidÃ£o serÃ£o recompensados."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 104,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/104",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Juro convosco que, no céu, os anjos vos recordam para bem perante a glória do Grande; e os vossos nomes estão escritos perante a glória do Grande."
+    },
+    {
+      "verse": 2,
+      "text": "Apoi-vos na esperança; pois outrora fostes envergonhados por causa da iniquidade e da tribulação; mas agora vós resplendereis como luzes do céu, e vossa luz será vista, e os portais do céu vos serão abertos."
+    },
+    {
+      "verse": 3,
+      "text": "E no vosso clamor, clamaÃ­ por justiÃ§a, e ela se manifestarÃ¡ perante vÃ³s; pois toda a vossa tribulaÃ§Ã£o recairÃ¡ sobre os governantes e sobre todos aqueles que auxiliaram Ã queles que vos pilharam."
+    },
+    {
+      "verse": 4,
+      "text": "Sede esperançosos e não abandoneis vossa esperança, pois tereis grande alegria, tal qual os anjos do céu."
+    },
+    {
+      "verse": 5,
+      "text": "Que obras vos serão exigidas? Não tereis de vos esconder no dia do grande juízo, e não sereis achados como pecadores, e o juízo eterno estará longe de vós por todas as gerações do mundo."
+    },
+    {
+      "verse": 6,
+      "text": "E agora, não temais, vós justos, quando virdes os pecadores a crescerem fortes e a prosperarem em seus caminhos; não vos associeis a eles, mas mantende-vos afastados da sua violência; pois vós vos tornareis companheiros das hostes do céu."
+    },
+    {
+      "verse": 7,
+      "text": "E, embora vós, pecadores, digais: \"Todas as nossas iniquidades não serão examinadas e registradas\", contudo, eles registrarão todas as vossas iniquidades a cada dia."
+    },
+    {
+      "verse": 8,
+      "text": "E agora vos mostro que a luz e as trevas, o dia e a noite, tudo veem dos vossos pecados."
+    },
+    {
+      "verse": 9,
+      "text": "NÃ£o sejais Ã­mpios em vosso coraÃ§Ã£o, nem mintais, nem altereis as palavras da verdade, nem imputeis falsidade Ã s palavras do Santo e Grande, nem considereis vossos Ã­dolos; pois toda a vossa mentira e toda a vossa impiedade nÃ£o resultam em justiÃ§a, mas em grande pecado."
+    },
+    {
+      "verse": 10,
+      "text": "E agora sei que os pecadores alterarão e corromperão as palavras da justiça de muitas maneiras, e proferirão palavras ímpias, e mentirão, e praticarão grandes enganos, e escreverão livros acerca de suas palavras."
+    },
+    {
+      "verse": 11,
+      "text": "Mas quando eles escreverem fielmente todas as minhas palavras em suas línguas, e não alterarem nem diminuírem nada das minhas palavras, mas as escreverem todas fielmente – tudo o que primeiramente testemunhei a respeito deles."
+    },
+    {
+      "verse": 12,
+      "text": "E sei que outro mistério há: que os livros serão dados aos justos e aos sábios, para que sejam causa de alegria, retidão e grande sabedoria."
+    },
+    {
+      "verse": 13,
+      "text": "E a eles serão entregues os livros, e eles crerão neles e se alegrarão com eles, e então todos os justos que aprenderam deles todos os caminhos da retidão serão recompensados."
+    }
+  ]
 }

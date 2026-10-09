@@ -1,28 +1,28 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  47,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/47",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E naqueles dias, a oraÃ§Ã£o dos justos ascenderÃ¡, e o sangue dos justos serÃ¡ recebido da terra perante o Senhor dos EspÃ­ritos."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "Naqueles dias, os santos que habitam nos cÃ©us unirÃ£o suas vozes em sÃºplica, oraÃ§Ã£o e louvor, e darÃ£o graÃ§as, bendizendo o nome do Senhor dos EspÃ­ritos, em favor do sangue dos justos que foi derramado, para que a oraÃ§Ã£o dos justos nÃ£o seja vÃ£ perante o Senhor dos EspÃ­ritos, para que lhes seja feita justiÃ§a, e para que nÃ£o tenham que sofrer para sempre."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "Naqueles dias, eu vi o Primordial, quando Ele se assentou sobre o trono da Sua glÃ³ria, e os livros dos vivos foram abertos diante Dele; e toda a Sua assembleia que estÃ¡ no cÃ©u acima e os Seus conselheiros permaneceram em pÃ© perante Ele."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E os coraÃ§Ãµes dos justos foram cheios de alegria; porque o nÃºmero dos justos fora consumado, e a oraÃ§Ã£o dos justos foi ouvida, e o sangue dos justos foi requerido perante o Senhor dos EspÃ­ritos."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 47,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/47",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E naqueles dias, a oração dos justos ascenderá, e o sangue dos justos será recebido da terra perante o Senhor dos Espíritos."
+    },
+    {
+      "verse": 2,
+      "text": "Naqueles dias, os santos que habitam nos céus unirão suas vozes em súplica, oração e louvor, e darão graças, bendizendo o nome do Senhor dos Espíritos, em favor do sangue dos justos que foi derramado, para que a oração dos justos não seja vã perante o Senhor dos Espíritos, para que lhes seja feita justiça, e para que não tenham que sofrer para sempre."
+    },
+    {
+      "verse": 3,
+      "text": "Naqueles dias, eu vi o Primordial, quando Ele se assentou sobre o trono da Sua glória, e os livros dos vivos foram abertos diante Dele; e toda a Sua assembleia que está no céu acima e os Seus conselheiros permaneceram em pé perante Ele."
+    },
+    {
+      "verse": 4,
+      "text": "E os corações dos justos foram cheios de alegria; porque o número dos justos fora consumado, e a oração dos justos foi ouvida, e o sangue dos justos foi requerido perante o Senhor dos Espíritos."
+    }
+  ]
 }

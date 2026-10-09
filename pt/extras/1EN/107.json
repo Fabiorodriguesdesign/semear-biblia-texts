@@ -1,24 +1,24 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  107,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/107",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E eu vi escrito que geraÃ§Ã£o apÃ³s geraÃ§Ã£o transgredirÃ¡, atÃ© que surja uma geraÃ§Ã£o de justiÃ§a, e a transgressÃ£o seja destruÃ­da e o pecado passe da terra, e todo bem venha sobre ela."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E agora, meu filho, vai e anuncia a teu filho Lameque que este menino, que nasceu, Ã© verdadeiramente seu filho, e que isto nÃ£o Ã© engano."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E quando MatusalÃ©m ouviu as palavras de seu pai Enoque, pois ele lhe revelara tudo em segredo, retornou e mostrou-as a ele, e chamou o nome daquele filho NoÃ©, porque ele consolarÃ¡ a terra apÃ³s toda a destruiÃ§Ã£o."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 107,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/107",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E eu vi escrito que geração após geração transgredirá, até que surja uma geração de justiça, e a transgressão seja destruída e o pecado passe da terra, e todo bem venha sobre ela."
+    },
+    {
+      "verse": 2,
+      "text": "E agora, meu filho, vai e anuncia a teu filho Lameque que este menino, que nasceu, é verdadeiramente seu filho, e que isto não é engano."
+    },
+    {
+      "verse": 3,
+      "text": "E quando Matusalém ouviu as palavras de seu pai Enoque, pois ele lhe revelara tudo em segredo, retornou e mostrou-as a ele, e chamou o nome daquele filho Noé, porque ele consolará a terra após toda a destruição."
+    }
+  ]
 }

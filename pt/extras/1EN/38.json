@@ -1,36 +1,36 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  38,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/38",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "Quando a congregaÃ§Ã£o dos justos se manifestar, e os pecadores forem julgados por seus pecados, e forem expulsos da face da terra:"
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E quando o Justo se manifestar perante os olhos dos justos, cujos atos escolhidos repousam sobre o Senhor dos EspÃ­ritos, e a luz brilhar para os justos e os eleitos que habitam na terra, onde estarÃ¡ entÃ£o a morada dos pecadores, e qual o lugar de descanso daqueles que negaram ao Senhor dos EspÃ­ritos? Melhor lhes fora nÃ£o terem nascido."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "Quando os segredos dos justos forem revelados e os pecadores julgados, e os Ã­mpios forem expulsos da presenÃ§a dos justos e escolhidos."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Desde aquele tempo, os que habitam a terra nÃ£o exercerÃ£o mais poder nem terÃ£o grande influÃªncia; e nÃ£o poderÃ£o contemplar a face dos santos, pois o Senhor dos EspÃ­ritos manifestou a Sua luz sobre o rosto dos santos, justos e escolhidos."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "EntÃ£o, os reis e os poderosos perecerÃ£o, e serÃ£o entregues nas mÃ£os dos justos e santos."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E desde entÃ£o, ninguÃ©m buscarÃ¡ mais a misericÃ³rdia do Senhor dos EspÃ­ritos, pois sua vida terÃ¡ chegado ao fim."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 38,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/38",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Quando a congregação dos justos se manifestar, e os pecadores forem julgados por seus pecados, e forem expulsos da face da terra:"
+    },
+    {
+      "verse": 2,
+      "text": "E quando o Justo se manifestar perante os olhos dos justos, cujos atos escolhidos repousam sobre o Senhor dos Espíritos, e a luz brilhar para os justos e os eleitos que habitam na terra, onde estará então a morada dos pecadores, e qual o lugar de descanso daqueles que negaram ao Senhor dos Espíritos? Melhor lhes fora não terem nascido."
+    },
+    {
+      "verse": 3,
+      "text": "Quando os segredos dos justos forem revelados e os pecadores julgados, e os ímpios forem expulsos da presença dos justos e escolhidos."
+    },
+    {
+      "verse": 4,
+      "text": "Desde aquele tempo, os que habitam a terra não exercerão mais poder nem terão grande influência; e não poderão contemplar a face dos santos, pois o Senhor dos Espíritos manifestou a Sua luz sobre o rosto dos santos, justos e escolhidos."
+    },
+    {
+      "verse": 5,
+      "text": "Então, os reis e os poderosos perecerão, e serão entregues nas mãos dos justos e santos."
+    },
+    {
+      "verse": 6,
+      "text": "E desde então, ninguém buscará mais a misericórdia do Senhor dos Espíritos, pois sua vida terá chegado ao fim."
+    }
+  ]
 }

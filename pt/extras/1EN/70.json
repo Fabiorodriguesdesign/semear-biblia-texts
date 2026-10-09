@@ -1,28 +1,28 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  70,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/70",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E aconteceu, apÃ³s isto, que o seu nome, durante a sua vida terrena, foi exaltado ao Filho do Homem e ao Senhor dos EspÃ­ritos, entre aqueles que habitam sobre a terra."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E foi elevado sobre os carros do espÃ­rito, e o seu nome desapareceu entre eles."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E desde aquele dia jÃ¡ nÃ£o fui mais contado entre eles; e foi posto entre os dois ventos, entre o Norte e o Oeste, onde os anjos tomaram as cordas para medir para mim o lugar dos escolhidos e justos."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E ali vi os primeiros pais e os justos que desde o princÃ­pio habitam aquele lugar."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 70,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/70",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E aconteceu, após isto, que o seu nome, durante a sua vida terrena, foi exaltado ao Filho do Homem e ao Senhor dos Espíritos, entre aqueles que habitam sobre a terra."
+    },
+    {
+      "verse": 2,
+      "text": "E foi elevado sobre os carros do espírito, e o seu nome desapareceu entre eles."
+    },
+    {
+      "verse": 3,
+      "text": "E desde aquele dia já não fui mais contado entre eles; e foi posto entre os dois ventos, entre o Norte e o Oeste, onde os anjos tomaram as cordas para medir para mim o lugar dos escolhidos e justos."
+    },
+    {
+      "verse": 4,
+      "text": "E ali vi os primeiros pais e os justos que desde o princípio habitam aquele lugar."
+    }
+  ]
 }

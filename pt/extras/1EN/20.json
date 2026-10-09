@@ -1,44 +1,44 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  20,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/20",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E estes sÃ£o os nomes dos santos anjos que velam."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "Uriel, um dos santos anjos, que estÃ¡ sobre o mundo e sobre TÃ¡rtaro."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "Rafael, um dos santos anjos, que Ã© sobre os espÃ­ritos dos homens."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Raguel, um dos anjos santos que exerce vinganÃ§a sobre o mundo dos luminares."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "Miguel, um dos santos anjos, a saber, aquele que estÃ¡ posto sobre a melhor parte da humanidade e sobre o caos."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "Saraquiel, um dos anjos santos, que estÃ¡ posto sobre os espÃ­ritos que pecam no espÃ­rito."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Gabriel, um dos santos anjos, que estÃ¡ sobre o ParaÃ­so e as serpentes e os Querubins."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "Remiel, um dos anjos santos, a quem Deus constituiu sobre aqueles que se levantam."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 20,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/20",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E estes são os nomes dos santos anjos que velam."
+    },
+    {
+      "verse": 2,
+      "text": "Uriel, um dos santos anjos, que está sobre o mundo e sobre Tártaro."
+    },
+    {
+      "verse": 3,
+      "text": "Rafael, um dos santos anjos, que é sobre os espíritos dos homens."
+    },
+    {
+      "verse": 4,
+      "text": "Raguel, um dos anjos santos que exerce vingança sobre o mundo dos luminares."
+    },
+    {
+      "verse": 5,
+      "text": "Miguel, um dos santos anjos, a saber, aquele que está posto sobre a melhor parte da humanidade e sobre o caos."
+    },
+    {
+      "verse": 6,
+      "text": "Saraquiel, um dos anjos santos, que está posto sobre os espíritos que pecam no espírito."
+    },
+    {
+      "verse": 7,
+      "text": "Gabriel, um dos santos anjos, que está sobre o Paraíso e as serpentes e os Querubins."
+    },
+    {
+      "verse": 8,
+      "text": "Remiel, um dos anjos santos, a quem Deus constituiu sobre aqueles que se levantam."
+    }
+  ]
 }

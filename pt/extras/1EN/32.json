@@ -1,36 +1,36 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  32,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/32",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E apÃ³s estes aromas suaves, e olhando para o norte sobre os montes, vi sete montes cheios de cÃ¡lamo precioso e Ã¡rvores fragrantes, canela e pimenta."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E dali parti, percorrendo os cumes de todas estas montanhas, indo muito para o leste da terra, e atravessei o mar Eritreio, afastando-me dele, e passei acima do anjo Zotiel."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E cheguei ao Jardim da JustiÃ§a, e ali vi alÃ©m das Ã¡rvores muitas Ã¡rvores grandes, de bom odor, grandes, muito belas e gloriosas, e a Ã¡rvore do conhecimento, da qual se come e se obtÃ©m grande sabedoria."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Aquele arboredo Ã© em altura semelhante ao cedro, e suas folhas sÃ£o como as do carvalho-doce; seu fruto Ã© como cachos de videira, muito belo, e o aroma da Ã¡rvore se espalha por longas distÃ¢ncias."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E eu disse: \"Que bela Ã© a Ã¡rvore, e quÃ£o formoso Ã© o seu aspecto!\""
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "EntÃ£o Rafael, o santo anjo, que estava comigo, respondeu-me e disse: \"Esta Ã© a Ã¡rvore da sabedoria, da qual teu pai, velho em anos, e tua mÃ£e, tambÃ©m idosa, comeram, e eles aprenderam sabedoria, e seus olhos se abriram, e eles souberam que estavam nus, e foram expulsos do jardim.\""
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 32,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/32",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E após estes aromas suaves, e olhando para o norte sobre os montes, vi sete montes cheios de cálamo precioso e árvores fragrantes, canela e pimenta."
+    },
+    {
+      "verse": 2,
+      "text": "E dali parti, percorrendo os cumes de todas estas montanhas, indo muito para o leste da terra, e atravessei o mar Eritreio, afastando-me dele, e passei acima do anjo Zotiel."
+    },
+    {
+      "verse": 3,
+      "text": "E cheguei ao Jardim da Justiça, e ali vi além das árvores muitas árvores grandes, de bom odor, grandes, muito belas e gloriosas, e a árvore do conhecimento, da qual se come e se obtém grande sabedoria."
+    },
+    {
+      "verse": 4,
+      "text": "Aquele arboredo é em altura semelhante ao cedro, e suas folhas são como as do carvalho-doce; seu fruto é como cachos de videira, muito belo, e o aroma da árvore se espalha por longas distâncias."
+    },
+    {
+      "verse": 5,
+      "text": "E eu disse: \"Que bela é a árvore, e quão formoso é o seu aspecto!\""
+    },
+    {
+      "verse": 6,
+      "text": "Então Rafael, o santo anjo, que estava comigo, respondeu-me e disse: \"Esta é a árvore da sabedoria, da qual teu pai, velho em anos, e tua mãe, também idosa, comeram, e eles aprenderam sabedoria, e seus olhos se abriram, e eles souberam que estavam nus, e foram expulsos do jardim.\""
+    }
+  ]
 }

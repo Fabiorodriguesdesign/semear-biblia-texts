@@ -1,44 +1,44 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  46,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/46",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E ali eu vi um Ser que tinha um semblante de tempos antigos, e a sua cabeÃ§a era branca como a lÃ£, e com Ele estava outro ser cuja aparÃªncia era a de um homem, e o seu rosto era cheio de graÃ§a, como um dos anjos santos."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E eu perguntei ao anjo que me acompanhava e me mostrava todas as coisas ocultas, acerca daquele Filho do Homem, quem era ele, de onde era, e por que razÃ£o ia com o PrimogÃªnito dos Dias? E ele respondeu e disse a mim: Este Ã© o Filho do Homem que tem justiÃ§a, com quem habita a justiÃ§a, e que revela todos os tesouros daquilo que estÃ¡ escondido."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "Porque o Senhor dos EspÃ­ritos o escolheu, e a quem foi dada primazia perante o Senhor dos EspÃ­ritos em retidÃ£o para todo o sempre."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E este Filho do Homem que vÃ³s haveis visto exaltarÃ¡ os reis e os poderosos de seus assentos, e os fortes de seus tronos, e soltarÃ¡ as rÃ©deas dos soberbos, e quebrantarÃ¡ os dentes dos pecadores."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E Ele derrubarÃ¡ os reis de seus tronos e reinos, porque nÃ£o O exaltam nem O louvam, nem humildemente reconhecem a origem daquele poder que lhes foi concedido."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E Ele humilharÃ¡ a soberba dos poderosos e os envergonharÃ¡; e a escuridÃ£o serÃ¡ sua morada, e os vermes serÃ£o o seu leito, e nÃ£o terÃ£o esperanÃ§a de se levantarem de seus leitos, porque nÃ£o exaltaram o nome do Senhor dos EspÃ­ritos."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E estes sÃ£o aqueles que julgam as estrelas do cÃ©u, e levantam a mÃ£o contra o AltÃ­ssimo, e pisam sobre a terra e nela habitam. E todas as suas obras manifestam iniquidade, e o seu poder reside nas suas riquezas, e a sua fÃ© estÃ¡ nos deuses que eles mesmos fizeram com as suas mÃ£os, e negam o nome do Senhor dos EspÃ­ritos."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E eles perseguem as casas das suas assembleias, e os fiÃ©is que se apegam ao nome do Senhor dos EspÃ­ritos."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 46,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/46",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E ali eu vi um Ser que tinha um semblante de tempos antigos, e a sua cabeça era branca como a lã, e com Ele estava outro ser cuja aparência era a de um homem, e o seu rosto era cheio de graça, como um dos anjos santos."
+    },
+    {
+      "verse": 2,
+      "text": "E eu perguntei ao anjo que me acompanhava e me mostrava todas as coisas ocultas, acerca daquele Filho do Homem, quem era ele, de onde era, e por que razão ia com o Primogênito dos Dias? E ele respondeu e disse a mim: Este é o Filho do Homem que tem justiça, com quem habita a justiça, e que revela todos os tesouros daquilo que está escondido."
+    },
+    {
+      "verse": 3,
+      "text": "Porque o Senhor dos Espíritos o escolheu, e a quem foi dada primazia perante o Senhor dos Espíritos em retidão para todo o sempre."
+    },
+    {
+      "verse": 4,
+      "text": "E este Filho do Homem que vós haveis visto exaltará os reis e os poderosos de seus assentos, e os fortes de seus tronos, e soltará as rédeas dos soberbos, e quebrantará os dentes dos pecadores."
+    },
+    {
+      "verse": 5,
+      "text": "E Ele derrubará os reis de seus tronos e reinos, porque não O exaltam nem O louvam, nem humildemente reconhecem a origem daquele poder que lhes foi concedido."
+    },
+    {
+      "verse": 6,
+      "text": "E Ele humilhará a soberba dos poderosos e os envergonhará; e a escuridão será sua morada, e os vermes serão o seu leito, e não terão esperança de se levantarem de seus leitos, porque não exaltaram o nome do Senhor dos Espíritos."
+    },
+    {
+      "verse": 7,
+      "text": "E estes são aqueles que julgam as estrelas do céu, e levantam a mão contra o Altíssimo, e pisam sobre a terra e nela habitam. E todas as suas obras manifestam iniquidade, e o seu poder reside nas suas riquezas, e a sua fé está nos deuses que eles mesmos fizeram com as suas mãos, e negam o nome do Senhor dos Espíritos."
+    },
+    {
+      "verse": 8,
+      "text": "E eles perseguem as casas das suas assembleias, e os fiéis que se apegam ao nome do Senhor dos Espíritos."
+    }
+  ]
 }

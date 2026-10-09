@@ -1,36 +1,36 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  7,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/7",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E todos os demais, juntamente com eles, tomaram para si mulheres, e cada um escolheu para si uma, e comeÃ§aram a ir atÃ© elas e a contaminar-se com elas, e ensinaram-lhes feitiÃ§arias e encantamentos, e o corte de raÃ­zes, e fizeram-nas conhecer as plantas."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E geraram filhos, e deram Ã luz gigantes, cuja altura era de trÃªs mil cÃ´vados."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "Quem consumiu todas as aquisiÃ§Ãµes dos homens. E quando os homens nÃ£o puderam mais suportÃ¡-las,"
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E os gigantes se voltaram contra eles e consumiram a humanidade."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E comeÃ§aram a pecar contra as aves, os animais, os rÃ©pteis e os peixes, e a devorar a carne uns dos outros, e a beber sangue."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E a terra testemunhou contra os Ã­mpios."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 7,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/7",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E todos os demais, juntamente com eles, tomaram para si mulheres, e cada um escolheu para si uma, e começaram a ir até elas e a contaminar-se com elas, e ensinaram-lhes feitiçarias e encantamentos, e o corte de raízes, e fizeram-nas conhecer as plantas."
+    },
+    {
+      "verse": 2,
+      "text": "E geraram filhos, e deram Ã luz gigantes, cuja altura era de trÃªs mil cÃ´vados."
+    },
+    {
+      "verse": 3,
+      "text": "Quem consumiu todas as aquisições dos homens. E quando os homens não puderam mais suportá-las,"
+    },
+    {
+      "verse": 4,
+      "text": "E os gigantes se voltaram contra eles e consumiram a humanidade."
+    },
+    {
+      "verse": 5,
+      "text": "E começaram a pecar contra as aves, os animais, os répteis e os peixes, e a devorar a carne uns dos outros, e a beber sangue."
+    },
+    {
+      "verse": 6,
+      "text": "E a terra testemunhou contra os ímpios."
+    }
+  ]
 }

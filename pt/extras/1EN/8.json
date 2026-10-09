@@ -1,20 +1,20 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  8,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/8",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E Azazel ensinou aos homens a forjar espadas e facas, escudos e couraÃ§as, revelando-lhes os metais da terra e a arte de trabalhar com eles, alÃ©m de braceletes, adornos, o uso do antimÃ´nio, a embelezamento dos olhos e todo tipo de pedra preciosa, bem como todas as tinturas coloridas."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E houve grande impiedade, e eles praticaram fornicaÃ§Ã£o, e foram desviados, tornando-se corruptos em todas as suas obras. Semjaza ensinou encantamentos e a arte de cortar raÃ­zes; ArmarÃ©s, a resoluÃ§Ã£o dos encantamentos; Baraqijal, a astrologia; KÃ©kabÃ©l, as constelaÃ§Ãµes; EzÃ©qÃ©Ã©l, o conhecimento das nuvens; AraqiÃ©l, os sinais da terra; ShamsiÃ©l, os sinais do sol; e SariÃ©l, o curso da lua. E quando os homens pereciam, clamavam, e seu clamor subia ao cÃ©u."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 8,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/8",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E Azazel ensinou aos homens a forjar espadas e facas, escudos e couraças, revelando-lhes os metais da terra e a arte de trabalhar com eles, além de braceletes, adornos, o uso do antimônio, a embelezamento dos olhos e todo tipo de pedra preciosa, bem como todas as tinturas coloridas."
+    },
+    {
+      "verse": 2,
+      "text": "E houve grande impiedade, e eles praticaram fornicação, e foram desviados, tornando-se corruptos em todas as suas obras. Semjaza ensinou encantamentos e a arte de cortar raízes; Armarés, a resolução dos encantamentos; Baraqijal, a astrologia; Kékabél, as constelações; Ezéqéél, o conhecimento das nuvens; Araqiél, os sinais da terra; Shamsiél, os sinais do sol; e Sariél, o curso da lua. E quando os homens pereciam, clamavam, e seu clamor subia ao céu."
+    }
+  ]
 }

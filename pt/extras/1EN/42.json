@@ -1,24 +1,24 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  42,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/42",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "A Sabedoria nÃ£o encontrou lugar onde habitasse; entÃ£o, lhe foi dado um lugar nos cÃ©us."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "A Sabedoria descendeu para habitar entre os filhos dos homens, e nÃ£o encontrou lugar; a Sabedoria retornou ao seu lugar, e se assentou entre os anjos."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E a injustiÃ§a saiu dos seus aposentos; aqueles que ela nÃ£o buscou, encontrou, e habitou com eles, como chuva no deserto e orvalho em terra seca."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 42,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/42",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "A Sabedoria não encontrou lugar onde habitasse; então, lhe foi dado um lugar nos céus."
+    },
+    {
+      "verse": 2,
+      "text": "A Sabedoria descendeu para habitar entre os filhos dos homens, e não encontrou lugar; a Sabedoria retornou ao seu lugar, e se assentou entre os anjos."
+    },
+    {
+      "verse": 3,
+      "text": "E a injustiça saiu dos seus aposentos; aqueles que ela não buscou, encontrou, e habitou com eles, como chuva no deserto e orvalho em terra seca."
+    }
+  ]
 }

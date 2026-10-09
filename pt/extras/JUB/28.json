@@ -1,132 +1,132 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  28,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/28",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E ele seguiu viagem, e chegou Ã terra do oriente, a LabÃ£o, irmÃ£o de Rebeca; e esteve com ele, servindo-lhe por um tempo em troca de Raquel, sua filha."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E no primeiro ano da terceira semana, disse-lhe: DÃ¡-me minha esposa, por quem servi a ti sete anos; e LabÃ£o disse a JacÃ³: Darei-te a tua esposa."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E LabÃ£o fez um banquete, e tomou Lia, sua filha primogÃªnita, e a deu a JacÃ³ como esposa, e lhe deu tambÃ©m Zilpa, sua serva, para ser concubina; mas JacÃ³ nÃ£o sabia, pois pensava que era Raquel."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E ele entrou em seu seio, e eis que era Lia; e JacÃ³ irou-se com LabÃ£o, e disse-lhe: Por que fizeste isto comigo? NÃ£o te servi por Raquel, e nÃ£o por Lia? Por que enganaste-me assim? Toma-me a filha, pois irei; porque certamente tens agido de mÃ¡ fÃ© para comigo."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "JacÃ³ amava Raquel mais do que Lia, pois os olhos de Lia eram fracos, mas sua forma era muito bela; porÃ©m, Raquel tinha olhos belos e uma forma bela e muito formosa."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E LabÃ£o disse a JacÃ³: Assim nÃ£o se faz em nossa terra, dar Ã filha mais nova antes da mais velha. E nÃ£o Ã© justo fazer isto; pois assim estÃ¡ ordenado e escrito nos cÃ©us, que ninguÃ©m dÃª a sua filha mais nova antes da mais velha â mas a primeira deve ser dada primeiro, e depois dela a segunda â e aquele que fizer isso, terÃ¡ culpa contra si no cÃ©u, e ninguÃ©m Ã© justo que faÃ§a esta coisa, porque este ato Ã© mau perante o Senhor."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E ordena aos filhos de Israel que nÃ£o faÃ§am tal coisa; nem tomem, nem deem a filha menor antes que tenham dado a filha maior, pois Ã© abominaÃ§Ã£o."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E LabÃ£o disse a JacÃ³: Que passem os sete dias da festa desta ocasiÃ£o, e eu te darei Raquel, para que sirvas a mim outros sete anos, para que pastores meus carneiros, como o fizeste na semana passada."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E no dia em que os sete dias da festa de Lia se cumpriram, LabÃ£o deu Raquel a JacÃ³, para que ele lhe servisse outros sete anos; e deu a Raquel Bila, irmÃ£ de Zilpa, como criada."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E ele serviu ainda outros sete anos por Raquel, pois LÃ­a lhe fora dada sem preÃ§o."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E o Senhor abriu o ventre de Lia, e ela concebeu e gerou a JacÃ³ um filho, e ele chamou seu nome RÃºben, no dÃ©cimo quarto dia do nono mÃªs, no primeiro ano da terceira semana."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "Mas o ventre de Raquel estava fechado, porque o Senhor viu que Lia era odiada e Raquel amada."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E JacÃ³ voltou para junto de Lia, e ela concebeu e deu a luz a JacÃ³ um segundo filho, e chamou seu nome SimeÃ£o, no vigÃ©simo primeiro dia do dÃ©cimo mÃªs, e no terceiro ano deste ciclo."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E JacÃ³ novamente se uniu a Lia, e ela concebeu e lhe deu um terceiro filho, ao qual chamou Levi, no novo mÃªs do primeiro ano, no sexto ano daquele ciclo."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "E JacÃ³ entrou novamente com ela, e ela concebeu e lhe deu um quarto filho, e ele chamou o seu nome de JudÃ¡, no dÃ©cimo quinto dia do terceiro mÃªs, no primeiro ano da quarta semana."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E por causa de tudo isto, Raquel invejou Lia, pois ela nÃ£o tinha gerado filhos, e disse a JacÃ³: DÃ¡-me filhos; e JacÃ³ respondeu: SerÃ¡ que eu te tenho privado dos frutos do teu ventre? SerÃ¡ que eu te abandonei?"
-                   },
-                   {
-                       "verse":  17,
-                       "text":  "E quando Raquel viu que Lia lhe havia dado quatro filhos a JacÃ³, RÃºben e SimeÃ£o e Levi e JudÃ¡, disse-lhe: Entra em Bila, minha serva, ela conceberÃ¡ e darÃ¡ um filho para mim."
-                   },
-                   {
-                       "verse":  18,
-                       "text":  "E ela deu-lhe Bila, sua serva, para que ele entrasse nela; e ele entrou nela, e ela concebeu e geriu um filho, ao qual chamou Dan, no nono dia do sexto mÃªs, no sexto ano, na terceira semana."
-                   },
-                   {
-                       "verse":  19,
-                       "text":  "E JacÃ³ entrou novamente em Bila, pela segunda vez, e ela concebeu e deu a luz a outro filho para JacÃ³; e Raquel chamou o seu nome de Naftali, no quinto dia do sÃ©timo mÃªs, no segundo ano, na quarta semana."
-                   },
-                   {
-                       "verse":  20,
-                       "text":  "E quando Lia viu que era estÃ©ril e nÃ£o gerava filhos, invejou Raquel e tambÃ©m deu sua serva Zilpa a JacÃ³ como esposa, e ela concebeu e deu Ã luz um filho, e Lia chamou o nome dele de Gade, no dÃ©cimo segundo dia do oitavo mÃªs, no terceiro ano, na quarta semana."
-                   },
-                   {
-                       "verse":  21,
-                       "text":  "E ele entrou novamente para ela, e ela concebeu e deu-lhe um segundo filho; e Lia chamou o seu nome Aser, no segundo dia do dÃ©cimo primeiro mÃªs, no quinto ano, na quinta semana."
-                   },
-                   {
-                       "verse":  22,
-                       "text":  "E JacÃ³ entrou para com Lia, e ela concebeu e deu Ã luz um filho, e chamou-lhe Issacar, no quarto dia do quinto mÃªs, no quarto ano da quarta semana, e o entregou a uma ama."
-                   },
-                   {
-                       "verse":  23,
-                       "text":  "E JacÃ³ entrou novamente para ela, e ela concebeu e geriu dois filhos, um varÃ£o e uma filha; e chamou o nome do varÃ£o Zebulom, e o nome da filha DinÃ¡, no sÃ©timo mÃªs, no sexto ano, na quarta semana."
-                   },
-                   {
-                       "verse":  24,
-                       "text":  "E o Senhor teve misericÃ³rdia de Raquel, e abriu-lhe o ventre, e ela concebeu e deu Ã luz um filho, e chamou seu nome JosÃ©, no princÃ­pio do mÃªs, no quarto mÃªs, no sexto ano, nesta quarta semana."
-                   },
-                   {
-                       "verse":  25,
-                       "text":  "E nos dias em que JosÃ© nasceu, JacÃ³ disse a LabÃ£o: Devolva-me minhas mulheres e meus filhos, para que eu possa ir ao meu pai Isaque, e ali construir uma casa; pois cumpri os anos em que servi a ti por causa de tuas duas filhas, e irei Ã casa de meu pai."
-                   },
-                   {
-                       "verse":  26,
-                       "text":  "E LabÃ£o disse a JacÃ³: Permanece comigo por causa do teu salÃ¡rio, e pastoreia o meu rebanho por mim novamente, e recebe o teu pagamento."
-                   },
-                   {
-                       "verse":  27,
-                       "text":  "E eles concordaram entre si que lhe desse como recompensa os cordeiros e cabritos que nascessem pretos, manchados e brancos; estes seriam a sua recompensa."
-                   },
-                   {
-                       "verse":  28,
-                       "text":  "E todas as ovelhas deram luz a filhotes com manchas e pintas, alguns pretos, de diversas cores; e novamente geraram cordeiros semelhantes a si mesmas, sendo que todos os que tinham manchas eram de JacÃ³, e aqueles que nÃ£o tinham eram de LabÃ£o."
-                   },
-                   {
-                       "verse":  29,
-                       "text":  "E as posses de JacÃ³ multiplicaram-se grandemente, e ele teve bois e ovelhas e jumentos e camelos, e servos e servas."
-                   },
-                   {
-                       "verse":  30,
-                       "text":  "E LabÃ£o e seus filhos invejaram a JacÃ³, e LabÃ£o tomou de volta as suas ovelhas, e observava-o com intenÃ§Ã£o mÃ¡."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 28,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/28",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E ele seguiu viagem, e chegou Ã terra do oriente, a LabÃ£o, irmÃ£o de Rebeca; e esteve com ele, servindo-lhe por um tempo em troca de Raquel, sua filha."
+    },
+    {
+      "verse": 2,
+      "text": "E no primeiro ano da terceira semana, disse-lhe: Dá-me minha esposa, por quem servi a ti sete anos; e Labão disse a Jacó: Darei-te a tua esposa."
+    },
+    {
+      "verse": 3,
+      "text": "E Labão fez um banquete, e tomou Lia, sua filha primogênita, e a deu a Jacó como esposa, e lhe deu também Zilpa, sua serva, para ser concubina; mas Jacó não sabia, pois pensava que era Raquel."
+    },
+    {
+      "verse": 4,
+      "text": "E ele entrou em seu seio, e eis que era Lia; e Jacó irou-se com Labão, e disse-lhe: Por que fizeste isto comigo? Não te servi por Raquel, e não por Lia? Por que enganaste-me assim? Toma-me a filha, pois irei; porque certamente tens agido de má fé para comigo."
+    },
+    {
+      "verse": 5,
+      "text": "Jacó amava Raquel mais do que Lia, pois os olhos de Lia eram fracos, mas sua forma era muito bela; porém, Raquel tinha olhos belos e uma forma bela e muito formosa."
+    },
+    {
+      "verse": 6,
+      "text": "E LabÃ£o disse a JacÃ³: Assim nÃ£o se faz em nossa terra, dar Ã filha mais nova antes da mais velha. E nÃ£o Ã© justo fazer isto; pois assim estÃ¡ ordenado e escrito nos cÃ©us, que ninguÃ©m dÃª a sua filha mais nova antes da mais velha â mas a primeira deve ser dada primeiro, e depois dela a segunda â e aquele que fizer isso, terÃ¡ culpa contra si no cÃ©u, e ninguÃ©m Ã© justo que faÃ§a esta coisa, porque este ato Ã© mau perante o Senhor."
+    },
+    {
+      "verse": 7,
+      "text": "E ordena aos filhos de Israel que não façam tal coisa; nem tomem, nem deem a filha menor antes que tenham dado a filha maior, pois é abominação."
+    },
+    {
+      "verse": 8,
+      "text": "E Labão disse a Jacó: Que passem os sete dias da festa desta ocasião, e eu te darei Raquel, para que sirvas a mim outros sete anos, para que pastores meus carneiros, como o fizeste na semana passada."
+    },
+    {
+      "verse": 9,
+      "text": "E no dia em que os sete dias da festa de Lia se cumpriram, Labão deu Raquel a Jacó, para que ele lhe servisse outros sete anos; e deu a Raquel Bila, irmã de Zilpa, como criada."
+    },
+    {
+      "verse": 10,
+      "text": "E ele serviu ainda outros sete anos por Raquel, pois Lía lhe fora dada sem preço."
+    },
+    {
+      "verse": 11,
+      "text": "E o Senhor abriu o ventre de Lia, e ela concebeu e gerou a Jacó um filho, e ele chamou seu nome Rúben, no décimo quarto dia do nono mês, no primeiro ano da terceira semana."
+    },
+    {
+      "verse": 12,
+      "text": "Mas o ventre de Raquel estava fechado, porque o Senhor viu que Lia era odiada e Raquel amada."
+    },
+    {
+      "verse": 13,
+      "text": "E Jacó voltou para junto de Lia, e ela concebeu e deu a luz a Jacó um segundo filho, e chamou seu nome Simeão, no vigésimo primeiro dia do décimo mês, e no terceiro ano deste ciclo."
+    },
+    {
+      "verse": 14,
+      "text": "E Jacó novamente se uniu a Lia, e ela concebeu e lhe deu um terceiro filho, ao qual chamou Levi, no novo mês do primeiro ano, no sexto ano daquele ciclo."
+    },
+    {
+      "verse": 15,
+      "text": "E Jacó entrou novamente com ela, e ela concebeu e lhe deu um quarto filho, e ele chamou o seu nome de Judá, no décimo quinto dia do terceiro mês, no primeiro ano da quarta semana."
+    },
+    {
+      "verse": 16,
+      "text": "E por causa de tudo isto, Raquel invejou Lia, pois ela não tinha gerado filhos, e disse a Jacó: Dá-me filhos; e Jacó respondeu: Será que eu te tenho privado dos frutos do teu ventre? Será que eu te abandonei?"
+    },
+    {
+      "verse": 17,
+      "text": "E quando Raquel viu que Lia lhe havia dado quatro filhos a Jacó, Rúben e Simeão e Levi e Judá, disse-lhe: Entra em Bila, minha serva, ela conceberá e dará um filho para mim."
+    },
+    {
+      "verse": 18,
+      "text": "E ela deu-lhe Bila, sua serva, para que ele entrasse nela; e ele entrou nela, e ela concebeu e geriu um filho, ao qual chamou Dan, no nono dia do sexto mês, no sexto ano, na terceira semana."
+    },
+    {
+      "verse": 19,
+      "text": "E Jacó entrou novamente em Bila, pela segunda vez, e ela concebeu e deu a luz a outro filho para Jacó; e Raquel chamou o seu nome de Naftali, no quinto dia do sétimo mês, no segundo ano, na quarta semana."
+    },
+    {
+      "verse": 20,
+      "text": "E quando Lia viu que era estÃ©ril e nÃ£o gerava filhos, invejou Raquel e tambÃ©m deu sua serva Zilpa a JacÃ³ como esposa, e ela concebeu e deu Ã luz um filho, e Lia chamou o nome dele de Gade, no dÃ©cimo segundo dia do oitavo mÃªs, no terceiro ano, na quarta semana."
+    },
+    {
+      "verse": 21,
+      "text": "E ele entrou novamente para ela, e ela concebeu e deu-lhe um segundo filho; e Lia chamou o seu nome Aser, no segundo dia do décimo primeiro mês, no quinto ano, na quinta semana."
+    },
+    {
+      "verse": 22,
+      "text": "E JacÃ³ entrou para com Lia, e ela concebeu e deu Ã luz um filho, e chamou-lhe Issacar, no quarto dia do quinto mÃªs, no quarto ano da quarta semana, e o entregou a uma ama."
+    },
+    {
+      "verse": 23,
+      "text": "E Jacó entrou novamente para ela, e ela concebeu e geriu dois filhos, um varão e uma filha; e chamou o nome do varão Zebulom, e o nome da filha Diná, no sétimo mês, no sexto ano, na quarta semana."
+    },
+    {
+      "verse": 24,
+      "text": "E o Senhor teve misericÃ³rdia de Raquel, e abriu-lhe o ventre, e ela concebeu e deu Ã luz um filho, e chamou seu nome JosÃ©, no princÃ­pio do mÃªs, no quarto mÃªs, no sexto ano, nesta quarta semana."
+    },
+    {
+      "verse": 25,
+      "text": "E nos dias em que JosÃ© nasceu, JacÃ³ disse a LabÃ£o: Devolva-me minhas mulheres e meus filhos, para que eu possa ir ao meu pai Isaque, e ali construir uma casa; pois cumpri os anos em que servi a ti por causa de tuas duas filhas, e irei Ã casa de meu pai."
+    },
+    {
+      "verse": 26,
+      "text": "E Labão disse a Jacó: Permanece comigo por causa do teu salário, e pastoreia o meu rebanho por mim novamente, e recebe o teu pagamento."
+    },
+    {
+      "verse": 27,
+      "text": "E eles concordaram entre si que lhe desse como recompensa os cordeiros e cabritos que nascessem pretos, manchados e brancos; estes seriam a sua recompensa."
+    },
+    {
+      "verse": 28,
+      "text": "E todas as ovelhas deram luz a filhotes com manchas e pintas, alguns pretos, de diversas cores; e novamente geraram cordeiros semelhantes a si mesmas, sendo que todos os que tinham manchas eram de Jacó, e aqueles que não tinham eram de Labão."
+    },
+    {
+      "verse": 29,
+      "text": "E as posses de Jacó multiplicaram-se grandemente, e ele teve bois e ovelhas e jumentos e camelos, e servos e servas."
+    },
+    {
+      "verse": 30,
+      "text": "E Labão e seus filhos invejaram a Jacó, e Labão tomou de volta as suas ovelhas, e observava-o com intenção má."
+    }
+  ]
 }

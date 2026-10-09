@@ -1,76 +1,76 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  46,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/46",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E aconteceu que, apÃ³s a morte de JacÃ³, os filhos de Israel multiplicaram-se na terra do Egito, tornando-se uma grande naÃ§Ã£o, e estavam unidos em coraÃ§Ã£o, para que o irmÃ£o amasse o irmÃ£o, e todo homem ajudasse ao seu irmÃ£o, e cresceram abundantemente e multiplicaram-se grandemente, durante dez perÃ­odos de anos, todos os dias da vida de JosÃ©."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E nÃ£o houve SatanÃ¡s, nem qualquer mal, durante todos os dias da vida de JosÃ©, apÃ³s a morte de seu pai JacÃ³, pois todos os egÃ­pcios honravam os filhos de Israel durante todos os dias da vida de JosÃ©."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E JosÃ© morreu, tendo cem e dez anos; dezessete anos viveu na terra de CanaÃ£, e dez anos foi servo, e trÃªs anos esteve em prisÃ£o, e oitenta anos reinou sobre toda a terra do Egito."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E ele morreu, e todos os seus irmÃ£os, e toda aquela geraÃ§Ã£o."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E ele ordenou aos filhos de Israel antes de sua morte que carregassem seus ossos consigo quando saÃ­ssem da terra do Egito."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E fez-nos jurar por seus ossos, pois sabia que os egÃ­pcios nÃ£o o trariam novamente para enterrÃ¡-lo na terra de CanaÃ£."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Mas ele nÃ£o pÃ´de entrar, pois outro rei havia reinado em Egito, e era mais poderoso que ele; entÃ£o, retornou Ã terra de CanaÃ£, e as portas do Egito foram fechadas, e ninguÃ©m saiu e ninguÃ©m entrou em Egito."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E JosÃ© morreu no quadragÃ©simo sexto jubileu, na sexta semana, no segundo ano, e foi sepultado na terra do Egito; e seus irmÃ£os morreram depois dele."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E o rei do Egito foi Ã guerra contra o rei de CanaÃ£ no quadragÃ©simo sÃ©timo jubileu, na segunda semana do segundo ano, e os filhos de Israel trouxeram todos os ossos dos filhos de JacÃ³, exceto os ossos de JosÃ©, e os enterraram no campo, na caverna dupla na montanha."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E muitos deles retornaram ao Egito, mas alguns permaneceram nas montanhas de Hebrom, e Amram, teu pai, permaneceu com eles."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E o rei de CanaÃ£ prevaleceu sobre o rei do Egito, e fechou os portÃµes do Egito."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E ele maquinou um plano perverso contra os filhos de Israel, para afligi-los; e disse ao povo do Egito:"
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "Eis que o povo dos filhos de Israel aumentou e multiplicou-se mais do que nÃ³s; vinde, e ajamos com eles prudentemente, antes que se tornem demasiadamente numerosos, e afligimo-los com a servidÃ£o, antes que a guerra nos alcance, e antes que tambÃ©m lutem contra nÃ³s; pois, caso contrÃ¡rio, unir-se-Ã£o aos nossos inimigos e levantar-se-Ã£o contra nÃ³s, porque os seus coraÃ§Ãµes e as suas faces estÃ£o voltadas para a terra de CanaÃ£."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E constituiu sobre eles supervisores para os afligir com trabalhos servis; e edificarram cidades fortes para o FaraÃ³: PÃ­tom e RamsÃ©s, e edificaram todas as muralhas e todas as fortificaÃ§Ãµes que haviam ruÃ­do nas cidades do Egito."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "E obrigaram-nos a servir com severidade, e quanto mais os maltrataram, tanto mais se multiplicavam e aumentavam."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E o povo do Egito odiou os filhos de Israel."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 46,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/46",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E aconteceu que, após a morte de Jacó, os filhos de Israel multiplicaram-se na terra do Egito, tornando-se uma grande nação, e estavam unidos em coração, para que o irmão amasse o irmão, e todo homem ajudasse ao seu irmão, e cresceram abundantemente e multiplicaram-se grandemente, durante dez períodos de anos, todos os dias da vida de José."
+    },
+    {
+      "verse": 2,
+      "text": "E não houve Satanás, nem qualquer mal, durante todos os dias da vida de José, após a morte de seu pai Jacó, pois todos os egípcios honravam os filhos de Israel durante todos os dias da vida de José."
+    },
+    {
+      "verse": 3,
+      "text": "E José morreu, tendo cem e dez anos; dezessete anos viveu na terra de Canaã, e dez anos foi servo, e três anos esteve em prisão, e oitenta anos reinou sobre toda a terra do Egito."
+    },
+    {
+      "verse": 4,
+      "text": "E ele morreu, e todos os seus irmãos, e toda aquela geração."
+    },
+    {
+      "verse": 5,
+      "text": "E ele ordenou aos filhos de Israel antes de sua morte que carregassem seus ossos consigo quando saíssem da terra do Egito."
+    },
+    {
+      "verse": 6,
+      "text": "E fez-nos jurar por seus ossos, pois sabia que os egípcios não o trariam novamente para enterrá-lo na terra de Canaã."
+    },
+    {
+      "verse": 7,
+      "text": "Mas ele nÃ£o pÃ´de entrar, pois outro rei havia reinado em Egito, e era mais poderoso que ele; entÃ£o, retornou Ã terra de CanaÃ£, e as portas do Egito foram fechadas, e ninguÃ©m saiu e ninguÃ©m entrou em Egito."
+    },
+    {
+      "verse": 8,
+      "text": "E José morreu no quadragésimo sexto jubileu, na sexta semana, no segundo ano, e foi sepultado na terra do Egito; e seus irmãos morreram depois dele."
+    },
+    {
+      "verse": 9,
+      "text": "E o rei do Egito foi Ã guerra contra o rei de CanaÃ£ no quadragÃ©simo sÃ©timo jubileu, na segunda semana do segundo ano, e os filhos de Israel trouxeram todos os ossos dos filhos de JacÃ³, exceto os ossos de JosÃ©, e os enterraram no campo, na caverna dupla na montanha."
+    },
+    {
+      "verse": 10,
+      "text": "E muitos deles retornaram ao Egito, mas alguns permaneceram nas montanhas de Hebrom, e Amram, teu pai, permaneceu com eles."
+    },
+    {
+      "verse": 11,
+      "text": "E o rei de Canaã prevaleceu sobre o rei do Egito, e fechou os portões do Egito."
+    },
+    {
+      "verse": 12,
+      "text": "E ele maquinou um plano perverso contra os filhos de Israel, para afligi-los; e disse ao povo do Egito:"
+    },
+    {
+      "verse": 13,
+      "text": "Eis que o povo dos filhos de Israel aumentou e multiplicou-se mais do que nós; vinde, e ajamos com eles prudentemente, antes que se tornem demasiadamente numerosos, e afligimo-los com a servidão, antes que a guerra nos alcance, e antes que também lutem contra nós; pois, caso contrário, unir-se-ão aos nossos inimigos e levantar-se-ão contra nós, porque os seus corações e as suas faces estão voltadas para a terra de Canaã."
+    },
+    {
+      "verse": 14,
+      "text": "E constituiu sobre eles supervisores para os afligir com trabalhos servis; e edificarram cidades fortes para o Faraó: Pítom e Ramsés, e edificaram todas as muralhas e todas as fortificações que haviam ruído nas cidades do Egito."
+    },
+    {
+      "verse": 15,
+      "text": "E obrigaram-nos a servir com severidade, e quanto mais os maltrataram, tanto mais se multiplicavam e aumentavam."
+    },
+    {
+      "verse": 16,
+      "text": "E o povo do Egito odiou os filhos de Israel."
+    }
+  ]
 }

@@ -1,24 +1,24 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  28,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/28",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E dali parti para o oriente, ao meio das montanhas do deserto, e vi um ermo, que era solitÃ¡rio, cheio de Ã¡rvores e plantas."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E Ã¡gua jorrou de cima."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "AvanÃ§ando como um caudaloso rio que fluÃ­a para o noroeste, causava que nuvens e orvalho se levantassem em todas as direÃ§Ãµes."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 28,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/28",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E dali parti para o oriente, ao meio das montanhas do deserto, e vi um ermo, que era solitário, cheio de árvores e plantas."
+    },
+    {
+      "verse": 2,
+      "text": "E água jorrou de cima."
+    },
+    {
+      "verse": 3,
+      "text": "Avançando como um caudaloso rio que fluía para o noroeste, causava que nuvens e orvalho se levantassem em todas as direções."
+    }
+  ]
 }

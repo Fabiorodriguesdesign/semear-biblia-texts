@@ -1,28 +1,28 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  68,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/68",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E depois disso, meu avÃ´ Enoque transmitiu-me o conhecimento de todos os segredos contidos no livro das parÃ¡bolas, que lhe fora dado, e reuniu-os para mim nas palavras do livro das parÃ¡bolas."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E naquele dia, Miguel respondeu a Rafael e disse: \"O poder do espÃ­rito transporta-me e faz-me tremer por causa da severidade do juÃ­zo dos segredos, do juÃ­zo dos anjos; quem poderÃ¡ suportar o juÃ­zo severo que foi executado, e diante do qual eles se desvanecem?\""
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E Miguel respondeu novamente, e disse a Rafael: \"Quem Ã© aquele cujo coraÃ§Ã£o nÃ£o se amolece em relaÃ§Ã£o a isto, e cujos intestinos nÃ£o sÃ£o perturbados por esta palavra de juÃ­zo que foi proferida sobre eles por causa daqueles que os conduziram assim?\""
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E aconteceu que, estando ele diante do Senhor dos EspÃ­ritos, Miguel disse a Rafael: \"NÃ£o tomarei parte deles aos olhos do Senhor; pois o Senhor dos EspÃ­ritos tem estado irado contra eles, porque agem como se fossem o prÃ³prio Senhor. Portanto, tudo o que estÃ¡ oculto virÃ¡ sobre eles para todo o sempre; pois nem anjo nem homem terÃ¡ sua porÃ§Ã£o nisso, mas somente eles receberam seu juÃ­zo para todo o sempre.\""
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 68,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/68",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E depois disso, meu avô Enoque transmitiu-me o conhecimento de todos os segredos contidos no livro das parábolas, que lhe fora dado, e reuniu-os para mim nas palavras do livro das parábolas."
+    },
+    {
+      "verse": 2,
+      "text": "E naquele dia, Miguel respondeu a Rafael e disse: \"O poder do espírito transporta-me e faz-me tremer por causa da severidade do juízo dos segredos, do juízo dos anjos; quem poderá suportar o juízo severo que foi executado, e diante do qual eles se desvanecem?\""
+    },
+    {
+      "verse": 3,
+      "text": "E Miguel respondeu novamente, e disse a Rafael: \"Quem é aquele cujo coração não se amolece em relação a isto, e cujos intestinos não são perturbados por esta palavra de juízo que foi proferida sobre eles por causa daqueles que os conduziram assim?\""
+    },
+    {
+      "verse": 4,
+      "text": "E aconteceu que, estando ele diante do Senhor dos Espíritos, Miguel disse a Rafael: \"Não tomarei parte deles aos olhos do Senhor; pois o Senhor dos Espíritos tem estado irado contra eles, porque agem como se fossem o próprio Senhor. Portanto, tudo o que está oculto virá sobre eles para todo o sempre; pois nem anjo nem homem terá sua porção nisso, mas somente eles receberam seu juízo para todo o sempre.\""
+    }
+  ]
 }

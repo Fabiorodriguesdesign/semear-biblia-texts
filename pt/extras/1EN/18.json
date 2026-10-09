@@ -1,72 +1,72 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  18,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/18",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "Eis que vi os tesouros de todos os ventos, e compreendi como Ele havia suprido toda a criaÃ§Ã£o e os fundamentos sÃ³lidos da terra."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E eu vi a pedra angular da terra; vi os quatro ventos que sustentam a terra e o firmamento dos cÃ©us."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E eu vi como os ventos estendem as abÃ³badas dos cÃ©us, e tÃªm sua morada entre o cÃ©u e a terra: estes sÃ£o os pilares do firmamento."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Eis que vi os ventos do cÃ©u, que se movem e trazem a volta do sol e todas as estrelas ao seu lugar."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "Eis que vi os ventos sobre a terra, movendo as nuvens; e vislumbrei as vias dos anjos. E no confim da terra, contemplei o firmamento do cÃ©u."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E eu segui e vi um lugar que arde dia e noite, onde hÃ¡ sete montes de pedras magnÃ­ficas, trÃªs para o oriente e trÃªs para o sul."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E quanto aos que estavam voltados para o oriente, um era de pedra colorida, outro de madrepÃ©rola, e outro de jacinto; e os que estavam voltados para o sul eram de pedra vermelha."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "Mas o do meio estendia-se atÃ© aos cÃ©us, como o trono de Deus, feito de alabastro, e o topo do trono era de safira."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E eu vi um fogo ardente; e alÃ©m destas montanhas, hÃ¡ uma regiÃ£o, o fim da grande terra: ali os cÃ©us foram aperfeiÃ§oados."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E eu vi um abismo profundo, com colunas de fogo celeste, e entre elas vi colunas de fogo que caÃ­am, as quais eram em altura e profundidade igualmente imensas."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E alÃ©m daquele abismo, vi um lugar que nÃ£o tinha firmamento acima e nem terra firme abaixo; ali nÃ£o havia Ã¡gua, nem aves, mas era um deserto terrÃ­vel."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E eu vi ali sete estrelas, como grandes montanhas ardentes, e quando perguntei a respeito delas, me foi revelado."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "O anjo disse: \"Este lugar Ã© o fim dos cÃ©us e da terra: este tornou-se uma prisÃ£o para as estrelas e a horda celeste.\""
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E as estrelas que se movem sobre o fogo sÃ£o aquelas que transgrediram o mandamento do Senhor no princÃ­pio de sua ascensÃ£o, porque nÃ£o vieram em seus tempos determinados."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "E Ele irou-se contra eles, e os prendeu atÃ© que o tempo de sua culpa fosse cumprido, mesmo por dez mil anos."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 18,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/18",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Eis que vi os tesouros de todos os ventos, e compreendi como Ele havia suprido toda a criação e os fundamentos sólidos da terra."
+    },
+    {
+      "verse": 2,
+      "text": "E eu vi a pedra angular da terra; vi os quatro ventos que sustentam a terra e o firmamento dos céus."
+    },
+    {
+      "verse": 3,
+      "text": "E eu vi como os ventos estendem as abóbadas dos céus, e têm sua morada entre o céu e a terra: estes são os pilares do firmamento."
+    },
+    {
+      "verse": 4,
+      "text": "Eis que vi os ventos do céu, que se movem e trazem a volta do sol e todas as estrelas ao seu lugar."
+    },
+    {
+      "verse": 5,
+      "text": "Eis que vi os ventos sobre a terra, movendo as nuvens; e vislumbrei as vias dos anjos. E no confim da terra, contemplei o firmamento do céu."
+    },
+    {
+      "verse": 6,
+      "text": "E eu segui e vi um lugar que arde dia e noite, onde há sete montes de pedras magníficas, três para o oriente e três para o sul."
+    },
+    {
+      "verse": 7,
+      "text": "E quanto aos que estavam voltados para o oriente, um era de pedra colorida, outro de madrepérola, e outro de jacinto; e os que estavam voltados para o sul eram de pedra vermelha."
+    },
+    {
+      "verse": 8,
+      "text": "Mas o do meio estendia-se até aos céus, como o trono de Deus, feito de alabastro, e o topo do trono era de safira."
+    },
+    {
+      "verse": 9,
+      "text": "E eu vi um fogo ardente; e além destas montanhas, há uma região, o fim da grande terra: ali os céus foram aperfeiçoados."
+    },
+    {
+      "verse": 10,
+      "text": "E eu vi um abismo profundo, com colunas de fogo celeste, e entre elas vi colunas de fogo que caíam, as quais eram em altura e profundidade igualmente imensas."
+    },
+    {
+      "verse": 11,
+      "text": "E além daquele abismo, vi um lugar que não tinha firmamento acima e nem terra firme abaixo; ali não havia água, nem aves, mas era um deserto terrível."
+    },
+    {
+      "verse": 12,
+      "text": "E eu vi ali sete estrelas, como grandes montanhas ardentes, e quando perguntei a respeito delas, me foi revelado."
+    },
+    {
+      "verse": 13,
+      "text": "O anjo disse: \"Este lugar é o fim dos céus e da terra: este tornou-se uma prisão para as estrelas e a horda celeste.\""
+    },
+    {
+      "verse": 14,
+      "text": "E as estrelas que se movem sobre o fogo são aquelas que transgrediram o mandamento do Senhor no princípio de sua ascensão, porque não vieram em seus tempos determinados."
+    },
+    {
+      "verse": 15,
+      "text": "E Ele irou-se contra eles, e os prendeu até que o tempo de sua culpa fosse cumprido, mesmo por dez mil anos."
+    }
+  ]
 }

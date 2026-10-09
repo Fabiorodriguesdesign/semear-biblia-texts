@@ -1,24 +1,24 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  30,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/30",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E alÃ©m destes lugares, fui para longe, ao oriente, e vi outro lugar, um vale cheio de Ã¡gua."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E ali estava uma Ã¡rvore, da cor de Ã¡rvores fragrantes, como o mastraz."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E nos lados daqueles vales, vi canela de bom odor; e alÃ©m destes, segui para o oriente."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 30,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/30",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E além destes lugares, fui para longe, ao oriente, e vi outro lugar, um vale cheio de água."
+    },
+    {
+      "verse": 2,
+      "text": "E ali estava uma árvore, da cor de árvores fragrantes, como o mastraz."
+    },
+    {
+      "verse": 3,
+      "text": "E nos lados daqueles vales, vi canela de bom odor; e além destes, segui para o oriente."
+    }
+  ]
 }

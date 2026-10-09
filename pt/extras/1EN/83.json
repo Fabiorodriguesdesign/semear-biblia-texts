@@ -1,56 +1,56 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  83,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/83",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E agora, meu filho MatusalÃ©m, eu te mostrarei todas as minhas visÃµes que vi, e as relatarei diante de ti."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "Dois vislumbres eu tive antes de tomar uma esposa, e um era muito diferente do outro: o primeiro quando aprendia a escrever; o segundo antes de tomar tua mÃ£e, quando vi uma visÃ£o terrÃ­vel. E sobre eles, orei ao Senhor."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E eu estava deitado na casa de meu avÃ´ Maalaleel, quando vi em visÃ£o como os cÃ©us se desvaneceram e foram levados, caindo sobre a terra."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E quando este caiu sobre a terra, vi como a terra era engolida por um grande abismo, e montanhas pairavam sobre montanhas, e colinas afundavam sobre colinas, e Ã¡rvores altas eram arrancadas de seus caules, lanÃ§adas ao chÃ£o e afogadas no abismo."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E eis que uma palavra me foi dada, e levantei a minha voz para clamar em alta voz, dizendo: \"A terra Ã© destruÃ­da\"."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E meu avÃ´ Maalaleel despertou-me quando eu jazia prÃ³ximo a ele, e disse-me: \"Por que choras tanto, meu filho, e por que fazes tanta lamentaÃ§Ã£o?\"."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E relatei-lhe toda a visÃ£o que vira, e ele disse-me: \"Coisa terrÃ­vel viste, meu filho, e grave Ã© a tua visÃ£o onÃ­rica, pois revela os segredos de todo o pecado da terra; ela deve afundar no abismo e ser destruÃ­da com grande devastaÃ§Ã£o.\""
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E agora, filho meu, levanta-te e suplica ao Senhor da glÃ³ria, pois Ã©s um crente, para que haja remanescente na terra, e para que Ele nÃ£o destrua toda a terra."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "Filho meu, de Deus virÃ¡ sobre a terra tudo isto, e na terra haverÃ¡ grande destruiÃ§Ã£o."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "ApÃ³s isso, levantei-me e orei, supliquei e rogai, e escrevi a minha oraÃ§Ã£o para as geraÃ§Ãµes do mundo, e tudo vos mostrarei, meu filho MatusalÃ©m."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E quando desci ao reino inferior e vislumbrei o cÃ©u, e o sol nascendo a leste, e a lua se pondo a oeste, e algumas estrelas, e toda a terra, tudo como Ele havia conhecido desde o princÃ­pio, entÃ£o bendissei o Senhor de justiÃ§a e o exaltava, porque Ele havia feito que o sol saÃ­sse pelas janelas do oriente, e ele ascendesse e se elevasse na face dos cÃ©us, e partisse e continuasse a percorrer o caminho lhe mostrado."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 83,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/83",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E agora, meu filho Matusalém, eu te mostrarei todas as minhas visões que vi, e as relatarei diante de ti."
+    },
+    {
+      "verse": 2,
+      "text": "Dois vislumbres eu tive antes de tomar uma esposa, e um era muito diferente do outro: o primeiro quando aprendia a escrever; o segundo antes de tomar tua mãe, quando vi uma visão terrível. E sobre eles, orei ao Senhor."
+    },
+    {
+      "verse": 3,
+      "text": "E eu estava deitado na casa de meu avô Maalaleel, quando vi em visão como os céus se desvaneceram e foram levados, caindo sobre a terra."
+    },
+    {
+      "verse": 4,
+      "text": "E quando este caiu sobre a terra, vi como a terra era engolida por um grande abismo, e montanhas pairavam sobre montanhas, e colinas afundavam sobre colinas, e árvores altas eram arrancadas de seus caules, lançadas ao chão e afogadas no abismo."
+    },
+    {
+      "verse": 5,
+      "text": "E eis que uma palavra me foi dada, e levantei a minha voz para clamar em alta voz, dizendo: \"A terra é destruída\"."
+    },
+    {
+      "verse": 6,
+      "text": "E meu avô Maalaleel despertou-me quando eu jazia próximo a ele, e disse-me: \"Por que choras tanto, meu filho, e por que fazes tanta lamentação?\"."
+    },
+    {
+      "verse": 7,
+      "text": "E relatei-lhe toda a visão que vira, e ele disse-me: \"Coisa terrível viste, meu filho, e grave é a tua visão onírica, pois revela os segredos de todo o pecado da terra; ela deve afundar no abismo e ser destruída com grande devastação.\""
+    },
+    {
+      "verse": 8,
+      "text": "E agora, filho meu, levanta-te e suplica ao Senhor da glória, pois és um crente, para que haja remanescente na terra, e para que Ele não destrua toda a terra."
+    },
+    {
+      "verse": 9,
+      "text": "Filho meu, de Deus virá sobre a terra tudo isto, e na terra haverá grande destruição."
+    },
+    {
+      "verse": 10,
+      "text": "Após isso, levantei-me e orei, supliquei e rogai, e escrevi a minha oração para as gerações do mundo, e tudo vos mostrarei, meu filho Matusalém."
+    },
+    {
+      "verse": 11,
+      "text": "E quando desci ao reino inferior e vislumbrei o céu, e o sol nascendo a leste, e a lua se pondo a oeste, e algumas estrelas, e toda a terra, tudo como Ele havia conhecido desde o princípio, então bendissei o Senhor de justiça e o exaltava, porque Ele havia feito que o sol saísse pelas janelas do oriente, e ele ascendesse e se elevasse na face dos céus, e partisse e continuasse a percorrer o caminho lhe mostrado."
+    }
+  ]
 }

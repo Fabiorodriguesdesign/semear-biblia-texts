@@ -1,144 +1,144 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  2,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/2",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E o anjo da presenÃ§a falou a MoisÃ©s segundo a palavra do Senhor, dizendo: Escreve a histÃ³ria completa da criaÃ§Ã£o, como em seis dias o Senhor Deus completou todas as Suas obras e tudo que Ele criou, e guardou o sÃ¡bado no sÃ©timo dia, santificando-o para todos os tempos, e estabelecendo-o como sinal de todas as Suas obras."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "No princÃ­pio, Ele criou os cÃ©us que estÃ£o acima e a terra e as Ã¡guas, e todos os espÃ­ritos que servem diante d\u0027Ele: os anjos da presenÃ§a, os anjos da santificaÃ§Ã£o, os anjos do espÃ­rito de fogo e os anjos do espÃ­rito dos ventos, os anjos do espÃ­rito das nuvens, da escuridÃ£o, da neve e do granizo, do orvalho, os anjos das vozes, do trovÃ£o e do relÃ¢mpago, os anjos dos espÃ­ritos do frio e do calor, do inverno e da primavera, do outono e do verÃ£o, e de todos os espÃ­ritos de suas criaturas que estÃ£o nos cÃ©us e na terra; Ele criou os abismos e a escuridÃ£o, o crepÃºsculo (e a noite), e a luz, a aurora e o dia, que Ele preparou no conhecimento de seu coraÃ§Ã£o."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E entÃ£o vimos as Suas obras, e louvamos-Lhe, e exaltÃ¡mos perante Ele por todas as Suas obras; pois sete grandes obras Ele criou no primeiro dia."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E no segundo dia, Ele formou o firmamento em meio Ã s Ã¡guas, e as Ã¡guas foram divididas; metade subiu acima e metade desceu abaixo do firmamento, que estava em meio ao cÃ©u sobre a face de toda a terra. E esta foi a Ãºnica obra que Deus criou no segundo dia."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E no terceiro dia, Ele ordenou que as Ã¡guas se afastassem da superfÃ­cie de toda a terra e se retirassem para um Ãºnico lugar, para que a terra seca aparecesse."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E as Ã¡guas fizeram conforme Ele ordenou, e retiraram-se da superfÃ­cie da terra para um lugar sÃ³, fora deste firmamento, e a terra seca apareceu."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E naquele dia, Ele criou para eles todos os mares, segundo seus prÃ³prios lugares de reuniÃ£o, e todos os rios, e as reuniÃµes das Ã¡guas nas montanhas e em toda a terra, e todos os lagos, e todo o orvalho da terra, e a semente que Ã© semeada, e todas as plantas que brotam, e Ã¡rvores frutÃ­feras, e Ã¡rvores do bosque, e o jardim do Ãden, no Ãden, e todas as plantas, cada qual segundo a sua espÃ©cie. Estas quatro grandes obras Deus criou no terceiro dia."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E no quarto dia, Ele criou o sol e a lua e as estrelas, e os estabeleceu no firmamento dos cÃ©us, para dar luz sobre toda a terra, e governar sobre o dia e a noite, e separar a luz das trevas."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E Deus estabeleceu o sol como um sinal notÃ¡vel na terra, para os dias, para os sÃ¡bados, para os meses, para as festas, para os anos, para os sÃ¡bados dos anos e para os jubilares, e para todas as estaÃ§Ãµes do ano."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E Ele separou a luz das trevas, e para a prosperidade, para que tudo o que brota e cresce na terra prospere. Estes trÃªs tipos foram feitos no quarto dia."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E no quinto dia, Ele criou grandes monstros marinhos nas profundezas das Ã¡guas, pois estas foram as primeiras criaturas de carne que foram criadas por Suas mÃ£os, os peixes e tudo o que se move nas Ã¡guas, e tudo o que voa, as aves e toda a sua geraÃ§Ã£o."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E o sol surgiu sobre eles para lhes trazer prosperidade, e sobre tudo que estava na terra, sobre toda a planta que brota da terra, sobre todas as Ã¡rvores frutÃ­feras e sobre todo ser vivente. Estes trÃªs gÃªneros foram criados no quinto dia."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E no sexto dia, Ele criou todos os animais da terra, e todo o gado, e tudo que se move sobre a terra."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E apÃ³s tudo isto, Ele criou o homem; homem e mulher os criou, e lhes deu domÃ­nio sobre todas as coisas da terra, e sobre os mares, e sobre todas as aves que voam, e sobre os animais selvagens, e sobre o gado, e sobre todo animal que se move na terra, e sobre toda a terra; e sobre tudo isto Ele lhes deu domÃ­nio. E estes quatro seres foram criados no sexto dia."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "E havia, no total, vinte e duas espÃ©cies."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E Ele consumou toda a Sua obra no sexto dia, tudo o que hÃ¡ nos cÃ©us e na terra, e nos mares e nas profundezas, e na luz e na escuridÃ£o, e em todas as coisas."
-                   },
-                   {
-                       "verse":  17,
-                       "text":  "E Ele nos deu um grande sinal, o sÃ¡bado, para que trabalhassemos seis dias, mas observÃ¡ssemos o sÃ¡bado, o sÃ©timo dia, abstendo-nos de toda a obra."
-                   },
-                   {
-                       "verse":  18,
-                       "text":  "E todos os anjos da presenÃ§a, e todos os anjos da santificaÃ§Ã£o, estas duas grandes classes: Ele nos ocultou para que observÃ¡ssemos o sÃ¡bado com Ele no cÃ©u e na terra."
-                   },
-                   {
-                       "verse":  19,
-                       "text":  "E Ele disse a nÃ³s: \"Vede, Eu separarei para Mim um povo dentre todos os povos, e estes guardarÃ£o o sÃ¡bado, e Eu os santificarei para Mim como Meu povo, e os abenÃ§oarei; assim como Eu santifiquei o sÃ¡bado e o santifico para Mim mesmo, de igual maneira Eu os abenÃ§oarei, e eles serÃ£o Meu povo e Eu serei seu Deus.\""
-                   },
-                   {
-                       "verse":  20,
-                       "text":  "E eu escolhi a linhagem de JacÃ³ dentre todos aqueles que vi, e o escrevi como meu primogÃªnito, santificando-o para mim desde sempre; e ensinarei a eles o dia do sÃ¡bado, para que observem o sÃ¡bado, abstendo-se de todo trabalho."
-                   },
-                   {
-                       "verse":  21,
-                       "text":  "E assim Ele estabeleceu ali um sinal, segundo o qual eles deveriam guardar o sÃ¡bado conosco no sÃ©timo dia, para comer e beber, e para abenÃ§oar Aquele que criou todas as coisas, como Ele abenÃ§oou e santificou para si um povo especial entre todos os povos, e que eles deveriam guardar o sÃ¡bado juntos conosco."
-                   },
-                   {
-                       "verse":  22,
-                       "text":  "E Ele fez que seus mandamentos subissem como um suave aroma, aceitÃ¡vel perante Ele todos os dias..."
-                   },
-                   {
-                       "verse":  23,
-                       "text":  "Houve vinte e duas geraÃ§Ãµes da linhagem de AdÃ£o atÃ© JacÃ³, e vinte e duas espÃ©cies de trabalho foram realizadas atÃ© o sÃ©timo dia; este Ã© abenÃ§oado e santo; e tambÃ©m aquele anterior Ã© abenÃ§oado e santo; e este serve com aquele para a santificaÃ§Ã£o e a bÃªnÃ§Ã£o."
-                   },
-                   {
-                       "verse":  24,
-                       "text":  "E a este povo (JacÃ³ e sua descendÃªncia) foi concedido que sempre fossem os benditos e santos da primeira alianÃ§a e lei, assim como Ele santificou e abenÃ§oou o sÃ¡bado no sÃ©timo dia."
-                   },
-                   {
-                       "verse":  25,
-                       "text":  "Ele criou os cÃ©us e a terra, e tudo o que neles hÃ¡, em seis dias; e Deus santificou o sÃ©timo dia, pois em nele repousou de toda a obra que havia feito; portanto, ordenou que todo aquele que fizer qualquer trabalho nele morrerÃ¡."
-                   },
-                   {
-                       "verse":  26,
-                       "text":  "Por que ordenas aos filhos de Israel observar este dia para que o conservem santo e nele nÃ£o faÃ§am obra alguma, nem o profanem, visto que Ã© mais santo do que todos os outros dias?"
-                   },
-                   {
-                       "verse":  27,
-                       "text":  "E todo aquele que o profanar certamente morrerÃ¡, e quem quer que ali realize qualquer trabalho certamente morrerÃ¡ para sempre, para que os filhos de Israel observem este dia por todas as suas geraÃ§Ãµes, e nÃ£o sejam arrancados da terra; pois Ã© um dia santo e um dia abenÃ§oado."
-                   },
-                   {
-                       "verse":  28,
-                       "text":  "E todo aquele que o observar e guardar o sÃ¡bado nele, abstendo-se de toda a sua obra, serÃ¡ santo e abenÃ§oado em todos os seus dias, assim como nÃ³s."
-                   },
-                   {
-                       "verse":  29,
-                       "text":  "Anunciai e dizei aos filhos de Israel a lei deste dia, para que observem o sÃ¡bado nele, e nÃ£o o abandonem pela ilusÃ£o dos seus coraÃ§Ãµes; e que nÃ£o Ã© lÃ­cito fazer ali nenhuma obra indigna, nem praticar ali os seus prÃ³prios prazeres, e que nÃ£o preparem ali nada para comer ou beber, e que nÃ£o tirem Ã¡gua, nem tragam ou retirem por entre os seus portÃµes qualquer fardo, que nÃ£o tivessem preparado para si no sexto dia em suas casas."
-                   },
-                   {
-                       "verse":  30,
-                       "text":  "E eles nÃ£o trarÃ£o nem tirarÃ£o de casa em casa naquele dia, porque aquele dia Ã© mais santo e abenÃ§oado do que qualquer ano de jubileu: neste sÃ¡bado celebramos nos cÃ©us antes que fosse revelado a qualquer criatura guardar o sÃ¡bado na terra."
-                   },
-                   {
-                       "verse":  31,
-                       "text":  "E o Criador de todas as coisas abenÃ§oou-o, mas nÃ£o santificou todos os povos e naÃ§Ãµes para guardar o sÃ¡bado nele, mas somente Israel: a eles somente permitiu comer e beber e guardar o sÃ¡bado sobre a terra."
-                   },
-                   {
-                       "verse":  32,
-                       "text":  "E o Criador de todas as coisas abenÃ§oou este dia que Ele havia criado para ser uma bÃªnÃ§Ã£o, uma santificaÃ§Ã£o e uma glÃ³ria acima de todos os dias."
-                   },
-                   {
-                       "verse":  33,
-                       "text":  "Esta lei e este testemunho foram dados aos filhos de Israel como uma lei para todo o tempo, atÃ© Ã s suas geraÃ§Ãµes."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 2,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/2",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E o anjo da presença falou a Moisés segundo a palavra do Senhor, dizendo: Escreve a história completa da criação, como em seis dias o Senhor Deus completou todas as Suas obras e tudo que Ele criou, e guardou o sábado no sétimo dia, santificando-o para todos os tempos, e estabelecendo-o como sinal de todas as Suas obras."
+    },
+    {
+      "verse": 2,
+      "text": "No princípio, Ele criou os céus que estão acima e a terra e as águas, e todos os espíritos que servem diante d'Ele: os anjos da presença, os anjos da santificação, os anjos do espírito de fogo e os anjos do espírito dos ventos, os anjos do espírito das nuvens, da escuridão, da neve e do granizo, do orvalho, os anjos das vozes, do trovão e do relâmpago, os anjos dos espíritos do frio e do calor, do inverno e da primavera, do outono e do verão, e de todos os espíritos de suas criaturas que estão nos céus e na terra; Ele criou os abismos e a escuridão, o crepúsculo (e a noite), e a luz, a aurora e o dia, que Ele preparou no conhecimento de seu coração."
+    },
+    {
+      "verse": 3,
+      "text": "E então vimos as Suas obras, e louvamos-Lhe, e exaltámos perante Ele por todas as Suas obras; pois sete grandes obras Ele criou no primeiro dia."
+    },
+    {
+      "verse": 4,
+      "text": "E no segundo dia, Ele formou o firmamento em meio Ã s Ã¡guas, e as Ã¡guas foram divididas; metade subiu acima e metade desceu abaixo do firmamento, que estava em meio ao cÃ©u sobre a face de toda a terra. E esta foi a Ãºnica obra que Deus criou no segundo dia."
+    },
+    {
+      "verse": 5,
+      "text": "E no terceiro dia, Ele ordenou que as águas se afastassem da superfície de toda a terra e se retirassem para um único lugar, para que a terra seca aparecesse."
+    },
+    {
+      "verse": 6,
+      "text": "E as águas fizeram conforme Ele ordenou, e retiraram-se da superfície da terra para um lugar só, fora deste firmamento, e a terra seca apareceu."
+    },
+    {
+      "verse": 7,
+      "text": "E naquele dia, Ele criou para eles todos os mares, segundo seus próprios lugares de reunião, e todos os rios, e as reuniões das águas nas montanhas e em toda a terra, e todos os lagos, e todo o orvalho da terra, e a semente que é semeada, e todas as plantas que brotam, e árvores frutíferas, e árvores do bosque, e o jardim do Éden, no Éden, e todas as plantas, cada qual segundo a sua espécie. Estas quatro grandes obras Deus criou no terceiro dia."
+    },
+    {
+      "verse": 8,
+      "text": "E no quarto dia, Ele criou o sol e a lua e as estrelas, e os estabeleceu no firmamento dos céus, para dar luz sobre toda a terra, e governar sobre o dia e a noite, e separar a luz das trevas."
+    },
+    {
+      "verse": 9,
+      "text": "E Deus estabeleceu o sol como um sinal notável na terra, para os dias, para os sábados, para os meses, para as festas, para os anos, para os sábados dos anos e para os jubilares, e para todas as estações do ano."
+    },
+    {
+      "verse": 10,
+      "text": "E Ele separou a luz das trevas, e para a prosperidade, para que tudo o que brota e cresce na terra prospere. Estes três tipos foram feitos no quarto dia."
+    },
+    {
+      "verse": 11,
+      "text": "E no quinto dia, Ele criou grandes monstros marinhos nas profundezas das águas, pois estas foram as primeiras criaturas de carne que foram criadas por Suas mãos, os peixes e tudo o que se move nas águas, e tudo o que voa, as aves e toda a sua geração."
+    },
+    {
+      "verse": 12,
+      "text": "E o sol surgiu sobre eles para lhes trazer prosperidade, e sobre tudo que estava na terra, sobre toda a planta que brota da terra, sobre todas as árvores frutíferas e sobre todo ser vivente. Estes três gêneros foram criados no quinto dia."
+    },
+    {
+      "verse": 13,
+      "text": "E no sexto dia, Ele criou todos os animais da terra, e todo o gado, e tudo que se move sobre a terra."
+    },
+    {
+      "verse": 14,
+      "text": "E após tudo isto, Ele criou o homem; homem e mulher os criou, e lhes deu domínio sobre todas as coisas da terra, e sobre os mares, e sobre todas as aves que voam, e sobre os animais selvagens, e sobre o gado, e sobre todo animal que se move na terra, e sobre toda a terra; e sobre tudo isto Ele lhes deu domínio. E estes quatro seres foram criados no sexto dia."
+    },
+    {
+      "verse": 15,
+      "text": "E havia, no total, vinte e duas espécies."
+    },
+    {
+      "verse": 16,
+      "text": "E Ele consumou toda a Sua obra no sexto dia, tudo o que há nos céus e na terra, e nos mares e nas profundezas, e na luz e na escuridão, e em todas as coisas."
+    },
+    {
+      "verse": 17,
+      "text": "E Ele nos deu um grande sinal, o sábado, para que trabalhassemos seis dias, mas observássemos o sábado, o sétimo dia, abstendo-nos de toda a obra."
+    },
+    {
+      "verse": 18,
+      "text": "E todos os anjos da presença, e todos os anjos da santificação, estas duas grandes classes: Ele nos ocultou para que observássemos o sábado com Ele no céu e na terra."
+    },
+    {
+      "verse": 19,
+      "text": "E Ele disse a nós: \"Vede, Eu separarei para Mim um povo dentre todos os povos, e estes guardarão o sábado, e Eu os santificarei para Mim como Meu povo, e os abençoarei; assim como Eu santifiquei o sábado e o santifico para Mim mesmo, de igual maneira Eu os abençoarei, e eles serão Meu povo e Eu serei seu Deus.\""
+    },
+    {
+      "verse": 20,
+      "text": "E eu escolhi a linhagem de Jacó dentre todos aqueles que vi, e o escrevi como meu primogênito, santificando-o para mim desde sempre; e ensinarei a eles o dia do sábado, para que observem o sábado, abstendo-se de todo trabalho."
+    },
+    {
+      "verse": 21,
+      "text": "E assim Ele estabeleceu ali um sinal, segundo o qual eles deveriam guardar o sábado conosco no sétimo dia, para comer e beber, e para abençoar Aquele que criou todas as coisas, como Ele abençoou e santificou para si um povo especial entre todos os povos, e que eles deveriam guardar o sábado juntos conosco."
+    },
+    {
+      "verse": 22,
+      "text": "E Ele fez que seus mandamentos subissem como um suave aroma, aceitável perante Ele todos os dias..."
+    },
+    {
+      "verse": 23,
+      "text": "Houve vinte e duas gerações da linhagem de Adão até Jacó, e vinte e duas espécies de trabalho foram realizadas até o sétimo dia; este é abençoado e santo; e também aquele anterior é abençoado e santo; e este serve com aquele para a santificação e a bênção."
+    },
+    {
+      "verse": 24,
+      "text": "E a este povo (Jacó e sua descendência) foi concedido que sempre fossem os benditos e santos da primeira aliança e lei, assim como Ele santificou e abençoou o sábado no sétimo dia."
+    },
+    {
+      "verse": 25,
+      "text": "Ele criou os céus e a terra, e tudo o que neles há, em seis dias; e Deus santificou o sétimo dia, pois em nele repousou de toda a obra que havia feito; portanto, ordenou que todo aquele que fizer qualquer trabalho nele morrerá."
+    },
+    {
+      "verse": 26,
+      "text": "Por que ordenas aos filhos de Israel observar este dia para que o conservem santo e nele não façam obra alguma, nem o profanem, visto que é mais santo do que todos os outros dias?"
+    },
+    {
+      "verse": 27,
+      "text": "E todo aquele que o profanar certamente morrerá, e quem quer que ali realize qualquer trabalho certamente morrerá para sempre, para que os filhos de Israel observem este dia por todas as suas gerações, e não sejam arrancados da terra; pois é um dia santo e um dia abençoado."
+    },
+    {
+      "verse": 28,
+      "text": "E todo aquele que o observar e guardar o sábado nele, abstendo-se de toda a sua obra, será santo e abençoado em todos os seus dias, assim como nós."
+    },
+    {
+      "verse": 29,
+      "text": "Anunciai e dizei aos filhos de Israel a lei deste dia, para que observem o sábado nele, e não o abandonem pela ilusão dos seus corações; e que não é lícito fazer ali nenhuma obra indigna, nem praticar ali os seus próprios prazeres, e que não preparem ali nada para comer ou beber, e que não tirem água, nem tragam ou retirem por entre os seus portões qualquer fardo, que não tivessem preparado para si no sexto dia em suas casas."
+    },
+    {
+      "verse": 30,
+      "text": "E eles não trarão nem tirarão de casa em casa naquele dia, porque aquele dia é mais santo e abençoado do que qualquer ano de jubileu: neste sábado celebramos nos céus antes que fosse revelado a qualquer criatura guardar o sábado na terra."
+    },
+    {
+      "verse": 31,
+      "text": "E o Criador de todas as coisas abençoou-o, mas não santificou todos os povos e nações para guardar o sábado nele, mas somente Israel: a eles somente permitiu comer e beber e guardar o sábado sobre a terra."
+    },
+    {
+      "verse": 32,
+      "text": "E o Criador de todas as coisas abençoou este dia que Ele havia criado para ser uma bênção, uma santificação e uma glória acima de todos os dias."
+    },
+    {
+      "verse": 33,
+      "text": "Esta lei e este testemunho foram dados aos filhos de Israel como uma lei para todo o tempo, atÃ© Ã s suas geraÃ§Ãµes."
+    }
+  ]
 }

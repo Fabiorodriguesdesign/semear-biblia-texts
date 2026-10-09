@@ -1,16 +1,16 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  44,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/44",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E tambÃ©m observei outro fenÃ´meno acerca dos relÃ¢mpagos: como certas estrelas surgem e se tornam relÃ¢mpagos, e nÃ£o podem desapegar-se de sua nova forma."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 44,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/44",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E também observei outro fenômeno acerca dos relâmpagos: como certas estrelas surgem e se tornam relâmpagos, e não podem desapegar-se de sua nova forma."
+    }
+  ]
 }

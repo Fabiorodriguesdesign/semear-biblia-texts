@@ -1,88 +1,88 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  18,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/18",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E Deus lhe disse: \"AbraÃ£o, AbraÃ£o\"; e ele respondeu: \"Estou aqui\"."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E disse: Toma teu filho, Isaque, aquele que amas, e vai Ã terra alta, e oferece-o em um dos montes que eu te indicarei."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E ele se levantou de madrugada, selou a jumenta, tomou consigo dois dos seus jovens e Isaque, seu filho, preparou a lenha para o holocausto, e foi ao lugar; e viu-o Ã distÃ¢ncia."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E ele chegou a um poÃ§o de Ã¡gua, e disse aos seus jovens: \"Permanecei aqui com o jumento, e eu e o menino iremos ali; quando tivermos adorado, voltaremos para vÃ³s.\""
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E ele tomou a lenha para o holocausto e a colocou sobre Isaque, seu filho; e ele pegou fogo no altar e uma faca, e ambos foram juntos atÃ© aquele lugar."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E Isaque disse a seu pai: \"Pai\"; e ele respondeu: \"Estou aqui, meu filho\". E Isaque perguntou: \"Eis o fogo, eis a faca, eis a lenha; mas onde estÃ¡ o cordeiro para o holocausto, pai?\""
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E ele disse: \"Deus proverÃ¡ um cordeiro para o holocausto, meu filho\". E eles se aproximaram do lugar que estava junto ao monte de Deus."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E ele edificou um altar, e pÃ´s a lenha sobre o altar, e atou Isaque, seu filho, e o colocou sobre a lenha que estava sobre o altar, e estendeu sua mÃ£o para tomar a faca, a fim de imolar Isaque, seu filho."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E eu estava diante dele, e perante o prÃ­ncipe dos Mastema, e o Senhor disse: \"Dizei-lhe que nÃ£o ponha a sua mÃ£o sobre o jovem, nem faÃ§a nada contra ele, pois eu mostrei que ele teme ao Senhor.\""
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E eu chamei-o do cÃ©u, e disse-lhe: \"AbraÃ£o, AbraÃ£o\"; e ele temeu, e disse: \"Eis que estou aqui\"."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E eu lhe disse: \"NÃ£o estendas tua mÃ£o contra o menino, nem faÃ§as nada a ele; pois agora vejo que temes a face do Senhor, por nÃ£o ter retido de mim teu filho, primogÃªnito.\""
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E o prÃ­ncipe dos Mastema foi envergonhado; e AbraÃ£o levantou os olhos e viu, e eis que um Ãºnico carneiro estava preso pelos seus chifres, e AbraÃ£o foi e tomou o carneiro e o ofereceu em holocausto no lugar de seu filho."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E AbraÃ£o chamou aquele lugar \"O Senhor viu\", para que se diga: \"(Na montanha) o Senhor viu\"; e este Ã© o Monte SiÃ£o."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E o Senhor chamou a AbraÃ£o pelo seu nome uma segunda vez do cÃ©u, como Ele nos fez aparecer para falar com ele em nome do Senhor."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "E Ele disse: \"Jurei por Mim mesmo\", diz o Senhor, \"porque fizeste esta coisa, e nÃ£o retiveste de Mim teu filho, teu amado filho, que Eu te abenÃ§oarei grandemente, e multiplicarei a tua semente como as estrelas do cÃ©u e como a areia da praia; e a tua semente herdarÃ¡ as cidades dos seus inimigos.\""
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E em tua descendÃªncia todas as naÃ§Ãµes da terra serÃ£o abenÃ§oadas; porque obedeceste Ã minha voz, e eu mostrei a todos que Ã©s fiel para comigo em tudo o que te disse: vai em paz."
-                   },
-                   {
-                       "verse":  17,
-                       "text":  "E AbraÃ£o foi aos seus jovens, e estes se levantaram e foram com ele atÃ© Berseba; e AbraÃ£o habitou junto ao PoÃ§o do Juramento."
-                   },
-                   {
-                       "verse":  18,
-                       "text":  "E ele celebrava este festim todo ano, por sete dias com alegria, e o chamava de festa do Senhor, segundo os sete dias em que ele foi e retornou em paz."
-                   },
-                   {
-                       "verse":  19,
-                       "text":  "E assim foi ordenado e escrito nos cÃ©us, acerca de Israel e da sua descendÃªncia, que observassem esta festa por sete dias com alegria."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 18,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/18",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E Deus lhe disse: \"Abraão, Abraão\"; e ele respondeu: \"Estou aqui\"."
+    },
+    {
+      "verse": 2,
+      "text": "E disse: Toma teu filho, Isaque, aquele que amas, e vai Ã terra alta, e oferece-o em um dos montes que eu te indicarei."
+    },
+    {
+      "verse": 3,
+      "text": "E ele se levantou de madrugada, selou a jumenta, tomou consigo dois dos seus jovens e Isaque, seu filho, preparou a lenha para o holocausto, e foi ao lugar; e viu-o Ã distÃ¢ncia."
+    },
+    {
+      "verse": 4,
+      "text": "E ele chegou a um poço de água, e disse aos seus jovens: \"Permanecei aqui com o jumento, e eu e o menino iremos ali; quando tivermos adorado, voltaremos para vós.\""
+    },
+    {
+      "verse": 5,
+      "text": "E ele tomou a lenha para o holocausto e a colocou sobre Isaque, seu filho; e ele pegou fogo no altar e uma faca, e ambos foram juntos até aquele lugar."
+    },
+    {
+      "verse": 6,
+      "text": "E Isaque disse a seu pai: \"Pai\"; e ele respondeu: \"Estou aqui, meu filho\". E Isaque perguntou: \"Eis o fogo, eis a faca, eis a lenha; mas onde está o cordeiro para o holocausto, pai?\""
+    },
+    {
+      "verse": 7,
+      "text": "E ele disse: \"Deus proverá um cordeiro para o holocausto, meu filho\". E eles se aproximaram do lugar que estava junto ao monte de Deus."
+    },
+    {
+      "verse": 8,
+      "text": "E ele edificou um altar, e pôs a lenha sobre o altar, e atou Isaque, seu filho, e o colocou sobre a lenha que estava sobre o altar, e estendeu sua mão para tomar a faca, a fim de imolar Isaque, seu filho."
+    },
+    {
+      "verse": 9,
+      "text": "E eu estava diante dele, e perante o príncipe dos Mastema, e o Senhor disse: \"Dizei-lhe que não ponha a sua mão sobre o jovem, nem faça nada contra ele, pois eu mostrei que ele teme ao Senhor.\""
+    },
+    {
+      "verse": 10,
+      "text": "E eu chamei-o do céu, e disse-lhe: \"Abraão, Abraão\"; e ele temeu, e disse: \"Eis que estou aqui\"."
+    },
+    {
+      "verse": 11,
+      "text": "E eu lhe disse: \"Não estendas tua mão contra o menino, nem faças nada a ele; pois agora vejo que temes a face do Senhor, por não ter retido de mim teu filho, primogênito.\""
+    },
+    {
+      "verse": 12,
+      "text": "E o príncipe dos Mastema foi envergonhado; e Abraão levantou os olhos e viu, e eis que um único carneiro estava preso pelos seus chifres, e Abraão foi e tomou o carneiro e o ofereceu em holocausto no lugar de seu filho."
+    },
+    {
+      "verse": 13,
+      "text": "E Abraão chamou aquele lugar \"O Senhor viu\", para que se diga: \"(Na montanha) o Senhor viu\"; e este é o Monte Sião."
+    },
+    {
+      "verse": 14,
+      "text": "E o Senhor chamou a Abraão pelo seu nome uma segunda vez do céu, como Ele nos fez aparecer para falar com ele em nome do Senhor."
+    },
+    {
+      "verse": 15,
+      "text": "E Ele disse: \"Jurei por Mim mesmo\", diz o Senhor, \"porque fizeste esta coisa, e não retiveste de Mim teu filho, teu amado filho, que Eu te abençoarei grandemente, e multiplicarei a tua semente como as estrelas do céu e como a areia da praia; e a tua semente herdará as cidades dos seus inimigos.\""
+    },
+    {
+      "verse": 16,
+      "text": "E em tua descendÃªncia todas as naÃ§Ãµes da terra serÃ£o abenÃ§oadas; porque obedeceste Ã minha voz, e eu mostrei a todos que Ã©s fiel para comigo em tudo o que te disse: vai em paz."
+    },
+    {
+      "verse": 17,
+      "text": "E Abraão foi aos seus jovens, e estes se levantaram e foram com ele até Berseba; e Abraão habitou junto ao Poço do Juramento."
+    },
+    {
+      "verse": 18,
+      "text": "E ele celebrava este festim todo ano, por sete dias com alegria, e o chamava de festa do Senhor, segundo os sete dias em que ele foi e retornou em paz."
+    },
+    {
+      "verse": 19,
+      "text": "E assim foi ordenado e escrito nos céus, acerca de Israel e da sua descendência, que observassem esta festa por sete dias com alegria."
+    }
+  ]
 }

@@ -1,48 +1,48 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  5,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/5",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "Observai como as Ã¡rvores se cobrem de folhas verdes e frutificam; portanto, prestai atenÃ§Ã£o e conhecereis todas as Suas obras, e reconhecereis como Aquele que vive para sempre as fez assim."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E todas as Suas obras prosseguem assim, ano apÃ³s ano, para todo o sempre; e todas as tarefas que executam para Ele, e suas tarefas nÃ£o se alteram, mas conforme Deus ordenou, assim Ã© feito."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E vede como o mar e os rios, da mesma maneira, cumprem e nÃ£o alteram a sua funÃ§Ã£o, segundo os mandamentos de Deus."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Mas vÃ³s nÃ£o fostes firmes, nem praticastes os mandamentos do Senhor; antes, desviastes-vos e proferistes palavras orgulhosas e impuras contra a Sua grandeza. Ã vÃ³s de coraÃ§Ã£o endurecido, nÃ£o encontrareis paz."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "Portanto, amaldiÃ§oareis vossos dias, e os anos de vossa vida perecerÃ£o, e os anos da vossa destruiÃ§Ã£o serÃ£o multiplicados em eterna maldiÃ§Ã£o, e nÃ£o encontrareis misericÃ³rdia."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "Naqueles dias, vÃ³s fareis que os vossos nomes sejam uma eterna abominaÃ§Ã£o para todos os justos; e por vÃ³s, todos aqueles que amaldiÃ§oarem, amaldiÃ§oarÃ£o; e todos os pecadores e Ã­mpios vos imprecariam; e para vÃ³s haverÃ¡ uma maldiÃ§Ã£o entre os Ã­mpios. E todos... se alegrarÃ£o; e haverÃ¡ perdÃ£o dos pecados; e toda misericÃ³rdia e paz e longanimidade: haverÃ¡ salvaÃ§Ã£o para eles, uma luz formosa. Mas para todos vÃ³s, pecadores, nÃ£o haverÃ¡ salvaÃ§Ã£o, mas sobre vÃ³s permanecerÃ¡ uma maldiÃ§Ã£o."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Mas para os escolhidos haverÃ¡ luz e alegria e paz, e eles herdarÃ£o a terra."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E entÃ£o serÃ¡ concedida aos escolhidos a sabedoria, e todos viverÃ£o e jamais pecarÃ£o, quer por impiedade, quer por orgulho; mas os que forem sÃ¡bios serÃ£o humildes."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E eles nÃ£o transgredirÃ£o mais, nem pecarÃ£o em todos os dias de sua vida, nem morrerÃ£o por ira divina, mas cumprirÃ£o o nÃºmero dos seus dias. E a sua vida serÃ¡ aumentada em paz, e os anos da sua alegria serÃ£o multiplicados, em eterna alegria e paz, em todos os dias de sua vida."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 5,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/5",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Observai como as árvores se cobrem de folhas verdes e frutificam; portanto, prestai atenção e conhecereis todas as Suas obras, e reconhecereis como Aquele que vive para sempre as fez assim."
+    },
+    {
+      "verse": 2,
+      "text": "E todas as Suas obras prosseguem assim, ano após ano, para todo o sempre; e todas as tarefas que executam para Ele, e suas tarefas não se alteram, mas conforme Deus ordenou, assim é feito."
+    },
+    {
+      "verse": 3,
+      "text": "E vede como o mar e os rios, da mesma maneira, cumprem e não alteram a sua função, segundo os mandamentos de Deus."
+    },
+    {
+      "verse": 4,
+      "text": "Mas vós não fostes firmes, nem praticastes os mandamentos do Senhor; antes, desviastes-vos e proferistes palavras orgulhosas e impuras contra a Sua grandeza. Ó vós de coração endurecido, não encontrareis paz."
+    },
+    {
+      "verse": 5,
+      "text": "Portanto, amaldiçoareis vossos dias, e os anos de vossa vida perecerão, e os anos da vossa destruição serão multiplicados em eterna maldição, e não encontrareis misericórdia."
+    },
+    {
+      "verse": 6,
+      "text": "Naqueles dias, vós fareis que os vossos nomes sejam uma eterna abominação para todos os justos; e por vós, todos aqueles que amaldiçoarem, amaldiçoarão; e todos os pecadores e ímpios vos imprecariam; e para vós haverá uma maldição entre os ímpios. E todos... se alegrarão; e haverá perdão dos pecados; e toda misericórdia e paz e longanimidade: haverá salvação para eles, uma luz formosa. Mas para todos vós, pecadores, não haverá salvação, mas sobre vós permanecerá uma maldição."
+    },
+    {
+      "verse": 7,
+      "text": "Mas para os escolhidos haverá luz e alegria e paz, e eles herdarão a terra."
+    },
+    {
+      "verse": 8,
+      "text": "E então será concedida aos escolhidos a sabedoria, e todos viverão e jamais pecarão, quer por impiedade, quer por orgulho; mas os que forem sábios serão humildes."
+    },
+    {
+      "verse": 9,
+      "text": "E eles não transgredirão mais, nem pecarão em todos os dias de sua vida, nem morrerão por ira divina, mas cumprirão o número dos seus dias. E a sua vida será aumentada em paz, e os anos da sua alegria serão multiplicados, em eterna alegria e paz, em todos os dias de sua vida."
+    }
+  ]
 }

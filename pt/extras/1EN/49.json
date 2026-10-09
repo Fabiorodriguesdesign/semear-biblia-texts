@@ -1,28 +1,28 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  49,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/49",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "Pois a sabedoria Ã© derramada como Ã¡gua, e a glÃ³ria nÃ£o lhe faltarÃ¡ para todo o sempre."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "Pois Ele Ã© poderoso em todos os mistÃ©rios da justiÃ§a, e a iniquidade desaparecerÃ¡ como uma sombra, e nÃ£o terÃ¡ continuidade; porque o Escolhido estÃ¡ diante do Senhor dos EspÃ­ritos, e a sua glÃ³ria Ã© para todo o sempre, e o seu poder para todas as geraÃ§Ãµes."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E nele habita o espÃ­rito da sabedoria, e o espÃ­rito que concede discernimento, e o espÃ­rito do entendimento e da forÃ§a, e o espÃ­rito dos justos que dormiram em paz."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E ele julgarÃ¡ os segredos, e ninguÃ©m poderÃ¡ proferir palavra falsa diante dele; pois Ã© o Escolhido perante o Senhor dos EspÃ­ritos, segundo a Sua boa vontade."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 49,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/49",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Pois a sabedoria é derramada como água, e a glória não lhe faltará para todo o sempre."
+    },
+    {
+      "verse": 2,
+      "text": "Pois Ele é poderoso em todos os mistérios da justiça, e a iniquidade desaparecerá como uma sombra, e não terá continuidade; porque o Escolhido está diante do Senhor dos Espíritos, e a sua glória é para todo o sempre, e o seu poder para todas as gerações."
+    },
+    {
+      "verse": 3,
+      "text": "E nele habita o espírito da sabedoria, e o espírito que concede discernimento, e o espírito do entendimento e da força, e o espírito dos justos que dormiram em paz."
+    },
+    {
+      "verse": 4,
+      "text": "E ele julgará os segredos, e ninguém poderá proferir palavra falsa diante dele; pois é o Escolhido perante o Senhor dos Espíritos, segundo a Sua boa vontade."
+    }
+  ]
 }

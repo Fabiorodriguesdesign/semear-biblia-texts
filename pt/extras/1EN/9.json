@@ -1,56 +1,56 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  9,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/9",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E entÃ£o Miguel, Uriel, Rafael e Gabriel contemplaram do cÃ©u e viram muito sangue derramado sobre a terra, e toda sorte de injustiÃ§a cometida na terra."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E disseram uns aos outros: \"A terra, criada sem habitante, ouve a voz de seu clamor, que se eleva atÃ© os portÃµes do cÃ©u.\""
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E agora, a vÃ³s, santos do cÃ©u, as almas dos homens apresentam suas sÃºplicas, dizendo: \"Levantai nossa causa perante o AltÃ­ssimo\"."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E disseram ao Senhor dos sÃ©culos: \"Senhor dos senhores, Deus dos deuses, Rei dos reis, e Deus dos sÃ©culos, o trono da Tua glÃ³ria permanece por todas as geraÃ§Ãµes dos sÃ©culos, e o Teu nome Ã© santo, glorioso e bendito para todo o sempre!\""
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "Tu fizeste todas as coisas, e todo o poder estÃ¡ em Tuas mÃ£os; tudo Ã© descoberto e aberto aos Teus olhos, pois Tu vÃªs todas as coisas, e nada pode esconder-se de Ti."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "VÃª o que Azazel fez, que ensinou toda a injustiÃ§a na terra e revelou os segredos eternos que estavam guardados no cÃ©u, os quais os homens se esforÃ§avam para aprender."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E a Semjaza, a quem Tu deste autoridade para governar sobre seus companheiros."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E eles se uniram Ã s filhas dos homens sobre a terra, e tiveram relaÃ§Ãµes com as mulheres, e se corromperam, e lhes revelaram todo o gÃªnero de pecado."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E as mulheres deram Ã luz gigantes, e por causa disso toda a terra foi cheia de sangue e iniquidade."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E agora, eis que as almas dos que morreram clamam e fazem suas sÃºplicas aos portÃµes do cÃ©u, e seus lamentos ascenderam; e nÃ£o cessam por causa das obras injustas que sÃ£o cometidas na terra."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E Tu conheces todas as coisas antes que aconteÃ§am, e Tu vÃªs estas coisas e permites que ocorram, e nÃ£o nos revelas o que devemos fazer a respeito delas."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 9,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/9",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E então Miguel, Uriel, Rafael e Gabriel contemplaram do céu e viram muito sangue derramado sobre a terra, e toda sorte de injustiça cometida na terra."
+    },
+    {
+      "verse": 2,
+      "text": "E disseram uns aos outros: \"A terra, criada sem habitante, ouve a voz de seu clamor, que se eleva até os portões do céu.\""
+    },
+    {
+      "verse": 3,
+      "text": "E agora, a vós, santos do céu, as almas dos homens apresentam suas súplicas, dizendo: \"Levantai nossa causa perante o Altíssimo\"."
+    },
+    {
+      "verse": 4,
+      "text": "E disseram ao Senhor dos séculos: \"Senhor dos senhores, Deus dos deuses, Rei dos reis, e Deus dos séculos, o trono da Tua glória permanece por todas as gerações dos séculos, e o Teu nome é santo, glorioso e bendito para todo o sempre!\""
+    },
+    {
+      "verse": 5,
+      "text": "Tu fizeste todas as coisas, e todo o poder está em Tuas mãos; tudo é descoberto e aberto aos Teus olhos, pois Tu vês todas as coisas, e nada pode esconder-se de Ti."
+    },
+    {
+      "verse": 6,
+      "text": "Vê o que Azazel fez, que ensinou toda a injustiça na terra e revelou os segredos eternos que estavam guardados no céu, os quais os homens se esforçavam para aprender."
+    },
+    {
+      "verse": 7,
+      "text": "E a Semjaza, a quem Tu deste autoridade para governar sobre seus companheiros."
+    },
+    {
+      "verse": 8,
+      "text": "E eles se uniram Ã s filhas dos homens sobre a terra, e tiveram relaÃ§Ãµes com as mulheres, e se corromperam, e lhes revelaram todo o gÃªnero de pecado."
+    },
+    {
+      "verse": 9,
+      "text": "E as mulheres deram Ã luz gigantes, e por causa disso toda a terra foi cheia de sangue e iniquidade."
+    },
+    {
+      "verse": 10,
+      "text": "E agora, eis que as almas dos que morreram clamam e fazem suas súplicas aos portões do céu, e seus lamentos ascenderam; e não cessam por causa das obras injustas que são cometidas na terra."
+    },
+    {
+      "verse": 11,
+      "text": "E Tu conheces todas as coisas antes que aconteçam, e Tu vês estas coisas e permites que ocorram, e não nos revelas o que devemos fazer a respeito delas."
+    }
+  ]
 }

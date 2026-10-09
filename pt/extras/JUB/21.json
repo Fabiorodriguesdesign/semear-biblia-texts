@@ -1,112 +1,112 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  21,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/21",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E no sexto ano da sÃ©tima semana deste jubileu, AbraÃ£o chamou Isaque, seu filho, e ordenou-lhe, dizendo: \"Eu jÃ¡ sou velho, nÃ£o conheÃ§o o dia da minha morte, e estou cheio de dias.\""
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "Eis que jÃ¡ tenho cento e setenta e cinco anos, e em todos os dias da minha vida recordei o Senhor, e procurei de todo o meu coraÃ§Ã£o fazer a Sua vontade, e andar retamente em todos os Seus caminhos."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "A minha alma odiou os Ã­dolos, e desprezei aqueles que a eles se curvavam, para que eu pudesse observar diligentemente fazer a vontade daquele que me criou."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Pois Ele Ã© o Deus vivo, e Ã© santo e fiel, e Ã© justo acima de todo, e nÃ£o aceita suborno nem pessoas, porque Deus Ã© justo, e julga todos os que transgredem seus mandamentos e desprezam sua alianÃ§a."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E tu, meu filho, observa os seus mandamentos e as suas ordenanÃ§as e os seus juÃ­zos, e nÃ£o te desvies para abominaÃ§Ãµes, nem para imagens esculpidas, nem para imagens fundidas."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E nÃ£o consumais sangue algum, seja de animal terrestre ou domÃ©stico, nem de qualquer ave que voa pelos cÃ©us."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E se ofereceres um sacrifÃ­cio de paz, aceite pelo Senhor, matarÃ¡s o animal e derramarÃ¡s o seu sangue sobre o altar, e toda a gordura do sacrifÃ­cio ofertarÃ¡s sobre o altar, juntamente com farinha fina (e a oferta de cereal) misturada com Ã³leo, e com a sua bebida; oferecerÃ¡s tudo isso sobre o altar da holocausta; serÃ¡ um aroma agradÃ¡vel ao Senhor."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E oferecerÃ¡s a gordura do sacrifÃ­cio de aÃ§Ã£o de graÃ§as sobre o fogo que estÃ¡ sobre o altar, e a gordura que estÃ¡ no ventre, e toda a gordura das entranhas, e os dois rins, e toda a gordura que estiver sobre eles, e sobre os lombos e o fÃ­gado, que removerÃ¡s juntamente com os rins."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E oferece tudo isto como sacrifÃ­cio de aroma agradÃ¡vel ao Senhor, com a sua oferta de manjares e com a sua oferta de bebidas, para ser um sacrifÃ­cio de aroma agradÃ¡vel, o pÃ£o da oferta ao Senhor."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E come da sua carne nesse dia e no segundo dia, e nÃ£o deixe que o sol se ponha sobre ela no segundo dia atÃ© que seja consumida, e nada deve ser deixado para o terceiro dia; pois nÃ£o serÃ¡ aceitÃ¡vel [pois nÃ£o serÃ¡ aprovado] e nÃ£o deverÃ¡ mais ser comida, e todos os que dela comerem trarÃ£o pecado sobre si mesmos; porque assim encontrei escrito nos livros de meus antepassados, e nas palavras de Enoque, e nas palavras de NoÃ©."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E sobre todas as vossas ofertas lanÃ§areis sal, e nÃ£o deixareis que o sal da alianÃ§a falte em nenhuma das vossas ofertas perante o Senhor."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E quanto Ã lenha dos sacrifÃ­cios, cuidai que nÃ£o tragais para o altar, alÃ©m destas: cipreste, defran, sagad, pinho, abeto, cedro, savina, palmeira, oliveira, mirra, loureiro, e citronela, zimbro e bÃ¡lsamo."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E destes tipos de madeira se colocava sobre o altar, sob o sacrifÃ­cio, aquelas que haviam sido examinadas quanto Ã sua aparÃªncia, e nÃ£o se colocava ali madeira rachada ou escura, mas sim madeira dura e limpa, sem defeito, sÃ£ e nova; e nÃ£o se colocava ali madeira velha, pois seu aroma jÃ¡ se fora, e nÃ£o mais continha o mesmo perfume."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "AlÃ©m destas espÃ©cies de madeira, nenhuma outra vÃ³s poreis sobre o altar, pois a fragrÃ¢ncia se dispersa, e o odor da sua fragrÃ¢ncia nÃ£o ascende ao cÃ©u."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "Observa este mandamento e praticÃ¡-lo-Ã¡s, meu filho, para que possas ser reto em todas as tuas aÃ§Ãµes."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E em todo tempo, sede limpos no corpo, e lavai-vos com Ã¡gua antes de vos aproximardes para oferecer no altar, e lavai as mÃ£os e os pÃ©s antes de vos achegardes ao altar; e quando tiverdes terminado o sacrifÃ­cio, lavai novamente as mÃ£os e os pÃ©s."
-                   },
-                   {
-                       "verse":  17,
-                       "text":  "E que nÃ£o apareÃ§a sangue sobre vÃ³s nem sobre as vossas vestes; guardai-vos, meus filhos, contra o sangue, e sede extremamente cuidadosos; cobri-lo com pÃ³."
-                   },
-                   {
-                       "verse":  18,
-                       "text":  "E nÃ£o comereis sangue algum, pois ele Ã© a vida; de modo que nenhum sangue seja consumido."
-                   },
-                   {
-                       "verse":  19,
-                       "text":  "E nÃ£o recebei presentes em troca do sangue de homem, para que nÃ£o seja derramado impunemente, sem juÃ­zo; pois Ã© o sangue derramado que faz com que a terra peque, e a terra nÃ£o pode ser purificada do sangue de homem senÃ£o pelo sangue daquele que o derramou."
-                   },
-                   {
-                       "verse":  20,
-                       "text":  "E nÃ£o recebei presente ou dÃ¡diva em troca da vida do homem; olho por olho, dente por dente, para que sejais aceitos perante o Senhor, o Deus AltÃ­ssimo; pois Ele Ã© o defensor dos bons, e para que possais ser preservados de todo mal, e para que Ele vos livre de toda sorte de morte."
-                   },
-                   {
-                       "verse":  21,
-                       "text":  "Eis que vejo, meu filho, que todas as obras dos filhos dos homens sÃ£o pecado e iniquidade, e todos os seus atos sÃ£o impureza e abominaÃ§Ã£o e poluiÃ§Ã£o, e nÃ£o hÃ¡ justiÃ§a neles."
-                   },
-                   {
-                       "verse":  22,
-                       "text":  "Cuidado para que nÃ£o andeis nos seus caminhos, nem trilheis as suas veredas, e nÃ£o pequeis de pecado atÃ© Ã morte perante o AltÃ­ssimo Deus; pois Ele vos entregarÃ¡ novamente nas mÃ£os da vossa transgressÃ£o, e vos arrancarÃ¡ desta terra, assim como a vossa semente debaixo do cÃ©u, e o vosso nome e a vossa semente serÃ£o destruÃ­dos de toda a terra."
-                   },
-                   {
-                       "verse":  23,
-                       "text":  "Afastai-vos de todas as suas obras e de toda a sua impureza, e observai o preceito do AltÃ­ssimo Deus, e fazei a Sua vontade, e sede Ã­ntegros em tudo."
-                   },
-                   {
-                       "verse":  24,
-                       "text":  "E Ele te abenÃ§oarÃ¡ em todas as tuas obras, e suscitarÃ¡ de ti a planta da justiÃ§a por toda a terra, em todas as geraÃ§Ãµes da terra, e o meu nome e o teu nome nÃ£o serÃ£o esquecidos sob os cÃ©us para sempre."
-                   },
-                   {
-                       "verse":  25,
-                       "text":  "Vai-te, meu filho, em paz. Que o AltÃ­ssimo Deus, meu Deus e teu Deus, te fortaleÃ§a para cumprires a Sua vontade, e que Ele abenÃ§oe toda a tua descendÃªncia e o restante da tua linhagem por todas as geraÃ§Ãµes, com todas as bÃªnÃ§Ã£os justas, para que tu possas ser uma bÃªnÃ§Ã£o sobre toda a terra."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 21,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/21",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E no sexto ano da sétima semana deste jubileu, Abraão chamou Isaque, seu filho, e ordenou-lhe, dizendo: \"Eu já sou velho, não conheço o dia da minha morte, e estou cheio de dias.\""
+    },
+    {
+      "verse": 2,
+      "text": "Eis que já tenho cento e setenta e cinco anos, e em todos os dias da minha vida recordei o Senhor, e procurei de todo o meu coração fazer a Sua vontade, e andar retamente em todos os Seus caminhos."
+    },
+    {
+      "verse": 3,
+      "text": "A minha alma odiou os ídolos, e desprezei aqueles que a eles se curvavam, para que eu pudesse observar diligentemente fazer a vontade daquele que me criou."
+    },
+    {
+      "verse": 4,
+      "text": "Pois Ele é o Deus vivo, e é santo e fiel, e é justo acima de todo, e não aceita suborno nem pessoas, porque Deus é justo, e julga todos os que transgredem seus mandamentos e desprezam sua aliança."
+    },
+    {
+      "verse": 5,
+      "text": "E tu, meu filho, observa os seus mandamentos e as suas ordenanças e os seus juízos, e não te desvies para abominações, nem para imagens esculpidas, nem para imagens fundidas."
+    },
+    {
+      "verse": 6,
+      "text": "E não consumais sangue algum, seja de animal terrestre ou doméstico, nem de qualquer ave que voa pelos céus."
+    },
+    {
+      "verse": 7,
+      "text": "E se ofereceres um sacrifício de paz, aceite pelo Senhor, matarás o animal e derramarás o seu sangue sobre o altar, e toda a gordura do sacrifício ofertarás sobre o altar, juntamente com farinha fina (e a oferta de cereal) misturada com óleo, e com a sua bebida; oferecerás tudo isso sobre o altar da holocausta; será um aroma agradável ao Senhor."
+    },
+    {
+      "verse": 8,
+      "text": "E oferecerás a gordura do sacrifício de ação de graças sobre o fogo que está sobre o altar, e a gordura que está no ventre, e toda a gordura das entranhas, e os dois rins, e toda a gordura que estiver sobre eles, e sobre os lombos e o fígado, que removerás juntamente com os rins."
+    },
+    {
+      "verse": 9,
+      "text": "E oferece tudo isto como sacrifício de aroma agradável ao Senhor, com a sua oferta de manjares e com a sua oferta de bebidas, para ser um sacrifício de aroma agradável, o pão da oferta ao Senhor."
+    },
+    {
+      "verse": 10,
+      "text": "E come da sua carne nesse dia e no segundo dia, e não deixe que o sol se ponha sobre ela no segundo dia até que seja consumida, e nada deve ser deixado para o terceiro dia; pois não será aceitável [pois não será aprovado] e não deverá mais ser comida, e todos os que dela comerem trarão pecado sobre si mesmos; porque assim encontrei escrito nos livros de meus antepassados, e nas palavras de Enoque, e nas palavras de Noé."
+    },
+    {
+      "verse": 11,
+      "text": "E sobre todas as vossas ofertas lançareis sal, e não deixareis que o sal da aliança falte em nenhuma das vossas ofertas perante o Senhor."
+    },
+    {
+      "verse": 12,
+      "text": "E quanto Ã lenha dos sacrifÃ­cios, cuidai que nÃ£o tragais para o altar, alÃ©m destas: cipreste, defran, sagad, pinho, abeto, cedro, savina, palmeira, oliveira, mirra, loureiro, e citronela, zimbro e bÃ¡lsamo."
+    },
+    {
+      "verse": 13,
+      "text": "E destes tipos de madeira se colocava sobre o altar, sob o sacrifÃ­cio, aquelas que haviam sido examinadas quanto Ã sua aparÃªncia, e nÃ£o se colocava ali madeira rachada ou escura, mas sim madeira dura e limpa, sem defeito, sÃ£ e nova; e nÃ£o se colocava ali madeira velha, pois seu aroma jÃ¡ se fora, e nÃ£o mais continha o mesmo perfume."
+    },
+    {
+      "verse": 14,
+      "text": "Além destas espécies de madeira, nenhuma outra vós poreis sobre o altar, pois a fragrância se dispersa, e o odor da sua fragrância não ascende ao céu."
+    },
+    {
+      "verse": 15,
+      "text": "Observa este mandamento e praticá-lo-ás, meu filho, para que possas ser reto em todas as tuas ações."
+    },
+    {
+      "verse": 16,
+      "text": "E em todo tempo, sede limpos no corpo, e lavai-vos com água antes de vos aproximardes para oferecer no altar, e lavai as mãos e os pés antes de vos achegardes ao altar; e quando tiverdes terminado o sacrifício, lavai novamente as mãos e os pés."
+    },
+    {
+      "verse": 17,
+      "text": "E que não apareça sangue sobre vós nem sobre as vossas vestes; guardai-vos, meus filhos, contra o sangue, e sede extremamente cuidadosos; cobri-lo com pó."
+    },
+    {
+      "verse": 18,
+      "text": "E não comereis sangue algum, pois ele é a vida; de modo que nenhum sangue seja consumido."
+    },
+    {
+      "verse": 19,
+      "text": "E não recebei presentes em troca do sangue de homem, para que não seja derramado impunemente, sem juízo; pois é o sangue derramado que faz com que a terra peque, e a terra não pode ser purificada do sangue de homem senão pelo sangue daquele que o derramou."
+    },
+    {
+      "verse": 20,
+      "text": "E não recebei presente ou dádiva em troca da vida do homem; olho por olho, dente por dente, para que sejais aceitos perante o Senhor, o Deus Altíssimo; pois Ele é o defensor dos bons, e para que possais ser preservados de todo mal, e para que Ele vos livre de toda sorte de morte."
+    },
+    {
+      "verse": 21,
+      "text": "Eis que vejo, meu filho, que todas as obras dos filhos dos homens são pecado e iniquidade, e todos os seus atos são impureza e abominação e poluição, e não há justiça neles."
+    },
+    {
+      "verse": 22,
+      "text": "Cuidado para que nÃ£o andeis nos seus caminhos, nem trilheis as suas veredas, e nÃ£o pequeis de pecado atÃ© Ã morte perante o AltÃ­ssimo Deus; pois Ele vos entregarÃ¡ novamente nas mÃ£os da vossa transgressÃ£o, e vos arrancarÃ¡ desta terra, assim como a vossa semente debaixo do cÃ©u, e o vosso nome e a vossa semente serÃ£o destruÃ­dos de toda a terra."
+    },
+    {
+      "verse": 23,
+      "text": "Afastai-vos de todas as suas obras e de toda a sua impureza, e observai o preceito do Altíssimo Deus, e fazei a Sua vontade, e sede íntegros em tudo."
+    },
+    {
+      "verse": 24,
+      "text": "E Ele te abençoará em todas as tuas obras, e suscitará de ti a planta da justiça por toda a terra, em todas as gerações da terra, e o meu nome e o teu nome não serão esquecidos sob os céus para sempre."
+    },
+    {
+      "verse": 25,
+      "text": "Vai-te, meu filho, em paz. Que o Altíssimo Deus, meu Deus e teu Deus, te fortaleça para cumprires a Sua vontade, e que Ele abençoe toda a tua descendência e o restante da tua linhagem por todas as gerações, com todas as bênçãos justas, para que tu possas ser uma bênção sobre toda a terra."
+    }
+  ]
 }

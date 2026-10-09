@@ -1,44 +1,44 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  17,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/17",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E eles o levaram a um lugar onde estavam aqueles que ali se achavam, semelhantes a fogo flamejante, e, quando queriam, manifestavam-se como homens."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E eles me conduziram ao lugar das trevas, e a uma montanha cujo cume se elevava atÃ© os cÃ©us."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E eu vi os lugares dos luminares e os tesouros das estrelas, do trovÃ£o, e nos confins mais profundos, onde havia um arco de fogo e flechas, e seu repouso, e uma espada flamejante, e toda a luz."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E eles me conduziram Ã s Ã¡guas vivas, e ao fogo do ocidente, que acolhe cada pÃ´r do sol."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E cheguei a um rio de fogo, no qual o fogo corre como Ã¡gua e se desÃ¡gua no grande mar, para alÃ©m do ocidente."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "Eis que vi os grandes rios, e cheguei ao grande rio e Ã grande escuridÃ£o, e fui ao lugar onde nenhuma carne caminha."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Eis que vi as montanhas da escuridÃ£o do inverno e o lugar de onde todas as Ã¡guas profundas emanam."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E vi as bocas de todos os rios da terra e a boca do abismo."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 17,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/17",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E eles o levaram a um lugar onde estavam aqueles que ali se achavam, semelhantes a fogo flamejante, e, quando queriam, manifestavam-se como homens."
+    },
+    {
+      "verse": 2,
+      "text": "E eles me conduziram ao lugar das trevas, e a uma montanha cujo cume se elevava até os céus."
+    },
+    {
+      "verse": 3,
+      "text": "E eu vi os lugares dos luminares e os tesouros das estrelas, do trovão, e nos confins mais profundos, onde havia um arco de fogo e flechas, e seu repouso, e uma espada flamejante, e toda a luz."
+    },
+    {
+      "verse": 4,
+      "text": "E eles me conduziram Ã s Ã¡guas vivas, e ao fogo do ocidente, que acolhe cada pÃ´r do sol."
+    },
+    {
+      "verse": 5,
+      "text": "E cheguei a um rio de fogo, no qual o fogo corre como água e se deságua no grande mar, para além do ocidente."
+    },
+    {
+      "verse": 6,
+      "text": "Eis que vi os grandes rios, e cheguei ao grande rio e Ã grande escuridÃ£o, e fui ao lugar onde nenhuma carne caminha."
+    },
+    {
+      "verse": 7,
+      "text": "Eis que vi as montanhas da escuridão do inverno e o lugar de onde todas as águas profundas emanam."
+    },
+    {
+      "verse": 8,
+      "text": "E vi as bocas de todos os rios da terra e a boca do abismo."
+    }
+  ]
 }

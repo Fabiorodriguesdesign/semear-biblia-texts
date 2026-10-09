@@ -1,128 +1,128 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  1,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/1",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E aconteceu no primeiro ano da saÃ­da dos filhos de Israel do Egito, no terceiro mÃªs, no dÃ©cimo sexto dia do mÃªs, que Deus falou a MoisÃ©s, dizendo: \"Sobe para Mim ao monte, e Eu darei-te duas tÃ¡buas de pedra, contendo a lei e o mandamento, que Eu escrevi, para que as ensines.\""
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E MoisÃ©s ascendeu ao monte de Deus, e a glÃ³ria do Senhor repousou sobre o Monte Sinai, e uma nuvem o cobriu por seis dias."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E Ele chamou a MoisÃ©s no sÃ©timo dia do meio da nuvem, e a aparÃªncia da glÃ³ria do Senhor era como um fogo flamejante sobre o cume do monte."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E MoisÃ©s esteve no Monte por quarenta dias e quarenta noites, e Deus lhe ensinou a histÃ³ria anterior e posterior da divisÃ£o de todos os dias da lei e do testemunho."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E Ele disse: \"Inclina teu coraÃ§Ã£o para toda palavra que Eu te dissera neste Monte Sinai, e escreve-as em um livro, para que as geraÃ§Ãµes futuras vejam como Eu nÃ£o os abandonei por todo o mal que cometeram, transgredindo a alianÃ§a que estabeleÃ§o entre Mim e vÃ³s para as suas geraÃ§Ãµes neste dia no Monte Sinai.\""
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E assim acontecerÃ¡ que, quando todas estas coisas vierem sobre eles, reconhecerÃ£o que Eu sou mais justo do que eles em todos os seus juÃ­zos e em todas as suas aÃ§Ãµes, e perceberÃ£o que Eu estive verdadeiramente com eles."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E tu escreve para ti todas estas palavras que te declaro neste dia, pois conheÃ§o a sua rebeliÃ£o e o seu pescoÃ§o endurecido, antes mesmo de os trazer Ã terra da qual jurei aos seus pais, a AbraÃ£o, a Isaque e a JacÃ³, dizendo: \"Ã tua descendÃªncia darei uma terra que mana leite e mel.\""
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E eles comerÃ£o atÃ© saciÃ¡-los, e se voltarÃ£o a deuses estranhos, que nÃ£o podem livrÃ¡-los de nenhuma de suas afliÃ§Ãµes; e este testemunho serÃ¡ ouvido como testemunho contra eles."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "Pois eles esquecerÃ£o todos os Meus mandamentos, e tudo o que lhes ordeno, e seguirÃ£o os gentios, e Ã sua impureza, e Ã sua vergonha, e servirÃ£o aos seus deuses; e estes serÃ£o para eles motivo de ofensa, de tribulaÃ§Ã£o, de afliÃ§Ã£o e de armadilha."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E muitos perecerÃ£o, e serÃ£o feitos cativos, e cairÃ£o nas mÃ£os do inimigo, porque abandonaram os Meus preceitos e os Meus mandamentos, e as festas da Minha alianÃ§a, e os Meus sÃ¡bados, e o Meu lugar santo que consagrei para Mim no meio deles, e o Meu tabernÃ¡culo, e o Meu santuÃ¡rio, que consagrei para Mim no meio da terra, para que Eu pudesse ali estabelecer o Meu nome, e que Ele residisse (ali)."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E eles farÃ£o para si altares e Ã­dolos de madeira e imagens esculpidas, e adorarÃ£o a cada um deles, desviando-se do caminho, e sacrificarÃ£o seus filhos a demÃ´nios, e a todas as obras da perversidade que reside em seus coraÃ§Ãµes."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E eu enviarei testemunhas para eles, para que eu possa testificar contra eles; mas eles nÃ£o ouvirÃ£o, e matarÃ£o tambÃ©m as testemunhas, e perseguirÃ£o aqueles que buscam a lei, e abolirÃ£o e mudarÃ£o tudo, para praticar o mal diante dos meus olhos."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E Eu voltarei o Meu rosto deles, e os entregarei na mÃ£o dos gentios, para que sejam cativos, presa e despojo, e os retirarei do meio da terra, e os espalharei entre os gentios."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E eles esquecerÃ£o toda a Minha lei e todos os Meus mandamentos e todos os Meus juÃ­zos, e se desviarÃ£o como em novas luas, e sÃ¡bados, e festas, e anos jubilares, e ordenanÃ§as."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "E apÃ³s isto, eles se converterÃ£o a Mim dentre os gentios com todo o coraÃ§Ã£o e com toda a alma e com todas as forÃ§as, e Eu os reunirei dentre todos os gentios, e eles Me procurarÃ£o, para que sejam achados por Mim, quando Me procurarem com todo o coraÃ§Ã£o e com toda a alma."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E eu lhes revelarei abundante paz com justiÃ§a, e os livrarei da raiz da retidÃ£o, de todo o meu coraÃ§Ã£o e de toda a minha alma, para que sejam uma bÃªnÃ§Ã£o e nÃ£o uma maldiÃ§Ã£o, e sejam a cabeÃ§a e nÃ£o a cauda."
-                   },
-                   {
-                       "verse":  17,
-                       "text":  "E eu edificarei o meu santuÃ¡rio no meio deles, e habitarei com eles; e serei Deus para eles, e eles serÃ£o o meu povo, em verdade e justiÃ§a."
-                   },
-                   {
-                       "verse":  18,
-                       "text":  "E eu nÃ£o os abandonarei, nem os desampararei, porque Eu sou o Senhor, o seu Deus."
-                   },
-                   {
-                       "verse":  19,
-                       "text":  "E MoisÃ©s prostrou-se sobre o seu rosto e orou, dizendo: \"Ã Senhor meu Deus, nÃ£o abandones o Teu povo e a Tua heranÃ§a, para que eles nÃ£o vagueiem no erro dos seus coraÃ§Ãµes, e nÃ£o os entregues nas mÃ£os de seus inimigos, os gentios, para que estes nÃ£o os dominem e os faÃ§am pecar contra Ti.\""
-                   },
-                   {
-                       "verse":  20,
-                       "text":  "Que a tua misericÃ³rdia, Senhor, se estenda sobre o teu povo, e que lhes concedas um espÃ­rito reto, para que o espÃ­rito de Beliar nÃ£o os domine, acusando-os perante Ti, nem os engane, desviando-os de todos os caminhos da justiÃ§a, para que nÃ£o pereÃ§am diante do teu rosto."
-                   },
-                   {
-                       "verse":  21,
-                       "text":  "Mas eles sÃ£o o Teu povo e a Tua heranÃ§a, que Tu libertaste com grande poder das mÃ£os dos egÃ­pcios; cria neles um coraÃ§Ã£o puro e um espÃ­rito santo, e nÃ£o os deixes ser aprisionados em seus pecados desde agora atÃ© Ã eternidade."
-                   },
-                   {
-                       "verse":  22,
-                       "text":  "E o Senhor disse a MoisÃ©s: âEu conheÃ§o a sua obstinaÃ§Ã£o e os seus pensamentos, e a sua inflexibilidade; eles nÃ£o obedecerÃ£o atÃ© que confessem o seu pecado e o pecado dos seus pais.â"
-                   },
-                   {
-                       "verse":  23,
-                       "text":  "E apÃ³s isto, converter-se-Ã£o para Mim em toda retidÃ£o e de todo o coraÃ§Ã£o e de toda a alma, e eu circuncidarei a prepÃºcia do seu coraÃ§Ã£o e a prepÃºcia do coraÃ§Ã£o da sua descendÃªncia, e criarei neles um espÃ­rito santo, e os purificarei, para que nÃ£o se desviem de Mim desde aquele dia atÃ© Ã eternidade."
-                   },
-                   {
-                       "verse":  24,
-                       "text":  "E as suas almas se fixarÃ£o em Mim e em todos os Meus mandamentos, e eles cumprirÃ£o os Meus mandamentos, e Eu serei o seu Pai e eles serÃ£o os Meus filhos."
-                   },
-                   {
-                       "verse":  25,
-                       "text":  "E todos serÃ£o chamados filhos do Deus vivo, e todo anjo e todo espÃ­rito saberÃ¡; em verdade, saberÃ£o que estes sÃ£o os meus filhos, e que Eu sou o seu Pai em retidÃ£o e justiÃ§a, e que os amo."
-                   },
-                   {
-                       "verse":  26,
-                       "text":  "E tu escreve para ti todas estas palavras que eu te declaro neste monte, a primeira e a Ãºltima, as quais hÃ£o de vir a passar em todas as divisÃµes dos dias, na lei e no testemunho, nas semanas e nos jubileus, atÃ© Ã eternidade, atÃ© que eu desÃ§a e habite com eles para todo o sempre."
-                   },
-                   {
-                       "verse":  27,
-                       "text":  "E disse ao anjo da presenÃ§a: âEscreve para MoisÃ©s, desde o princÃ­pio da criaÃ§Ã£o, atÃ© que o Meu santuÃ¡rio seja edificado entre eles para toda a eternidade.â"
-                   },
-                   {
-                       "verse":  28,
-                       "text":  "E o Senhor se manifestarÃ¡ aos olhos de todos, e todos saberÃ£o que Eu sou o Deus de Israel e o Pai de todos os filhos de JacÃ³, e Rei no Monte SiÃ£o para todo o sempre. E SiÃ£o e JerusalÃ©m serÃ£o santas."
-                   },
-                   {
-                       "verse":  29,
-                       "text":  "E o anjo da presenÃ§a, que ia Ã frente do acampamento de Israel, tomou as tÃ¡buas das divisÃµes dos anos, desde o tempo da criaÃ§Ã£o, da lei e do testemunho das semanas, dos jubileus, segundo os anos individuais, segundo toda a contagem dos jubileus [segundo os anos individuais], desde o dia da nova criaÃ§Ã£o, quando os cÃ©us e a terra serÃ£o renovados e toda a sua criaÃ§Ã£o, segundo as potÃªncias do cÃ©u, e segundo toda a criaÃ§Ã£o da terra, atÃ© que o santuÃ¡rio do Senhor seja feito em JerusalÃ©m, no Monte SiÃ£o, e todas as luzes sejam renovadas para cura, para paz e para bÃªnÃ§Ã£o para todos os eleitos de Israel, e assim seja desde aquele dia e por todos os dias da terra."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 1,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/1",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E aconteceu no primeiro ano da saída dos filhos de Israel do Egito, no terceiro mês, no décimo sexto dia do mês, que Deus falou a Moisés, dizendo: \"Sobe para Mim ao monte, e Eu darei-te duas tábuas de pedra, contendo a lei e o mandamento, que Eu escrevi, para que as ensines.\""
+    },
+    {
+      "verse": 2,
+      "text": "E Moisés ascendeu ao monte de Deus, e a glória do Senhor repousou sobre o Monte Sinai, e uma nuvem o cobriu por seis dias."
+    },
+    {
+      "verse": 3,
+      "text": "E Ele chamou a Moisés no sétimo dia do meio da nuvem, e a aparência da glória do Senhor era como um fogo flamejante sobre o cume do monte."
+    },
+    {
+      "verse": 4,
+      "text": "E Moisés esteve no Monte por quarenta dias e quarenta noites, e Deus lhe ensinou a história anterior e posterior da divisão de todos os dias da lei e do testemunho."
+    },
+    {
+      "verse": 5,
+      "text": "E Ele disse: \"Inclina teu coração para toda palavra que Eu te dissera neste Monte Sinai, e escreve-as em um livro, para que as gerações futuras vejam como Eu não os abandonei por todo o mal que cometeram, transgredindo a aliança que estabeleço entre Mim e vós para as suas gerações neste dia no Monte Sinai.\""
+    },
+    {
+      "verse": 6,
+      "text": "E assim acontecerá que, quando todas estas coisas vierem sobre eles, reconhecerão que Eu sou mais justo do que eles em todos os seus juízos e em todas as suas ações, e perceberão que Eu estive verdadeiramente com eles."
+    },
+    {
+      "verse": 7,
+      "text": "E tu escreve para ti todas estas palavras que te declaro neste dia, pois conheÃ§o a sua rebeliÃ£o e o seu pescoÃ§o endurecido, antes mesmo de os trazer Ã terra da qual jurei aos seus pais, a AbraÃ£o, a Isaque e a JacÃ³, dizendo: \"Ã tua descendÃªncia darei uma terra que mana leite e mel.\""
+    },
+    {
+      "verse": 8,
+      "text": "E eles comerão até saciá-los, e se voltarão a deuses estranhos, que não podem livrá-los de nenhuma de suas aflições; e este testemunho será ouvido como testemunho contra eles."
+    },
+    {
+      "verse": 9,
+      "text": "Pois eles esquecerÃ£o todos os Meus mandamentos, e tudo o que lhes ordeno, e seguirÃ£o os gentios, e Ã sua impureza, e Ã sua vergonha, e servirÃ£o aos seus deuses; e estes serÃ£o para eles motivo de ofensa, de tribulaÃ§Ã£o, de afliÃ§Ã£o e de armadilha."
+    },
+    {
+      "verse": 10,
+      "text": "E muitos perecerão, e serão feitos cativos, e cairão nas mãos do inimigo, porque abandonaram os Meus preceitos e os Meus mandamentos, e as festas da Minha aliança, e os Meus sábados, e o Meu lugar santo que consagrei para Mim no meio deles, e o Meu tabernáculo, e o Meu santuário, que consagrei para Mim no meio da terra, para que Eu pudesse ali estabelecer o Meu nome, e que Ele residisse (ali)."
+    },
+    {
+      "verse": 11,
+      "text": "E eles farão para si altares e ídolos de madeira e imagens esculpidas, e adorarão a cada um deles, desviando-se do caminho, e sacrificarão seus filhos a demônios, e a todas as obras da perversidade que reside em seus corações."
+    },
+    {
+      "verse": 12,
+      "text": "E eu enviarei testemunhas para eles, para que eu possa testificar contra eles; mas eles não ouvirão, e matarão também as testemunhas, e perseguirão aqueles que buscam a lei, e abolirão e mudarão tudo, para praticar o mal diante dos meus olhos."
+    },
+    {
+      "verse": 13,
+      "text": "E Eu voltarei o Meu rosto deles, e os entregarei na mão dos gentios, para que sejam cativos, presa e despojo, e os retirarei do meio da terra, e os espalharei entre os gentios."
+    },
+    {
+      "verse": 14,
+      "text": "E eles esquecerão toda a Minha lei e todos os Meus mandamentos e todos os Meus juízos, e se desviarão como em novas luas, e sábados, e festas, e anos jubilares, e ordenanças."
+    },
+    {
+      "verse": 15,
+      "text": "E após isto, eles se converterão a Mim dentre os gentios com todo o coração e com toda a alma e com todas as forças, e Eu os reunirei dentre todos os gentios, e eles Me procurarão, para que sejam achados por Mim, quando Me procurarem com todo o coração e com toda a alma."
+    },
+    {
+      "verse": 16,
+      "text": "E eu lhes revelarei abundante paz com justiça, e os livrarei da raiz da retidão, de todo o meu coração e de toda a minha alma, para que sejam uma bênção e não uma maldição, e sejam a cabeça e não a cauda."
+    },
+    {
+      "verse": 17,
+      "text": "E eu edificarei o meu santuário no meio deles, e habitarei com eles; e serei Deus para eles, e eles serão o meu povo, em verdade e justiça."
+    },
+    {
+      "verse": 18,
+      "text": "E eu não os abandonarei, nem os desampararei, porque Eu sou o Senhor, o seu Deus."
+    },
+    {
+      "verse": 19,
+      "text": "E Moisés prostrou-se sobre o seu rosto e orou, dizendo: \"Ó Senhor meu Deus, não abandones o Teu povo e a Tua herança, para que eles não vagueiem no erro dos seus corações, e não os entregues nas mãos de seus inimigos, os gentios, para que estes não os dominem e os façam pecar contra Ti.\""
+    },
+    {
+      "verse": 20,
+      "text": "Que a tua misericórdia, Senhor, se estenda sobre o teu povo, e que lhes concedas um espírito reto, para que o espírito de Beliar não os domine, acusando-os perante Ti, nem os engane, desviando-os de todos os caminhos da justiça, para que não pereçam diante do teu rosto."
+    },
+    {
+      "verse": 21,
+      "text": "Mas eles sÃ£o o Teu povo e a Tua heranÃ§a, que Tu libertaste com grande poder das mÃ£os dos egÃ­pcios; cria neles um coraÃ§Ã£o puro e um espÃ­rito santo, e nÃ£o os deixes ser aprisionados em seus pecados desde agora atÃ© Ã eternidade."
+    },
+    {
+      "verse": 22,
+      "text": "E o Senhor disse a Moisés: “Eu conheço a sua obstinação e os seus pensamentos, e a sua inflexibilidade; eles não obedecerão até que confessem o seu pecado e o pecado dos seus pais.”"
+    },
+    {
+      "verse": 23,
+      "text": "E apÃ³s isto, converter-se-Ã£o para Mim em toda retidÃ£o e de todo o coraÃ§Ã£o e de toda a alma, e eu circuncidarei a prepÃºcia do seu coraÃ§Ã£o e a prepÃºcia do coraÃ§Ã£o da sua descendÃªncia, e criarei neles um espÃ­rito santo, e os purificarei, para que nÃ£o se desviem de Mim desde aquele dia atÃ© Ã eternidade."
+    },
+    {
+      "verse": 24,
+      "text": "E as suas almas se fixarão em Mim e em todos os Meus mandamentos, e eles cumprirão os Meus mandamentos, e Eu serei o seu Pai e eles serão os Meus filhos."
+    },
+    {
+      "verse": 25,
+      "text": "E todos serão chamados filhos do Deus vivo, e todo anjo e todo espírito saberá; em verdade, saberão que estes são os meus filhos, e que Eu sou o seu Pai em retidão e justiça, e que os amo."
+    },
+    {
+      "verse": 26,
+      "text": "E tu escreve para ti todas estas palavras que eu te declaro neste monte, a primeira e a Ãºltima, as quais hÃ£o de vir a passar em todas as divisÃµes dos dias, na lei e no testemunho, nas semanas e nos jubileus, atÃ© Ã eternidade, atÃ© que eu desÃ§a e habite com eles para todo o sempre."
+    },
+    {
+      "verse": 27,
+      "text": "E disse ao anjo da presença: “Escreve para Moisés, desde o princípio da criação, até que o Meu santuário seja edificado entre eles para toda a eternidade.”"
+    },
+    {
+      "verse": 28,
+      "text": "E o Senhor se manifestará aos olhos de todos, e todos saberão que Eu sou o Deus de Israel e o Pai de todos os filhos de Jacó, e Rei no Monte Sião para todo o sempre. E Sião e Jerusalém serão santas."
+    },
+    {
+      "verse": 29,
+      "text": "E o anjo da presenÃ§a, que ia Ã frente do acampamento de Israel, tomou as tÃ¡buas das divisÃµes dos anos, desde o tempo da criaÃ§Ã£o, da lei e do testemunho das semanas, dos jubileus, segundo os anos individuais, segundo toda a contagem dos jubileus [segundo os anos individuais], desde o dia da nova criaÃ§Ã£o, quando os cÃ©us e a terra serÃ£o renovados e toda a sua criaÃ§Ã£o, segundo as potÃªncias do cÃ©u, e segundo toda a criaÃ§Ã£o da terra, atÃ© que o santuÃ¡rio do Senhor seja feito em JerusalÃ©m, no Monte SiÃ£o, e todas as luzes sejam renovadas para cura, para paz e para bÃªnÃ§Ã£o para todos os eleitos de Israel, e assim seja desde aquele dia e por todos os dias da terra."
+    }
+  ]
 }

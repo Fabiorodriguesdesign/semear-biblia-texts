@@ -1,52 +1,52 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  21,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/21",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E eu segui para o lugar onde reinava a confusÃ£o."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E eu ali vi algo terrÃ­vel: nÃ£o vi nem cÃ©u acima, nem terra firmemente estabelecida, mas um lugar caÃ³tico e horrendo."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E ali vi sete estrelas do cÃ©u, ligadas entre si, como grandes montanhas, e ardendo em fogo."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "EntÃ£o eu disse: \"Por qual pecado estÃ£o eles cativos, e por qual motivo foram trazidos para este lugar?\"."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "EntÃ£o disse Uriel, um dos anjos santos, que estava comigo e era chefe sobre eles, e falou: Enoque, por que perguntas e por que ansias pela verdade?"
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "Eis que sÃ£o do nÃºmero das estrelas do cÃ©u, as quais transgrediram o mandamento do Senhor, e estÃ£o aqui aprisionadas atÃ© que dez mil anos, o tempo determinado por seus pecados, sejam cumpridos."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E dali parti para outro lugar, que era ainda mais horrendo do que o anterior, e ali vi uma coisa terrÃ­vel: um grande fogo que ardia e flamejava, e o lugar estava fendido atÃ© ao abismo, estando cheio de grandes colunas de fogo descendentes; nem sua extensÃ£o ou magnitude pude ver, nem pude conjecturar."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "EntÃ£o eu disse: \"Que lugar tÃ£o temÃ­vel e de aspecto tÃ£o terrÃ­vel!\""
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "EntÃ£o, Uriel respondeu-me, um dos anjos santos que estava comigo, e disse-me: \"Enoque, por que tens tanto temor e afliÃ§Ã£o?\". E eu respondi: \"Por causa deste lugar terrÃ­vel, e por causa do espetÃ¡culo da dor\"."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E disse-me: \"Este lugar Ã© a prisÃ£o dos anjos, e aqui eles serÃ£o aprisionados para todo o sempre.\""
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 21,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/21",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E eu segui para o lugar onde reinava a confusão."
+    },
+    {
+      "verse": 2,
+      "text": "E eu ali vi algo terrível: não vi nem céu acima, nem terra firmemente estabelecida, mas um lugar caótico e horrendo."
+    },
+    {
+      "verse": 3,
+      "text": "E ali vi sete estrelas do céu, ligadas entre si, como grandes montanhas, e ardendo em fogo."
+    },
+    {
+      "verse": 4,
+      "text": "Então eu disse: \"Por qual pecado estão eles cativos, e por qual motivo foram trazidos para este lugar?\"."
+    },
+    {
+      "verse": 5,
+      "text": "Então disse Uriel, um dos anjos santos, que estava comigo e era chefe sobre eles, e falou: Enoque, por que perguntas e por que ansias pela verdade?"
+    },
+    {
+      "verse": 6,
+      "text": "Eis que são do número das estrelas do céu, as quais transgrediram o mandamento do Senhor, e estão aqui aprisionadas até que dez mil anos, o tempo determinado por seus pecados, sejam cumpridos."
+    },
+    {
+      "verse": 7,
+      "text": "E dali parti para outro lugar, que era ainda mais horrendo do que o anterior, e ali vi uma coisa terrível: um grande fogo que ardia e flamejava, e o lugar estava fendido até ao abismo, estando cheio de grandes colunas de fogo descendentes; nem sua extensão ou magnitude pude ver, nem pude conjecturar."
+    },
+    {
+      "verse": 8,
+      "text": "Então eu disse: \"Que lugar tão temível e de aspecto tão terrível!\""
+    },
+    {
+      "verse": 9,
+      "text": "Então, Uriel respondeu-me, um dos anjos santos que estava comigo, e disse-me: \"Enoque, por que tens tanto temor e aflição?\". E eu respondi: \"Por causa deste lugar terrível, e por causa do espetáculo da dor\"."
+    },
+    {
+      "verse": 10,
+      "text": "E disse-me: \"Este lugar é a prisão dos anjos, e aqui eles serão aprisionados para todo o sempre.\""
+    }
+  ]
 }

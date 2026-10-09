@@ -1,52 +1,52 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  97,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/97",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "Acreditem, Ã³ justos, que os pecadores serÃ£o envergonhados e perecerÃ£o no dia da injustiÃ§a."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "Saibam vÃ³s, pecadores, que o AltÃ­ssimo tem presente a vossa perdiÃ§Ã£o, e os anjos do cÃ©u se regozijam com ela."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "Que fareis, Ã³ pecadores, e para onde fugireis no dia do juÃ­zo, quando ouvirdes a voz da oraÃ§Ã£o dos justos?"
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Verdadeiramente, vÃ³s seguireis o exemplo daqueles contra os quais esta palavra serÃ¡ testemunho: \"VÃ³s fostes companheiros de pecadores\"."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E naqueles dias, a oraÃ§Ã£o do justo ascenderÃ¡ ao Senhor, e para vÃ³s chegarÃ£o os dias do vosso juÃ­zo."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E todas as palavras da vossa iniquidade serÃ£o lidas perante o Grande e Santo, e os vossos rostos serÃ£o cobertos de vergonha, e Ele rejeitarÃ¡ toda a obra que se funda na injustiÃ§a."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Ai de vÃ³s, Ã³ pecadores, que habitais no meio dos mares e na terra seca, pois a memÃ³ria de vÃ³s Ã© perversa."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "Ai de vÃ³s que acumulais prata e ouro por meios injustos, e dizis: \"Temos adquirido riquezas e posses, e tudo o que desejamos.\""
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E agora ajamos conforme propusemos: Pois temos acumulado prata, e muitos sÃ£o os trabalhadores em nossas casas; e nossos celeiros estÃ£o cheios como de Ã¡gua."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E como Ã¡guas, assim fluirÃ£o vossas mentiras; pois vossa riqueza nÃ£o permanecerÃ¡, mas logo vos serÃ¡ tomada; porque tudo o que adquiristes foi em injustiÃ§a, e sereis entregues a uma grande maldiÃ§Ã£o."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 97,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/97",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Acreditem, ó justos, que os pecadores serão envergonhados e perecerão no dia da injustiça."
+    },
+    {
+      "verse": 2,
+      "text": "Saibam vós, pecadores, que o Altíssimo tem presente a vossa perdição, e os anjos do céu se regozijam com ela."
+    },
+    {
+      "verse": 3,
+      "text": "Que fareis, ó pecadores, e para onde fugireis no dia do juízo, quando ouvirdes a voz da oração dos justos?"
+    },
+    {
+      "verse": 4,
+      "text": "Verdadeiramente, vós seguireis o exemplo daqueles contra os quais esta palavra será testemunho: \"Vós fostes companheiros de pecadores\"."
+    },
+    {
+      "verse": 5,
+      "text": "E naqueles dias, a oração do justo ascenderá ao Senhor, e para vós chegarão os dias do vosso juízo."
+    },
+    {
+      "verse": 6,
+      "text": "E todas as palavras da vossa iniquidade serão lidas perante o Grande e Santo, e os vossos rostos serão cobertos de vergonha, e Ele rejeitará toda a obra que se funda na injustiça."
+    },
+    {
+      "verse": 7,
+      "text": "Ai de vós, ó pecadores, que habitais no meio dos mares e na terra seca, pois a memória de vós é perversa."
+    },
+    {
+      "verse": 8,
+      "text": "Ai de vós que acumulais prata e ouro por meios injustos, e dizis: \"Temos adquirido riquezas e posses, e tudo o que desejamos.\""
+    },
+    {
+      "verse": 9,
+      "text": "E agora ajamos conforme propusemos: Pois temos acumulado prata, e muitos são os trabalhadores em nossas casas; e nossos celeiros estão cheios como de água."
+    },
+    {
+      "verse": 10,
+      "text": "E como águas, assim fluirão vossas mentiras; pois vossa riqueza não permanecerá, mas logo vos será tomada; porque tudo o que adquiristes foi em injustiça, e sereis entregues a uma grande maldição."
+    }
+  ]
 }

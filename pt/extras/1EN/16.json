@@ -1,28 +1,28 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  16,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/16",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "Desde os dias da matanÃ§a e destruiÃ§Ã£o e morte dos gigantes, das almas de cuja carne os espÃ­ritos, tendo partido, destruirÃ£o sem incorrer em juÃ­zo; assim hÃ£o de destruir atÃ© o dia da consumaÃ§Ã£o, o grande juÃ­zo em que a era serÃ¡ consumada, sobre os Vigilantes e os Ã­mpios, e serÃ¡ inteiramente consumada."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E agora, quanto aos Vigilantes que te enviaram para interceder por eles, os quais outrora estiveram no cÃ©u, dize-lhes:"
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "VÃ³s estivestes em paraÃ­so, mas todas as suas verdades ainda nÃ£o vos foram reveladas, e conhecestes coisas vÃ£s; e estas, pela dureza de vossos coraÃ§Ãµes, transmitistes Ã s mulheres, e por meio destas verdades, homens e mulheres cometem muitos males na terra."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Dizei-lhes, portanto: \"VÃ³s nÃ£o tereis paz.\""
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 16,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/16",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Desde os dias da matança e destruição e morte dos gigantes, das almas de cuja carne os espíritos, tendo partido, destruirão sem incorrer em juízo; assim hão de destruir até o dia da consumação, o grande juízo em que a era será consumada, sobre os Vigilantes e os ímpios, e será inteiramente consumada."
+    },
+    {
+      "verse": 2,
+      "text": "E agora, quanto aos Vigilantes que te enviaram para interceder por eles, os quais outrora estiveram no céu, dize-lhes:"
+    },
+    {
+      "verse": 3,
+      "text": "VÃ³s estivestes em paraÃ­so, mas todas as suas verdades ainda nÃ£o vos foram reveladas, e conhecestes coisas vÃ£s; e estas, pela dureza de vossos coraÃ§Ãµes, transmitistes Ã s mulheres, e por meio destas verdades, homens e mulheres cometem muitos males na terra."
+    },
+    {
+      "verse": 4,
+      "text": "Dizei-lhes, portanto: \"Vós não tereis paz.\""
+    }
+  ]
 }

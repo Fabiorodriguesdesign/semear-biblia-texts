@@ -1,92 +1,92 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  29,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/29",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E aconteceu que, quando Raquel deu Ã luz JosÃ©, LabÃ£o ia tosquiar suas ovelhas, pois estavam distantes dele a trÃªs dias de viagem."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E JacÃ³ viu que LabÃ£o ia tosquiar as suas ovelhas, e chamou Lia e Raquel, e falou-lhes amavelmente para que viessem com ele Ã terra de CanaÃ£."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E ele lhes declarou como havia visto tudo em sonho, atÃ© mesmo tudo o que lhe fora dito para que retornasse Ã casa de seu pai; e eles disseram: \"Para todo lugar aonde tu fores, nÃ³s iremos contigo.\""
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E JacÃ³ abenÃ§oou ao Deus de Isaque seu pai, e ao Deus de AbraÃ£o o pai de seu pai, e levantou-se, e montou suas mulheres e seus filhos, e tomou todas as suas posses, e atravessou o rio, e veio Ã terra de Gileade; e JacÃ³ ocultou a sua intenÃ§Ã£o de LabÃ£o, e nÃ£o lhe disse."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "No sÃ©timo ano, na quarta semana, JacÃ³ voltou o rosto para Gileade no primeiro mÃªs, no dia vinte e um; e LabÃ£o perseguiu-o e alcanÃ§ou JacÃ³ na montanha de Gileade no terceiro mÃªs, no dia treze."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E o Senhor nÃ£o permitiu que ele prejudicasse JacÃ³, pois apareceu-lhe em sonho durante a noite. E LabÃ£o falou a JacÃ³."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E no dÃ©cimo quinto dia daqueles dias, JacÃ³ fez um banquete para LabÃ£o e para todos os que vinham com ele; e JacÃ³ jurou a LabÃ£o naquele dia, e LabÃ£o tambÃ©m a JacÃ³, que nenhum dos dois passaria da montanha de Gileade ao outro com intenÃ§Ã£o mÃ¡."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E ali fez um monte como testemunho; por isso o nome daquele lugar Ã© chamado atÃ© hoje: \"O Monte Testemunho\", em memÃ³ria desse monte."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "Mas antes chamavam a terra de Gileade, a terra dos Refaim, pois era a terra dos Refaim, e os Refaim nasceram ali, gigantes cuja estatura ia de dez, nove, oito atÃ© sete cÃ´vados."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E a sua habitaÃ§Ã£o se estendeu desde a terra dos filhos de Amom atÃ© ao Monte Hermom, e os lugares da sua realeza foram Carnaim e Ashtarot, e Edrei, e Misur, e Beon."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E o Senhor os destruiu por causa da maldade de suas obras; pois eram extremamente perversos, e os amorreus habitaram em seu lugar, Ã­mpios e pecadores, e nÃ£o hÃ¡ povo hoje que tenha cometido todos os seus pecados, nem terÃ£o mais longa vida na terra."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E JacÃ³ enviou LabÃ£o, e ele partiu para MesopotÃ¢mia, a terra do Oriente, e JacÃ³ retornou Ã terra de Gileade."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E ele passou o rio Jaboque no nono mÃªs, ao onze do mesmo; e nesse dia veio a ele EsaÃº, seu irmÃ£o, e foi reconciliado com ele, e se apartou dele para a terra de Seir, mas JacÃ³ habitou em tendas."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E no primeiro ano da quinta semana deste jubileu, ele passou o JordÃ£o, e habitou alÃ©m do JordÃ£o, e apascentava os seus rebanhos desde o mar do monte atÃ© a Bete-San, e atÃ© DothÃ£ e Ã floresta de Akrabbim."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "E enviou a seu pai Isaque todas as suas posses: vestimentas, mantimentos, carne, bebida, leite, manteiga e queijo, e algumas tÃ¢maras do vale."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E Ã sua mÃ£e Rebeca tambÃ©m quatro vezes ao ano, entre os tempos dos meses, entre a araÃ§Ã£o e a colheita, e entre o outono e as chuvas, e entre o inverno e a primavera, atÃ© Ã torre de AbraÃ£o."
-                   },
-                   {
-                       "verse":  17,
-                       "text":  "E Isaque retornou do PoÃ§o do Juramento e ascendeu Ã torre de seu pai AbraÃ£o, onde ali habitava, apartado de seu filho EsaÃº."
-                   },
-                   {
-                       "verse":  18,
-                       "text":  "Nos dias em que JacÃ³ foi para Mesopotamia, EsaÃº tomou por esposa Mahalath, filha de Ismael; e ajuntou todos os rebanhos de seu pai e de suas esposas, e subiu, habitando em Seir, deixando Isaque, seu pai, sÃ³, junto ao PoÃ§o do Juramento."
-                   },
-                   {
-                       "verse":  19,
-                       "text":  "E Isaque subiu do PoÃ§o do Juramento e habitou na torre de AbraÃ£o, seu pai, nas montanhas de Hebrom."
-                   },
-                   {
-                       "verse":  20,
-                       "text":  "E JacÃ³ enviou ali tudo o que enviava a seu pai e a sua mÃ£e de tempo em tempo, tudo o que necessitavam, e eles abenÃ§oaram a JacÃ³ de todo o coraÃ§Ã£o e de toda a alma."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 29,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/29",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E aconteceu que, quando Raquel deu Ã luz JosÃ©, LabÃ£o ia tosquiar suas ovelhas, pois estavam distantes dele a trÃªs dias de viagem."
+    },
+    {
+      "verse": 2,
+      "text": "E JacÃ³ viu que LabÃ£o ia tosquiar as suas ovelhas, e chamou Lia e Raquel, e falou-lhes amavelmente para que viessem com ele Ã terra de CanaÃ£."
+    },
+    {
+      "verse": 3,
+      "text": "E ele lhes declarou como havia visto tudo em sonho, atÃ© mesmo tudo o que lhe fora dito para que retornasse Ã casa de seu pai; e eles disseram: \"Para todo lugar aonde tu fores, nÃ³s iremos contigo.\""
+    },
+    {
+      "verse": 4,
+      "text": "E JacÃ³ abenÃ§oou ao Deus de Isaque seu pai, e ao Deus de AbraÃ£o o pai de seu pai, e levantou-se, e montou suas mulheres e seus filhos, e tomou todas as suas posses, e atravessou o rio, e veio Ã terra de Gileade; e JacÃ³ ocultou a sua intenÃ§Ã£o de LabÃ£o, e nÃ£o lhe disse."
+    },
+    {
+      "verse": 5,
+      "text": "No sétimo ano, na quarta semana, Jacó voltou o rosto para Gileade no primeiro mês, no dia vinte e um; e Labão perseguiu-o e alcançou Jacó na montanha de Gileade no terceiro mês, no dia treze."
+    },
+    {
+      "verse": 6,
+      "text": "E o Senhor não permitiu que ele prejudicasse Jacó, pois apareceu-lhe em sonho durante a noite. E Labão falou a Jacó."
+    },
+    {
+      "verse": 7,
+      "text": "E no décimo quinto dia daqueles dias, Jacó fez um banquete para Labão e para todos os que vinham com ele; e Jacó jurou a Labão naquele dia, e Labão também a Jacó, que nenhum dos dois passaria da montanha de Gileade ao outro com intenção má."
+    },
+    {
+      "verse": 8,
+      "text": "E ali fez um monte como testemunho; por isso o nome daquele lugar é chamado até hoje: \"O Monte Testemunho\", em memória desse monte."
+    },
+    {
+      "verse": 9,
+      "text": "Mas antes chamavam a terra de Gileade, a terra dos Refaim, pois era a terra dos Refaim, e os Refaim nasceram ali, gigantes cuja estatura ia de dez, nove, oito até sete côvados."
+    },
+    {
+      "verse": 10,
+      "text": "E a sua habitação se estendeu desde a terra dos filhos de Amom até ao Monte Hermom, e os lugares da sua realeza foram Carnaim e Ashtarot, e Edrei, e Misur, e Beon."
+    },
+    {
+      "verse": 11,
+      "text": "E o Senhor os destruiu por causa da maldade de suas obras; pois eram extremamente perversos, e os amorreus habitaram em seu lugar, ímpios e pecadores, e não há povo hoje que tenha cometido todos os seus pecados, nem terão mais longa vida na terra."
+    },
+    {
+      "verse": 12,
+      "text": "E JacÃ³ enviou LabÃ£o, e ele partiu para MesopotÃ¢mia, a terra do Oriente, e JacÃ³ retornou Ã terra de Gileade."
+    },
+    {
+      "verse": 13,
+      "text": "E ele passou o rio Jaboque no nono mês, ao onze do mesmo; e nesse dia veio a ele Esaú, seu irmão, e foi reconciliado com ele, e se apartou dele para a terra de Seir, mas Jacó habitou em tendas."
+    },
+    {
+      "verse": 14,
+      "text": "E no primeiro ano da quinta semana deste jubileu, ele passou o JordÃ£o, e habitou alÃ©m do JordÃ£o, e apascentava os seus rebanhos desde o mar do monte atÃ© a Bete-San, e atÃ© DothÃ£ e Ã floresta de Akrabbim."
+    },
+    {
+      "verse": 15,
+      "text": "E enviou a seu pai Isaque todas as suas posses: vestimentas, mantimentos, carne, bebida, leite, manteiga e queijo, e algumas tÃ¢maras do vale."
+    },
+    {
+      "verse": 16,
+      "text": "E Ã sua mÃ£e Rebeca tambÃ©m quatro vezes ao ano, entre os tempos dos meses, entre a araÃ§Ã£o e a colheita, e entre o outono e as chuvas, e entre o inverno e a primavera, atÃ© Ã torre de AbraÃ£o."
+    },
+    {
+      "verse": 17,
+      "text": "E Isaque retornou do PoÃ§o do Juramento e ascendeu Ã torre de seu pai AbraÃ£o, onde ali habitava, apartado de seu filho EsaÃº."
+    },
+    {
+      "verse": 18,
+      "text": "Nos dias em que Jacó foi para Mesopotamia, Esaú tomou por esposa Mahalath, filha de Ismael; e ajuntou todos os rebanhos de seu pai e de suas esposas, e subiu, habitando em Seir, deixando Isaque, seu pai, só, junto ao Poço do Juramento."
+    },
+    {
+      "verse": 19,
+      "text": "E Isaque subiu do Poço do Juramento e habitou na torre de Abraão, seu pai, nas montanhas de Hebrom."
+    },
+    {
+      "verse": 20,
+      "text": "E Jacó enviou ali tudo o que enviava a seu pai e a sua mãe de tempo em tempo, tudo o que necessitavam, e eles abençoaram a Jacó de todo o coração e de toda a alma."
+    }
+  ]
 }

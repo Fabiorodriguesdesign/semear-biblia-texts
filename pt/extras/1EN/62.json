@@ -1,76 +1,76 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  62,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/62",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E assim o Senhor comandou aos reis e aos poderosos e aos exaltados, e Ã queles que habitam na terra, dizendo: \"Abri vossos olhos e erguei vossas cornas, se for possÃ­vel reconhecer o Escolhido\"."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E o Senhor dos EspÃ­ritos o estabeleceu no trono da Sua glÃ³ria, e o espÃ­rito de justiÃ§a foi derramado sobre ele, e a palavra da sua boca mata todos os pecadores, e todos os injustos sÃ£o destruÃ­dos perante o seu rosto."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E naquele dia, levantar-se-Ã£o todos os reis e os poderosos, e os exaltados, e aqueles que governam a terra, e verÃ£o e reconhecerÃ£o como Ele se assenta no trono da Sua glÃ³ria, e como a justiÃ§a Ã© julgada diante Dele, e nenhuma palavra enganosa serÃ¡ proferida perante Ele."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "EntÃ£o virÃ¡ sobre eles a dor como sobre uma mulher em trabalho de parto, e ela sentirÃ¡ dores no trazer seu filho ao mundo."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E uma parte deles contemplarÃ¡ a outra, e terÃ£o grande temor, e o seu semblante se abaterÃ¡, e dor os invadirÃ¡, quando virem o Filho do Homem assentado no trono da sua glÃ³ria."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E os reis e os poderosos, e todos os que habitam a terra, hÃ£o de bendizer, glorificar e exaltar Aquele que governa sobre tudo, o qual estava escondido."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Desde o princÃ­pio, o Filho do Homem foi oculto, e o AltÃ­ssimo o guardou em sua presenÃ§a poderosa, e o revelou aos escolhidos."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E a congregaÃ§Ã£o dos escolhidos e santos serÃ¡ semeada, e todos os escolhidos permanecerÃ£o diante dele naquele dia."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E todos os reis e os poderosos e os exaltados, e aqueles que governam a terra, se prostrarÃ£o perante ele em seus rostos, e o adorarÃ£o, e depositarÃ£o nele a sua esperanÃ§a, e lhe pedirÃ£o misericÃ³rdia."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "Contudo, o Senhor dos EspÃ­ritos os afligirÃ¡ tanto, que eles se precipitarÃ£o de Sua presenÃ§a, e seus rostos estarÃ£o cheios de vergonha, e a escuridÃ£o se aprofundarÃ¡ sobre seus semblantes."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E os entregarÃ¡ aos anjos para que os punam, a fim de lhes executar vinganÃ§a porquanto oprimiram os seus filhos e os escolhidos."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E eles serÃ£o para espetÃ¡culo dos justos e dos escolhidos de Deus; alegrar-se-Ã£o com eles, porque a ira do Senhor dos EspÃ­ritos repousa sobre eles, e a sua espada estÃ¡ sedenta do seu sangue."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E os justos e escolhidos serÃ£o salvos naquele dia, e jamais verÃ£o a face dos pecadores e injustos."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E o Senhor dos EspÃ­ritos permanecerÃ¡ sobre eles, e com aquele Filho do Homem comerÃ£o, e repousarÃ£o e levantar-se-Ã£o para todo o sempre."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "E os justos e escolhidos hÃ£o de ressurgir da terra, e deixar de estar com semblante abatido; e serÃ£o revestidos de vestes de glÃ³ria."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E estas serÃ£o as vestes da vida, provenientes do Senhor dos EspÃ­ritos: E vossas vestes nÃ£o se tornarÃ£o velhas, nem vossa glÃ³ria se extinguirÃ¡ perante o Senhor dos EspÃ­ritos."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 62,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/62",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E assim o Senhor comandou aos reis e aos poderosos e aos exaltados, e Ã queles que habitam na terra, dizendo: \"Abri vossos olhos e erguei vossas cornas, se for possÃ­vel reconhecer o Escolhido\"."
+    },
+    {
+      "verse": 2,
+      "text": "E o Senhor dos Espíritos o estabeleceu no trono da Sua glória, e o espírito de justiça foi derramado sobre ele, e a palavra da sua boca mata todos os pecadores, e todos os injustos são destruídos perante o seu rosto."
+    },
+    {
+      "verse": 3,
+      "text": "E naquele dia, levantar-se-ão todos os reis e os poderosos, e os exaltados, e aqueles que governam a terra, e verão e reconhecerão como Ele se assenta no trono da Sua glória, e como a justiça é julgada diante Dele, e nenhuma palavra enganosa será proferida perante Ele."
+    },
+    {
+      "verse": 4,
+      "text": "Então virá sobre eles a dor como sobre uma mulher em trabalho de parto, e ela sentirá dores no trazer seu filho ao mundo."
+    },
+    {
+      "verse": 5,
+      "text": "E uma parte deles contemplará a outra, e terão grande temor, e o seu semblante se abaterá, e dor os invadirá, quando virem o Filho do Homem assentado no trono da sua glória."
+    },
+    {
+      "verse": 6,
+      "text": "E os reis e os poderosos, e todos os que habitam a terra, hão de bendizer, glorificar e exaltar Aquele que governa sobre tudo, o qual estava escondido."
+    },
+    {
+      "verse": 7,
+      "text": "Desde o princípio, o Filho do Homem foi oculto, e o Altíssimo o guardou em sua presença poderosa, e o revelou aos escolhidos."
+    },
+    {
+      "verse": 8,
+      "text": "E a congregação dos escolhidos e santos será semeada, e todos os escolhidos permanecerão diante dele naquele dia."
+    },
+    {
+      "verse": 9,
+      "text": "E todos os reis e os poderosos e os exaltados, e aqueles que governam a terra, se prostrarão perante ele em seus rostos, e o adorarão, e depositarão nele a sua esperança, e lhe pedirão misericórdia."
+    },
+    {
+      "verse": 10,
+      "text": "Contudo, o Senhor dos Espíritos os afligirá tanto, que eles se precipitarão de Sua presença, e seus rostos estarão cheios de vergonha, e a escuridão se aprofundará sobre seus semblantes."
+    },
+    {
+      "verse": 11,
+      "text": "E os entregará aos anjos para que os punam, a fim de lhes executar vingança porquanto oprimiram os seus filhos e os escolhidos."
+    },
+    {
+      "verse": 12,
+      "text": "E eles serão para espetáculo dos justos e dos escolhidos de Deus; alegrar-se-ão com eles, porque a ira do Senhor dos Espíritos repousa sobre eles, e a sua espada está sedenta do seu sangue."
+    },
+    {
+      "verse": 13,
+      "text": "E os justos e escolhidos serão salvos naquele dia, e jamais verão a face dos pecadores e injustos."
+    },
+    {
+      "verse": 14,
+      "text": "E o Senhor dos Espíritos permanecerá sobre eles, e com aquele Filho do Homem comerão, e repousarão e levantar-se-ão para todo o sempre."
+    },
+    {
+      "verse": 15,
+      "text": "E os justos e escolhidos hão de ressurgir da terra, e deixar de estar com semblante abatido; e serão revestidos de vestes de glória."
+    },
+    {
+      "verse": 16,
+      "text": "E estas serão as vestes da vida, provenientes do Senhor dos Espíritos: E vossas vestes não se tornarão velhas, nem vossa glória se extinguirá perante o Senhor dos Espíritos."
+    }
+  ]
 }

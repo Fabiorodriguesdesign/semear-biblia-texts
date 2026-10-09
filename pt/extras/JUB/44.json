@@ -1,148 +1,148 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  44,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/44",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E Isaque partiu de HarÃ£, da sua casa, no princÃ­pio do mÃªs terceiro, e seguiu pela via do PoÃ§o do Juramento, oferecendo sacrifÃ­cio ao Deus de seu pai Isaque, no sÃ©timo dia deste mÃªs."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E JacÃ³ recordou o sonho que vira em Betel, e temeu ir para o Egito."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E enquanto ponderava enviar mensagem a JosÃ© para que viesse atÃ© ele, e nÃ£o descendo, permaneceu ali sete dias, para ver se lhe seria revelada alguma visÃ£o sobre o que deveria fazer, permanecer ou descer."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E ele celebrou a festa da colheita dos primÃ­cios com grÃ£os antigos, pois em toda a terra de CanaÃ£ nÃ£o havia sequer um punhado de semente, porque a fome assolava todas as bestas e o gado, as aves e tambÃ©m os homens."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E no dÃ©cimo sexto dia, o Senhor apareceu-lhe e disse-lhe: \"JacÃ³, JacÃ³\"; e ele respondeu: \"Estou aqui\". E Ele lhe disse: \"Eu sou o Deus de teus pais, o Deus de AbraÃ£o e Isaque; nÃ£o temas descer a Egito, pois ali farei de ti uma grande naÃ§Ã£o.\""
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "Eu descer contigo, e eu te levantarei (novamente); nesta terra serÃ¡s sepultado, e JosÃ© porÃ¡ suas mÃ£os sobre os teus olhos. NÃ£o temas; desce para o Egito."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E os seus filhos se levantaram, e os filhos dos seus filhos, e puseram o seu pai e as suas posses em carros."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E Israel levantou-se do PoÃ§o do Juramento no dÃ©cimo sexto dia deste terceiro mÃªs, e foi para a terra de Egito."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E Israel enviou JudÃ¡ antes dele, a seu filho JosÃ©, para que este examinasse a terra de GÃ³sen, pois JosÃ© havia dito aos seus irmÃ£os que eles deveriam vir e ali habitar, para que estivessem perto dele."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E esta era a melhor regiÃ£o em toda a terra do Egito, e estava prÃ³xima a ele, tanto para os homens quanto para o gado."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E estes sÃ£o os nomes dos filhos de JacÃ³ que foram para o Egito com JacÃ³, seu pai."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "RÃºben, primogÃªnito de Israel; e estes sÃ£o os nomes dos seus filhos: Enoque, e Palu, e Hezrom e Carmi; cinco."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E SimeÃ£o, e os seus filhos; e estes sÃ£o os nomes dos seus filhos: Jemuel, e Jamin, e Ohad, e Jachin, e Zohar, e Saul, filho da mulher de Zefate; sete."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E Levi, e seus filhos; e estes sÃ£o os nomes de seus filhos: Gersom, e Coate, e Merari, quatro."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "JudÃ¡ e seus filhos; e estes sÃ£o os nomes de seus filhos: Sela, Perets e ZerÃ¡ â quatro."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E Issacar e seus filhos; e estes sÃ£o os nomes de seus filhos: Tola, e Phua, e Jasub, e Simrom; cinco."
-                   },
-                   {
-                       "verse":  17,
-                       "text":  "E Zebulom, e os seus filhos; e estes sÃ£o os nomes dos seus filhos: Sered, e Elon, e Jahleel; quatro."
-                   },
-                   {
-                       "verse":  18,
-                       "text":  "E estes sÃ£o os filhos de JacÃ³, e seus filhos, que Lia lhe deu em Mesopotamia, seis; e a sua filha, DinÃ¡. E todas as almas dos filhos de Lia, e seus filhos, que foram com JacÃ³, seu pai, para o Egito, eram vinte e nove; e JacÃ³, seu pai, estava com eles, sendo trinta."
-                   },
-                   {
-                       "verse":  19,
-                       "text":  "E os filhos de Zilpa, serva de Lia, esposa de JacÃ³, que ela gerou para JacÃ³, foram Gade e Aser."
-                   },
-                   {
-                       "verse":  20,
-                       "text":  "E estes sÃ£o os nomes dos seus filhos que foram com ele para o Egito: os filhos de Gade: Zifione, e Hagui, e Sune, e Ezbone, e Eri, e ArÃ©li, e Arode â oito."
-                   },
-                   {
-                       "verse":  21,
-                       "text":  "E os filhos de Aser foram: ImnÃ¡, e IsvÃ£, e Isvi, e BÃ©riÃ¡, e Sera, a irmÃ£ deles; assim foram seis."
-                   },
-                   {
-                       "verse":  22,
-                       "text":  "Todas as almas foram catorze, e todas as de Lia foram quarenta e quatro."
-                   },
-                   {
-                       "verse":  23,
-                       "text":  "E os filhos de Raquel, esposa de JacÃ³: JosÃ© e Benjamim."
-                   },
-                   {
-                       "verse":  24,
-                       "text":  "E JosÃ© teve em Egito os filhos que lhe nasceram de Asnate, filha de Potifar, sacerdote de HÃ©liÃ³polis: ManassÃ©s e Efraim, sendo trÃªs."
-                   },
-                   {
-                       "verse":  25,
-                       "text":  "E os filhos de Benjamim foram: Bela e Bequer, e Asbel, Gera, e NaamÃ£, e Ãi, e Res, e Mupfim, e Hufpim, e Arde; estes foram onze."
-                   },
-                   {
-                       "verse":  26,
-                       "text":  "E todas as almas de Raquel foram catorze."
-                   },
-                   {
-                       "verse":  27,
-                       "text":  "E os filhos de Bila, a serva de Raquel, esposa de JacÃ³, que ela lhe deu Ã luz, foram DÃ£ e Naftali."
-                   },
-                   {
-                       "verse":  28,
-                       "text":  "E estes sÃ£o os nomes dos seus filhos que foram com eles para o Egito: Os filhos de DÃ£ foram Husim, e Samom, e Asude, e IjacÃ¡, e Salmom; seis."
-                   },
-                   {
-                       "verse":  29,
-                       "text":  "E morreram naquele ano em que entraram na Egito, e restou a Dan apenas Hushim."
-                   },
-                   {
-                       "verse":  30,
-                       "text":  "E estes sÃ£o os nomes dos filhos de Naftali: Jasiel, e Guni, e Jezer, e Salum, e IÃº."
-                   },
-                   {
-                       "verse":  31,
-                       "text":  "E Iv, que nasceu apÃ³s os anos de fome, faleceu no Egito."
-                   },
-                   {
-                       "verse":  32,
-                       "text":  "E todas as almas de Raquel foram vinte e seis."
-                   },
-                   {
-                       "verse":  33,
-                       "text":  "E todas as almas de JacÃ³ que foram para o Egito eram setenta almas. Estes sÃ£o seus filhos e os filhos de seus filhos, sendo em tudo setenta; mas cinco morreram no Egito antes de JosÃ©, e nÃ£o tiveram filhos."
-                   },
-                   {
-                       "verse":  34,
-                       "text":  "Na terra de CanaÃ£, dois filhos de JudÃ¡ morreram, Er e Onan, e nÃ£o deixaram descendÃªncia; os filhos de Israel sepultaram aqueles que pereceram, e foram contados entre as setenta naÃ§Ãµes gentias."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 44,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/44",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E Isaque partiu de Harã, da sua casa, no princípio do mês terceiro, e seguiu pela via do Poço do Juramento, oferecendo sacrifício ao Deus de seu pai Isaque, no sétimo dia deste mês."
+    },
+    {
+      "verse": 2,
+      "text": "E Jacó recordou o sonho que vira em Betel, e temeu ir para o Egito."
+    },
+    {
+      "verse": 3,
+      "text": "E enquanto ponderava enviar mensagem a José para que viesse até ele, e não descendo, permaneceu ali sete dias, para ver se lhe seria revelada alguma visão sobre o que deveria fazer, permanecer ou descer."
+    },
+    {
+      "verse": 4,
+      "text": "E ele celebrou a festa da colheita dos primícios com grãos antigos, pois em toda a terra de Canaã não havia sequer um punhado de semente, porque a fome assolava todas as bestas e o gado, as aves e também os homens."
+    },
+    {
+      "verse": 5,
+      "text": "E no décimo sexto dia, o Senhor apareceu-lhe e disse-lhe: \"Jacó, Jacó\"; e ele respondeu: \"Estou aqui\". E Ele lhe disse: \"Eu sou o Deus de teus pais, o Deus de Abraão e Isaque; não temas descer a Egito, pois ali farei de ti uma grande nação.\""
+    },
+    {
+      "verse": 6,
+      "text": "Eu descer contigo, e eu te levantarei (novamente); nesta terra serás sepultado, e José porá suas mãos sobre os teus olhos. Não temas; desce para o Egito."
+    },
+    {
+      "verse": 7,
+      "text": "E os seus filhos se levantaram, e os filhos dos seus filhos, e puseram o seu pai e as suas posses em carros."
+    },
+    {
+      "verse": 8,
+      "text": "E Israel levantou-se do Poço do Juramento no décimo sexto dia deste terceiro mês, e foi para a terra de Egito."
+    },
+    {
+      "verse": 9,
+      "text": "E Israel enviou Judá antes dele, a seu filho José, para que este examinasse a terra de Gósen, pois José havia dito aos seus irmãos que eles deveriam vir e ali habitar, para que estivessem perto dele."
+    },
+    {
+      "verse": 10,
+      "text": "E esta era a melhor região em toda a terra do Egito, e estava próxima a ele, tanto para os homens quanto para o gado."
+    },
+    {
+      "verse": 11,
+      "text": "E estes são os nomes dos filhos de Jacó que foram para o Egito com Jacó, seu pai."
+    },
+    {
+      "verse": 12,
+      "text": "Rúben, primogênito de Israel; e estes são os nomes dos seus filhos: Enoque, e Palu, e Hezrom e Carmi; cinco."
+    },
+    {
+      "verse": 13,
+      "text": "E Simeão, e os seus filhos; e estes são os nomes dos seus filhos: Jemuel, e Jamin, e Ohad, e Jachin, e Zohar, e Saul, filho da mulher de Zefate; sete."
+    },
+    {
+      "verse": 14,
+      "text": "E Levi, e seus filhos; e estes são os nomes de seus filhos: Gersom, e Coate, e Merari, quatro."
+    },
+    {
+      "verse": 15,
+      "text": "Judá e seus filhos; e estes são os nomes de seus filhos: Sela, Perets e Zerá – quatro."
+    },
+    {
+      "verse": 16,
+      "text": "E Issacar e seus filhos; e estes são os nomes de seus filhos: Tola, e Phua, e Jasub, e Simrom; cinco."
+    },
+    {
+      "verse": 17,
+      "text": "E Zebulom, e os seus filhos; e estes são os nomes dos seus filhos: Sered, e Elon, e Jahleel; quatro."
+    },
+    {
+      "verse": 18,
+      "text": "E estes são os filhos de Jacó, e seus filhos, que Lia lhe deu em Mesopotamia, seis; e a sua filha, Diná. E todas as almas dos filhos de Lia, e seus filhos, que foram com Jacó, seu pai, para o Egito, eram vinte e nove; e Jacó, seu pai, estava com eles, sendo trinta."
+    },
+    {
+      "verse": 19,
+      "text": "E os filhos de Zilpa, serva de Lia, esposa de Jacó, que ela gerou para Jacó, foram Gade e Aser."
+    },
+    {
+      "verse": 20,
+      "text": "E estes são os nomes dos seus filhos que foram com ele para o Egito: os filhos de Gade: Zifione, e Hagui, e Sune, e Ezbone, e Eri, e Aréli, e Arode – oito."
+    },
+    {
+      "verse": 21,
+      "text": "E os filhos de Aser foram: Imná, e Isvã, e Isvi, e Bériá, e Sera, a irmã deles; assim foram seis."
+    },
+    {
+      "verse": 22,
+      "text": "Todas as almas foram catorze, e todas as de Lia foram quarenta e quatro."
+    },
+    {
+      "verse": 23,
+      "text": "E os filhos de Raquel, esposa de Jacó: José e Benjamim."
+    },
+    {
+      "verse": 24,
+      "text": "E José teve em Egito os filhos que lhe nasceram de Asnate, filha de Potifar, sacerdote de Héliópolis: Manassés e Efraim, sendo três."
+    },
+    {
+      "verse": 25,
+      "text": "E os filhos de Benjamim foram: Bela e Bequer, e Asbel, Gera, e Naamã, e Éi, e Res, e Mupfim, e Hufpim, e Arde; estes foram onze."
+    },
+    {
+      "verse": 26,
+      "text": "E todas as almas de Raquel foram catorze."
+    },
+    {
+      "verse": 27,
+      "text": "E os filhos de Bila, a serva de Raquel, esposa de JacÃ³, que ela lhe deu Ã luz, foram DÃ£ e Naftali."
+    },
+    {
+      "verse": 28,
+      "text": "E estes são os nomes dos seus filhos que foram com eles para o Egito: Os filhos de Dã foram Husim, e Samom, e Asude, e Ijacá, e Salmom; seis."
+    },
+    {
+      "verse": 29,
+      "text": "E morreram naquele ano em que entraram na Egito, e restou a Dan apenas Hushim."
+    },
+    {
+      "verse": 30,
+      "text": "E estes são os nomes dos filhos de Naftali: Jasiel, e Guni, e Jezer, e Salum, e Iú."
+    },
+    {
+      "verse": 31,
+      "text": "E Iv, que nasceu após os anos de fome, faleceu no Egito."
+    },
+    {
+      "verse": 32,
+      "text": "E todas as almas de Raquel foram vinte e seis."
+    },
+    {
+      "verse": 33,
+      "text": "E todas as almas de Jacó que foram para o Egito eram setenta almas. Estes são seus filhos e os filhos de seus filhos, sendo em tudo setenta; mas cinco morreram no Egito antes de José, e não tiveram filhos."
+    },
+    {
+      "verse": 34,
+      "text": "Na terra de Canaã, dois filhos de Judá morreram, Er e Onan, e não deixaram descendência; os filhos de Israel sepultaram aqueles que pereceram, e foram contados entre as setenta nações gentias."
+    }
+  ]
 }

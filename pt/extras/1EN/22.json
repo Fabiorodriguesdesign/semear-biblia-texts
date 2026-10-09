@@ -1,68 +1,68 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  22,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/22",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E dali parti para outro lugar, e ali me mostrou ao ocidente outra grande e alta montanha, de rocha dura."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E nele havia quatro cavidades, profundas e amplas, e muito lisas; quÃ£o lisas sÃ£o as cavidades, profundas e escuras, para contemplar."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "EntÃ£o, Rafael, um dos anjos santos que estava comigo, respondeu-me, dizendo:"
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Estes lugares vazios foram criados para este propÃ³sito mesmo, para que as almas dos mortos ali se reÃºnessem, sim, para que todas as almas dos filhos dos homens se juntassem aqui. E estes lugares foram feitos para os receber atÃ© o dia do seu juÃ­zo e atÃ© o perÃ­odo determinado, atÃ© o tempo estabelecido, atÃ© que venha sobre eles o grande juÃ­zo."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E vi as almas dos filhos dos homens que haviam morrido, e a sua voz subiu ao cÃ©u, implorando."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "EntÃ£o eu perguntei a Rafael, o anjo que estava comigo, e disse-lhe: \"Este espÃ­rito, de quem Ã© a voz que se manifesta e suplica?\"."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E ele respondeu a mim, dizendo: \"Este Ã© o espÃ­rito que partiu de Abel, a quem seu irmÃ£o Caim assassinou, e ele apresenta sua causa contra ele atÃ© que sua descendÃªncia seja destruÃ­da da face da terra, e sua linhagem seja aniquilada entre a descendÃªncia dos homens.\""
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E eu perguntei sobre isso, e sobre todos os lugares vazios: Por que estÃ£o separados uns dos outros?"
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E ele respondeu-me, dizendo: \"Estas trÃªs coisas foram criadas para que os espÃ­ritos dos mortos pudessem ser separados; e tal separaÃ§Ã£o foi feita para os espÃ­ritos dos justos, na qual hÃ¡ uma fonte de Ã¡gua luminosa.\""
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E assim Ã© concedido aos pecadores quando morrem e sÃ£o sepultados na terra, antes que o juÃ­zo seja executado sobre eles em vida."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "Aqui serÃ£o separados seus espÃ­ritos nesta grande angÃºstia atÃ© o grande dia do juÃ­zo, da puniÃ§Ã£o e da tormenta daqueles que amaldiÃ§oam para sempre, e haverÃ¡ retribuiÃ§Ã£o para seus espÃ­ritos. Ali Ele os prenderÃ¡ para todo o sempre."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E tal divisÃ£o foi estabelecida para as almas daqueles que apresentam suas petiÃ§Ãµes, os quais revelam os fatos concernentes Ã sua destruiÃ§Ã£o, quando foram mortos nos dias dos Ã­mpios."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "Assim foram criados os espÃ­ritos dos homens que nÃ£o eram justos, mas pecadores, completos em transgressÃ£o e transgressores; eles serÃ£o companheiros, mas seus espÃ­ritos nÃ£o serÃ£o mortos no dia do juÃ­zo, nem serÃ£o levantados dali."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "EntÃ£o, eu bendissei ao Senhor da glÃ³ria e disse: \"Bendito seja o meu Senhor, o Senhor da justiÃ§a, que reina para todo o sempre.\""
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 22,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/22",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E dali parti para outro lugar, e ali me mostrou ao ocidente outra grande e alta montanha, de rocha dura."
+    },
+    {
+      "verse": 2,
+      "text": "E nele havia quatro cavidades, profundas e amplas, e muito lisas; quão lisas são as cavidades, profundas e escuras, para contemplar."
+    },
+    {
+      "verse": 3,
+      "text": "Então, Rafael, um dos anjos santos que estava comigo, respondeu-me, dizendo:"
+    },
+    {
+      "verse": 4,
+      "text": "Estes lugares vazios foram criados para este propósito mesmo, para que as almas dos mortos ali se reúnessem, sim, para que todas as almas dos filhos dos homens se juntassem aqui. E estes lugares foram feitos para os receber até o dia do seu juízo e até o período determinado, até o tempo estabelecido, até que venha sobre eles o grande juízo."
+    },
+    {
+      "verse": 5,
+      "text": "E vi as almas dos filhos dos homens que haviam morrido, e a sua voz subiu ao céu, implorando."
+    },
+    {
+      "verse": 6,
+      "text": "Então eu perguntei a Rafael, o anjo que estava comigo, e disse-lhe: \"Este espírito, de quem é a voz que se manifesta e suplica?\"."
+    },
+    {
+      "verse": 7,
+      "text": "E ele respondeu a mim, dizendo: \"Este é o espírito que partiu de Abel, a quem seu irmão Caim assassinou, e ele apresenta sua causa contra ele até que sua descendência seja destruída da face da terra, e sua linhagem seja aniquilada entre a descendência dos homens.\""
+    },
+    {
+      "verse": 8,
+      "text": "E eu perguntei sobre isso, e sobre todos os lugares vazios: Por que estão separados uns dos outros?"
+    },
+    {
+      "verse": 9,
+      "text": "E ele respondeu-me, dizendo: \"Estas três coisas foram criadas para que os espíritos dos mortos pudessem ser separados; e tal separação foi feita para os espíritos dos justos, na qual há uma fonte de água luminosa.\""
+    },
+    {
+      "verse": 10,
+      "text": "E assim é concedido aos pecadores quando morrem e são sepultados na terra, antes que o juízo seja executado sobre eles em vida."
+    },
+    {
+      "verse": 11,
+      "text": "Aqui serão separados seus espíritos nesta grande angústia até o grande dia do juízo, da punição e da tormenta daqueles que amaldiçoam para sempre, e haverá retribuição para seus espíritos. Ali Ele os prenderá para todo o sempre."
+    },
+    {
+      "verse": 12,
+      "text": "E tal divisÃ£o foi estabelecida para as almas daqueles que apresentam suas petiÃ§Ãµes, os quais revelam os fatos concernentes Ã sua destruiÃ§Ã£o, quando foram mortos nos dias dos Ã­mpios."
+    },
+    {
+      "verse": 13,
+      "text": "Assim foram criados os espíritos dos homens que não eram justos, mas pecadores, completos em transgressão e transgressores; eles serão companheiros, mas seus espíritos não serão mortos no dia do juízo, nem serão levantados dali."
+    },
+    {
+      "verse": 14,
+      "text": "Então, eu bendissei ao Senhor da glória e disse: \"Bendito seja o meu Senhor, o Senhor da justiça, que reina para todo o sempre.\""
+    }
+  ]
 }

@@ -1,52 +1,52 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  81,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/81",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E disse a mim: \"Observa, Enoque, estas tÃ¡buas celestiais, e lÃª o que estÃ¡ escrito nelas, e assinala cada fato individual.\""
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E eu observei as tÃ¡buas celestiais, e li tudo o que estava escrito nelas, e compreendi tudo, e li o livro de todos os atos da humanidade, e de todos os filhos da carne que hÃ£o de habitar sobre a terra atÃ© Ã s geraÃ§Ãµes mais remotas."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E logo eu bendisse ao grande Senhor, Rei da glÃ³ria para sempre, porquanto Ele fez todas as obras do mundo, e eu louvei ao Senhor por sua paciÃªncia, e o abenÃ§oei pelos filhos dos homens."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E depois disso eu disse: \"Bem-aventurado Ã© o homem que morre em justiÃ§a e bondade, a respeito do qual nÃ£o hÃ¡ livro de iniquidade escrito, e contra quem nenhum dia de juÃ­zo serÃ¡ encontrado\"."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E aqueles sete santos me trouxeram e me colocaram na terra, diante da porta de minha casa, e disseram a mim: \"Declara tudo a teu filho MatusalÃ©m, e mostra a todos teus filhos que nenhuma carne Ã© justa aos olhos do Senhor, pois Ele Ã© o Criador deles.\""
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E no ano que virÃ¡, deixaremos-te com teu filho, atÃ© que des possas dar vossas Ãºltimas instruÃ§Ãµes, para que possais ensinar a vossos filhos e registrar isto para eles, e testemunhar perante todos vossos filhos; e no segundo ano, retirÃ¡-los-emos do meio de vÃ³s."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Fortalece teu coraÃ§Ã£o, pois o justo proclamarÃ¡ a justiÃ§a aos justos; os justos alegrar-se-Ã£o juntos e darÃ£o felicitaÃ§Ãµes uns aos outros."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "Mas os pecadores morrerÃ£o com os pecadores, e o herege perecerÃ¡ com o herege."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E aqueles que praticam a justiÃ§a morrerÃ£o por causa das obras dos homens, e serÃ£o levados embora por causa das aÃ§Ãµes dos impÃ­deos."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E naqueles dias, cessaram de falar comigo, e voltei ao meu povo, bendizendo o Senhor do mundo."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 81,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/81",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E disse a mim: \"Observa, Enoque, estas tábuas celestiais, e lê o que está escrito nelas, e assinala cada fato individual.\""
+    },
+    {
+      "verse": 2,
+      "text": "E eu observei as tÃ¡buas celestiais, e li tudo o que estava escrito nelas, e compreendi tudo, e li o livro de todos os atos da humanidade, e de todos os filhos da carne que hÃ£o de habitar sobre a terra atÃ© Ã s geraÃ§Ãµes mais remotas."
+    },
+    {
+      "verse": 3,
+      "text": "E logo eu bendisse ao grande Senhor, Rei da glória para sempre, porquanto Ele fez todas as obras do mundo, e eu louvei ao Senhor por sua paciência, e o abençoei pelos filhos dos homens."
+    },
+    {
+      "verse": 4,
+      "text": "E depois disso eu disse: \"Bem-aventurado é o homem que morre em justiça e bondade, a respeito do qual não há livro de iniquidade escrito, e contra quem nenhum dia de juízo será encontrado\"."
+    },
+    {
+      "verse": 5,
+      "text": "E aqueles sete santos me trouxeram e me colocaram na terra, diante da porta de minha casa, e disseram a mim: \"Declara tudo a teu filho Matusalém, e mostra a todos teus filhos que nenhuma carne é justa aos olhos do Senhor, pois Ele é o Criador deles.\""
+    },
+    {
+      "verse": 6,
+      "text": "E no ano que virá, deixaremos-te com teu filho, até que des possas dar vossas últimas instruções, para que possais ensinar a vossos filhos e registrar isto para eles, e testemunhar perante todos vossos filhos; e no segundo ano, retirá-los-emos do meio de vós."
+    },
+    {
+      "verse": 7,
+      "text": "Fortalece teu coração, pois o justo proclamará a justiça aos justos; os justos alegrar-se-ão juntos e darão felicitações uns aos outros."
+    },
+    {
+      "verse": 8,
+      "text": "Mas os pecadores morrerão com os pecadores, e o herege perecerá com o herege."
+    },
+    {
+      "verse": 9,
+      "text": "E aqueles que praticam a justiça morrerão por causa das obras dos homens, e serão levados embora por causa das ações dos impídeos."
+    },
+    {
+      "verse": 10,
+      "text": "E naqueles dias, cessaram de falar comigo, e voltei ao meu povo, bendizendo o Senhor do mundo."
+    }
+  ]
 }

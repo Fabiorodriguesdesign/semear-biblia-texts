@@ -1,112 +1,112 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  42,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/42",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E no primeiro ano da terceira semana do quadragÃ©simo quinto jubileu, a fome comeÃ§ou a assolar a terra, e a chuva se recusou a cair sobre ela, pois nenhuma sequer houve."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E a terra tornou-se estÃ©ril, mas na terra do Egito havia alimento, pois JosÃ© havia recolhido a semente da terra nos sete anos de fartura e a guardara."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E os egÃ­pcios vieram a JosÃ©, para que lhe comprassem comida, e ele abriu os celeiros onde estava o grÃ£o do primeiro ano, e o vendeu ao povo da terra por ouro."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E a fome era grande na terra de CanaÃ£, e JacÃ³ ouviu que havia comida no Egito, e enviou seus dez filhos para obterem mantimentos para ele no Egito; mas Benjamim nÃ£o enviou, e os dez filhos de JacÃ³ chegaram ao Egito entre aqueles que ali se dirigiam."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E JosÃ© reconheceu aqueles homens, mas eles nÃ£o o reconheceram; e ele lhes falou e os interrogou, e disse-lhes: NÃ£o sois vÃ³s espias, e nÃ£o viestes para espreitar a terra? E ele os aprisionou."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E depois disso, libertou-os novamente, mas reteve apenas a SimeÃ£o, enviando seus nove irmÃ£os."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E ele encheu as suas sacas de trigo, e pÃ´s o seu dinheiro nas sacas, e eles nÃ£o sabiam."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E ordenou que trouxessem seu irmÃ£o mais novo, pois haviam lhe dito que seu pai ainda vivia e que tinham um irmÃ£o mais novo."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E eles ascenderam da terra do Egito e chegaram Ã terra de CanaÃ£; e relataram a seu pai tudo o que lhes acontecera, e como o senhor daquela regiÃ£o lhes falou asperamente, e tomou SimeÃ£o atÃ© que trouxessem Benjamim."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E JacÃ³ disse: VÃ³s me tendes despojado dos meus filhos! JosÃ© nÃ£o estÃ¡ e SimeÃ£o tambÃ©m nÃ£o, e vÃ³s levareis Benjamim. Sobre mim caiu a vossa iniquidade."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E ele disse: Meu filho nÃ£o descerÃ¡ convosco, para que porventura nÃ£o adoecesse; pois a mÃ£e deles gerou dois filhos, e um pereceu, e este tambÃ©m vÃ³s me tirareis. Se acaso ele ficasse doente no caminho, a minha velhice seria tragada pela tristeza atÃ© Ã morte."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "Pois viu que o dinheiro de cada um fora restituÃ­do em sua bolsa, e por esta razÃ£o temeu enviÃ¡-lo."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E a fome aumentou e se tornou severa na terra de CanaÃ£, e em todas as terras, exceto na terra do Egito, pois muitos dos filhos dos egÃ­pcios haviam armazenado suas sementes para alimento desde o tempo em que viram JosÃ© coletando sementes e guardando-as em celeiros, preservando-as para os anos de fome."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E o povo do Egito alimentou-se com ele durante o primeiro ano da sua fome."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "Mas quando Israel viu que a fome era muito grande na terra e nÃ£o havia alÃ­vio, disse aos seus filhos: Ide, e busquei alimento para nÃ³s, para que nÃ£o morramos."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E disseram eles: NÃ£o iremos; se o nosso irmÃ£o mais novo nÃ£o for conosco, nÃ£o iremos."
-                   },
-                   {
-                       "verse":  17,
-                       "text":  "E Israel viu que, se nÃ£o o enviasse com eles, todos pereceriam por causa da fome."
-                   },
-                   {
-                       "verse":  18,
-                       "text":  "E RÃºben disse: Entregai-o Ã minha mÃ£o, e se eu nÃ£o o trouxer de volta para vÃ³s, matei os meus dois filhos em lugar da sua alma. E ele lhe disse: Ele nÃ£o irÃ¡ contigo."
-                   },
-                   {
-                       "verse":  19,
-                       "text":  "E JudÃ¡ aproximou-se e disse: Envia-o comigo, e se eu nÃ£o o trouxer de volta para ti, que eu sofra a culpa perante vÃ³s todos os dias da minha vida."
-                   },
-                   {
-                       "verse":  20,
-                       "text":  "E enviou-o com eles no segundo ano daquela semana, no primeiro dia do mÃªs, e vieram Ã terra do Egito com todos os que partiram, e traziam consigo presentes: bÃ¡lsamo, amÃªndoas, nozes de terebinto e mel puro."
-                   },
-                   {
-                       "verse":  21,
-                       "text":  "E eles foram e se apresentaram perante JosÃ©, o qual viu a Benjamim, seu irmÃ£o, e o reconheceu, e lhes disse: Ã este vosso irmÃ£o menor? E eles lhe responderam: Este Ã© ele. E JosÃ© disse: Que o Senhor vos seja gracioso, meus filhos!"
-                   },
-                   {
-                       "verse":  22,
-                       "text":  "E enviou-o para sua casa, e trouxe SimeÃ£o diante deles, e fez um banquete em sua honra, e apresentaram-lhe os presentes que traziam em suas mÃ£os."
-                   },
-                   {
-                       "verse":  23,
-                       "text":  "E comeram perante ele, e ele deu-lhes a todos uma porÃ§Ã£o, mas a porÃ§Ã£o de Benjamim era sete vezes maior que a de qualquer um dos outros."
-                   },
-                   {
-                       "verse":  24,
-                       "text":  "E comeram e beberam, e se levantaram, e permaneceram com os seus jumentos."
-                   },
-                   {
-                       "verse":  25,
-                       "text":  "E JosÃ© tramou um plano para saber se havia paz entre eles, e disse ao administrador de sua casa: Enche todos os seus sacos com comida, e devolve-lhes o dinheiro nos seus recipientes; e minha taÃ§a, a taÃ§a de prata da qual bebo, coloque-a no saco do mais jovem, e envia-os embora."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 42,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/42",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E no primeiro ano da terceira semana do quadragésimo quinto jubileu, a fome começou a assolar a terra, e a chuva se recusou a cair sobre ela, pois nenhuma sequer houve."
+    },
+    {
+      "verse": 2,
+      "text": "E a terra tornou-se estéril, mas na terra do Egito havia alimento, pois José havia recolhido a semente da terra nos sete anos de fartura e a guardara."
+    },
+    {
+      "verse": 3,
+      "text": "E os egípcios vieram a José, para que lhe comprassem comida, e ele abriu os celeiros onde estava o grão do primeiro ano, e o vendeu ao povo da terra por ouro."
+    },
+    {
+      "verse": 4,
+      "text": "E a fome era grande na terra de Canaã, e Jacó ouviu que havia comida no Egito, e enviou seus dez filhos para obterem mantimentos para ele no Egito; mas Benjamim não enviou, e os dez filhos de Jacó chegaram ao Egito entre aqueles que ali se dirigiam."
+    },
+    {
+      "verse": 5,
+      "text": "E José reconheceu aqueles homens, mas eles não o reconheceram; e ele lhes falou e os interrogou, e disse-lhes: Não sois vós espias, e não viestes para espreitar a terra? E ele os aprisionou."
+    },
+    {
+      "verse": 6,
+      "text": "E depois disso, libertou-os novamente, mas reteve apenas a Simeão, enviando seus nove irmãos."
+    },
+    {
+      "verse": 7,
+      "text": "E ele encheu as suas sacas de trigo, e pôs o seu dinheiro nas sacas, e eles não sabiam."
+    },
+    {
+      "verse": 8,
+      "text": "E ordenou que trouxessem seu irmão mais novo, pois haviam lhe dito que seu pai ainda vivia e que tinham um irmão mais novo."
+    },
+    {
+      "verse": 9,
+      "text": "E eles ascenderam da terra do Egito e chegaram Ã terra de CanaÃ£; e relataram a seu pai tudo o que lhes acontecera, e como o senhor daquela regiÃ£o lhes falou asperamente, e tomou SimeÃ£o atÃ© que trouxessem Benjamim."
+    },
+    {
+      "verse": 10,
+      "text": "E Jacó disse: Vós me tendes despojado dos meus filhos! José não está e Simeão também não, e vós levareis Benjamim. Sobre mim caiu a vossa iniquidade."
+    },
+    {
+      "verse": 11,
+      "text": "E ele disse: Meu filho nÃ£o descerÃ¡ convosco, para que porventura nÃ£o adoecesse; pois a mÃ£e deles gerou dois filhos, e um pereceu, e este tambÃ©m vÃ³s me tirareis. Se acaso ele ficasse doente no caminho, a minha velhice seria tragada pela tristeza atÃ© Ã morte."
+    },
+    {
+      "verse": 12,
+      "text": "Pois viu que o dinheiro de cada um fora restituído em sua bolsa, e por esta razão temeu enviá-lo."
+    },
+    {
+      "verse": 13,
+      "text": "E a fome aumentou e se tornou severa na terra de Canaã, e em todas as terras, exceto na terra do Egito, pois muitos dos filhos dos egípcios haviam armazenado suas sementes para alimento desde o tempo em que viram José coletando sementes e guardando-as em celeiros, preservando-as para os anos de fome."
+    },
+    {
+      "verse": 14,
+      "text": "E o povo do Egito alimentou-se com ele durante o primeiro ano da sua fome."
+    },
+    {
+      "verse": 15,
+      "text": "Mas quando Israel viu que a fome era muito grande na terra e não havia alívio, disse aos seus filhos: Ide, e busquei alimento para nós, para que não morramos."
+    },
+    {
+      "verse": 16,
+      "text": "E disseram eles: Não iremos; se o nosso irmão mais novo não for conosco, não iremos."
+    },
+    {
+      "verse": 17,
+      "text": "E Israel viu que, se não o enviasse com eles, todos pereceriam por causa da fome."
+    },
+    {
+      "verse": 18,
+      "text": "E RÃºben disse: Entregai-o Ã minha mÃ£o, e se eu nÃ£o o trouxer de volta para vÃ³s, matei os meus dois filhos em lugar da sua alma. E ele lhe disse: Ele nÃ£o irÃ¡ contigo."
+    },
+    {
+      "verse": 19,
+      "text": "E Judá aproximou-se e disse: Envia-o comigo, e se eu não o trouxer de volta para ti, que eu sofra a culpa perante vós todos os dias da minha vida."
+    },
+    {
+      "verse": 20,
+      "text": "E enviou-o com eles no segundo ano daquela semana, no primeiro dia do mÃªs, e vieram Ã terra do Egito com todos os que partiram, e traziam consigo presentes: bÃ¡lsamo, amÃªndoas, nozes de terebinto e mel puro."
+    },
+    {
+      "verse": 21,
+      "text": "E eles foram e se apresentaram perante José, o qual viu a Benjamim, seu irmão, e o reconheceu, e lhes disse: É este vosso irmão menor? E eles lhe responderam: Este é ele. E José disse: Que o Senhor vos seja gracioso, meus filhos!"
+    },
+    {
+      "verse": 22,
+      "text": "E enviou-o para sua casa, e trouxe Simeão diante deles, e fez um banquete em sua honra, e apresentaram-lhe os presentes que traziam em suas mãos."
+    },
+    {
+      "verse": 23,
+      "text": "E comeram perante ele, e ele deu-lhes a todos uma porção, mas a porção de Benjamim era sete vezes maior que a de qualquer um dos outros."
+    },
+    {
+      "verse": 24,
+      "text": "E comeram e beberam, e se levantaram, e permaneceram com os seus jumentos."
+    },
+    {
+      "verse": 25,
+      "text": "E José tramou um plano para saber se havia paz entre eles, e disse ao administrador de sua casa: Enche todos os seus sacos com comida, e devolve-lhes o dinheiro nos seus recipientes; e minha taça, a taça de prata da qual bebo, coloque-a no saco do mais jovem, e envia-os embora."
+    }
+  ]
 }

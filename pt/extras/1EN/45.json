@@ -1,36 +1,36 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  45,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/45",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E esta Ã© a segunda parÃ¡bola acerca daqueles que negam o nome da morada dos santos e do Senhor dos EspÃ­ritos."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E aos cÃ©us nÃ£o ascenderÃ£o, nem Ã terra virÃ£o; tal serÃ¡ a sorte dos pecadores, que negaram o nome do Senhor dos EspÃ­ritos, e que, assim, sÃ£o preservados para o dia da afliÃ§Ã£o e da tribulaÃ§Ã£o."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "Naquele dia, o Meu Escolhido assentarÃ¡ no trono da glÃ³ria, e julgarÃ¡ as suas obras, e os seus lugares de descanso serÃ£o incontÃ¡veis. E as suas almas se fortalecerÃ£o dentro deles quando virem os Meus Eleitos, e aqueles que invocarÃ£o o Meu nome glorioso."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "EntÃ£o farei que o Meu Escolhido habite no meio deles, e transformarei os cÃ©us, tornando-os uma bÃªnÃ§Ã£o e luz eternas."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E eu transformarei a terra, tornando-a uma bÃªnÃ§Ã£o; e farei que os meus escolhidos nela habitem; mas os pecadores e os malfeitores nÃ£o pisarÃ£o sobre ela."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "Pois Eu saciarei de paz os Meus justos, e os farei habitar perante Mim; mas para os pecadores hÃ¡ juÃ­zo que se aproxima, para que eu os destrua da face da terra."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 45,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/45",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E esta é a segunda parábola acerca daqueles que negam o nome da morada dos santos e do Senhor dos Espíritos."
+    },
+    {
+      "verse": 2,
+      "text": "E aos cÃ©us nÃ£o ascenderÃ£o, nem Ã terra virÃ£o; tal serÃ¡ a sorte dos pecadores, que negaram o nome do Senhor dos EspÃ­ritos, e que, assim, sÃ£o preservados para o dia da afliÃ§Ã£o e da tribulaÃ§Ã£o."
+    },
+    {
+      "verse": 3,
+      "text": "Naquele dia, o Meu Escolhido assentará no trono da glória, e julgará as suas obras, e os seus lugares de descanso serão incontáveis. E as suas almas se fortalecerão dentro deles quando virem os Meus Eleitos, e aqueles que invocarão o Meu nome glorioso."
+    },
+    {
+      "verse": 4,
+      "text": "Então farei que o Meu Escolhido habite no meio deles, e transformarei os céus, tornando-os uma bênção e luz eternas."
+    },
+    {
+      "verse": 5,
+      "text": "E eu transformarei a terra, tornando-a uma bênção; e farei que os meus escolhidos nela habitem; mas os pecadores e os malfeitores não pisarão sobre ela."
+    },
+    {
+      "verse": 6,
+      "text": "Pois Eu saciarei de paz os Meus justos, e os farei habitar perante Mim; mas para os pecadores há juízo que se aproxima, para que eu os destrua da face da terra."
+    }
+  ]
 }

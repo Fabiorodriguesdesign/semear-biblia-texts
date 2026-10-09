@@ -1,48 +1,48 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  1,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/1",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "As palavras da bÃªnÃ§Ã£o de Enoque, com as quais ele abenÃ§oou os escolhidos e justos, que habitarÃ£o no dia da tribulaÃ§Ã£o, quando todos os Ã­mpios e Ã­mpÃ­os serÃ£o removidos."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E ele comeÃ§ou seu discurso, dizendo: Enoque, homem justo, cujos olhos foram abertos por Deus, viu a visÃ£o do Santo nos cÃ©us, que os anjos me mostraram, e deles ouvi tudo, e deles compreendi como vi, mas nÃ£o para esta geraÃ§Ã£o, mas para uma geraÃ§Ã£o futura."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "A respeito dos escolhidos, eu falei, e formulei minha parÃ¡bola a respeito deles: O Santo, o Todo-Poderoso, hÃ¡ de sair do seu lugar."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E o Deus eterno pisarÃ¡ sobre a terra, atÃ© mesmo no Monte Sinai, e manifestar-se-Ã¡ do Seu acampamento, e aparecerÃ¡ na forÃ§a do Seu poder dos cÃ©us dos cÃ©us."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E todos serÃ£o tomados de temor, e os Vigilantes tremerÃ£o, e grande medo e espanto os assombrarÃ£o atÃ© os confins da terra."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E os montes altos serÃ£o abalados, e os colinas exaltadas serÃ£o rebaixadas, e derreterÃ£o como cera diante do fogo."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E a terra serÃ¡ inteiramente fendida, e tudo o que hÃ¡ sobre a terra perecerÃ¡, e haverÃ¡ um juÃ­zo sobre todos os homens."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "Mas com os justos Ele farÃ¡ paz, e protegerÃ¡ os escolhidos, e misericÃ³rdia lhes serÃ¡ concedida; e todos pertencerÃ£o a Deus, e serÃ£o prosperados, e todos serÃ£o abenÃ§oados; e Ele os ajudarÃ¡ a todos, e luz lhes aparecerÃ¡, e Ele farÃ¡ paz com eles."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E eis que Ele vem com dez mil de seus santos, para executar juÃ­zo sobre todos e para destruir todos os Ã­mpios; e para condenar toda a carne por todas as obras de sua impiedade que praticaram, e por todas as palavras blasfemas que os pecadores Ã­mpios proferiram contra Ele."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 1,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/1",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "As palavras da bênção de Enoque, com as quais ele abençoou os escolhidos e justos, que habitarão no dia da tribulação, quando todos os ímpios e ímpíos serão removidos."
+    },
+    {
+      "verse": 2,
+      "text": "E ele começou seu discurso, dizendo: Enoque, homem justo, cujos olhos foram abertos por Deus, viu a visão do Santo nos céus, que os anjos me mostraram, e deles ouvi tudo, e deles compreendi como vi, mas não para esta geração, mas para uma geração futura."
+    },
+    {
+      "verse": 3,
+      "text": "A respeito dos escolhidos, eu falei, e formulei minha parábola a respeito deles: O Santo, o Todo-Poderoso, há de sair do seu lugar."
+    },
+    {
+      "verse": 4,
+      "text": "E o Deus eterno pisará sobre a terra, até mesmo no Monte Sinai, e manifestar-se-á do Seu acampamento, e aparecerá na força do Seu poder dos céus dos céus."
+    },
+    {
+      "verse": 5,
+      "text": "E todos serão tomados de temor, e os Vigilantes tremerão, e grande medo e espanto os assombrarão até os confins da terra."
+    },
+    {
+      "verse": 6,
+      "text": "E os montes altos serão abalados, e os colinas exaltadas serão rebaixadas, e derreterão como cera diante do fogo."
+    },
+    {
+      "verse": 7,
+      "text": "E a terra será inteiramente fendida, e tudo o que há sobre a terra perecerá, e haverá um juízo sobre todos os homens."
+    },
+    {
+      "verse": 8,
+      "text": "Mas com os justos Ele fará paz, e protegerá os escolhidos, e misericórdia lhes será concedida; e todos pertencerão a Deus, e serão prosperados, e todos serão abençoados; e Ele os ajudará a todos, e luz lhes aparecerá, e Ele fará paz com eles."
+    },
+    {
+      "verse": 9,
+      "text": "E eis que Ele vem com dez mil de seus santos, para executar juízo sobre todos e para destruir todos os ímpios; e para condenar toda a carne por todas as obras de sua impiedade que praticaram, e por todas as palavras blasfemas que os pecadores ímpios proferiram contra Ele."
+    }
+  ]
 }

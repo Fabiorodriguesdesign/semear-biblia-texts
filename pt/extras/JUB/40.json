@@ -1,64 +1,64 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  40,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/40",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E naqueles dias, o FaraÃ³ sonhou dois sonhos numa mesma noite, acerca de uma fome que viria sobre toda a terra; e despertou do seu sono, e chamou todos os intÃ©rpretes de sonhos que havia no Egito, e os magos, e lhes contou os seus dois sonhos, mas eles nÃ£o puderam interpretÃ¡-los."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E entÃ£o o chefe dos copeiros recordou de JosÃ© e falou dele ao rei, e o trouxe para fora da prisÃ£o, e lhe declarou os seus dois sonhos."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E disse perante o FaraÃ³ que os seus dois sonhos eram um sÃ³, e lhe declarou: \"Sete anos virÃ£o em que haverÃ¡ fartura em toda a terra do Egito, e depois disso sete anos de fome, tal como nÃ£o houve em toda a terra.\""
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E agora, que o FaraÃ³ nomeie supervisores em toda a terra do Egito, e que estes ajuntem mantimentos em cada cidade durante os anos de fartura, para que haja provisÃ£o para os sete anos de fome, e a terra nÃ£o seja devastada pela fome, pois esta serÃ¡ muito severa."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E o Senhor concedeu a JosÃ© graÃ§a e misericÃ³rdia aos olhos de FaraÃ³, e FaraÃ³ disse aos seus servos: \"NÃ£o encontraremos homem tÃ£o sÃ¡bio e prudente como este; pois o espÃ­rito do Senhor estÃ¡ com ele.\""
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E constituiu-o segundo em todo o seu reino, e lhe deu autoridade sobre toda a terra do Egito, e ordenou que andasse na segunda carruagem do FaraÃ³."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E vestiu-o com vestes de linho fino, e pÃ´s sobre o seu pescoÃ§o uma corrente de ouro, e um arauto clamou perante ele: \"El, El e Abirer\", e colocou-lhe um anel na mÃ£o, e fez-no governador sobre toda a sua casa, e exaltou-o, e disse-lhe: \"Somente no trono serei maior do que tu.\""
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E JosÃ© governou sobre toda a terra do Egito, e sobre todos os prÃ­ncipes de FaraÃ³, e sobre todos os seus servos; e todos aqueles que faziam os negÃ³cios do rei o amavam, porque andava na retidÃ£o, pois nÃ£o era orgulhoso nem arrogante, e nÃ£o fazia acepÃ§Ã£o de pessoas, e nÃ£o recebia presentes, mas julgava com justiÃ§a todo o povo da terra."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E a terra do Egito esteve em paz sob o governo de FaraÃ³ por causa de JosÃ©, pois o Senhor estava com ele, e lhe concedeu favor e misericÃ³rdia para todas as suas geraÃ§Ãµes, perante todos aqueles que o conheciam e os que ouviam falar dele; e o reino de FaraÃ³ foi bem administrado, e nÃ£o havia ali SatanÃ¡s nem pessoa mÃ¡."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E o rei chamou o nome de JosÃ©, Sephantifanes, e deu a JosÃ© por esposa a filha de Potifar, filha do sacerdote de HÃ©liÃ³polis, o principal cozinheiro."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E no dia em que JosÃ© se apresentou perante FaraÃ³, ele tinha trinta anos."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E naquele ano, Isaque morreu. E aconteceu como JosÃ© havia dito na interpretaÃ§Ã£o de seus dois sonhos, conforme ele havia declarado: houve sete anos de fartura em toda a terra do Egito, e a terra do Egito produziu abundantemente, uma medida produzindo mil e oitocentos medidas."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E JosÃ© recolheu mantimentos em todas as cidades, atÃ© que estas se enchessem de trigo, a tal ponto que jÃ¡ nÃ£o era possÃ­vel contar ou medir a sua imensa quantidade."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 40,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/40",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E naqueles dias, o Faraó sonhou dois sonhos numa mesma noite, acerca de uma fome que viria sobre toda a terra; e despertou do seu sono, e chamou todos os intérpretes de sonhos que havia no Egito, e os magos, e lhes contou os seus dois sonhos, mas eles não puderam interpretá-los."
+    },
+    {
+      "verse": 2,
+      "text": "E então o chefe dos copeiros recordou de José e falou dele ao rei, e o trouxe para fora da prisão, e lhe declarou os seus dois sonhos."
+    },
+    {
+      "verse": 3,
+      "text": "E disse perante o Faraó que os seus dois sonhos eram um só, e lhe declarou: \"Sete anos virão em que haverá fartura em toda a terra do Egito, e depois disso sete anos de fome, tal como não houve em toda a terra.\""
+    },
+    {
+      "verse": 4,
+      "text": "E agora, que o Faraó nomeie supervisores em toda a terra do Egito, e que estes ajuntem mantimentos em cada cidade durante os anos de fartura, para que haja provisão para os sete anos de fome, e a terra não seja devastada pela fome, pois esta será muito severa."
+    },
+    {
+      "verse": 5,
+      "text": "E o Senhor concedeu a José graça e misericórdia aos olhos de Faraó, e Faraó disse aos seus servos: \"Não encontraremos homem tão sábio e prudente como este; pois o espírito do Senhor está com ele.\""
+    },
+    {
+      "verse": 6,
+      "text": "E constituiu-o segundo em todo o seu reino, e lhe deu autoridade sobre toda a terra do Egito, e ordenou que andasse na segunda carruagem do Faraó."
+    },
+    {
+      "verse": 7,
+      "text": "E vestiu-o com vestes de linho fino, e pôs sobre o seu pescoço uma corrente de ouro, e um arauto clamou perante ele: \"El, El e Abirer\", e colocou-lhe um anel na mão, e fez-no governador sobre toda a sua casa, e exaltou-o, e disse-lhe: \"Somente no trono serei maior do que tu.\""
+    },
+    {
+      "verse": 8,
+      "text": "E José governou sobre toda a terra do Egito, e sobre todos os príncipes de Faraó, e sobre todos os seus servos; e todos aqueles que faziam os negócios do rei o amavam, porque andava na retidão, pois não era orgulhoso nem arrogante, e não fazia acepção de pessoas, e não recebia presentes, mas julgava com justiça todo o povo da terra."
+    },
+    {
+      "verse": 9,
+      "text": "E a terra do Egito esteve em paz sob o governo de Faraó por causa de José, pois o Senhor estava com ele, e lhe concedeu favor e misericórdia para todas as suas gerações, perante todos aqueles que o conheciam e os que ouviam falar dele; e o reino de Faraó foi bem administrado, e não havia ali Satanás nem pessoa má."
+    },
+    {
+      "verse": 10,
+      "text": "E o rei chamou o nome de José, Sephantifanes, e deu a José por esposa a filha de Potifar, filha do sacerdote de Héliópolis, o principal cozinheiro."
+    },
+    {
+      "verse": 11,
+      "text": "E no dia em que José se apresentou perante Faraó, ele tinha trinta anos."
+    },
+    {
+      "verse": 12,
+      "text": "E naquele ano, Isaque morreu. E aconteceu como José havia dito na interpretação de seus dois sonhos, conforme ele havia declarado: houve sete anos de fartura em toda a terra do Egito, e a terra do Egito produziu abundantemente, uma medida produzindo mil e oitocentos medidas."
+    },
+    {
+      "verse": 13,
+      "text": "E José recolheu mantimentos em todas as cidades, até que estas se enchessem de trigo, a tal ponto que já não era possível contar ou medir a sua imensa quantidade."
+    }
+  ]
 }

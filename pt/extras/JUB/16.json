@@ -1,136 +1,136 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  16,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/16",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E no princÃ­pio do mÃªs novo, do quarto mÃªs, aparecemos a AbraÃ£o, junto ao carvalho de Mamre, e conversamos com ele, anunciando-lhe que um filho lhe seria dado por Sara, sua esposa."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E Sara riu, pois ouvira que nÃ³s tÃ­nhamos proferido estas palavras com AbraÃ£o, e a exortamos, e ela teve temor, e negou ter rido por causa das palavras."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E revelamos-lhe o nome do seu filho, conforme estava ordenado e inscrito nos cÃ©us: Isaque."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E aconteceu que, quando retornamos para ela no tempo determinado, ela concebeu e gerou um filho."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E nesse mÃªs o Senhor executou o seu juÃ­zo sobre Sodoma, Gomorra, Zeboim e toda a regiÃ£o do JordÃ£o, e os queimou com fogo e enxofre, destruindo-os atÃ© este dia; e como vos tenho declarado todas as suas obras, que sÃ£o perversas e pecaminosas em extremo, e que se corrompem na sua carne, cometendo impurezas sobre a terra."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E, da mesma maneira, Deus executarÃ¡ juÃ­zo sobre os lugares onde eles praticaram a imundÃ­cia dos habitantes de Sodoma, segundo o juÃ­zo de Sodoma."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Mas a LÃ³ salvamos; pois Deus se lembrou de AbraÃ£o e o retirou do meio da destruiÃ§Ã£o."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E ele e suas filhas cometeram pecado sobre a terra, tal qual nÃ£o havia sido desde os dias de AdÃ£o atÃ© aquele tempo; pois o homem se deitou com suas filhas."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E eis que foi mandado e inscrito em todas as suas sementes, nas tÃ¡buas celestiais, para que fossem removidas e erradicadas, e para que lhes fosse executada justiÃ§a como a de Sodoma, e para que nÃ£o restasse nenhuma descendÃªncia do homem na terra no dia da condenaÃ§Ã£o."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E nesse mÃªs, AbraÃ£o partiu de Hebrom, e retirou-se, habitando entre Cades e Sur, nas montanhas de Gerar."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E no meio do quinto mÃªs, ele partiu dali e habitou junto ao PoÃ§o do Juramento."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E no meio do sexto mÃªs, o Senhor visitou a Sara, e fez com ela como havia prometido, e ela concebeu."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E ela concebeu e gerou um filho ao terceiro mÃªs, no meio do mÃªs, na Ã©poca em que o Senhor falara a AbraÃ£o, na festa das primÃ­cias da colheita; e Isaque nasceu."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E AbraÃ£o circuncidou seu filho no oitavo dia, sendo ele o primeiro a ser circuncidado segundo a alianÃ§a estabelecida para todo o sempre."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "E no sexto ano, na quarta semana, chegamos a AbraÃ£o, ao PoÃ§o do Juramento, e manifestamo-nos perante ele."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E retornamos no sÃ©timo mÃªs, e encontramos Sara jÃ¡ grÃ¡vida, e o abenÃ§oÃ¡mos."
-                   },
-                   {
-                       "verse":  17,
-                       "text":  "E que toda a descendÃªncia de seus filhos fosse dos gentios, e fosse contada com os gentios; mas da descendÃªncia de Isaque, um seria semente santa, e nÃ£o seria contado entre os gentios."
-                   },
-                   {
-                       "verse":  18,
-                       "text":  "Pois ele deve tornar-se a porÃ§Ã£o do AltÃ­ssimo, e toda a sua descendÃªncia caiu na possessÃ£o de Deus, para que seja ao Senhor um povo para possessÃ£o, sobre todas as naÃ§Ãµes, e para ser reino de sacerdotes e naÃ§Ã£o santa."
-                   },
-                   {
-                       "verse":  19,
-                       "text":  "E nÃ³s partimos e comunicamos a Sara tudo o que havÃ­amos dito, e ambos se alegraram com grande jÃºbilo."
-                   },
-                   {
-                       "verse":  20,
-                       "text":  "E ali edificou um altar ao Senhor que o livrara, e que lhe dava alegria na terra de sua peregrinaÃ§Ã£o, e celebrou um festim de jÃºbilo neste mÃªs, durante sete dias, junto ao altar que havia edificado junto ao PoÃ§o do Juramento."
-                   },
-                   {
-                       "verse":  21,
-                       "text":  "E ele edificou cabanas para si mesmo e para seus servos durante esta festa, sendo o primeiro a celebrar a festa dos tabernÃ¡culos na terra."
-                   },
-                   {
-                       "verse":  22,
-                       "text":  "E durante esses sete dias, ele oferecia diariamente ao Senhor, no altar, um sacrifÃ­cio de holocaustos: dois touros, dois carneiros, sete ovelhas, um bode para oferta pelo pecado, para expiaÃ§Ã£o por si mesmo e pela sua descendÃªncia."
-                   },
-                   {
-                       "verse":  23,
-                       "text":  "E, como oferta de aÃ§Ã£o de graÃ§as, sete carneiros, sete cabritos, sete ovelhas e sete bodes, juntamente com as suas ofertas de cereais e as suas libaÃ§Ãµes; e queimou toda a gordura sobre o altar, para ser uma oferta escolhida ao Senhor, de agradÃ¡vel aroma."
-                   },
-                   {
-                       "verse":  24,
-                       "text":  "E de manhÃ£ e Ã tarde queimava incenso aromÃ¡tico, olÃ­bano, galbano, estacte, nardo, mirra e especiarias, oferecendo todos estes sete, moÃ­dos, misturados em partes iguais e puros."
-                   },
-                   {
-                       "verse":  25,
-                       "text":  "E ele celebrou esta festa durante sete dias, alegrando-se de todo o coraÃ§Ã£o e de toda a alma, ele e todos os que estavam em sua casa; e nÃ£o houve estrangeiro com ele, nem nenhum incircunciso."
-                   },
-                   {
-                       "verse":  26,
-                       "text":  "E ele abenÃ§oou ao seu Criador, que o havia formado em sua geraÃ§Ã£o, pois Ele o havia criado segundo a Sua boa vontade; porque Ele sabia e percebia que dele haveria de surgir a planta da justiÃ§a para as geraÃ§Ãµes eternas, e dele uma semente santa, para que ela se tornasse semelhante Ã quele que tudo fez."
-                   },
-                   {
-                       "verse":  27,
-                       "text":  "E ele abenÃ§oou e regozijou-se, e chamou o nome desta festa o dia do Senhor, uma alegria agradÃ¡vel ao AltÃ­ssimo Deus."
-                   },
-                   {
-                       "verse":  28,
-                       "text":  "E nÃ³s o abenÃ§oamos para todo o sempre, a ele e Ã sua descendÃªncia por todas as geraÃ§Ãµes da terra, porque ele celebrou esta festa na sua estaÃ§Ã£o, conforme o testemunho das tÃ¡buas celestiais."
-                   },
-                   {
-                       "verse":  29,
-                       "text":  "Por esta razÃ£o, estÃ¡ ordenado nos cÃ©us, em relaÃ§Ã£o a Israel, que celebrem a festa das cabanas por sete dias, com alegria, no sÃ©timo mÃªs, sendo aceitÃ¡vel perante o Senhor; um estatuto para sempre, ao longo de todas as suas geraÃ§Ãµes, ano apÃ³s ano."
-                   },
-                   {
-                       "verse":  30,
-                       "text":  "E a esta festa nÃ£o hÃ¡ limite de dias, pois foi ordenada para todo o sempre a Israel que a celebrem e habitem nas cabanas, e coloquem ramos sobre suas cabeÃ§as, e tomem ramos folhosos e salgueiros do ribeiro."
-                   },
-                   {
-                       "verse":  31,
-                       "text":  "E AbraÃ£o tomou ramos de palmeiras e frutos de Ã¡rvores frutÃ­feras, e todos os dias, indo ao redor do altar sete vezes pela manhÃ£, louvou e agradeceu a seu Deus por todas as coisas com alegria."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 16,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/16",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E no princípio do mês novo, do quarto mês, aparecemos a Abraão, junto ao carvalho de Mamre, e conversamos com ele, anunciando-lhe que um filho lhe seria dado por Sara, sua esposa."
+    },
+    {
+      "verse": 2,
+      "text": "E Sara riu, pois ouvira que nós tínhamos proferido estas palavras com Abraão, e a exortamos, e ela teve temor, e negou ter rido por causa das palavras."
+    },
+    {
+      "verse": 3,
+      "text": "E revelamos-lhe o nome do seu filho, conforme estava ordenado e inscrito nos céus: Isaque."
+    },
+    {
+      "verse": 4,
+      "text": "E aconteceu que, quando retornamos para ela no tempo determinado, ela concebeu e gerou um filho."
+    },
+    {
+      "verse": 5,
+      "text": "E nesse mês o Senhor executou o seu juízo sobre Sodoma, Gomorra, Zeboim e toda a região do Jordão, e os queimou com fogo e enxofre, destruindo-os até este dia; e como vos tenho declarado todas as suas obras, que são perversas e pecaminosas em extremo, e que se corrompem na sua carne, cometendo impurezas sobre a terra."
+    },
+    {
+      "verse": 6,
+      "text": "E, da mesma maneira, Deus executará juízo sobre os lugares onde eles praticaram a imundícia dos habitantes de Sodoma, segundo o juízo de Sodoma."
+    },
+    {
+      "verse": 7,
+      "text": "Mas a Ló salvamos; pois Deus se lembrou de Abraão e o retirou do meio da destruição."
+    },
+    {
+      "verse": 8,
+      "text": "E ele e suas filhas cometeram pecado sobre a terra, tal qual não havia sido desde os dias de Adão até aquele tempo; pois o homem se deitou com suas filhas."
+    },
+    {
+      "verse": 9,
+      "text": "E eis que foi mandado e inscrito em todas as suas sementes, nas tábuas celestiais, para que fossem removidas e erradicadas, e para que lhes fosse executada justiça como a de Sodoma, e para que não restasse nenhuma descendência do homem na terra no dia da condenação."
+    },
+    {
+      "verse": 10,
+      "text": "E nesse mês, Abraão partiu de Hebrom, e retirou-se, habitando entre Cades e Sur, nas montanhas de Gerar."
+    },
+    {
+      "verse": 11,
+      "text": "E no meio do quinto mês, ele partiu dali e habitou junto ao Poço do Juramento."
+    },
+    {
+      "verse": 12,
+      "text": "E no meio do sexto mês, o Senhor visitou a Sara, e fez com ela como havia prometido, e ela concebeu."
+    },
+    {
+      "verse": 13,
+      "text": "E ela concebeu e gerou um filho ao terceiro mês, no meio do mês, na época em que o Senhor falara a Abraão, na festa das primícias da colheita; e Isaque nasceu."
+    },
+    {
+      "verse": 14,
+      "text": "E Abraão circuncidou seu filho no oitavo dia, sendo ele o primeiro a ser circuncidado segundo a aliança estabelecida para todo o sempre."
+    },
+    {
+      "verse": 15,
+      "text": "E no sexto ano, na quarta semana, chegamos a Abraão, ao Poço do Juramento, e manifestamo-nos perante ele."
+    },
+    {
+      "verse": 16,
+      "text": "E retornamos no sétimo mês, e encontramos Sara já grávida, e o abençoámos."
+    },
+    {
+      "verse": 17,
+      "text": "E que toda a descendência de seus filhos fosse dos gentios, e fosse contada com os gentios; mas da descendência de Isaque, um seria semente santa, e não seria contado entre os gentios."
+    },
+    {
+      "verse": 18,
+      "text": "Pois ele deve tornar-se a porção do Altíssimo, e toda a sua descendência caiu na possessão de Deus, para que seja ao Senhor um povo para possessão, sobre todas as nações, e para ser reino de sacerdotes e nação santa."
+    },
+    {
+      "verse": 19,
+      "text": "E nós partimos e comunicamos a Sara tudo o que havíamos dito, e ambos se alegraram com grande júbilo."
+    },
+    {
+      "verse": 20,
+      "text": "E ali edificou um altar ao Senhor que o livrara, e que lhe dava alegria na terra de sua peregrinação, e celebrou um festim de júbilo neste mês, durante sete dias, junto ao altar que havia edificado junto ao Poço do Juramento."
+    },
+    {
+      "verse": 21,
+      "text": "E ele edificou cabanas para si mesmo e para seus servos durante esta festa, sendo o primeiro a celebrar a festa dos tabernáculos na terra."
+    },
+    {
+      "verse": 22,
+      "text": "E durante esses sete dias, ele oferecia diariamente ao Senhor, no altar, um sacrifício de holocaustos: dois touros, dois carneiros, sete ovelhas, um bode para oferta pelo pecado, para expiação por si mesmo e pela sua descendência."
+    },
+    {
+      "verse": 23,
+      "text": "E, como oferta de ação de graças, sete carneiros, sete cabritos, sete ovelhas e sete bodes, juntamente com as suas ofertas de cereais e as suas libações; e queimou toda a gordura sobre o altar, para ser uma oferta escolhida ao Senhor, de agradável aroma."
+    },
+    {
+      "verse": 24,
+      "text": "E de manhÃ£ e Ã tarde queimava incenso aromÃ¡tico, olÃ­bano, galbano, estacte, nardo, mirra e especiarias, oferecendo todos estes sete, moÃ­dos, misturados em partes iguais e puros."
+    },
+    {
+      "verse": 25,
+      "text": "E ele celebrou esta festa durante sete dias, alegrando-se de todo o coração e de toda a alma, ele e todos os que estavam em sua casa; e não houve estrangeiro com ele, nem nenhum incircunciso."
+    },
+    {
+      "verse": 26,
+      "text": "E ele abenÃ§oou ao seu Criador, que o havia formado em sua geraÃ§Ã£o, pois Ele o havia criado segundo a Sua boa vontade; porque Ele sabia e percebia que dele haveria de surgir a planta da justiÃ§a para as geraÃ§Ãµes eternas, e dele uma semente santa, para que ela se tornasse semelhante Ã quele que tudo fez."
+    },
+    {
+      "verse": 27,
+      "text": "E ele abençoou e regozijou-se, e chamou o nome desta festa o dia do Senhor, uma alegria agradável ao Altíssimo Deus."
+    },
+    {
+      "verse": 28,
+      "text": "E nÃ³s o abenÃ§oamos para todo o sempre, a ele e Ã sua descendÃªncia por todas as geraÃ§Ãµes da terra, porque ele celebrou esta festa na sua estaÃ§Ã£o, conforme o testemunho das tÃ¡buas celestiais."
+    },
+    {
+      "verse": 29,
+      "text": "Por esta razão, está ordenado nos céus, em relação a Israel, que celebrem a festa das cabanas por sete dias, com alegria, no sétimo mês, sendo aceitável perante o Senhor; um estatuto para sempre, ao longo de todas as suas gerações, ano após ano."
+    },
+    {
+      "verse": 30,
+      "text": "E a esta festa não há limite de dias, pois foi ordenada para todo o sempre a Israel que a celebrem e habitem nas cabanas, e coloquem ramos sobre suas cabeças, e tomem ramos folhosos e salgueiros do ribeiro."
+    },
+    {
+      "verse": 31,
+      "text": "E Abraão tomou ramos de palmeiras e frutos de árvores frutíferas, e todos os dias, indo ao redor do altar sete vezes pela manhã, louvou e agradeceu a seu Deus por todas as coisas com alegria."
+    }
+  ]
 }

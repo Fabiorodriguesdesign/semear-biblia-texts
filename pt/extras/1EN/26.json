@@ -1,36 +1,36 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  26,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/26",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E eu partÃ­ dali para o meio da terra, e vi um lugar abenÃ§oado, onde havia Ã¡rvores com ramos que permaneciam e floresciam de uma Ã¡rvore desmembrada."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E ali eu vi uma montanha santa, e sob a montanha, ao oriente, havia um riacho que fluÃ­a para o sul."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E eu vi para o oriente outra montanha, mais alta que esta, e entre elas um desfiladeiro profundo e estreito; nele tambÃ©m corria um riacho sob a montanha."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E ao oeste dali, havia outra montanha, mais baixa que a primeira e de pequena elevaÃ§Ã£o, e um desfiladeiro profundo e seco entre elas; e outro desfiladeiro profundo e seco estava nos extremos das trÃªs montanhas."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E todos os desfiladeiros eram profundos e estreitos, formados de rocha dura, e nÃ£o havia Ã¡rvores plantadas sobre eles."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E maravilhei-me das rochas, e maravilhei-me do desfiladeiro, sim, maravilhei-me muito."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 26,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/26",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E eu partí dali para o meio da terra, e vi um lugar abençoado, onde havia árvores com ramos que permaneciam e floresciam de uma árvore desmembrada."
+    },
+    {
+      "verse": 2,
+      "text": "E ali eu vi uma montanha santa, e sob a montanha, ao oriente, havia um riacho que fluía para o sul."
+    },
+    {
+      "verse": 3,
+      "text": "E eu vi para o oriente outra montanha, mais alta que esta, e entre elas um desfiladeiro profundo e estreito; nele também corria um riacho sob a montanha."
+    },
+    {
+      "verse": 4,
+      "text": "E ao oeste dali, havia outra montanha, mais baixa que a primeira e de pequena elevação, e um desfiladeiro profundo e seco entre elas; e outro desfiladeiro profundo e seco estava nos extremos das três montanhas."
+    },
+    {
+      "verse": 5,
+      "text": "E todos os desfiladeiros eram profundos e estreitos, formados de rocha dura, e não havia árvores plantadas sobre eles."
+    },
+    {
+      "verse": 6,
+      "text": "E maravilhei-me das rochas, e maravilhei-me do desfiladeiro, sim, maravilhei-me muito."
+    }
+  ]
 }

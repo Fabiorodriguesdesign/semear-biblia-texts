@@ -1,48 +1,48 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  85,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/85",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E depois disto, eu vi outro sonho, e revelarei todo o sonho a ti, meu filho."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E Enoque levantou a voz e falou ao seu filho MatusalÃ©m: \"A ti, meu filho, falarei; ouve as minhas palavras, inclina o teu ouvido Ã visÃ£o onÃ­rica do teu pai.\""
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "Antes de tomar tua mÃ£e Edna, eu vi em visÃ£o sobre o meu leito, e eis que saiu um touro da terra, e aquele touro era branco; e depois dele saiu uma novilha, e junto com esta Ãºltima saÃ­ram dois touros, um deles negro e o outro vermelho."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E o touro negro feriu o touro vermelho e o perseguiu por toda a terra, e entÃ£o jÃ¡ nÃ£o pude mais ver aquele touro vermelho."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E aquele touro negro cresceu, e aquela novilha se uniu a ele, e eu vi que muitos bois procediam dele, os quais eram semelhantes a ele e o seguiam."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E aquela vaca, a primeira, afastou-se da presenÃ§a do primeiro touro para procurar aquele que era vermelho, mas nÃ£o o encontrou, e lamentou sobre ele com grande lamento, buscando-o."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E eis que vi um touro aproximar-se dela e acalmÃ¡-la, e desde aquele momento ela nÃ£o mais lamentou."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E depois disso, ela gerou outro touro branco, e apÃ³s ele, gerou muitos touros e vacas negras."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E eu vi em meu sono que o touro branco tambÃ©m crescia e se tornava um grande touro branco, e dele procediam muitos touros brancos, e eles eram semelhantes a ele. E comeÃ§aram a gerar muitos touros brancos, os quais eram semelhantes a eles, uns apÃ³s os outros, atÃ© mesmo muitos."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 85,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/85",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E depois disto, eu vi outro sonho, e revelarei todo o sonho a ti, meu filho."
+    },
+    {
+      "verse": 2,
+      "text": "E Enoque levantou a voz e falou ao seu filho MatusalÃ©m: \"A ti, meu filho, falarei; ouve as minhas palavras, inclina o teu ouvido Ã visÃ£o onÃ­rica do teu pai.\""
+    },
+    {
+      "verse": 3,
+      "text": "Antes de tomar tua mãe Edna, eu vi em visão sobre o meu leito, e eis que saiu um touro da terra, e aquele touro era branco; e depois dele saiu uma novilha, e junto com esta última saíram dois touros, um deles negro e o outro vermelho."
+    },
+    {
+      "verse": 4,
+      "text": "E o touro negro feriu o touro vermelho e o perseguiu por toda a terra, e então já não pude mais ver aquele touro vermelho."
+    },
+    {
+      "verse": 5,
+      "text": "E aquele touro negro cresceu, e aquela novilha se uniu a ele, e eu vi que muitos bois procediam dele, os quais eram semelhantes a ele e o seguiam."
+    },
+    {
+      "verse": 6,
+      "text": "E aquela vaca, a primeira, afastou-se da presença do primeiro touro para procurar aquele que era vermelho, mas não o encontrou, e lamentou sobre ele com grande lamento, buscando-o."
+    },
+    {
+      "verse": 7,
+      "text": "E eis que vi um touro aproximar-se dela e acalmá-la, e desde aquele momento ela não mais lamentou."
+    },
+    {
+      "verse": 8,
+      "text": "E depois disso, ela gerou outro touro branco, e após ele, gerou muitos touros e vacas negras."
+    },
+    {
+      "verse": 9,
+      "text": "E eu vi em meu sono que o touro branco também crescia e se tornava um grande touro branco, e dele procediam muitos touros brancos, e eles eram semelhantes a ele. E começaram a gerar muitos touros brancos, os quais eram semelhantes a eles, uns após os outros, até mesmo muitos."
+    }
+  ]
 }

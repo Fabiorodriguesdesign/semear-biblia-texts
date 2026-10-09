@@ -1,64 +1,64 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  100,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/100",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E naqueles dias, num sÃ³ lugar, os pais perecerÃ£o juntamente com seus filhos, e irmÃ£os uns pelos outros serÃ£o mortos, atÃ© que os rios transbordem de sangue."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "Nenhum homem deverÃ¡ reter sua mÃ£o de matar seus filhos e os filhos de seus filhos, e o pecador nÃ£o deverÃ¡ reter sua mÃ£o de seu irmÃ£o honrado; do amanhecer atÃ© o pÃ´r do sol, eles se matariam uns aos outros."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E o cavalo andarÃ¡ atÃ© Ã altura do ventre no sangue dos pecadores, e a carruagem serÃ¡ imersa atÃ© sua altura."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Naqueles dias, os anjos descerÃ£o aos lugares secretos, e ajuntarÃ¡ todos aqueles que trouxeram o pecado, e o AltÃ­ssimo se levantarÃ¡ naquele dia de juÃ­zo, para executar grande juÃ­zo entre os pecadores."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E sobre todos os justos e santos Ele constituirÃ¡ guardiÃµes dentre os anjos santos, para que os protejam como a menina dos olhos, atÃ© que Ele ponha fim a toda iniquidade e pecado; e embora os justos durmam um sono longo, nÃ£o terÃ£o nada a temer."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E entÃ£o os filhos da terra verÃ£o os sÃ¡bios em seguranÃ§a, e compreenderÃ£o todas as palavras deste livro, e reconhecerÃ£o que suas riquezas nÃ£o poderÃ£o salvÃ¡-los na destruiÃ§Ã£o de seus pecados."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Ai de vÃ³s, pecadores, no dia da grande tribulaÃ§Ã£o, vÃ³s que afligistes os justos e os queimastes com fogo: a vossa obra vos serÃ¡ retribuÃ­da."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "Ai de vÃ³s, Ã³ endurecidos de coraÃ§Ã£o, que espreitais para inventar o mal; portanto, o temor vos virÃ¡ sobre todos, e nÃ£o haverÃ¡ quem vos ajude."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "Ai de vÃ³s, Ã³ pecadores, por causa das palavras da vossa boca, e por causa dos atos das vossas mÃ£os, que a vossa impiedade gerou; em chamas abrasadoras, que arderÃ£o pior que o fogo, vÃ³s queimareis."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E agora, saibam que dos anjos Ele indagarÃ¡ acerca de vossas obras no cÃ©u, do sol e da lua e das estrelas em referÃªncia a vossos pecados, porque na terra vocÃªs exercem juÃ­zo sobre os justos."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E Ele convocarÃ¡ para testemunhar contra vÃ³s cada nuvem e nÃ©voa e orvalho e chuva; pois tudo isso serÃ¡ retido por vossa causa de cair sobre vÃ³s, e eles recordarÃ£o os vossos pecados."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E agora, oferecei presentes Ã chuva, para que nÃ£o seja retida de cair sobre vÃ³s, nem o orvalho, quando ela tiver recebido ouro e prata de vÃ³s, a fim de que desÃ§a."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "Quando o orvalho e a neve, com seu frio, e todas as tempestades de neve, com todas as suas calamidades, caÃ­rem sobre vÃ³s, naqueles dias nÃ£o podereis resistir diante deles."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 100,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/100",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E naqueles dias, num só lugar, os pais perecerão juntamente com seus filhos, e irmãos uns pelos outros serão mortos, até que os rios transbordem de sangue."
+    },
+    {
+      "verse": 2,
+      "text": "Nenhum homem deverá reter sua mão de matar seus filhos e os filhos de seus filhos, e o pecador não deverá reter sua mão de seu irmão honrado; do amanhecer até o pôr do sol, eles se matariam uns aos outros."
+    },
+    {
+      "verse": 3,
+      "text": "E o cavalo andarÃ¡ atÃ© Ã altura do ventre no sangue dos pecadores, e a carruagem serÃ¡ imersa atÃ© sua altura."
+    },
+    {
+      "verse": 4,
+      "text": "Naqueles dias, os anjos descerão aos lugares secretos, e ajuntará todos aqueles que trouxeram o pecado, e o Altíssimo se levantará naquele dia de juízo, para executar grande juízo entre os pecadores."
+    },
+    {
+      "verse": 5,
+      "text": "E sobre todos os justos e santos Ele constituirá guardiões dentre os anjos santos, para que os protejam como a menina dos olhos, até que Ele ponha fim a toda iniquidade e pecado; e embora os justos durmam um sono longo, não terão nada a temer."
+    },
+    {
+      "verse": 6,
+      "text": "E então os filhos da terra verão os sábios em segurança, e compreenderão todas as palavras deste livro, e reconhecerão que suas riquezas não poderão salvá-los na destruição de seus pecados."
+    },
+    {
+      "verse": 7,
+      "text": "Ai de vós, pecadores, no dia da grande tribulação, vós que afligistes os justos e os queimastes com fogo: a vossa obra vos será retribuída."
+    },
+    {
+      "verse": 8,
+      "text": "Ai de vós, ó endurecidos de coração, que espreitais para inventar o mal; portanto, o temor vos virá sobre todos, e não haverá quem vos ajude."
+    },
+    {
+      "verse": 9,
+      "text": "Ai de vós, ó pecadores, por causa das palavras da vossa boca, e por causa dos atos das vossas mãos, que a vossa impiedade gerou; em chamas abrasadoras, que arderão pior que o fogo, vós queimareis."
+    },
+    {
+      "verse": 10,
+      "text": "E agora, saibam que dos anjos Ele indagará acerca de vossas obras no céu, do sol e da lua e das estrelas em referência a vossos pecados, porque na terra vocês exercem juízo sobre os justos."
+    },
+    {
+      "verse": 11,
+      "text": "E Ele convocará para testemunhar contra vós cada nuvem e névoa e orvalho e chuva; pois tudo isso será retido por vossa causa de cair sobre vós, e eles recordarão os vossos pecados."
+    },
+    {
+      "verse": 12,
+      "text": "E agora, oferecei presentes Ã chuva, para que nÃ£o seja retida de cair sobre vÃ³s, nem o orvalho, quando ela tiver recebido ouro e prata de vÃ³s, a fim de que desÃ§a."
+    },
+    {
+      "verse": 13,
+      "text": "Quando o orvalho e a neve, com seu frio, e todas as tempestades de neve, com todas as suas calamidades, caírem sobre vós, naqueles dias não podereis resistir diante deles."
+    }
+  ]
 }

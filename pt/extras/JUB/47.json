@@ -1,60 +1,60 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  47,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/47",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "No sÃ©timo ciclo, no sÃ©timo ano, no quadragÃ©simo oitavo jubileu, teu pai partiu da terra de CanaÃ£, e tu nasceste no quarto ciclo, no sexto ano deste, no quadragÃ©simo oitavo jubileu; este foi o tempo de tribulaÃ§Ã£o para os filhos de Israel."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E o FaraÃ³, rei do Egito, emitiu um decreto para que todos os seus filhos varÃµes nascidos fossem lanÃ§ados no rio."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E lanÃ§aram-nos ali por sete meses, atÃ© ao dia em que tu nascestes; e tua mÃ£e te escondeu trÃªs meses, e eles foram avisados acerca dela."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E ela fez um cesto e o revestiu de betume e alcatrÃ£o, e o colocou entre as juncos Ã beira do rio; e ela te pÃ´s nele, e tua mÃ£e veio Ã noite para te amamentar, e Miriam, tua irmÃ£, guardava-te junto a ele, para proteger-te dos pÃ¡ssaros."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E Tamute, filha de FaraÃ³, veio banhar-se no rio, e ouviu a tua voz que clamava, e ordenou Ã s suas servas que te trouxessem, e elas te levaram atÃ© ela."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E ela te tirou da arca, e teve compaixÃ£o de ti."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E tua irmÃ£ lhe disse: \"Porventura irei buscar para ti uma das mulheres de Israel, que te amamente e possa criar este menino?\"."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E ela lhe disse: \"Vai\". E tua irmÃ£ foi e chamou a tua mÃ£e, Jochebed, e ela lhe deu o pagamento, e ela te amamentou."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E depois, quando jÃ¡ eras crescido, eles te levaram Ã filha de FaraÃ³, e tu te tornaste seu filho, e Amram, teu pai, te ensinou a escrita, e apÃ³s completares trÃªs semanas de anos, te trouxeram ao palÃ¡cio real."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E tu esteste trÃªs meses no palÃ¡cio atÃ© o tempo em que te ausentaste da corte real e viste um egÃ­pcio a ferir teu amigo, filho de Israel, e tu o mataste e escondeste-o na areia."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E no segundo dia, vistes dois filhos de Israel contendendo entre si, e dissestes ao que cometia a injustiÃ§a: \"Por que feres teu irmÃ£o?\"."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E ele irou-se e indignou-se, dizendo: âQuem te fez prÃ­ncipe e juiz sobre nÃ³s? Imaginas matar-me como mataste o egÃ­pcio ontem?â E vÃ³s temestes e fugistes por causa destas palavras."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 47,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/47",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "No sétimo ciclo, no sétimo ano, no quadragésimo oitavo jubileu, teu pai partiu da terra de Canaã, e tu nasceste no quarto ciclo, no sexto ano deste, no quadragésimo oitavo jubileu; este foi o tempo de tribulação para os filhos de Israel."
+    },
+    {
+      "verse": 2,
+      "text": "E o Faraó, rei do Egito, emitiu um decreto para que todos os seus filhos varões nascidos fossem lançados no rio."
+    },
+    {
+      "verse": 3,
+      "text": "E lançaram-nos ali por sete meses, até ao dia em que tu nascestes; e tua mãe te escondeu três meses, e eles foram avisados acerca dela."
+    },
+    {
+      "verse": 4,
+      "text": "E ela fez um cesto e o revestiu de betume e alcatrÃ£o, e o colocou entre as juncos Ã beira do rio; e ela te pÃ´s nele, e tua mÃ£e veio Ã noite para te amamentar, e Miriam, tua irmÃ£, guardava-te junto a ele, para proteger-te dos pÃ¡ssaros."
+    },
+    {
+      "verse": 5,
+      "text": "E Tamute, filha de FaraÃ³, veio banhar-se no rio, e ouviu a tua voz que clamava, e ordenou Ã s suas servas que te trouxessem, e elas te levaram atÃ© ela."
+    },
+    {
+      "verse": 6,
+      "text": "E ela te tirou da arca, e teve compaixão de ti."
+    },
+    {
+      "verse": 7,
+      "text": "E tua irmã lhe disse: \"Porventura irei buscar para ti uma das mulheres de Israel, que te amamente e possa criar este menino?\"."
+    },
+    {
+      "verse": 8,
+      "text": "E ela lhe disse: \"Vai\". E tua irmã foi e chamou a tua mãe, Jochebed, e ela lhe deu o pagamento, e ela te amamentou."
+    },
+    {
+      "verse": 9,
+      "text": "E depois, quando jÃ¡ eras crescido, eles te levaram Ã filha de FaraÃ³, e tu te tornaste seu filho, e Amram, teu pai, te ensinou a escrita, e apÃ³s completares trÃªs semanas de anos, te trouxeram ao palÃ¡cio real."
+    },
+    {
+      "verse": 10,
+      "text": "E tu esteste três meses no palácio até o tempo em que te ausentaste da corte real e viste um egípcio a ferir teu amigo, filho de Israel, e tu o mataste e escondeste-o na areia."
+    },
+    {
+      "verse": 11,
+      "text": "E no segundo dia, vistes dois filhos de Israel contendendo entre si, e dissestes ao que cometia a injustiça: \"Por que feres teu irmão?\"."
+    },
+    {
+      "verse": 12,
+      "text": "E ele irou-se e indignou-se, dizendo: “Quem te fez príncipe e juiz sobre nós? Imaginas matar-me como mataste o egípcio ontem?” E vós temestes e fugistes por causa destas palavras."
+    }
+  ]
 }

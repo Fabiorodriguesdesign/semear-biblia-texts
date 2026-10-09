@@ -1,24 +1,24 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  31,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/31",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E eu vi outras montanhas, e entre elas estavam bosques de Ã¡rvores, dos quais fluÃ­a um nÃ©ctar, chamado sarÃ¡ra e gÃ¡lbano."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E alÃ©m destas montanhas, vislumbrei outra montanha a leste dos confins da terra, onde cresciam plantas de aloÃ©s, e todas as Ã¡rvores estavam repletas de estaxe, assemelhando-se a amendoeiras."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E quando o queimavam, exalava um aroma mais suave que qualquer perfume agradÃ¡vel."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 31,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/31",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E eu vi outras montanhas, e entre elas estavam bosques de árvores, dos quais fluía um néctar, chamado sarára e gálbano."
+    },
+    {
+      "verse": 2,
+      "text": "E além destas montanhas, vislumbrei outra montanha a leste dos confins da terra, onde cresciam plantas de aloés, e todas as árvores estavam repletas de estaxe, assemelhando-se a amendoeiras."
+    },
+    {
+      "verse": 3,
+      "text": "E quando o queimavam, exalava um aroma mais suave que qualquer perfume agradável."
+    }
+  ]
 }

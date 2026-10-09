@@ -1,60 +1,60 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  63,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/63",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "Naqueles dias, os poderosos e os reis que possuem a terra rogarÃ£o que lhes seja concedido um breve descanso dos anjos de puniÃ§Ã£o aos quais foram entregues, para que possam prostrar-se e adorar o Senhor dos EspÃ­ritos, e confessar seus pecados perante Ele."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E eles hÃ£o de bendizer e glorificar ao Senhor dos EspÃ­ritos, e dizer: \"Bendito seja o Senhor dos EspÃ­ritos e o Senhor dos reis, e o Senhor dos poderosos e o Senhor dos ricos, e o Senhor da glÃ³ria e o Senhor da sabedoria\"."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E gloriosa Ã© toda a Tua forÃ§a em cada mistÃ©rio, de geraÃ§Ã£o em geraÃ§Ã£o, e a Tua glÃ³ria para todo o sempre; profundos sÃ£o todos os Teus segredos e incontÃ¡veis, e a Tua justiÃ§a excede todo cÃ¡lculo."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Agora sabemos que devemos glorificar e bendizer ao Senhor dos reis e Aquele que Ã© rei sobre todos os reis."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E eles dirÃ£o: \"Ah, se tivÃ©ssemos descanso para glorificar e agradecer, e confessar a nossa fÃ© perante a Sua glÃ³ria!\""
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E agora ansiamos por um breve descanso, mas nÃ£o o encontramos; perseguimos incessantemente e nÃ£o o alcanÃ§amos; e a luz se apagou de diante de nÃ³s, e as trevas sÃ£o nosso lugar de habitaÃ§Ã£o para todo o sempre."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Porque nÃ£o crevemos antes d\u0027Ele, nem glorificamos o nome do Senhor dos EspÃ­ritos, nem glorificamos o nosso Senhor; mas a nossa esperanÃ§a estava no cetro do nosso reino e na nossa glÃ³ria."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E no dia da nossa afliÃ§Ã£o e provaÃ§Ã£o, Ele nÃ£o nos salva, e nÃ³s nÃ£o encontramos descanso para confessar que o nosso Senhor Ã© verdadeiro em todas as Suas obras, e em Seus juÃ­zos e Sua justiÃ§a, e que os Seus juÃ­zos nÃ£o tÃªm respeito de pessoas."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E nÃ³s desaparecemos perante a Sua presenÃ§a por causa das nossas obras, e todos os nossos pecados sÃ£o contados em justiÃ§a."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "Agora eles dirÃ£o uns aos outros: \"As nossas almas estÃ£o cheias de injustiÃ§a, mas isso nÃ£o nos impede de descender do meio dela para o abismo de Sheol.\""
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E depois disso, seus rostos serÃ£o cheios de trevas, e sentirÃ£o a vergonha perante o Filho do Homem, e serÃ£o expulsos da sua presenÃ§a, e a espada permanecerÃ¡ diante dele em meio a eles."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "Assim falou o Senhor dos EspÃ­ritos: \"Esta Ã© a ordenaÃ§Ã£o e o juÃ­zo em relaÃ§Ã£o aos poderosos, aos reis, aos exaltados e Ã queles que possuem a terra perante o Senhor dos EspÃ­ritos.\""
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 63,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/63",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Naqueles dias, os poderosos e os reis que possuem a terra rogarão que lhes seja concedido um breve descanso dos anjos de punição aos quais foram entregues, para que possam prostrar-se e adorar o Senhor dos Espíritos, e confessar seus pecados perante Ele."
+    },
+    {
+      "verse": 2,
+      "text": "E eles hão de bendizer e glorificar ao Senhor dos Espíritos, e dizer: \"Bendito seja o Senhor dos Espíritos e o Senhor dos reis, e o Senhor dos poderosos e o Senhor dos ricos, e o Senhor da glória e o Senhor da sabedoria\"."
+    },
+    {
+      "verse": 3,
+      "text": "E gloriosa é toda a Tua força em cada mistério, de geração em geração, e a Tua glória para todo o sempre; profundos são todos os Teus segredos e incontáveis, e a Tua justiça excede todo cálculo."
+    },
+    {
+      "verse": 4,
+      "text": "Agora sabemos que devemos glorificar e bendizer ao Senhor dos reis e Aquele que é rei sobre todos os reis."
+    },
+    {
+      "verse": 5,
+      "text": "E eles dirão: \"Ah, se tivéssemos descanso para glorificar e agradecer, e confessar a nossa fé perante a Sua glória!\""
+    },
+    {
+      "verse": 6,
+      "text": "E agora ansiamos por um breve descanso, mas não o encontramos; perseguimos incessantemente e não o alcançamos; e a luz se apagou de diante de nós, e as trevas são nosso lugar de habitação para todo o sempre."
+    },
+    {
+      "verse": 7,
+      "text": "Porque não crevemos antes d'Ele, nem glorificamos o nome do Senhor dos Espíritos, nem glorificamos o nosso Senhor; mas a nossa esperança estava no cetro do nosso reino e na nossa glória."
+    },
+    {
+      "verse": 8,
+      "text": "E no dia da nossa aflição e provação, Ele não nos salva, e nós não encontramos descanso para confessar que o nosso Senhor é verdadeiro em todas as Suas obras, e em Seus juízos e Sua justiça, e que os Seus juízos não têm respeito de pessoas."
+    },
+    {
+      "verse": 9,
+      "text": "E nós desaparecemos perante a Sua presença por causa das nossas obras, e todos os nossos pecados são contados em justiça."
+    },
+    {
+      "verse": 10,
+      "text": "Agora eles dirão uns aos outros: \"As nossas almas estão cheias de injustiça, mas isso não nos impede de descender do meio dela para o abismo de Sheol.\""
+    },
+    {
+      "verse": 11,
+      "text": "E depois disso, seus rostos serão cheios de trevas, e sentirão a vergonha perante o Filho do Homem, e serão expulsos da sua presença, e a espada permanecerá diante dele em meio a eles."
+    },
+    {
+      "verse": 12,
+      "text": "Assim falou o Senhor dos EspÃ­ritos: \"Esta Ã© a ordenaÃ§Ã£o e o juÃ­zo em relaÃ§Ã£o aos poderosos, aos reis, aos exaltados e Ã queles que possuem a terra perante o Senhor dos EspÃ­ritos.\""
+    }
+  ]
 }

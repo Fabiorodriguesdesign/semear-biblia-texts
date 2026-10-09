@@ -1,16 +1,16 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  4,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/4",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E novamente, observai os dias do verÃ£o, como o sol estÃ¡ sobre a terra, defrontando-se com ela. E vÃ³s buscais sombra e abrigo por causa do calor do sol, e a prÃ³pria terra arde com crescente calor, de modo que nÃ£o podeis pisar na terra, nem em uma rocha, por causa de seu calor."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 4,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/4",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E novamente, observai os dias do verão, como o sol está sobre a terra, defrontando-se com ela. E vós buscais sombra e abrigo por causa do calor do sol, e a própria terra arde com crescente calor, de modo que não podeis pisar na terra, nem em uma rocha, por causa de seu calor."
+    }
+  ]
 }

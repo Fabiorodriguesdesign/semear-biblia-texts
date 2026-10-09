@@ -1,48 +1,48 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  75,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/75",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E os prÃ­ncipes dos chefes das mil unidades, que sÃ£o postos sobre toda a criaÃ§Ã£o e sobre todas as estrelas, tambÃ©m tÃªm relaÃ§Ã£o com os quatro dias intercalares, sendo inseparÃ¡veis de seu ofÃ­cio, segundo o cÃ¡lculo do ano, e estes ministram serviÃ§o nos quatro dias que nÃ£o sÃ£o contados no cÃ¡lculo do ano."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E por causa deles os homens se extraviam, pois estas luzes verdadeiramente prestam serviÃ§o nas estaÃ§Ãµes do mundo, uma na primeira porta, outra na terceira porta do cÃ©u, uma na quarta porta e outra na sexta porta, e a exatidÃ£o do ano Ã© cumprida atravÃ©s de suas trÃªs centenas e sessenta e quatro estaÃ§Ãµes."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E pelos sinais e tempos e anos e dias, o anjo Uriel manifestou-me as coisas, a quem o Senhor da glÃ³ria estabeleceu para sempre sobre todos os luminares do cÃ©u, no cÃ©u e na terra, para que governassem na face do cÃ©u e fossem visÃ­veis na terra, e fossem guias para o dia e a noite; isto Ã©, o sol, a lua e as estrelas, e todas as criaturas ministrantes que fazem sua revoluÃ§Ã£o em todos os carros do cÃ©u."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Assim tambÃ©m doze portas Uriel me mostrou, abertas na circunferÃªncia da carruagem do sol no cÃ©u, pelas quais os raios do sol se manifestam: e delas irradia-se o calor sobre a terra, quando sÃ£o abertas em seus tempos determinados."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E quanto aos ventos e ao espÃ­rito do orvalho, quando estes se abrem, permanecendo abertos nos cÃ©us, nas suas extremidades."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E quanto aos doze portais nos cÃ©us, que estÃ£o nas extremidades da terra, pelos quais saem o sol, a lua e as estrelas, e todas as obras dos cÃ©us, tanto para o oriente como para o ocidente."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Houve muitos Ã³culos abertos Ã esquerda e Ã direita deles, e um Ã³culo em sua estaÃ§Ã£o produz calor, correspondendo estes Ã s portas pelas quais as estrelas saem, conforme Ele ordenou, e onde eles sÃ£o colocados de acordo com seu nÃºmero."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E vi carros nos cÃ©us, correndo no mundo, acima daqueles portais pelos quais giram as estrelas que jamais se pÃµem."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E um Ã© maior que todos os demais, e este Ã© aquele que traÃ§a o seu curso por toda a terra."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 75,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/75",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E os príncipes dos chefes das mil unidades, que são postos sobre toda a criação e sobre todas as estrelas, também têm relação com os quatro dias intercalares, sendo inseparáveis de seu ofício, segundo o cálculo do ano, e estes ministram serviço nos quatro dias que não são contados no cálculo do ano."
+    },
+    {
+      "verse": 2,
+      "text": "E por causa deles os homens se extraviam, pois estas luzes verdadeiramente prestam serviço nas estações do mundo, uma na primeira porta, outra na terceira porta do céu, uma na quarta porta e outra na sexta porta, e a exatidão do ano é cumprida através de suas três centenas e sessenta e quatro estações."
+    },
+    {
+      "verse": 3,
+      "text": "E pelos sinais e tempos e anos e dias, o anjo Uriel manifestou-me as coisas, a quem o Senhor da glória estabeleceu para sempre sobre todos os luminares do céu, no céu e na terra, para que governassem na face do céu e fossem visíveis na terra, e fossem guias para o dia e a noite; isto é, o sol, a lua e as estrelas, e todas as criaturas ministrantes que fazem sua revolução em todos os carros do céu."
+    },
+    {
+      "verse": 4,
+      "text": "Assim também doze portas Uriel me mostrou, abertas na circunferência da carruagem do sol no céu, pelas quais os raios do sol se manifestam: e delas irradia-se o calor sobre a terra, quando são abertas em seus tempos determinados."
+    },
+    {
+      "verse": 5,
+      "text": "E quanto aos ventos e ao espírito do orvalho, quando estes se abrem, permanecendo abertos nos céus, nas suas extremidades."
+    },
+    {
+      "verse": 6,
+      "text": "E quanto aos doze portais nos céus, que estão nas extremidades da terra, pelos quais saem o sol, a lua e as estrelas, e todas as obras dos céus, tanto para o oriente como para o ocidente."
+    },
+    {
+      "verse": 7,
+      "text": "Houve muitos Ã³culos abertos Ã esquerda e Ã direita deles, e um Ã³culo em sua estaÃ§Ã£o produz calor, correspondendo estes Ã s portas pelas quais as estrelas saem, conforme Ele ordenou, e onde eles sÃ£o colocados de acordo com seu nÃºmero."
+    },
+    {
+      "verse": 8,
+      "text": "E vi carros nos céus, correndo no mundo, acima daqueles portais pelos quais giram as estrelas que jamais se põem."
+    },
+    {
+      "verse": 9,
+      "text": "E um é maior que todos os demais, e este é aquele que traça o seu curso por toda a terra."
+    }
+  ]
 }

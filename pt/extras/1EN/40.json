@@ -1,48 +1,48 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  40,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/40",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E depois disso, vi mirÃ­ades de milhares e dez mil vezes dez mil, vi uma multidÃ£o incontÃ¡vel e inumerÃ¡vel, que estava diante do Senhor dos EspÃ­ritos."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E aos quatro lados do Senhor dos EspÃ­ritos, vi quatro presenÃ§as, diferentes daquelas que nÃ£o dormem, e aprendi seus nomes; pois o anjo que me acompanhava revelou-me seus nomes, e mostrou-me todas as coisas ocultas."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E ouvi as vozes daqueles quatro seres, que entoavam louvores ao Senhor da glÃ³ria."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "A primeira voz bendiz o Senhor dos EspÃ­ritos, para todo o sempre."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E ouvi uma segunda voz, que bendizia o Escolhido e os escolhidos que pendem no Senhor dos EspÃ­ritos."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E a terceira voz ouvi, e ela orava e intercedia pelos que habitam sobre a terra, suplicando em nome do Senhor dos EspÃ­ritos."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E ouvi a quarta voz, que defendia-se dos demÃ´nios e lhes proibia aproximar-se do Senhor dos EspÃ­ritos para acusar aqueles que habitam sobre a terra."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "ApÃ³s isto, perguntei ao anjo da paz que me acompanhava, o qual me revelou tudo o que estÃ¡ oculto: \"Quem sÃ£o estas quatro presenÃ§as que eu vi e cujas palavras ouvi e transcrevi?\"."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E disse a mim: Este Ã© Miguel, o misericordioso e paciente; e o segundo, que estÃ¡ sobre todas as enfermidades e todas as feridas dos filhos dos homens, Ã© Rafael; e o terceiro, que estÃ¡ sobre todos os poderes, Ã© Gabriel; e o quarto, que estÃ¡ sobre o arrependimento para com a esperanÃ§a daqueles que herdam a vida eterna, Ã© chamado Phanuel. E estes sÃ£o os quatro anjos do Senhor dos EspÃ­ritos, e as quatro vozes que ouvi naqueles dias."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 40,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/40",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E depois disso, vi miríades de milhares e dez mil vezes dez mil, vi uma multidão incontável e inumerável, que estava diante do Senhor dos Espíritos."
+    },
+    {
+      "verse": 2,
+      "text": "E aos quatro lados do Senhor dos Espíritos, vi quatro presenças, diferentes daquelas que não dormem, e aprendi seus nomes; pois o anjo que me acompanhava revelou-me seus nomes, e mostrou-me todas as coisas ocultas."
+    },
+    {
+      "verse": 3,
+      "text": "E ouvi as vozes daqueles quatro seres, que entoavam louvores ao Senhor da glória."
+    },
+    {
+      "verse": 4,
+      "text": "A primeira voz bendiz o Senhor dos Espíritos, para todo o sempre."
+    },
+    {
+      "verse": 5,
+      "text": "E ouvi uma segunda voz, que bendizia o Escolhido e os escolhidos que pendem no Senhor dos Espíritos."
+    },
+    {
+      "verse": 6,
+      "text": "E a terceira voz ouvi, e ela orava e intercedia pelos que habitam sobre a terra, suplicando em nome do Senhor dos Espíritos."
+    },
+    {
+      "verse": 7,
+      "text": "E ouvi a quarta voz, que defendia-se dos demônios e lhes proibia aproximar-se do Senhor dos Espíritos para acusar aqueles que habitam sobre a terra."
+    },
+    {
+      "verse": 8,
+      "text": "Após isto, perguntei ao anjo da paz que me acompanhava, o qual me revelou tudo o que está oculto: \"Quem são estas quatro presenças que eu vi e cujas palavras ouvi e transcrevi?\"."
+    },
+    {
+      "verse": 9,
+      "text": "E disse a mim: Este é Miguel, o misericordioso e paciente; e o segundo, que está sobre todas as enfermidades e todas as feridas dos filhos dos homens, é Rafael; e o terceiro, que está sobre todos os poderes, é Gabriel; e o quarto, que está sobre o arrependimento para com a esperança daqueles que herdam a vida eterna, é chamado Phanuel. E estes são os quatro anjos do Senhor dos Espíritos, e as quatro vozes que ouvi naqueles dias."
+    }
+  ]
 }

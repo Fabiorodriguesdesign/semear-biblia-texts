@@ -1,56 +1,56 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  102,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/102",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "Naqueles dias em que Ele vos trouxer um grande desastre, para onde ireis e onde achareis refÃºgio? E quando Ele pronunciar a Sua palavra contra vÃ³s, nÃ£o tereis medo e temor?"
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E todas as estrelas terÃ£o grande temor, e toda a terra serÃ¡ abalada e trÃªmula e alarmada."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E todos os anjos executarÃ£o seus mandamentos, e procurarÃ£o esconder-se da presenÃ§a da Grande GlÃ³ria, e os filhos da terra tremerÃ£o e estremecerÃ£o; e vÃ³s, pecadores, sereis amaldiÃ§oados para todo o sempre, e nÃ£o tereis paz."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "NÃ£o temais, Ã³ almas dos justos, e sede esperanÃ§osos vÃ³s que morrestes em justiÃ§a."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E nÃ£o vos entristeÃ§ais se a vossa alma descendeu a Sheol em tristeza, e se, na vossa vida, o vosso corpo nÃ£o prosperou segundo a vossa bondade, mas esperai o dia do juÃ­zo dos pecadores, e o dia da maldiÃ§Ã£o e da correÃ§Ã£o."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E contudo, quando morreis, os pecadores vos dirÃ£o: \"Assim como nÃ³s morremos, assim tambÃ©m morrem os justos, e que proveito obtÃªm por suas obras?\""
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Eis que, assim como nÃ³s, eles tambÃ©m morrem em tristeza e trevas, e o que tÃªm de mais que nÃ³s? Desde agora somos iguais."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E que receberÃ£o e o que verÃ£o para todo o sempre? Eis que eles tambÃ©m morreram, e desde agora para todo o sempre nÃ£o verÃ£o luz alguma."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "Eu vos digo, vÃ³s pecadores: estais satisfeitos em comer e beber, e em roubar e pecar, e em despir os homens, e em acumular riquezas, e em ver bons dias."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "Visteis os justos, como o seu fim se cumpre, que nenhuma violÃªncia lhes Ã© encontrada atÃ© Ã morte?"
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "Ainda assim, pereceram e tornaram-se como se nÃ£o tivessem sido, e seus espÃ­ritos desceram a Sheol em tribulaÃ§Ã£o."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 102,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/102",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Naqueles dias em que Ele vos trouxer um grande desastre, para onde ireis e onde achareis refúgio? E quando Ele pronunciar a Sua palavra contra vós, não tereis medo e temor?"
+    },
+    {
+      "verse": 2,
+      "text": "E todas as estrelas terão grande temor, e toda a terra será abalada e trêmula e alarmada."
+    },
+    {
+      "verse": 3,
+      "text": "E todos os anjos executarão seus mandamentos, e procurarão esconder-se da presença da Grande Glória, e os filhos da terra tremerão e estremecerão; e vós, pecadores, sereis amaldiçoados para todo o sempre, e não tereis paz."
+    },
+    {
+      "verse": 4,
+      "text": "Não temais, ó almas dos justos, e sede esperançosos vós que morrestes em justiça."
+    },
+    {
+      "verse": 5,
+      "text": "E não vos entristeçais se a vossa alma descendeu a Sheol em tristeza, e se, na vossa vida, o vosso corpo não prosperou segundo a vossa bondade, mas esperai o dia do juízo dos pecadores, e o dia da maldição e da correção."
+    },
+    {
+      "verse": 6,
+      "text": "E contudo, quando morreis, os pecadores vos dirão: \"Assim como nós morremos, assim também morrem os justos, e que proveito obtêm por suas obras?\""
+    },
+    {
+      "verse": 7,
+      "text": "Eis que, assim como nós, eles também morrem em tristeza e trevas, e o que têm de mais que nós? Desde agora somos iguais."
+    },
+    {
+      "verse": 8,
+      "text": "E que receberão e o que verão para todo o sempre? Eis que eles também morreram, e desde agora para todo o sempre não verão luz alguma."
+    },
+    {
+      "verse": 9,
+      "text": "Eu vos digo, vós pecadores: estais satisfeitos em comer e beber, e em roubar e pecar, e em despir os homens, e em acumular riquezas, e em ver bons dias."
+    },
+    {
+      "verse": 10,
+      "text": "Visteis os justos, como o seu fim se cumpre, que nenhuma violÃªncia lhes Ã© encontrada atÃ© Ã morte?"
+    },
+    {
+      "verse": 11,
+      "text": "Ainda assim, pereceram e tornaram-se como se não tivessem sido, e seus espíritos desceram a Sheol em tribulação."
+    }
+  ]
 }

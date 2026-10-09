@@ -1,76 +1,76 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  45,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/45",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E Israel entrou na terra do Egito, na regiÃ£o de GÃ³sen, no princÃ­pio do mÃªs, no segundo ano da terceira semana do quarenta e quinto jubileu."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E JosÃ© foi encontrar seu pai JacÃ³, Ã terra de GÃ³sen, e lanÃ§ou-se sobre o pescoÃ§o de seu pai e chorou."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E JacÃ³ disse a JosÃ©: Agora posso morrer, pois jÃ¡ te vi; e que o Senhor Deus de Israel seja bendito, o Deus de AbraÃ£o e o Deus de Isaque, que nÃ£o tem retido a sua misericÃ³rdia e a sua graÃ§a do seu servo JacÃ³."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Para mim Ã© bastante que eu tenha visto a tua face enquanto ainda vivo; e verdadeiramente Ã© a visÃ£o que vi em Betel. Bendito seja o Senhor meu Deus para todo o sempre, e bendito seja o seu nome."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E JosÃ© e seus irmÃ£os comeram pÃ£o perante seu pai, e beberam vinho, e JacÃ³ regozijou-se com grande alegria, porque viu JosÃ© comer com seus irmÃ£os e beber perante ele; e abenÃ§oou ao Criador de todas as coisas, que o havia preservado, e lhe havia dado os seus doze filhos."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E JosÃ© deu a seu pai e a seus irmÃ£os, como presente, o direito de habitar na terra de GÃ³sen e em Rameses, e em toda a regiÃ£o circunvizinhas, sobre a qual governava perante o FaraÃ³. E Israel e seus filhos habitaram na terra de GÃ³sen, a melhor parte da terra do Egito; e Israel tinha cento e trinta anos quando veio para o Egito."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E JosÃ© sustentou a seu pai e seus irmÃ£os, bem como suas posses, com pÃ£o, de modo que lhes bastasse durante os sete anos de fome."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E a terra do Egito padeceu por causa da fome, e JosÃ© adquiriu toda a terra do Egito para FaraÃ³ em troca de alimento, e obteve a posse do povo e do seu gado, e de tudo o que pertencia a FaraÃ³."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E findos os anos da fome, JosÃ© distribuiu ao povo da terra sementes e mantimentos, para que pudessem semear na oitava ano, pois o rio havia transbordado toda a terra do Egito."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "Nos sete anos de fome, ela nÃ£o transbordara, irrigando apenas alguns lugares nas margens do rio; mas agora transbordou, e os egÃ­pcios semeavam a terra, e ela produziu muito grÃ£o naquele ano."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E este foi o primeiro ano da quarta semana do quadragÃ©simo quinto jubileu."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E JosÃ© tomou da colheita a quinta parte para o rei, e deixou quatro partes para eles, para sustento e para semente; e JosÃ© fez disso uma lei na terra do Egito atÃ© este dia."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E Israel habitou na terra do Egito por dezessete anos, e todos os dias que viveu foram cento e quarenta e sete anos, e ele morreu no quarto ano da quinta semana do quadragÃ©simo quinto jubileu."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E Israel abenÃ§oou seus filhos antes de morrer, e lhes revelou tudo o que lhes aconteceria na terra do Egito; e fez saber a eles o que ocorreria nos Ãºltimos tempos, e os abenÃ§oou, dando a JosÃ© duas partes da terra."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "E ele repousou com seus pais, e foi sepultado na caverna dupla em CanaÃ£, junto a AbraÃ£o seu pai, no sepulcro que ele mesmo cavara na caverna dupla em Hebrom."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E ele deu todos os seus livros e os livros de seus pais a Levi, seu filho, para que ele os conservasse e os renovasse para seus filhos atÃ© o dia de hoje."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 45,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/45",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E Israel entrou na terra do Egito, na região de Gósen, no princípio do mês, no segundo ano da terceira semana do quarenta e quinto jubileu."
+    },
+    {
+      "verse": 2,
+      "text": "E JosÃ© foi encontrar seu pai JacÃ³, Ã terra de GÃ³sen, e lanÃ§ou-se sobre o pescoÃ§o de seu pai e chorou."
+    },
+    {
+      "verse": 3,
+      "text": "E Jacó disse a José: Agora posso morrer, pois já te vi; e que o Senhor Deus de Israel seja bendito, o Deus de Abraão e o Deus de Isaque, que não tem retido a sua misericórdia e a sua graça do seu servo Jacó."
+    },
+    {
+      "verse": 4,
+      "text": "Para mim é bastante que eu tenha visto a tua face enquanto ainda vivo; e verdadeiramente é a visão que vi em Betel. Bendito seja o Senhor meu Deus para todo o sempre, e bendito seja o seu nome."
+    },
+    {
+      "verse": 5,
+      "text": "E José e seus irmãos comeram pão perante seu pai, e beberam vinho, e Jacó regozijou-se com grande alegria, porque viu José comer com seus irmãos e beber perante ele; e abençoou ao Criador de todas as coisas, que o havia preservado, e lhe havia dado os seus doze filhos."
+    },
+    {
+      "verse": 6,
+      "text": "E José deu a seu pai e a seus irmãos, como presente, o direito de habitar na terra de Gósen e em Rameses, e em toda a região circunvizinhas, sobre a qual governava perante o Faraó. E Israel e seus filhos habitaram na terra de Gósen, a melhor parte da terra do Egito; e Israel tinha cento e trinta anos quando veio para o Egito."
+    },
+    {
+      "verse": 7,
+      "text": "E José sustentou a seu pai e seus irmãos, bem como suas posses, com pão, de modo que lhes bastasse durante os sete anos de fome."
+    },
+    {
+      "verse": 8,
+      "text": "E a terra do Egito padeceu por causa da fome, e José adquiriu toda a terra do Egito para Faraó em troca de alimento, e obteve a posse do povo e do seu gado, e de tudo o que pertencia a Faraó."
+    },
+    {
+      "verse": 9,
+      "text": "E findos os anos da fome, José distribuiu ao povo da terra sementes e mantimentos, para que pudessem semear na oitava ano, pois o rio havia transbordado toda a terra do Egito."
+    },
+    {
+      "verse": 10,
+      "text": "Nos sete anos de fome, ela não transbordara, irrigando apenas alguns lugares nas margens do rio; mas agora transbordou, e os egípcios semeavam a terra, e ela produziu muito grão naquele ano."
+    },
+    {
+      "verse": 11,
+      "text": "E este foi o primeiro ano da quarta semana do quadragésimo quinto jubileu."
+    },
+    {
+      "verse": 12,
+      "text": "E José tomou da colheita a quinta parte para o rei, e deixou quatro partes para eles, para sustento e para semente; e José fez disso uma lei na terra do Egito até este dia."
+    },
+    {
+      "verse": 13,
+      "text": "E Israel habitou na terra do Egito por dezessete anos, e todos os dias que viveu foram cento e quarenta e sete anos, e ele morreu no quarto ano da quinta semana do quadragésimo quinto jubileu."
+    },
+    {
+      "verse": 14,
+      "text": "E Israel abençoou seus filhos antes de morrer, e lhes revelou tudo o que lhes aconteceria na terra do Egito; e fez saber a eles o que ocorreria nos últimos tempos, e os abençoou, dando a José duas partes da terra."
+    },
+    {
+      "verse": 15,
+      "text": "E ele repousou com seus pais, e foi sepultado na caverna dupla em Canaã, junto a Abraão seu pai, no sepulcro que ele mesmo cavara na caverna dupla em Hebrom."
+    },
+    {
+      "verse": 16,
+      "text": "E ele deu todos os seus livros e os livros de seus pais a Levi, seu filho, para que ele os conservasse e os renovasse para seus filhos até o dia de hoje."
+    }
+  ]
 }

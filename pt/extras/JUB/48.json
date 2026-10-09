@@ -1,88 +1,88 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  48,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/48",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E no sexto ano da terceira semana do quinquagÃ©simo jubileu, tu partiste e habitaste na terra de MidiÃ£, por cinco semanas e um ano; e retornaste ao Egito na segunda semana do segundo ano do quinquagÃ©simo jubileu."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E tu mesmo sabes o que Ele te disse no Monte Sinai, e o que o prÃ­ncipe Mastema desejou fazer contigo quando retornavas ao Egito, no caminho em que o encontraste no lugar de descanso."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "NÃ£o procurou ele, com todo o seu poder, matar-te e livrar os egÃ­pcios da tua mÃ£o, vendo que foste enviado para executar juÃ­zo e vinganÃ§a sobre os egÃ­pcios?"
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E eu te resgatei da sua mÃ£o, e tu realizaste os sinais e maravilhas que foste enviado para realizar em Egito contra o FaraÃ³, contra toda a sua casa, contra seus servos e contra seu povo."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E o Senhor executou grande vinganÃ§a sobre eles por causa de Israel, e os afligiu com pragas de sangue, de rÃ£s, de piolhos, de moscas e com Ãºlceras malignas; tambÃ©m a morte veio sobre o seu gado; e com saraiva, destruindo tudo que crescia para eles; e com gafanhotos, que devoraram o restante que havia sido deixado pela saraiva; e com trevas; e com a morte dos primogÃªnitos de homens e animais; e em todos os seus Ã­dolos, o Senhor tomou vinganÃ§a, queimando-os com fogo."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E tudo foi enviado por tua mÃ£o, para que declarasses estas coisas antes de acontecerem, e falaste com o rei do Egito perante todos os seus servos e perante todo o seu povo."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E tudo aconteceu conforme as tuas palavras; dez grandes e terrÃ­veis juÃ­zos desceram sobre a terra do Egito, para que executasses vinganÃ§a contra ela em favor de Israel."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E o Senhor fez tudo por amor a Israel, e segundo a Sua alianÃ§a, que havia estabelecido com AbraÃ£o, para vingar-se deles, como eles os haviam trazido Ã servidÃ£o por forÃ§a."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E o prÃ­ncipe dos Magos se levantou contra ti, e buscou lanÃ§Ã¡-te nas mÃ£os de FaraÃ³, e ele ajudou aos magos egÃ­pcios, os quais se levantaram e praticaram diante de ti."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "Verdadeiramente, permitimos que praticassem os males, mas nÃ£o consentimos que empregassem os meios para a cura."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E o Senhor os feriu com Ãºlceras malignas, e eles nÃ£o puderam permanecer de pÃ©, pois nÃ³s os destruÃ­mos para que nÃ£o pudessem realizar nenhum sinal."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E, nÃ£o obstante todas estas maravilhas e sinais, o prÃ­ncipe dos Mastema nÃ£o se envergonhou, mas tomou coragem e clamou aos egÃ­pcios para que te perseguissem com toda a forÃ§a do Egito, com seus carros, com seus cavalos e com todos os exÃ©rcitos dos povos do Egito."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E eu fiquei entre os egÃ­pcios e Israel, e nÃ³s libertamos Israel da mÃ£o dos egÃ­pcios e da mÃ£o do povo deles; e o Senhor os conduziu pelo meio do mar, como se fosse terra seca."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E todos os povos que Ele trouxe para perseguir a Israel, o Senhor nosso Deus lanÃ§ou no meio do mar, nas profundezas do abismo abaixo dos filhos de Israel, assim como o povo do Egito havia lanÃ§ado seus filhos no rio. Ele vingou-se de um milhÃ£o deles, e mil homens fortes e vigorosos foram destruÃ­dos por causa de um Ãºnico filho dos filhos do teu povo que eles haviam atirado no rio."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "E no dÃ©cimo quarto dia, e no dÃ©cimo quinto, e no dÃ©cimo sexto, e no dÃ©cimo sÃ©timo, e no dÃ©cimo oitavo, o prÃ­ncipe de Mastema foi acorrentado e aprisionado atrÃ¡s dos filhos de Israel, para que nÃ£o os acusasse."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E no dÃ©cimo nono dia, soltamos-lhes os animais para que ajudassem os egÃ­pcios e perseguissem os filhos de Israel."
-                   },
-                   {
-                       "verse":  17,
-                       "text":  "E endureceu seus coraÃ§Ãµes, tornando-os obstinados, e assim foi ordenado pelo Senhor nosso Deus, para que Ele pudesse ferir os egÃ­pcios e lanÃ§Ã¡-los no mar."
-                   },
-                   {
-                       "verse":  18,
-                       "text":  "E no dÃ©cimo quarto dia o amarramos, para que nÃ£o acusasse os filhos de Israel, no dia em que pediram aos egÃ­pcios vasos e vestes, vasos de prata e vasos de ouro, e vasos de bronze, a fim de despojarem os egÃ­pcios em retribuiÃ§Ã£o Ã servidÃ£o na qual os haviam forÃ§ado."
-                   },
-                   {
-                       "verse":  19,
-                       "text":  "E nÃ£o fizemos sair os filhos de Israel do Egito com as mÃ£os vazias."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 48,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/48",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E no sexto ano da terceira semana do quinquagésimo jubileu, tu partiste e habitaste na terra de Midiã, por cinco semanas e um ano; e retornaste ao Egito na segunda semana do segundo ano do quinquagésimo jubileu."
+    },
+    {
+      "verse": 2,
+      "text": "E tu mesmo sabes o que Ele te disse no Monte Sinai, e o que o príncipe Mastema desejou fazer contigo quando retornavas ao Egito, no caminho em que o encontraste no lugar de descanso."
+    },
+    {
+      "verse": 3,
+      "text": "Não procurou ele, com todo o seu poder, matar-te e livrar os egípcios da tua mão, vendo que foste enviado para executar juízo e vingança sobre os egípcios?"
+    },
+    {
+      "verse": 4,
+      "text": "E eu te resgatei da sua mão, e tu realizaste os sinais e maravilhas que foste enviado para realizar em Egito contra o Faraó, contra toda a sua casa, contra seus servos e contra seu povo."
+    },
+    {
+      "verse": 5,
+      "text": "E o Senhor executou grande vingança sobre eles por causa de Israel, e os afligiu com pragas de sangue, de rãs, de piolhos, de moscas e com úlceras malignas; também a morte veio sobre o seu gado; e com saraiva, destruindo tudo que crescia para eles; e com gafanhotos, que devoraram o restante que havia sido deixado pela saraiva; e com trevas; e com a morte dos primogênitos de homens e animais; e em todos os seus ídolos, o Senhor tomou vingança, queimando-os com fogo."
+    },
+    {
+      "verse": 6,
+      "text": "E tudo foi enviado por tua mão, para que declarasses estas coisas antes de acontecerem, e falaste com o rei do Egito perante todos os seus servos e perante todo o seu povo."
+    },
+    {
+      "verse": 7,
+      "text": "E tudo aconteceu conforme as tuas palavras; dez grandes e terríveis juízos desceram sobre a terra do Egito, para que executasses vingança contra ela em favor de Israel."
+    },
+    {
+      "verse": 8,
+      "text": "E o Senhor fez tudo por amor a Israel, e segundo a Sua alianÃ§a, que havia estabelecido com AbraÃ£o, para vingar-se deles, como eles os haviam trazido Ã servidÃ£o por forÃ§a."
+    },
+    {
+      "verse": 9,
+      "text": "E o príncipe dos Magos se levantou contra ti, e buscou lançá-te nas mãos de Faraó, e ele ajudou aos magos egípcios, os quais se levantaram e praticaram diante de ti."
+    },
+    {
+      "verse": 10,
+      "text": "Verdadeiramente, permitimos que praticassem os males, mas não consentimos que empregassem os meios para a cura."
+    },
+    {
+      "verse": 11,
+      "text": "E o Senhor os feriu com úlceras malignas, e eles não puderam permanecer de pé, pois nós os destruímos para que não pudessem realizar nenhum sinal."
+    },
+    {
+      "verse": 12,
+      "text": "E, não obstante todas estas maravilhas e sinais, o príncipe dos Mastema não se envergonhou, mas tomou coragem e clamou aos egípcios para que te perseguissem com toda a força do Egito, com seus carros, com seus cavalos e com todos os exércitos dos povos do Egito."
+    },
+    {
+      "verse": 13,
+      "text": "E eu fiquei entre os egípcios e Israel, e nós libertamos Israel da mão dos egípcios e da mão do povo deles; e o Senhor os conduziu pelo meio do mar, como se fosse terra seca."
+    },
+    {
+      "verse": 14,
+      "text": "E todos os povos que Ele trouxe para perseguir a Israel, o Senhor nosso Deus lançou no meio do mar, nas profundezas do abismo abaixo dos filhos de Israel, assim como o povo do Egito havia lançado seus filhos no rio. Ele vingou-se de um milhão deles, e mil homens fortes e vigorosos foram destruídos por causa de um único filho dos filhos do teu povo que eles haviam atirado no rio."
+    },
+    {
+      "verse": 15,
+      "text": "E no décimo quarto dia, e no décimo quinto, e no décimo sexto, e no décimo sétimo, e no décimo oitavo, o príncipe de Mastema foi acorrentado e aprisionado atrás dos filhos de Israel, para que não os acusasse."
+    },
+    {
+      "verse": 16,
+      "text": "E no décimo nono dia, soltamos-lhes os animais para que ajudassem os egípcios e perseguissem os filhos de Israel."
+    },
+    {
+      "verse": 17,
+      "text": "E endureceu seus corações, tornando-os obstinados, e assim foi ordenado pelo Senhor nosso Deus, para que Ele pudesse ferir os egípcios e lançá-los no mar."
+    },
+    {
+      "verse": 18,
+      "text": "E no dÃ©cimo quarto dia o amarramos, para que nÃ£o acusasse os filhos de Israel, no dia em que pediram aos egÃ­pcios vasos e vestes, vasos de prata e vasos de ouro, e vasos de bronze, a fim de despojarem os egÃ­pcios em retribuiÃ§Ã£o Ã servidÃ£o na qual os haviam forÃ§ado."
+    },
+    {
+      "verse": 19,
+      "text": "E não fizemos sair os filhos de Israel do Egito com as mãos vazias."
+    }
+  ]
 }

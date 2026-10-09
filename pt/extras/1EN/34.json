@@ -1,24 +1,24 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  34,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/34",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E dali parti para o norte, atÃ© os confins da terra, e ali vi um grande e glorioso aparato nos extremos de toda a terra."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E eis que vi trÃªs portas abertas no cÃ©u; e por cada uma delas saÃ­am ventos do norte, os quais, quando sopram, causam frio, granizo, geada, neve, orvalho e chuva."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E de um dos portais eles sairÃ£o para a prosperidade; mas quando passarem pelos outros dois portais, serÃ¡ com violÃªncia e afliÃ§Ã£o na terra, e eles soprarÃ£o com fÃºria."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 34,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/34",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E dali parti para o norte, até os confins da terra, e ali vi um grande e glorioso aparato nos extremos de toda a terra."
+    },
+    {
+      "verse": 2,
+      "text": "E eis que vi três portas abertas no céu; e por cada uma delas saíam ventos do norte, os quais, quando sopram, causam frio, granizo, geada, neve, orvalho e chuva."
+    },
+    {
+      "verse": 3,
+      "text": "E de um dos portais eles sairão para a prosperidade; mas quando passarem pelos outros dois portais, será com violência e aflição na terra, e eles soprarão com fúria."
+    }
+  ]
 }

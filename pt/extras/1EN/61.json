@@ -1,64 +1,64 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  61,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/61",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E eu vi naqueles dias como longas eram as cordas que foram dadas aos anjos, e eles tomaram asas e voaram, e se dirigiram para o norte."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E eu perguntei ao anjo, dizendo-lhe: \"Por que razÃ£o aqueles anjos tomaram estas cordas e se retiraram?\". E ele disse-me: \"Foram medir\"."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E o anjo que ia comigo disse-me: \"Estes trarÃ£o as medidas dos justos e as cordas dos justos aos justos, para que se firmem no nome do Senhor dos EspÃ­ritos para todo o sempre.\""
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Os escolhidos comeÃ§arÃ£o a habitar com os escolhidos, e estas sÃ£o as medidas que serÃ£o concedidas Ã fÃ©, e que fortalecerÃ£o a justiÃ§a."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E estas medidas revelarÃ£o todos os segredos das profundezas da terra, e aqueles que foram destruÃ­dos pelo deserto, e aqueles que foram devorados pelas bestas, e aqueles que foram devorados pelos peixes do mar, para que retornem e se estabeleÃ§am, no dia do Ungido; pois ninguÃ©m serÃ¡ destruÃ­do perante o Senhor dos EspÃ­ritos, e ninguÃ©m pode ser destruÃ­do."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E todos os que habitam nos cÃ©us receberam um mandamento e poder, e com uma sÃ³ voz e uma sÃ³ luz, semelhante ao fogo."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E aquele que, em suas primeiras palavras, abenÃ§oou, e exaltou e louvou com sabedoria, sendo sÃ¡bio em discurso e no espÃ­rito da vida."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E o Senhor dos EspÃ­ritos estabeleceu o Escolhido no trono da glÃ³ria, e ele julgarÃ¡ todas as obras dos santos nos cÃ©us, e em equilÃ­brio serÃ£o pesadas suas aÃ§Ãµes."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E quando Ele levantar o seu rosto para julgar os seus caminhos secretos segundo a palavra do nome do Senhor dos EspÃ­ritos, e o seu caminho segundo o caminho do justo juÃ­zo do Senhor dos EspÃ­ritos, entÃ£o todos eles com uma sÃ³ voz falarÃ£o e abenÃ§oarÃ£o, e glorificarÃ£o e exaltarÃ£o e santificarÃ£o o nome do Senhor dos EspÃ­ritos."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E Ele convocou todo o exÃ©rcito dos cÃ©us, e todos os santos que estÃ£o acima, e o exÃ©rcito de Deus, os Querubins, os Serafins e os Ofanins, e todos os anjos de poder, e todos os anjos das potestades, e o Ungido, e as outras potÃªncias na terra e sobre as Ã¡guas."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "Naquele dia, levantar-se-Ã¡ uma sÃ³ voz para bendizer, glorificar e exaltar no espÃ­rito de fÃ©, no espÃ­rito de sabedoria, no espÃ­rito de paciÃªncia, no espÃ­rito de misericÃ³rdia, no espÃ­rito de juÃ­zo e de paz, e no espÃ­rito de bondade, e todos dirÃ£o com uma sÃ³ voz: \"Bendito seja Ele, e que o nome do Senhor dos EspÃ­ritos seja bendito para todo o sempre.\""
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "Todos os que habitam os cÃ©us o louvarÃ£o; todos os santos que estÃ£o nos cÃ©us o louvarÃ£o, e todos os escolhidos que residem no jardim da vida; e todo espÃ­rito de luz que possa bendizer, glorificar, exaltar e santificar o teu nome abenÃ§oado, e toda a carne glorificarÃ¡ e bendizerÃ¡ o teu nome para sempre."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "Grande Ã© a misericÃ³rdia do Senhor dos EspÃ­ritos, e Ele Ã© paciente; e todas as Suas obras e tudo o que Ele criou, Ele revelou aos justos e escolhidos, em nome do Senhor dos EspÃ­ritos."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 61,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/61",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E eu vi naqueles dias como longas eram as cordas que foram dadas aos anjos, e eles tomaram asas e voaram, e se dirigiram para o norte."
+    },
+    {
+      "verse": 2,
+      "text": "E eu perguntei ao anjo, dizendo-lhe: \"Por que razão aqueles anjos tomaram estas cordas e se retiraram?\". E ele disse-me: \"Foram medir\"."
+    },
+    {
+      "verse": 3,
+      "text": "E o anjo que ia comigo disse-me: \"Estes trarão as medidas dos justos e as cordas dos justos aos justos, para que se firmem no nome do Senhor dos Espíritos para todo o sempre.\""
+    },
+    {
+      "verse": 4,
+      "text": "Os escolhidos comeÃ§arÃ£o a habitar com os escolhidos, e estas sÃ£o as medidas que serÃ£o concedidas Ã fÃ©, e que fortalecerÃ£o a justiÃ§a."
+    },
+    {
+      "verse": 5,
+      "text": "E estas medidas revelarão todos os segredos das profundezas da terra, e aqueles que foram destruídos pelo deserto, e aqueles que foram devorados pelas bestas, e aqueles que foram devorados pelos peixes do mar, para que retornem e se estabeleçam, no dia do Ungido; pois ninguém será destruído perante o Senhor dos Espíritos, e ninguém pode ser destruído."
+    },
+    {
+      "verse": 6,
+      "text": "E todos os que habitam nos céus receberam um mandamento e poder, e com uma só voz e uma só luz, semelhante ao fogo."
+    },
+    {
+      "verse": 7,
+      "text": "E aquele que, em suas primeiras palavras, abençoou, e exaltou e louvou com sabedoria, sendo sábio em discurso e no espírito da vida."
+    },
+    {
+      "verse": 8,
+      "text": "E o Senhor dos Espíritos estabeleceu o Escolhido no trono da glória, e ele julgará todas as obras dos santos nos céus, e em equilíbrio serão pesadas suas ações."
+    },
+    {
+      "verse": 9,
+      "text": "E quando Ele levantar o seu rosto para julgar os seus caminhos secretos segundo a palavra do nome do Senhor dos Espíritos, e o seu caminho segundo o caminho do justo juízo do Senhor dos Espíritos, então todos eles com uma só voz falarão e abençoarão, e glorificarão e exaltarão e santificarão o nome do Senhor dos Espíritos."
+    },
+    {
+      "verse": 10,
+      "text": "E Ele convocou todo o exército dos céus, e todos os santos que estão acima, e o exército de Deus, os Querubins, os Serafins e os Ofanins, e todos os anjos de poder, e todos os anjos das potestades, e o Ungido, e as outras potências na terra e sobre as águas."
+    },
+    {
+      "verse": 11,
+      "text": "Naquele dia, levantar-se-á uma só voz para bendizer, glorificar e exaltar no espírito de fé, no espírito de sabedoria, no espírito de paciência, no espírito de misericórdia, no espírito de juízo e de paz, e no espírito de bondade, e todos dirão com uma só voz: \"Bendito seja Ele, e que o nome do Senhor dos Espíritos seja bendito para todo o sempre.\""
+    },
+    {
+      "verse": 12,
+      "text": "Todos os que habitam os céus o louvarão; todos os santos que estão nos céus o louvarão, e todos os escolhidos que residem no jardim da vida; e todo espírito de luz que possa bendizer, glorificar, exaltar e santificar o teu nome abençoado, e toda a carne glorificará e bendizerá o teu nome para sempre."
+    },
+    {
+      "verse": 13,
+      "text": "Grande é a misericórdia do Senhor dos Espíritos, e Ele é paciente; e todas as Suas obras e tudo o que Ele criou, Ele revelou aos justos e escolhidos, em nome do Senhor dos Espíritos."
+    }
+  ]
 }

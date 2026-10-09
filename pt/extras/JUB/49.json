@@ -1,104 +1,104 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  49,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/49",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "Lembra-te da ordem que o Senhor te deu a respeito da PÃ¡scoa, para que a celebres na sua estaÃ§Ã£o, no dÃ©cimo quarto dia do primeiro mÃªs, para que a imoles antes do entardecer, e para que a comam Ã noite, na vigÃ­lia do dÃ©cimo quinto dia, desde o tempo em que o sol se pÃµe."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "Naquela noite, princÃ­pio da festa e princÃ­pio da alegria, vÃ³s comestes a PÃ¡scoa no Egito, quando todas as forÃ§as de Mastema foram soltas para matar todos os primogÃªnitos na terra do Egito, desde o primogÃªnito do FaraÃ³ atÃ© o primogÃªnito da serva cativa no moinho, e aos animais."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E este Ã© o sinal que o Senhor lhes deu: Em toda casa, nos lintÃ©is da qual vissem o sangue de um cordeiro do primeiro ano, eles nÃ£o deveriam entrar para matar, mas passariam por ela, para que fossem salvos todos os que estivessem na casa, porque o sinal do sangue estava sobre seus lintÃ©is."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E os poderes do Senhor fizeram tudo conforme o Senhor lhes ordenara, e passaram por entre todos os filhos de Israel, e a praga nÃ£o veio sobre eles para destruir qualquer alma, seja de gado, homem ou cÃ£o."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E a praga foi muito severa em Egito, e nÃ£o houve casa em Egito onde nÃ£o houvesse um morto, e choro e lamento."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E todo Israel consumia a carne do cordeiro pascal, bebia o vinho, louvava e bendizia, dando graÃ§as ao Senhor Deus de seus pais, e estava pronto para sair do jugo do Egito e da mÃ¡ servidÃ£o."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E lembra-te deste dia em todos os dias da tua vida, e observa-o de ano em ano, em todos os dias da tua vida, uma vez por ano, no seu dia, segundo toda a lei que nele estÃ¡ escrita, e nÃ£o o adies de dia para dia, nem de mÃªs para mÃªs."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "Pois Ã© um decreto eterno, inscrito nas tÃ¡buas celestiais, concernente a todos os filhos de Israel, para que observem-no anualmente em seu dia, uma vez por ano, por todas as suas geraÃ§Ãµes; e nÃ£o hÃ¡ limite de dias, pois isto foi ordenado para sempre."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E o homem que estiver livre de impureza, e nÃ£o comparecer para observar a solenidade no dia designado, a fim de apresentar uma oferta aceitÃ¡vel ao Senhor, e para comer e beber perante o Senhor no dia da festa, esse homem, estando limpo e prÃ³ximo, serÃ¡ cortado; porque nÃ£o ofereceu a oblacÃ£o do Senhor na sua estaÃ§Ã£o ordenada, carregarÃ¡ a culpa sobre si."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "Que os filhos de Israel venham e observem a PÃ¡scoa no dia determinado, no dÃ©cimo quarto dia do primeiro mÃªs, entre o entardecer, desde a terceira parte do dia atÃ© a terceira parte da noite, pois duas partes do dia sÃ£o dadas Ã luz, e uma terceira parte ao entardecer."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "Eis que o Senhor te ordenou observar isto desde a tarde atÃ© a manhÃ£."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "NÃ£o lhes seja permitido consumi-lo durante o perÃ­odo da luz, mas sim no tempo que se aproxima da noite; e comam-no Ã hora da noite atÃ© a terceira parte da mesma, e quanto ao restante de toda a sua carne, desde a terceira parte da noite em diante, queimem-na com fogo."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E nÃ£o o cozinharÃ£o em Ã¡gua, nem o comerÃ£o cru, mas assarÃ£o-no ao fogo; e comem-no diligentemente, a cabeÃ§a com as suas entranhas, e os pÃ©s assados no fogo, e nenhum osso lhe serÃ¡ quebrado; porque dos filhos de Israel nenhum osso serÃ¡ esmagado."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "Por esta razÃ£o, o Senhor ordenou aos filhos de Israel que observassem a PÃ¡scoa no dia determinado, e nÃ£o lhe quebrariam nenhum osso; pois Ã© um dia de festa, um dia mandado, e nÃ£o se deve passar de um dia para outro, nem de mÃªs para mÃªs, mas somente no dia da sua festividade ela serÃ¡ observada."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "E vÃ³s ordenareis aos filhos de Israel que observem a PÃ¡scoa por todas as suas geraÃ§Ãµes, ano apÃ³s ano, no dia determinado para ela; e serÃ¡ um memorial bem agradÃ¡vel perante o Senhor, e nenhuma praga virÃ¡ sobre eles para matar ou ferir naquele ano em que celebrarem a PÃ¡scoa na sua estaÃ§Ã£o, em tudo conforme o Seu mandamento."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E nÃ£o o comerÃ£o fora do santuÃ¡rio do Senhor, mas diante do santuÃ¡rio do Senhor; e toda a congregaÃ§Ã£o dos filhos de Israel o celebrarÃ¡ na sua estaÃ§Ã£o."
-                   },
-                   {
-                       "verse":  17,
-                       "text":  "E todo homem que houver alcanÃ§ado a idade de comer, em seu tempo designado, o consumirÃ¡ no santuÃ¡rio do vosso Deus, perante o Senhor, desde os vinte anos atÃ© Ã velhice; pois assim estÃ¡ escrito e ordenado que o comam no santuÃ¡rio do Senhor."
-                   },
-                   {
-                       "verse":  18,
-                       "text":  "E quando os filhos de Israel entrarem na terra que devem possuir, na terra de CanaÃ£, e levantarem o tabernÃ¡culo do Senhor no meio da terra, em uma das suas tribos, atÃ© que seja edificado o santuÃ¡rio do Senhor na terra, entÃ£o virÃ£o e celebrarÃ£o a PÃ¡scoa no meio do tabernÃ¡culo do Senhor, e sacrificarÃ£o-no perante o Senhor de ano em ano."
-                   },
-                   {
-                       "verse":  19,
-                       "text":  "E nos dias em que a casa for edificada em nome do Senhor na terra da sua heranÃ§a, eles irÃ£o ali e sacrificarÃ£o o cordeiro da PÃ¡scoa ao entardecer, ao pÃ´r do sol, Ã terceira parte do dia."
-                   },
-                   {
-                       "verse":  20,
-                       "text":  "E oferecerÃ£o o seu sangue no limiar do altar, e porÃ£o a sua gordura sobre o fogo que estÃ¡ sobre o altar, e comerÃ£o a sua carne assada com fogo no Ã¡trio da casa que foi santificada em nome do Senhor."
-                   },
-                   {
-                       "verse":  21,
-                       "text":  "E eles nÃ£o celebrarÃ£o a PÃ¡scoa nas suas cidades, nem em lugar algum senÃ£o perante o tabernÃ¡culo do Senhor, ou perante a Sua casa onde o Seu nome tem habitado; e nÃ£o se desviarÃ£o do Senhor."
-                   },
-                   {
-                       "verse":  22,
-                       "text":  "E tu, MoisÃ©s, ordena aos filhos de Israel que observem as ordenanÃ§as da PÃ¡scoa, conforme foi mandado a ti; anuncia-lhes cada ano e o dia de seus dias, e a festa dos pÃ£es Ã¡zimos, para que comam pÃ£o sem fermento por sete dias, e que observem sua festa, e que tragam uma oferta diÃ¡ria durante esses sete dias de alegria perante o Senhor no altar do vosso Deus."
-                   },
-                   {
-                       "verse":  23,
-                       "text":  "VÃ³s celebrastes esta festa com pressa, quando partistes do Egito e entrestes na regiÃ£o selvagem de Sur; pois, junto Ã margem do mar, a completastes."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 49,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/49",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Lembra-te da ordem que o Senhor te deu a respeito da PÃ¡scoa, para que a celebres na sua estaÃ§Ã£o, no dÃ©cimo quarto dia do primeiro mÃªs, para que a imoles antes do entardecer, e para que a comam Ã noite, na vigÃ­lia do dÃ©cimo quinto dia, desde o tempo em que o sol se pÃµe."
+    },
+    {
+      "verse": 2,
+      "text": "Naquela noite, princípio da festa e princípio da alegria, vós comestes a Páscoa no Egito, quando todas as forças de Mastema foram soltas para matar todos os primogênitos na terra do Egito, desde o primogênito do Faraó até o primogênito da serva cativa no moinho, e aos animais."
+    },
+    {
+      "verse": 3,
+      "text": "E este é o sinal que o Senhor lhes deu: Em toda casa, nos lintéis da qual vissem o sangue de um cordeiro do primeiro ano, eles não deveriam entrar para matar, mas passariam por ela, para que fossem salvos todos os que estivessem na casa, porque o sinal do sangue estava sobre seus lintéis."
+    },
+    {
+      "verse": 4,
+      "text": "E os poderes do Senhor fizeram tudo conforme o Senhor lhes ordenara, e passaram por entre todos os filhos de Israel, e a praga não veio sobre eles para destruir qualquer alma, seja de gado, homem ou cão."
+    },
+    {
+      "verse": 5,
+      "text": "E a praga foi muito severa em Egito, e não houve casa em Egito onde não houvesse um morto, e choro e lamento."
+    },
+    {
+      "verse": 6,
+      "text": "E todo Israel consumia a carne do cordeiro pascal, bebia o vinho, louvava e bendizia, dando graças ao Senhor Deus de seus pais, e estava pronto para sair do jugo do Egito e da má servidão."
+    },
+    {
+      "verse": 7,
+      "text": "E lembra-te deste dia em todos os dias da tua vida, e observa-o de ano em ano, em todos os dias da tua vida, uma vez por ano, no seu dia, segundo toda a lei que nele está escrita, e não o adies de dia para dia, nem de mês para mês."
+    },
+    {
+      "verse": 8,
+      "text": "Pois é um decreto eterno, inscrito nas tábuas celestiais, concernente a todos os filhos de Israel, para que observem-no anualmente em seu dia, uma vez por ano, por todas as suas gerações; e não há limite de dias, pois isto foi ordenado para sempre."
+    },
+    {
+      "verse": 9,
+      "text": "E o homem que estiver livre de impureza, e não comparecer para observar a solenidade no dia designado, a fim de apresentar uma oferta aceitável ao Senhor, e para comer e beber perante o Senhor no dia da festa, esse homem, estando limpo e próximo, será cortado; porque não ofereceu a oblacão do Senhor na sua estação ordenada, carregará a culpa sobre si."
+    },
+    {
+      "verse": 10,
+      "text": "Que os filhos de Israel venham e observem a PÃ¡scoa no dia determinado, no dÃ©cimo quarto dia do primeiro mÃªs, entre o entardecer, desde a terceira parte do dia atÃ© a terceira parte da noite, pois duas partes do dia sÃ£o dadas Ã luz, e uma terceira parte ao entardecer."
+    },
+    {
+      "verse": 11,
+      "text": "Eis que o Senhor te ordenou observar isto desde a tarde até a manhã."
+    },
+    {
+      "verse": 12,
+      "text": "NÃ£o lhes seja permitido consumi-lo durante o perÃ­odo da luz, mas sim no tempo que se aproxima da noite; e comam-no Ã hora da noite atÃ© a terceira parte da mesma, e quanto ao restante de toda a sua carne, desde a terceira parte da noite em diante, queimem-na com fogo."
+    },
+    {
+      "verse": 13,
+      "text": "E não o cozinharão em água, nem o comerão cru, mas assarão-no ao fogo; e comem-no diligentemente, a cabeça com as suas entranhas, e os pés assados no fogo, e nenhum osso lhe será quebrado; porque dos filhos de Israel nenhum osso será esmagado."
+    },
+    {
+      "verse": 14,
+      "text": "Por esta razão, o Senhor ordenou aos filhos de Israel que observassem a Páscoa no dia determinado, e não lhe quebrariam nenhum osso; pois é um dia de festa, um dia mandado, e não se deve passar de um dia para outro, nem de mês para mês, mas somente no dia da sua festividade ela será observada."
+    },
+    {
+      "verse": 15,
+      "text": "E vós ordenareis aos filhos de Israel que observem a Páscoa por todas as suas gerações, ano após ano, no dia determinado para ela; e será um memorial bem agradável perante o Senhor, e nenhuma praga virá sobre eles para matar ou ferir naquele ano em que celebrarem a Páscoa na sua estação, em tudo conforme o Seu mandamento."
+    },
+    {
+      "verse": 16,
+      "text": "E não o comerão fora do santuário do Senhor, mas diante do santuário do Senhor; e toda a congregação dos filhos de Israel o celebrará na sua estação."
+    },
+    {
+      "verse": 17,
+      "text": "E todo homem que houver alcanÃ§ado a idade de comer, em seu tempo designado, o consumirÃ¡ no santuÃ¡rio do vosso Deus, perante o Senhor, desde os vinte anos atÃ© Ã velhice; pois assim estÃ¡ escrito e ordenado que o comam no santuÃ¡rio do Senhor."
+    },
+    {
+      "verse": 18,
+      "text": "E quando os filhos de Israel entrarem na terra que devem possuir, na terra de Canaã, e levantarem o tabernáculo do Senhor no meio da terra, em uma das suas tribos, até que seja edificado o santuário do Senhor na terra, então virão e celebrarão a Páscoa no meio do tabernáculo do Senhor, e sacrificarão-no perante o Senhor de ano em ano."
+    },
+    {
+      "verse": 19,
+      "text": "E nos dias em que a casa for edificada em nome do Senhor na terra da sua heranÃ§a, eles irÃ£o ali e sacrificarÃ£o o cordeiro da PÃ¡scoa ao entardecer, ao pÃ´r do sol, Ã terceira parte do dia."
+    },
+    {
+      "verse": 20,
+      "text": "E oferecerão o seu sangue no limiar do altar, e porão a sua gordura sobre o fogo que está sobre o altar, e comerão a sua carne assada com fogo no átrio da casa que foi santificada em nome do Senhor."
+    },
+    {
+      "verse": 21,
+      "text": "E eles não celebrarão a Páscoa nas suas cidades, nem em lugar algum senão perante o tabernáculo do Senhor, ou perante a Sua casa onde o Seu nome tem habitado; e não se desviarão do Senhor."
+    },
+    {
+      "verse": 22,
+      "text": "E tu, Moisés, ordena aos filhos de Israel que observem as ordenanças da Páscoa, conforme foi mandado a ti; anuncia-lhes cada ano e o dia de seus dias, e a festa dos pães ázimos, para que comam pão sem fermento por sete dias, e que observem sua festa, e que tragam uma oferta diária durante esses sete dias de alegria perante o Senhor no altar do vosso Deus."
+    },
+    {
+      "verse": 23,
+      "text": "VÃ³s celebrastes esta festa com pressa, quando partistes do Egito e entrestes na regiÃ£o selvagem de Sur; pois, junto Ã margem do mar, a completastes."
+    }
+  ]
 }

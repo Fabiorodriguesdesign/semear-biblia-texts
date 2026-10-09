@@ -1,64 +1,64 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  20,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/20",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E no quadragÃ©simo segundo jubileu, no primeiro ano da sÃ©tima semana, AbraÃ£o chamou Ismael, e os seus doze filhos, e Isaque, e os seus dois filhos, e os seis filhos de Cetura, e os seus filhos."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E ordenou-lhes que observassem o caminho do Senhor, que praticassem a justiÃ§a e amassem ao prÃ³ximo, e que assim se comportassem entre todos os homens, para que cada um andasse com eles de modo a exercer juÃ­zo e retidÃ£o na terra."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "Para que circuncidassem seus filhos, segundo a alianÃ§a que havia feito com eles, e nÃ£o se desviassem para a direita nem para a esquerda de todos os caminhos que o Senhor nos ordenou; e para que nos abstivÃ©ssemos de toda fornicaÃ§Ã£o e impureza."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E se alguma mulher ou virgem cometer adultÃ©rio entre vÃ³s, que seja queimada com fogo, e que nÃ£o haja mais relaÃ§Ã£o carnal com ela; e que nÃ£o tomem por esposas filhas de CanaÃ£. Pois a semente de CanaÃ£ serÃ¡ extirpada da terra."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E lhes falou acerca do juÃ­zo dos gigantes e do juÃ­zo dos sodomitas, como foram julgados por causa de sua iniquidade, e morreram por causa de sua prostituiÃ§Ã£o, impureza e corrupÃ§Ã£o mÃºtua atravÃ©s da fornicaÃ§Ã£o."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E guardai-vos de toda prostituiÃ§Ã£o e impureza, e de toda contaminaÃ§Ã£o do pecado, para que nÃ£o torneis o nosso nome em maldiÃ§Ã£o, e a vossa vida inteira em oprÃ³brio, e todos os vossos filhos sejam destruÃ­dos pela espada, e vos torneis amaldiÃ§oados como Sodoma, e todo o vosso restante como os filhos de Gomorra."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Eu vos exorto, meus filhos, amai o Deus dos cÃ©us, e afeiÃ§oai-vos a todos os seus mandamentos; e nÃ£o vagueis apÃ³s os seus Ã­dolos, nem apÃ³s as suas impurezas."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E nÃ£o faÃ§ais para vÃ³s Ã­dolos de metal ou imagens esculpidas; pois sÃ£o vaidade, e neles nÃ£o hÃ¡ espÃ­rito algum; porque sÃ£o obra das mÃ£os dos homens, e todo aquele que confia neles, confia em nada. NÃ£o os sirvais, nem os adoareis."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "Mas servi ao Deus AltÃ­ssimo e adora-Lhe continuamente; e espera sempre a Sua graÃ§a, e pratica a justiÃ§a e a retidÃ£o perante Ele, para que Ele se compraz em ti e te conceda a Sua misericÃ³rdia, e envie chuva sobre ti de manhÃ£ e Ã tarde, e abenÃ§oe todas as tuas obras que realizaste na terra, e abenÃ§oe o teu pÃ£o e a tua Ã¡gua, e o fruto do teu ventre e os frutos da tua terra, e os rebanhos do teu gado e os ajos das tuas ovelhas."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E vÃ³s sereis para bÃªnÃ§Ã£o na terra; e todas as gentes da terra vos procurarÃ£o, e abenÃ§oarÃ£o os vossos filhos em meu nome, para que sejam abenÃ§oados como eu."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E deu a Ismael e aos seus filhos, e aos filhos de CeturÃ¡, presentes, e os enviou para longe de Isaque seu filho; e tudo deu a Isaque seu filho."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E Ismael e seus filhos, e os filhos de CeturÃ¡ e seus filhos, partiram juntos e habitaram desde Paran atÃ© a entrada de BabilÃ´nia, em toda a terra que estÃ¡ para o leste, voltada para o deserto."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E estes se misturaram uns aos outros, e o seu nome foi chamado ArÃ¡bios e Ismaelitas."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 20,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/20",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E no quadragésimo segundo jubileu, no primeiro ano da sétima semana, Abraão chamou Ismael, e os seus doze filhos, e Isaque, e os seus dois filhos, e os seis filhos de Cetura, e os seus filhos."
+    },
+    {
+      "verse": 2,
+      "text": "E ordenou-lhes que observassem o caminho do Senhor, que praticassem a justiça e amassem ao próximo, e que assim se comportassem entre todos os homens, para que cada um andasse com eles de modo a exercer juízo e retidão na terra."
+    },
+    {
+      "verse": 3,
+      "text": "Para que circuncidassem seus filhos, segundo a aliança que havia feito com eles, e não se desviassem para a direita nem para a esquerda de todos os caminhos que o Senhor nos ordenou; e para que nos abstivéssemos de toda fornicação e impureza."
+    },
+    {
+      "verse": 4,
+      "text": "E se alguma mulher ou virgem cometer adultério entre vós, que seja queimada com fogo, e que não haja mais relação carnal com ela; e que não tomem por esposas filhas de Canaã. Pois a semente de Canaã será extirpada da terra."
+    },
+    {
+      "verse": 5,
+      "text": "E lhes falou acerca do juízo dos gigantes e do juízo dos sodomitas, como foram julgados por causa de sua iniquidade, e morreram por causa de sua prostituição, impureza e corrupção mútua através da fornicação."
+    },
+    {
+      "verse": 6,
+      "text": "E guardai-vos de toda prostituição e impureza, e de toda contaminação do pecado, para que não torneis o nosso nome em maldição, e a vossa vida inteira em opróbrio, e todos os vossos filhos sejam destruídos pela espada, e vos torneis amaldiçoados como Sodoma, e todo o vosso restante como os filhos de Gomorra."
+    },
+    {
+      "verse": 7,
+      "text": "Eu vos exorto, meus filhos, amai o Deus dos céus, e afeiçoai-vos a todos os seus mandamentos; e não vagueis após os seus ídolos, nem após as suas impurezas."
+    },
+    {
+      "verse": 8,
+      "text": "E não façais para vós ídolos de metal ou imagens esculpidas; pois são vaidade, e neles não há espírito algum; porque são obra das mãos dos homens, e todo aquele que confia neles, confia em nada. Não os sirvais, nem os adoareis."
+    },
+    {
+      "verse": 9,
+      "text": "Mas servi ao Deus AltÃ­ssimo e adora-Lhe continuamente; e espera sempre a Sua graÃ§a, e pratica a justiÃ§a e a retidÃ£o perante Ele, para que Ele se compraz em ti e te conceda a Sua misericÃ³rdia, e envie chuva sobre ti de manhÃ£ e Ã tarde, e abenÃ§oe todas as tuas obras que realizaste na terra, e abenÃ§oe o teu pÃ£o e a tua Ã¡gua, e o fruto do teu ventre e os frutos da tua terra, e os rebanhos do teu gado e os ajos das tuas ovelhas."
+    },
+    {
+      "verse": 10,
+      "text": "E vós sereis para bênção na terra; e todas as gentes da terra vos procurarão, e abençoarão os vossos filhos em meu nome, para que sejam abençoados como eu."
+    },
+    {
+      "verse": 11,
+      "text": "E deu a Ismael e aos seus filhos, e aos filhos de Ceturá, presentes, e os enviou para longe de Isaque seu filho; e tudo deu a Isaque seu filho."
+    },
+    {
+      "verse": 12,
+      "text": "E Ismael e seus filhos, e os filhos de Ceturá e seus filhos, partiram juntos e habitaram desde Paran até a entrada de Babilônia, em toda a terra que está para o leste, voltada para o deserto."
+    },
+    {
+      "verse": 13,
+      "text": "E estes se misturaram uns aos outros, e o seu nome foi chamado Arábios e Ismaelitas."
+    }
+  ]
 }

@@ -1,68 +1,68 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  76,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/76",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E nos confins da terra, vi doze portais abertos para todas as partes dos cÃ©us, dos quais procedem os ventos que sopram sobre a terra."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "TrÃªs estÃ£o abertos na face dos cÃ©us, e trÃªs ao ocidente, e trÃªs Ã direita do cÃ©u, e trÃªs Ã esquerda."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E os trÃªs primeiros sÃ£o da direÃ§Ã£o leste, e trÃªs sÃ£o do norte, e trÃªs apÃ³s aqueles que estÃ£o Ã esquerda do sul, e trÃªs do oeste."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Por quatro destes emanam ventos de bÃªnÃ§Ã£o e prosperidade, e dos oito restantes emanam ventos prejudiciais; quando sÃ£o enviados, trazem destruiÃ§Ã£o sobre toda a terra e sobre as Ã¡guas que estÃ£o sobre ela, e sobre todos os que nela habitam, e sobre tudo o que estÃ¡ nas Ã¡guas e na terra."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E o primeiro vento que emana desses portais, chamado vento do oriente, procede pelo primeiro portal, que se encontra no oriente, e se dirige para o sul: dele provÃªm a devastaÃ§Ã£o, a seca, o calor e a destruiÃ§Ã£o."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E pelo segundo portÃ£o, que estÃ¡ no meio, procede o que Ã© conveniente, e dele emanam a chuva, a fertilidade, a prosperidade e o orvalho; e pelo terceiro portÃ£o, que se encontra voltado para o norte, vÃªm o frio e a seca."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E apÃ³s estas, virÃ£o os ventos do sul por trÃªs portais: pelo primeiro portal, que se inclina para o oriente, sairÃ¡ um vento quente."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E por meio do portal central que lhe jaz adjacente, emanarÃ£o aromas suaves, orvalho e chuva, prosperidade e saÃºde."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "E por meio do terceiro portÃ£o, que se encontra a oeste, sairÃ£o orvalho e chuva, gafanhotos e devastaÃ§Ã£o."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E depois destes, os ventos do norte: do sÃ©timo portÃ£o a leste vÃªm o orvalho e a chuva, as gafanhotos e a devastaÃ§Ã£o."
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E do portal central entram saÃºde e chuva e orvalho e prosperidade; e pelo terceiro portal, a ocidente, entram nuvens e geada e neve e chuva e orvalho e gafanhotos."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "E apÃ³s estes [quatro] vÃªm os ventos do oeste: pelo primeiro portÃ£o que se junta ao norte, emanam orvalho e geada, e frio, neve e congelamento."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E do portal central sairÃ£o orvalho e chuva, prosperidade e bÃªnÃ§Ã£o; e pelo Ãºltimo portal, que dÃ¡ para o sul, sairÃ£o a seca e a devastaÃ§Ã£o, o fogo e a destruiÃ§Ã£o."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E assim se completam os doze portais dos quatro quadrantes do cÃ©u, e todas as suas leis, todas as suas pragas e todas as suas bÃªnÃ§Ã£os vos mostrei, meu filho MatusalÃ©m."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 76,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/76",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E nos confins da terra, vi doze portais abertos para todas as partes dos céus, dos quais procedem os ventos que sopram sobre a terra."
+    },
+    {
+      "verse": 2,
+      "text": "TrÃªs estÃ£o abertos na face dos cÃ©us, e trÃªs ao ocidente, e trÃªs Ã direita do cÃ©u, e trÃªs Ã esquerda."
+    },
+    {
+      "verse": 3,
+      "text": "E os trÃªs primeiros sÃ£o da direÃ§Ã£o leste, e trÃªs sÃ£o do norte, e trÃªs apÃ³s aqueles que estÃ£o Ã esquerda do sul, e trÃªs do oeste."
+    },
+    {
+      "verse": 4,
+      "text": "Por quatro destes emanam ventos de bênção e prosperidade, e dos oito restantes emanam ventos prejudiciais; quando são enviados, trazem destruição sobre toda a terra e sobre as águas que estão sobre ela, e sobre todos os que nela habitam, e sobre tudo o que está nas águas e na terra."
+    },
+    {
+      "verse": 5,
+      "text": "E o primeiro vento que emana desses portais, chamado vento do oriente, procede pelo primeiro portal, que se encontra no oriente, e se dirige para o sul: dele provêm a devastação, a seca, o calor e a destruição."
+    },
+    {
+      "verse": 6,
+      "text": "E pelo segundo portão, que está no meio, procede o que é conveniente, e dele emanam a chuva, a fertilidade, a prosperidade e o orvalho; e pelo terceiro portão, que se encontra voltado para o norte, vêm o frio e a seca."
+    },
+    {
+      "verse": 7,
+      "text": "E após estas, virão os ventos do sul por três portais: pelo primeiro portal, que se inclina para o oriente, sairá um vento quente."
+    },
+    {
+      "verse": 8,
+      "text": "E por meio do portal central que lhe jaz adjacente, emanarão aromas suaves, orvalho e chuva, prosperidade e saúde."
+    },
+    {
+      "verse": 9,
+      "text": "E por meio do terceiro portão, que se encontra a oeste, sairão orvalho e chuva, gafanhotos e devastação."
+    },
+    {
+      "verse": 10,
+      "text": "E depois destes, os ventos do norte: do sétimo portão a leste vêm o orvalho e a chuva, as gafanhotos e a devastação."
+    },
+    {
+      "verse": 11,
+      "text": "E do portal central entram saúde e chuva e orvalho e prosperidade; e pelo terceiro portal, a ocidente, entram nuvens e geada e neve e chuva e orvalho e gafanhotos."
+    },
+    {
+      "verse": 12,
+      "text": "E após estes [quatro] vêm os ventos do oeste: pelo primeiro portão que se junta ao norte, emanam orvalho e geada, e frio, neve e congelamento."
+    },
+    {
+      "verse": 13,
+      "text": "E do portal central sairão orvalho e chuva, prosperidade e bênção; e pelo último portal, que dá para o sul, sairão a seca e a devastação, o fogo e a destruição."
+    },
+    {
+      "verse": 14,
+      "text": "E assim se completam os doze portais dos quatro quadrantes do céu, e todas as suas leis, todas as suas pragas e todas as suas bênçãos vos mostrei, meu filho Matusalém."
+    }
+  ]
 }

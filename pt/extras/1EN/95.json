@@ -1,40 +1,40 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  95,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/95",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "Ah, se meus olhos fossem uma fonte de Ã¡guas, para que eu pudesse chorar sobre ti, e derramar minhas lÃ¡grimas como um dilÃºvio; assim descansaria da minha angÃºstia!"
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "Quem vos concedeu licenÃ§a para praticar afrontas e iniquidades? E assim, o juÃ­zo vos alcanÃ§arÃ¡, Ã³ pecadores."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "NÃ£o temais dos pecadores, Ã³ justos; pois o Senhor os entregarÃ¡ novamente em vossas mÃ£os, para que executem juÃ­zo sobre eles segundo vossos desejos."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "Ai de vÃ³s que proferis maldiÃ§Ãµes irreversÃ­veis; pois a cura vos serÃ¡ negada por causa dos vossos pecados."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "Ai de vÃ³s que retribuÃ­s ao vosso prÃ³ximo o mal; pois segundo as vossas obras sereis recompensados."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "Ai de vÃ³s, testemunhas falsas, e daqueles que pesam a injustiÃ§a; pois de repente perecereis."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "Ai de vÃ³s, pecadores, pois perseguis os justos; Sereis entregues e perseguidos por causa da injustiÃ§a, e pesada serÃ¡ a sua carga sobre vÃ³s."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 95,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/95",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Ah, se meus olhos fossem uma fonte de águas, para que eu pudesse chorar sobre ti, e derramar minhas lágrimas como um dilúvio; assim descansaria da minha angústia!"
+    },
+    {
+      "verse": 2,
+      "text": "Quem vos concedeu licença para praticar afrontas e iniquidades? E assim, o juízo vos alcançará, ó pecadores."
+    },
+    {
+      "verse": 3,
+      "text": "Não temais dos pecadores, ó justos; pois o Senhor os entregará novamente em vossas mãos, para que executem juízo sobre eles segundo vossos desejos."
+    },
+    {
+      "verse": 4,
+      "text": "Ai de vós que proferis maldições irreversíveis; pois a cura vos será negada por causa dos vossos pecados."
+    },
+    {
+      "verse": 5,
+      "text": "Ai de vós que retribuís ao vosso próximo o mal; pois segundo as vossas obras sereis recompensados."
+    },
+    {
+      "verse": 6,
+      "text": "Ai de vós, testemunhas falsas, e daqueles que pesam a injustiça; pois de repente perecereis."
+    },
+    {
+      "verse": 7,
+      "text": "Ai de vós, pecadores, pois perseguis os justos; Sereis entregues e perseguidos por causa da injustiça, e pesada será a sua carga sobre vós."
+    }
+  ]
 }

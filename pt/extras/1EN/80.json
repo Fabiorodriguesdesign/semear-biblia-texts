@@ -1,44 +1,44 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  80,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/80",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E naqueles dias, o anjo Uriel respondeu e disse a mim: \"Eis que te mostrei tudo, Enoque, e te revelei tudo o que deves ver deste sol e desta lua, e os governantes das estrelas do cÃ©u, e todos aqueles que os movem, suas tarefas, seus tempos e suas saÃ­das.\""
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E nos dias dos Ã­mpios, os anos serÃ£o encurtados, e a sua descendÃªncia serÃ¡ tardia em suas terras e campos, e todas as coisas na terra se alterarÃ£o, e nÃ£o aparecerÃ£o no seu tempo; e a chuva serÃ¡ retida, e o cÃ©u a reterÃ¡."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E naqueles tempos, os frutos da terra retardar-se-Ã£o, e nÃ£o crescerÃ£o no seu tempo, e os frutos das Ã¡rvores serÃ£o retidos em seu tempo."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E a lua mudarÃ¡ sua ordem, e nÃ£o aparecerÃ¡ no seu tempo determinado."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E naqueles dias, o sol serÃ¡ visto e ele percorrerÃ¡ ao entardecer a extremidade da grande carruagem no ocidente, e brilharÃ¡ mais intensamente do que convÃ©m Ã ordem da luz."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E muitos prÃ­ncipes das estrelas transgredirÃ£o a ordem estabelecida; e estes alterarÃ£o suas Ã³rbitas e tarefas, e nÃ£o aparecerÃ£o nas estaÃ§Ãµes lhes designadas."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E toda a ordem das estrelas serÃ¡ escondida dos pecadores, e os pensamentos daqueles que habitam a terra se extraviarÃ£o em relaÃ§Ã£o a elas, e serÃ£o alteradas de todas as suas vias, sim, eles se extraviarÃ£o e as tomarÃ£o por deuses."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "E o mal se multiplicarÃ¡ sobre eles, e a puniÃ§Ã£o virÃ¡ sobre eles para destruir tudo."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 80,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/80",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E naqueles dias, o anjo Uriel respondeu e disse a mim: \"Eis que te mostrei tudo, Enoque, e te revelei tudo o que deves ver deste sol e desta lua, e os governantes das estrelas do céu, e todos aqueles que os movem, suas tarefas, seus tempos e suas saídas.\""
+    },
+    {
+      "verse": 2,
+      "text": "E nos dias dos ímpios, os anos serão encurtados, e a sua descendência será tardia em suas terras e campos, e todas as coisas na terra se alterarão, e não aparecerão no seu tempo; e a chuva será retida, e o céu a reterá."
+    },
+    {
+      "verse": 3,
+      "text": "E naqueles tempos, os frutos da terra retardar-se-ão, e não crescerão no seu tempo, e os frutos das árvores serão retidos em seu tempo."
+    },
+    {
+      "verse": 4,
+      "text": "E a lua mudará sua ordem, e não aparecerá no seu tempo determinado."
+    },
+    {
+      "verse": 5,
+      "text": "E naqueles dias, o sol serÃ¡ visto e ele percorrerÃ¡ ao entardecer a extremidade da grande carruagem no ocidente, e brilharÃ¡ mais intensamente do que convÃ©m Ã ordem da luz."
+    },
+    {
+      "verse": 6,
+      "text": "E muitos príncipes das estrelas transgredirão a ordem estabelecida; e estes alterarão suas órbitas e tarefas, e não aparecerão nas estações lhes designadas."
+    },
+    {
+      "verse": 7,
+      "text": "E toda a ordem das estrelas será escondida dos pecadores, e os pensamentos daqueles que habitam a terra se extraviarão em relação a elas, e serão alteradas de todas as suas vias, sim, eles se extraviarão e as tomarão por deuses."
+    },
+    {
+      "verse": 8,
+      "text": "E o mal se multiplicará sobre eles, e a punição virá sobre eles para destruir tudo."
+    }
+  ]
 }

@@ -1,24 +1,24 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  88,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/88",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E eu vi um daqueles quatro que primeiro haviam surgido, e ele apanhou aquela primeira estrela que havia caÃ­do do cÃ©u, e a prendeu de mÃ£os e pÃ©s, lanÃ§ando-a num abismo; e esse abismo era estreito e profundo, e terrÃ­vel e escuro."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E um deles desembainhou uma espada e a entregou aos elefantes, camelos e asnos; entÃ£o, comeÃ§aram a ferir-se mutuamente, e toda a terra tremeu por causa deles."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E eis que, enquanto contemplava na visÃ£o, um dos quatro que haviam descido do cÃ©u lanÃ§ou uma pedra contra eles, e recolheu todas as grandes estrelas cujos membros eram como os de cavalos, e os amarrou de mÃ£os e pÃ©s, e os lanÃ§ou num abismo da terra."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 88,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/88",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E eu vi um daqueles quatro que primeiro haviam surgido, e ele apanhou aquela primeira estrela que havia caído do céu, e a prendeu de mãos e pés, lançando-a num abismo; e esse abismo era estreito e profundo, e terrível e escuro."
+    },
+    {
+      "verse": 2,
+      "text": "E um deles desembainhou uma espada e a entregou aos elefantes, camelos e asnos; então, começaram a ferir-se mutuamente, e toda a terra tremeu por causa deles."
+    },
+    {
+      "verse": 3,
+      "text": "E eis que, enquanto contemplava na visão, um dos quatro que haviam descido do céu lançou uma pedra contra eles, e recolheu todas as grandes estrelas cujos membros eram como os de cavalos, e os amarrou de mãos e pés, e os lançou num abismo da terra."
+    }
+  ]
 }

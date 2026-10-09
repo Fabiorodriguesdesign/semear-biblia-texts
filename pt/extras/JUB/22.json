@@ -1,132 +1,132 @@
-﻿{
-    "book_id":  "JUB",
-    "book":  "Livro dos Jubileus",
-    "chapter":  22,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/22",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E aconteceu no primeiro ciclo da quaresma, no ano segundo, que Ã© o ano em que AbraÃ£o morreu, que Isaque e Ismael vieram do PoÃ§o do Juramento para celebrar a festa das semanas, isto Ã©, a festa dos primeiros frutos da colheita, junto a AbraÃ£o, seu pai, e AbraÃ£o regozijou-se porque seus dois filhos haviam chegado."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "Isaque possuÃ­a muitas propriedades em Berseba, e costumava ir visitÃ¡-las, retornando entÃ£o a seu pai."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E naqueles dias, Ismael veio visitar seu pai, e ambos se reuniram; entÃ£o, Isaque ofereceu um sacrifÃ­cio de holocausto, apresentando-o no altar que seu pai havia construÃ­do em Hebrom."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E ele ofereceu um sacrifÃ­cio de aÃ§Ã£o de graÃ§as e fez um banquete de alegria diante de Ismael, seu irmÃ£o; e Rebeca preparou novos pÃ£es com o novo grÃ£o, e os deu a JacÃ³, seu filho, para que os levasse a AbraÃ£o, seu pai, como primÃ­cias da terra, para que ele comesse e abenÃ§oasse o Criador de todas as coisas antes de sua morte."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "E tambÃ©m Isaque enviou, pela mÃ£o de JacÃ³, a AbraÃ£o um ofertÃ³rio de gratidÃ£o, para que ele comesse e bebesse."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E ele comeu e bebeu, e bendisse ao AltÃ­ssimo Deus, que criou os cÃ©us e a terra, que formou todas as gorduras da terra, e as concedeu aos filhos dos homens, para que comessem e bebessem e bendissessem o seu Criador."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E agora eu Te dou graÃ§as, Ã³ meu Deus, porque Tu me permitiste ver este dia; eis que tenho cem e quinze anos, sou um homem velho e cheio de dias, e todos os meus dias tÃªm sido para mim paz."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "A espada do adversÃ¡rio jamais prevaleceu contra mim em tudo o que me deste, a mim e aos meus filhos, durante todos os dias da minha vida atÃ© este dia."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "Meu Deus, que a Tua misericÃ³rdia e a Tua paz repousem sobre o Teu servo, e sobre a descendÃªncia de seus filhos, para que sejam para Ti uma naÃ§Ã£o escolhida e uma heranÃ§a entre todas as naÃ§Ãµes da terra, desde agora atÃ© os dias das geraÃ§Ãµes da terra, por todos os tempos."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "E chamou JacÃ³ e disse: \"Meu filho JacÃ³, que o Deus de todo abenÃ§oe-te e te fortaleÃ§a para praticar a justiÃ§a, e que a Sua vontade se cumpra em ti, e que Ele te escolha a ti e Ã tua descendÃªncia, para que vosses sejais povo para a Sua heranÃ§a, segundo a Sua vontade, sempre. E tu, meu filho JacÃ³, aproxima-te e beija-me.\""
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "Bendito seja meu filho JacÃ³, e todos os filhos do Deus AltÃ­ssimo, por todas as eras: Que Deus te conceda uma semente de justiÃ§a; e que alguns de teus filhos Ele santifique no meio de toda a terra; que naÃ§Ãµes te sirvam, e todas as naÃ§Ãµes se ajoelhem perante tua descendÃªncia."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "Sede fortes na presenÃ§a dos homens, e exerÃ§ai autoridade sobre toda a descendÃªncia de Sete; entÃ£o, os vossos caminhos e os caminhos dos vossos filhos serÃ£o justificados, para que se tornem uma naÃ§Ã£o santa."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "Que o AltÃ­ssimo Deus te conceda todas as bÃªnÃ§Ã£os com que Ele me abenÃ§oou, e com que abenÃ§oou NoÃ© e AdÃ£o; que elas repousem sobre a sagrada cabeÃ§a de tua descendÃªncia, de geraÃ§Ã£o em geraÃ§Ã£o, para todo o sempre."
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E que Ele te purifique de toda iniquidade e impureza, para que sejas perdoado de todas as tuas transgressÃµes e dos teus pecados por ignorÃ¢ncia. E que Ele te fortaleÃ§a e te abenÃ§oe. E que possas herdar toda a terra."
-                   },
-                   {
-                       "verse":  15,
-                       "text":  "E que Ele renove a sua alianÃ§a contigo, para que tu sejas para Ele uma naÃ§Ã£o por heranÃ§a em todas as geraÃ§Ãµes, e para que Ele seja para ti e para tua descendÃªncia um Deus em verdade e justiÃ§a por todos os dias da terra."
-                   },
-                   {
-                       "verse":  16,
-                       "text":  "E tu, meu filho JacÃ³, lembra-te das minhas palavras, e observa os mandamentos de AbraÃ£o, teu pai: Separa-te das naÃ§Ãµes, e nÃ£o comas convosco; e nÃ£o faÃ§as segundo as suas obras, nem te tornes seu companheiro; porque as suas obras sÃ£o impuras, e todos os seus caminhos sÃ£o abominaÃ§Ã£o e imundÃ­cia."
-                   },
-                   {
-                       "verse":  17,
-                       "text":  "E oferecem os seus sacrifÃ­cios aos mortos, e adoram espÃ­ritos imundos, e comem sobre as sepulturas, e todas as suas obras sÃ£o vaidade e nada."
-                   },
-                   {
-                       "verse":  18,
-                       "text":  "Eles nÃ£o tÃªm coraÃ§Ã£o para compreender, e os seus olhos nÃ£o veem as obras que praticam, e como erram ao dizer a um pedaÃ§o de madeira: \"Tu Ã©s o meu Deus\", e a uma pedra: \"Tu Ã©s o Senhor meu e tu me livras\"."
-                   },
-                   {
-                       "verse":  19,
-                       "text":  "E quanto a ti, meu filho JacÃ³, que o Deus AltÃ­ssimo te auxilie, e o Deus dos cÃ©us te abenÃ§oe, e te livre da sua impureza e de todo o seu erro."
-                   },
-                   {
-                       "verse":  20,
-                       "text":  "Guarda-te, meu filho JacÃ³, para que nÃ£o tomes por esposa de entre as filhas de CanaÃ£; pois toda a sua descendÃªncia deve ser extirpada da terra."
-                   },
-                   {
-                       "verse":  21,
-                       "text":  "Por causa da transgressÃ£o de Cam, CanaÃ£ pecou, e toda a sua descendÃªncia serÃ¡ destruÃ­da da terra, e nenhum dos seus descendentes serÃ¡ salvo no dia do juÃ­zo."
-                   },
-                   {
-                       "verse":  22,
-                       "text":  "E quanto a todos os que adoram Ã­dolos e praticam a profanaÃ§Ã£o, nÃ£o haverÃ¡ esperanÃ§a para eles na terra dos vivos; nem serÃ£o lembrados na terra; pois descerÃ£o a Sheol, e ao lugar da condenaÃ§Ã£o irÃ£o; assim como os filhos de Sodoma foram retirados da terra, assim serÃ£o todos os que adoram Ã­dolos."
-                   },
-                   {
-                       "verse":  23,
-                       "text":  "NÃ£o temas, meu filho JacÃ³, e nÃ£o te desesperes, Ã³ filho de AbraÃ£o; que o Deus AltÃ­ssimo te guarde da destruiÃ§Ã£o, e de todos os caminhos do erro te livre."
-                   },
-                   {
-                       "verse":  24,
-                       "text":  "Esta casa eu construÃ­ para mim mesmo, para que o meu nome fosse proclamado na terra; ela Ã© dada a ti e Ã tua descendÃªncia para todo o sempre, e serÃ¡ chamada a casa de AbraÃ£o; ela Ã© dada a ti e Ã tua descendÃªncia para todo o sempre, porque tu edificarÃ¡s a minha casa e estabelecerÃ¡s o meu nome perante Deus para todo o sempre; a tua semente e o teu nome permanecerÃ£o por todas as geraÃ§Ãµes da terra."
-                   },
-                   {
-                       "verse":  25,
-                       "text":  "E Ele cessou de lhe dar ordens e de o abenÃ§oar."
-                   },
-                   {
-                       "verse":  26,
-                       "text":  "E os dois jaziam juntos sobre um leito, e JacÃ³ dormiu no seio de AbraÃ£o, pai do seu pai, e o beijou sete vezes, e a sua afeiÃ§Ã£o e o seu coraÃ§Ã£o alegraram-se nele."
-                   },
-                   {
-                       "verse":  27,
-                       "text":  "E ele o abenÃ§oou de todo o coraÃ§Ã£o e disse: \"O Deus AltÃ­ssimo, o Deus de todos, e Criador de todas as coisas, que me tirou da terra de Ur dos Caldeus, para que Ele me desse esta terra como heranÃ§a eterna, e para que eu estabelecesse uma semente santa; bendito seja o Deus AltÃ­ssimo para todo o sempre.\""
-                   },
-                   {
-                       "verse":  28,
-                       "text":  "E ele abenÃ§oou a JacÃ³ e disse: Meu filho, em quem com todo o meu coraÃ§Ã£o e afeto me regozijo, que a Tua graÃ§a e a Tua misericÃ³rdia estejam sobre ele e sobre sua descendÃªncia para sempre."
-                   },
-                   {
-                       "verse":  29,
-                       "text":  "E nÃ£o o abandoneis, nem o desprezeis desde agora atÃ© os dias da eternidade; e que vossos olhos se abram sobre ele e sobre sua descendÃªncia, para que possais preservÃ¡-lo, abenÃ§oÃ¡-lo e santificÃ¡-lo como naÃ§Ã£o para vossa heranÃ§a."
-                   },
-                   {
-                       "verse":  30,
-                       "text":  "E abenÃ§o-O com todas as Tuas bÃªnÃ§Ã£os, desde agora atÃ© todos os dias da eternidade, e renova a Tua alianÃ§a e a Tua graÃ§a com Ele e com a Sua descendÃªncia, segundo toda a Tua boa vontade, para todas as geraÃ§Ãµes da terra."
-                   }
-               ]
+{
+  "book_id": "JUB",
+  "book": "Livro dos Jubileus",
+  "chapter": 22,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/jubileus/22",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E aconteceu no primeiro ciclo da quaresma, no ano segundo, que é o ano em que Abraão morreu, que Isaque e Ismael vieram do Poço do Juramento para celebrar a festa das semanas, isto é, a festa dos primeiros frutos da colheita, junto a Abraão, seu pai, e Abraão regozijou-se porque seus dois filhos haviam chegado."
+    },
+    {
+      "verse": 2,
+      "text": "Isaque possuía muitas propriedades em Berseba, e costumava ir visitá-las, retornando então a seu pai."
+    },
+    {
+      "verse": 3,
+      "text": "E naqueles dias, Ismael veio visitar seu pai, e ambos se reuniram; então, Isaque ofereceu um sacrifício de holocausto, apresentando-o no altar que seu pai havia construído em Hebrom."
+    },
+    {
+      "verse": 4,
+      "text": "E ele ofereceu um sacrifício de ação de graças e fez um banquete de alegria diante de Ismael, seu irmão; e Rebeca preparou novos pães com o novo grão, e os deu a Jacó, seu filho, para que os levasse a Abraão, seu pai, como primícias da terra, para que ele comesse e abençoasse o Criador de todas as coisas antes de sua morte."
+    },
+    {
+      "verse": 5,
+      "text": "E também Isaque enviou, pela mão de Jacó, a Abraão um ofertório de gratidão, para que ele comesse e bebesse."
+    },
+    {
+      "verse": 6,
+      "text": "E ele comeu e bebeu, e bendisse ao Altíssimo Deus, que criou os céus e a terra, que formou todas as gorduras da terra, e as concedeu aos filhos dos homens, para que comessem e bebessem e bendissessem o seu Criador."
+    },
+    {
+      "verse": 7,
+      "text": "E agora eu Te dou graças, ó meu Deus, porque Tu me permitiste ver este dia; eis que tenho cem e quinze anos, sou um homem velho e cheio de dias, e todos os meus dias têm sido para mim paz."
+    },
+    {
+      "verse": 8,
+      "text": "A espada do adversário jamais prevaleceu contra mim em tudo o que me deste, a mim e aos meus filhos, durante todos os dias da minha vida até este dia."
+    },
+    {
+      "verse": 9,
+      "text": "Meu Deus, que a Tua misericórdia e a Tua paz repousem sobre o Teu servo, e sobre a descendência de seus filhos, para que sejam para Ti uma nação escolhida e uma herança entre todas as nações da terra, desde agora até os dias das gerações da terra, por todos os tempos."
+    },
+    {
+      "verse": 10,
+      "text": "E chamou JacÃ³ e disse: \"Meu filho JacÃ³, que o Deus de todo abenÃ§oe-te e te fortaleÃ§a para praticar a justiÃ§a, e que a Sua vontade se cumpra em ti, e que Ele te escolha a ti e Ã tua descendÃªncia, para que vosses sejais povo para a Sua heranÃ§a, segundo a Sua vontade, sempre. E tu, meu filho JacÃ³, aproxima-te e beija-me.\""
+    },
+    {
+      "verse": 11,
+      "text": "Bendito seja meu filho Jacó, e todos os filhos do Deus Altíssimo, por todas as eras: Que Deus te conceda uma semente de justiça; e que alguns de teus filhos Ele santifique no meio de toda a terra; que nações te sirvam, e todas as nações se ajoelhem perante tua descendência."
+    },
+    {
+      "verse": 12,
+      "text": "Sede fortes na presença dos homens, e exerçai autoridade sobre toda a descendência de Sete; então, os vossos caminhos e os caminhos dos vossos filhos serão justificados, para que se tornem uma nação santa."
+    },
+    {
+      "verse": 13,
+      "text": "Que o Altíssimo Deus te conceda todas as bênçãos com que Ele me abençoou, e com que abençoou Noé e Adão; que elas repousem sobre a sagrada cabeça de tua descendência, de geração em geração, para todo o sempre."
+    },
+    {
+      "verse": 14,
+      "text": "E que Ele te purifique de toda iniquidade e impureza, para que sejas perdoado de todas as tuas transgressões e dos teus pecados por ignorância. E que Ele te fortaleça e te abençoe. E que possas herdar toda a terra."
+    },
+    {
+      "verse": 15,
+      "text": "E que Ele renove a sua aliança contigo, para que tu sejas para Ele uma nação por herança em todas as gerações, e para que Ele seja para ti e para tua descendência um Deus em verdade e justiça por todos os dias da terra."
+    },
+    {
+      "verse": 16,
+      "text": "E tu, meu filho Jacó, lembra-te das minhas palavras, e observa os mandamentos de Abraão, teu pai: Separa-te das nações, e não comas convosco; e não faças segundo as suas obras, nem te tornes seu companheiro; porque as suas obras são impuras, e todos os seus caminhos são abominação e imundícia."
+    },
+    {
+      "verse": 17,
+      "text": "E oferecem os seus sacrifícios aos mortos, e adoram espíritos imundos, e comem sobre as sepulturas, e todas as suas obras são vaidade e nada."
+    },
+    {
+      "verse": 18,
+      "text": "Eles não têm coração para compreender, e os seus olhos não veem as obras que praticam, e como erram ao dizer a um pedaço de madeira: \"Tu és o meu Deus\", e a uma pedra: \"Tu és o Senhor meu e tu me livras\"."
+    },
+    {
+      "verse": 19,
+      "text": "E quanto a ti, meu filho Jacó, que o Deus Altíssimo te auxilie, e o Deus dos céus te abençoe, e te livre da sua impureza e de todo o seu erro."
+    },
+    {
+      "verse": 20,
+      "text": "Guarda-te, meu filho Jacó, para que não tomes por esposa de entre as filhas de Canaã; pois toda a sua descendência deve ser extirpada da terra."
+    },
+    {
+      "verse": 21,
+      "text": "Por causa da transgressão de Cam, Canaã pecou, e toda a sua descendência será destruída da terra, e nenhum dos seus descendentes será salvo no dia do juízo."
+    },
+    {
+      "verse": 22,
+      "text": "E quanto a todos os que adoram ídolos e praticam a profanação, não haverá esperança para eles na terra dos vivos; nem serão lembrados na terra; pois descerão a Sheol, e ao lugar da condenação irão; assim como os filhos de Sodoma foram retirados da terra, assim serão todos os que adoram ídolos."
+    },
+    {
+      "verse": 23,
+      "text": "Não temas, meu filho Jacó, e não te desesperes, ó filho de Abraão; que o Deus Altíssimo te guarde da destruição, e de todos os caminhos do erro te livre."
+    },
+    {
+      "verse": 24,
+      "text": "Esta casa eu construÃ­ para mim mesmo, para que o meu nome fosse proclamado na terra; ela Ã© dada a ti e Ã tua descendÃªncia para todo o sempre, e serÃ¡ chamada a casa de AbraÃ£o; ela Ã© dada a ti e Ã tua descendÃªncia para todo o sempre, porque tu edificarÃ¡s a minha casa e estabelecerÃ¡s o meu nome perante Deus para todo o sempre; a tua semente e o teu nome permanecerÃ£o por todas as geraÃ§Ãµes da terra."
+    },
+    {
+      "verse": 25,
+      "text": "E Ele cessou de lhe dar ordens e de o abençoar."
+    },
+    {
+      "verse": 26,
+      "text": "E os dois jaziam juntos sobre um leito, e Jacó dormiu no seio de Abraão, pai do seu pai, e o beijou sete vezes, e a sua afeição e o seu coração alegraram-se nele."
+    },
+    {
+      "verse": 27,
+      "text": "E ele o abençoou de todo o coração e disse: \"O Deus Altíssimo, o Deus de todos, e Criador de todas as coisas, que me tirou da terra de Ur dos Caldeus, para que Ele me desse esta terra como herança eterna, e para que eu estabelecesse uma semente santa; bendito seja o Deus Altíssimo para todo o sempre.\""
+    },
+    {
+      "verse": 28,
+      "text": "E ele abençoou a Jacó e disse: Meu filho, em quem com todo o meu coração e afeto me regozijo, que a Tua graça e a Tua misericórdia estejam sobre ele e sobre sua descendência para sempre."
+    },
+    {
+      "verse": 29,
+      "text": "E não o abandoneis, nem o desprezeis desde agora até os dias da eternidade; e que vossos olhos se abram sobre ele e sobre sua descendência, para que possais preservá-lo, abençoá-lo e santificá-lo como nação para vossa herança."
+    },
+    {
+      "verse": 30,
+      "text": "E abenço-O com todas as Tuas bênçãos, desde agora até todos os dias da eternidade, e renova a Tua aliança e a Tua graça com Ele e com a Sua descendência, segundo toda a Tua boa vontade, para todas as gerações da terra."
+    }
+  ]
 }

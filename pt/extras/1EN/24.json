@@ -1,36 +1,36 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  24,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/24",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E dali parti para outro lugar da terra, e mostrou-me uma cadeia de montanhas de fogo que ardia dia e noite."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E eu passei alÃ©m e vi sete montanhas magnÃ­ficas, cada qual distinta das demais, e as pedras delas eram magnÃ­ficas e belas, magnÃ­ficas em conjunto, de aparÃªncia gloriosa e exterior formoso; trÃªs voltadas para o oriente, uma sobre a outra, e trÃªs voltadas para o sul, uma sobre a outra, e vales profundos e Ã¡speros, dos quais nenhum se unia a outro."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E a sÃ©tima montanha estava no meio destas, e era mais alta que todas elas, assemelhando-se ao assento de um trono, e Ã¡rvores fragrantes circundavam o trono."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E entre eles havia uma Ã¡rvore tal como eu jamais havia sentido, nem existia entre eles outra semelhante, pois possuÃ­a um aroma que excedia todo perfume, e suas folhas, flores e madeira nÃ£o se extinguem eternamente; e seu fruto Ã© belo, assemelhando-se aos frutos da palmeira."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "EntÃ£o eu disse: \"Que bela Ã© esta Ã¡rvore, e qual o seu perfume, e como sÃ£o formosas as suas folhas, e muito agradÃ¡veis os seus flores\"."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "EntÃ£o respondeu Miguel, um dos santos e reverendos anjos que estava comigo, e era seu chefe."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 24,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/24",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E dali parti para outro lugar da terra, e mostrou-me uma cadeia de montanhas de fogo que ardia dia e noite."
+    },
+    {
+      "verse": 2,
+      "text": "E eu passei além e vi sete montanhas magníficas, cada qual distinta das demais, e as pedras delas eram magníficas e belas, magníficas em conjunto, de aparência gloriosa e exterior formoso; três voltadas para o oriente, uma sobre a outra, e três voltadas para o sul, uma sobre a outra, e vales profundos e ásperos, dos quais nenhum se unia a outro."
+    },
+    {
+      "verse": 3,
+      "text": "E a sétima montanha estava no meio destas, e era mais alta que todas elas, assemelhando-se ao assento de um trono, e árvores fragrantes circundavam o trono."
+    },
+    {
+      "verse": 4,
+      "text": "E entre eles havia uma árvore tal como eu jamais havia sentido, nem existia entre eles outra semelhante, pois possuía um aroma que excedia todo perfume, e suas folhas, flores e madeira não se extinguem eternamente; e seu fruto é belo, assemelhando-se aos frutos da palmeira."
+    },
+    {
+      "verse": 5,
+      "text": "Então eu disse: \"Que bela é esta árvore, e qual o seu perfume, e como são formosas as suas folhas, e muito agradáveis os seus flores\"."
+    },
+    {
+      "verse": 6,
+      "text": "Então respondeu Miguel, um dos santos e reverendos anjos que estava comigo, e era seu chefe."
+    }
+  ]
 }

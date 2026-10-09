@@ -1,68 +1,68 @@
-﻿{
-    "book_id":  "1EN",
-    "book":  "1 Enoque",
-    "chapter":  39,
-    "language":  "pt-BR",
-    "collection":  "extras",
-    "source":  "Escrituras Perdidas",
-    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/39",
-    "source_rights":  "Public-domain translation, as declared by the source.",
-    "verses":  [
-                   {
-                       "verse":  1,
-                       "text":  "E acontecerÃ¡, naqueles dias, que filhos escolhidos e santos descenderÃ£o dos altos cÃ©us, e a sua semente se unirÃ¡ Ã linhagem dos homens."
-                   },
-                   {
-                       "verse":  2,
-                       "text":  "E nos aqueles dias, Enoque recebeu livros de zelo e ira, e livros de inquietude e expulsÃ£o. E nÃ£o lhes serÃ¡ concedida misericÃ³rdia, diz o Senhor dos EspÃ­ritos."
-                   },
-                   {
-                       "verse":  3,
-                       "text":  "E naqueles dias, um redemoinho me arrebatou da terra, e me depositou no extremo dos cÃ©us."
-                   },
-                   {
-                       "verse":  4,
-                       "text":  "E ali eu vi outra visÃ£o, os lugares de morada dos santos e os repousos dos justos."
-                   },
-                   {
-                       "verse":  5,
-                       "text":  "Eis que os meus olhos viram as suas moradas com os santos anjos de Deus, e os seus lugares de descanso com os eleitos. E eles intercedem e oram pelos filhos dos homens, e a justiÃ§a flui diante deles como Ã¡gua, e a misericÃ³rdia Ã© como orvalho sobre a terra; assim serÃ¡ para sempre entre eles."
-                   },
-                   {
-                       "verse":  6,
-                       "text":  "E naquele lugar, os meus olhos viram o Escolhido em retidÃ£o e fÃ©, e a justiÃ§a prevalecerÃ¡ nos seus dias, e os justos e escolhidos serÃ£o incontÃ¡veis perante Ele para todo o sempre."
-                   },
-                   {
-                       "verse":  7,
-                       "text":  "E eu vi o seu lugar de descanso sob as asas do Senhor dos EspÃ­ritos. E todos os justos e escolhidos diante Dele serÃ£o fortes como luzes ardentes, e a sua boca estarÃ¡ repleta de bÃªnÃ§Ã£o, e os seus lÃ¡bios exaltarÃ£o o nome do Senhor dos EspÃ­ritos, e a justiÃ§a nunca faltarÃ¡ diante Dele, e a retidÃ£o jamais se extinguirÃ¡ perante Ele."
-                   },
-                   {
-                       "verse":  8,
-                       "text":  "Ali eu desejava habitar, e o meu espÃ­rito ansiava por aquele lugar; e ali, desde tempos idos, tem sido a minha heranÃ§a, pois assim foi determinado para mim perante o Senhor dos EspÃ­ritos."
-                   },
-                   {
-                       "verse":  9,
-                       "text":  "Naqueles dias, eu louvei e enalteci o nome do Senhor dos EspÃ­ritos com bÃªnÃ§Ã£os e hinos, porque Ele me destinou para a bÃªnÃ§Ã£o e a glÃ³ria, segundo a boa vontade do Senhor dos EspÃ­ritos."
-                   },
-                   {
-                       "verse":  10,
-                       "text":  "Durante muito tempo, meus olhos contemplaram aquele lugar, e Eu O abenÃ§oei e O louvei, dizendo: \"Bendito seja Ele, e que seja bendito desde o princÃ­pio e para todo o sempre.\""
-                   },
-                   {
-                       "verse":  11,
-                       "text":  "E perante Ele nÃ£o hÃ¡ cessaÃ§Ã£o; Ele sabe, antes que o mundo fosse criado, o que serÃ¡ para sempre e o que haverÃ¡ de geraÃ§Ã£o em geraÃ§Ã£o."
-                   },
-                   {
-                       "verse":  12,
-                       "text":  "Aqueles que nÃ£o dormem Te bendizem; permanecem em Tua presenÃ§a e Te bendizem, Te louvam e Te exaltam, dizendo: \"Santo, santo, santo Ã© o Senhor dos EspÃ­ritos: Ele enche a terra com espÃ­ritos\"."
-                   },
-                   {
-                       "verse":  13,
-                       "text":  "E eis que meus olhos viram todos aqueles que nÃ£o dormem; eles estÃ£o em pÃ© diante Dele, e o bendizem, dizendo: \"Bendito Ã©s Tu, e bendito seja o nome do Senhor para todo o sempre.\""
-                   },
-                   {
-                       "verse":  14,
-                       "text":  "E o meu rosto se alterou, pois jÃ¡ nÃ£o podia mais contemplar."
-                   }
-               ]
+{
+  "book_id": "1EN",
+  "book": "1 Enoque",
+  "chapter": 39,
+  "language": "pt-BR",
+  "collection": "extras",
+  "source": "Escrituras Perdidas",
+  "source_url": "https://escriturasperdidas.com.br/pt/1-enoque/39",
+  "source_rights": "Public-domain translation, as declared by the source.",
+  "verses": [
+    {
+      "verse": 1,
+      "text": "E acontecerÃ¡, naqueles dias, que filhos escolhidos e santos descenderÃ£o dos altos cÃ©us, e a sua semente se unirÃ¡ Ã linhagem dos homens."
+    },
+    {
+      "verse": 2,
+      "text": "E nos aqueles dias, Enoque recebeu livros de zelo e ira, e livros de inquietude e expulsão. E não lhes será concedida misericórdia, diz o Senhor dos Espíritos."
+    },
+    {
+      "verse": 3,
+      "text": "E naqueles dias, um redemoinho me arrebatou da terra, e me depositou no extremo dos céus."
+    },
+    {
+      "verse": 4,
+      "text": "E ali eu vi outra visão, os lugares de morada dos santos e os repousos dos justos."
+    },
+    {
+      "verse": 5,
+      "text": "Eis que os meus olhos viram as suas moradas com os santos anjos de Deus, e os seus lugares de descanso com os eleitos. E eles intercedem e oram pelos filhos dos homens, e a justiça flui diante deles como água, e a misericórdia é como orvalho sobre a terra; assim será para sempre entre eles."
+    },
+    {
+      "verse": 6,
+      "text": "E naquele lugar, os meus olhos viram o Escolhido em retidão e fé, e a justiça prevalecerá nos seus dias, e os justos e escolhidos serão incontáveis perante Ele para todo o sempre."
+    },
+    {
+      "verse": 7,
+      "text": "E eu vi o seu lugar de descanso sob as asas do Senhor dos Espíritos. E todos os justos e escolhidos diante Dele serão fortes como luzes ardentes, e a sua boca estará repleta de bênção, e os seus lábios exaltarão o nome do Senhor dos Espíritos, e a justiça nunca faltará diante Dele, e a retidão jamais se extinguirá perante Ele."
+    },
+    {
+      "verse": 8,
+      "text": "Ali eu desejava habitar, e o meu espírito ansiava por aquele lugar; e ali, desde tempos idos, tem sido a minha herança, pois assim foi determinado para mim perante o Senhor dos Espíritos."
+    },
+    {
+      "verse": 9,
+      "text": "Naqueles dias, eu louvei e enalteci o nome do Senhor dos Espíritos com bênçãos e hinos, porque Ele me destinou para a bênção e a glória, segundo a boa vontade do Senhor dos Espíritos."
+    },
+    {
+      "verse": 10,
+      "text": "Durante muito tempo, meus olhos contemplaram aquele lugar, e Eu O abençoei e O louvei, dizendo: \"Bendito seja Ele, e que seja bendito desde o princípio e para todo o sempre.\""
+    },
+    {
+      "verse": 11,
+      "text": "E perante Ele não há cessação; Ele sabe, antes que o mundo fosse criado, o que será para sempre e o que haverá de geração em geração."
+    },
+    {
+      "verse": 12,
+      "text": "Aqueles que não dormem Te bendizem; permanecem em Tua presença e Te bendizem, Te louvam e Te exaltam, dizendo: \"Santo, santo, santo é o Senhor dos Espíritos: Ele enche a terra com espíritos\"."
+    },
+    {
+      "verse": 13,
+      "text": "E eis que meus olhos viram todos aqueles que não dormem; eles estão em pé diante Dele, e o bendizem, dizendo: \"Bendito és Tu, e bendito seja o nome do Senhor para todo o sempre.\""
+    },
+    {
+      "verse": 14,
+      "text": "E o meu rosto se alterou, pois já não podia mais contemplar."
+    }
+  ]
 }
