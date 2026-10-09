@@ -1,0 +1,24 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  2,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/2",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "Observai tudo o que se passa nos cÃ©us, como nÃ£o alteram as suas Ã³rbitas, e os luminares que estÃ£o no cÃ©u, como todos eles nascem e pÃµem em ordem, cada um na sua estaÃ§Ã£o, e nÃ£o transgredem a ordem estabelecida."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "Vede a terra, e atendei Ã s coisas que ali se passam desde o princÃ­pio atÃ© ao fim, quÃ£o firmes sÃ£o, como nenhuma das coisas na terra se altera, mas todas as obras de Deus vos aparecem."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "Eis o verÃ£o e o inverno, como toda a terra Ã© cheia de Ã¡gua, e nuvens e orvalho e chuva repousam sobre ela."
+                   }
+               ]
+}

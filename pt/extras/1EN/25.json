@@ -1,0 +1,40 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  25,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/25",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E disse a mim: \"Enoque, por que me perguntas acerca do aroma da Ã¡rvore, e por que desejas conhecer a verdade?\"."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "EntÃ£o respondi-lhe, dizendo: \"Desejo saber de todas as coisas, mas especialmente acerca desta Ã¡rvore.\""
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E ele respondeu, dizendo: \"Esta alta montanha que vÃ³s haveis visto, cujo cume Ã© como o trono de Deus, Ã© o Seu trono, onde o Santo e Grande, o Senhor da GlÃ³ria, o Rei Eterno, se assentarÃ¡, quando descer para visitar a terra com bondade.\""
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E quanto a esta Ã¡rvore de bom odor, nenhum mortal Ã© permitido tocÃ¡-la atÃ© o grande juÃ­zo, quando Ele tomarÃ¡ vinganÃ§a de todos e trarÃ¡ tudo Ã sua consumaÃ§Ã£o para sempre; entÃ£o serÃ¡ dada aos justos e aos santos."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "O seu fruto serÃ¡ para sustento dos escolhidos; serÃ¡ transplantada ao lugar santo, ao templo do Senhor, do Rei Eterno."
+                   },
+                   {
+                       "verse":  6,
+                       "text":  "EntÃ£o eles se alegrarÃ£o com alegria e serÃ£o felizes, e entrarÃ£o no lugar santo; e o seu aroma estarÃ¡ em seus ossos, e viverÃ£o uma longa vida na terra, como os vossos pais viveram; e nos seus dias nÃ£o tocarÃ¡ neles tristeza alguma, nem praga, nem tormento, nem calamidade."
+                   },
+                   {
+                       "verse":  7,
+                       "text":  "E eu bendissei ao Deus da GlÃ³ria, o Rei Eterno, que preparou tais coisas para os justos, e os criou, prometendo-lhes concedÃª-los."
+                   }
+               ]
+}

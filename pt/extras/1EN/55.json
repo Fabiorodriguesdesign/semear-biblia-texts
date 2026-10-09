@@ -1,0 +1,28 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  55,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/55",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E depois disso, o Senhor dos Dias arrependeu-se e disse: \"Em vÃ£o destruÃ­ todos os que habitam sobre a terra.\""
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E Ele jurou por seu grande nome: \"De agora em diante nÃ£o farei tal coisa a todos os que habitam sobre a terra, e estabelecerei um sinal no cÃ©u; e este serÃ¡ um selo de alianÃ§a entre Mim e eles para todo o sempre, enquanto o cÃ©u estiver acima da terra. E isto Ã© segundo o meu mandamento.\""
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "Quando eu desejar apreender aqueles pela mÃ£o dos anjos no dia da tribulaÃ§Ã£o e da dor por causa disso, causarei que o meu castigo e a minha ira permaneÃ§am sobre eles, diz Deus, Senhor dos EspÃ­ritos."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "VÃ³s, poderosos reis que habitais na terra, vereis o Meu Escolhido, como Ele se assenta no trono da glÃ³ria e julga a Azazel, e todos os seus associados, e todas as suas hostes, em nome do Senhor dos EspÃ­ritos."
+                   }
+               ]
+}

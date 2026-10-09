@@ -1,0 +1,28 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  43,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/43",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E eu vi outros relÃ¢mpagos, e as estrelas do cÃ©u, e vi como Ele chamava a todas elas pelos seus nomes, e elas lhe obedeciam."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E eu vi como sÃ£o pesados em uma balanÃ§a justa, segundo as suas proporÃ§Ãµes de luz; vi a largura dos seus espaÃ§os e o dia da sua apariÃ§Ã£o, e como a sua revoluÃ§Ã£o produz relÃ¢mpagos; e vi a sua revoluÃ§Ã£o segundo o nÃºmero dos anjos, e como mantÃªm a fÃ© uns com os outros."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E eu perguntei ao anjo que ia comigo e que me mostrara o que estava oculto: \"O que sÃ£o estes?\"."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E disse a mim: \"O Senhor dos EspÃ­ritos vos revelou o seu significado alegÃ³rico; estes sÃ£o os nomes dos santos que habitam na terra e creem no nome do Senhor dos EspÃ­ritos, para todo o sempre.\""
+                   }
+               ]
+}

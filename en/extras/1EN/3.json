@@ -1,0 +1,16 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoch",
+    "chapter":  3,
+    "language":  "en",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/en/1-enoch/3",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "Observe and see how in the winter all the trees seem as though they had withered and shed all their leaves, except fourteen trees, which do not lose their foliage but retain the old foliage from two to three years till the new comes."
+                   }
+               ]
+}

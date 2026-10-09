@@ -1,0 +1,24 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoch",
+    "chapter":  31,
+    "language":  "en",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/en/1-enoch/31",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "And I saw other mountains, and amongst them were groves of trees, and there flowed forth from them nectar, which is named sarara and galbanum."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "And beyond these mountains I saw another mountain to the east of the ends of the earth, whereon were aloe trees, and all the trees were full of stacte, being like almond-trees."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "And when one burnt it, it smelt sweeter than any fragrant odour."
+                   }
+               ]
+}

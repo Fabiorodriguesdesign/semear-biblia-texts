@@ -1,0 +1,20 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoch",
+    "chapter":  29,
+    "language":  "en",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/en/1-enoch/29",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "And thence I went to another place in the desert, and approached to the east of this mountain range."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "And there I saw aromatic trees exhaling the fragrance of frankincense and myrrh, and the trees also were similar to the almond tree."
+                   }
+               ]
+}

@@ -1,0 +1,36 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  58,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/58",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E comecei a proferir a terceira parÃ¡bola acerca dos justos e escolhidos."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "Bem-aventurados sois vÃ³s, justos e escolhidos, porque gloriosa serÃ¡ a vossa heranÃ§a."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E os justos estarÃ£o na luz do sol; e os escolhidos na luz da vida eterna; os dias de sua vida nÃ£o terÃ£o fim, e os dias dos santos serÃ£o incontÃ¡veis."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E procurarÃ£o a luz, e encontrarÃ£o justiÃ§a junto ao Senhor dos EspÃ­ritos; haverÃ¡ paz aos justos em nome do Eterno Senhor."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "E apÃ³s isto, serÃ¡ dito aos santos no cÃ©u, que busquem os mistÃ©rios da justiÃ§a, a heranÃ§a da fÃ©; pois jÃ¡ se tornou resplandecente como o sol sobre a terra, e a escuridÃ£o passou."
+                   },
+                   {
+                       "verse":  6,
+                       "text":  "E haverÃ¡ uma luz que jamais se extinguirÃ¡, e sua duraÃ§Ã£o nÃ£o terÃ¡ limites; pois a escuridÃ£o serÃ¡ primeiro destruÃ­da, e a luz serÃ¡ estabelecida perante o Senhor dos EspÃ­ritos, e a luz da retidÃ£o serÃ¡ firmemente estabelecida para sempre perante o Senhor dos EspÃ­ritos."
+                   }
+               ]
+}

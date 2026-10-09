@@ -1,0 +1,44 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoch",
+    "chapter":  6,
+    "language":  "en",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/en/1-enoch/6",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "And it came to pass when the children of men had multiplied that in those days were born unto them beautiful and comely daughters."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "And the angels, the children of the heaven, saw and lusted after them, and said to one another: \u0027Come, let us choose us wives from among the children of men and beget us children."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "And Semjaza, who was their leader, said unto them: \u0027T fear ye will not indeed agree to do this deed, and I alone shall have to pay the penalty of a great sin.â"
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "And they all answered him and said: \u0027Let us all swear an oath, and all bind ourselves by mutual imprecations not to abandon this plan but to do this thing.â"
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "Then sware they all together and bound themselves by mutual imprecations upon it."
+                   },
+                   {
+                       "verse":  6,
+                       "text":  "And they were in all two hundred; who descended in the days of Jared on the summit of Mount Hermon, and they called it Mount Hermon, because they had sworn and bound themselves by mutual imprecations upon it."
+                   },
+                   {
+                       "verse":  7,
+                       "text":  "And these are the names of their leaders: SÃ©miazaz, their leader, Arakiba, RamÃ©Ã©l, K6kabiÃ©l, TamiÃ©l, RamiÃ©l, DanÃ©l, EzÃ©qÃ©Ã©l, Baraqijal, AsaÃ©l, ArmarÃ©s, BatarÃ©l, AnanÃ©l, ZaqiÃ©l, SamsapÃ©Ã©l, SatarÃ©l, TarÃ©l, JomjaÃ©l, SariÃ©l."
+                   },
+                   {
+                       "verse":  8,
+                       "text":  "These are their chiefs of tens."
+                   }
+               ]
+}

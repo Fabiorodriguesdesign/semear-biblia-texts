@@ -1,0 +1,28 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  23,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/23",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E dali parti para outro lugar, que estava ao oeste dos confins da terra."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E eu vi um fogo ardente que corria incessantemente, e nÃ£o cessava do seu curso, dia nem noite, mas seguia regularmente."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E eu perguntei, dizendo: \"Que Ã© isto que nÃ£o repousa?\"."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E entÃ£o Raguel, um dos anjos santos que estava comigo, respondeu-me e disse a mim: \"Este curso de fogo que vÃªs Ã© o fogo do ocidente, que persegue todas as luzes do cÃ©u.\""
+                   }
+               ]
+}

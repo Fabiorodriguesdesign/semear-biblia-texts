@@ -1,0 +1,16 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  3,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/3",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "Observai e vede como no inverno todas as Ã¡rvores parecem ter murchado e perdido suas folhas, exceto catorze Ã¡rvores, que nÃ£o perdem sua folhagem, mas retÃªm a folha antiga por dois ou trÃªs anos atÃ© que a nova venha."
+                   }
+               ]
+}

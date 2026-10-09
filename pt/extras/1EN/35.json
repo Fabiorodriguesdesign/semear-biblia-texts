@@ -1,0 +1,16 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  35,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/35",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E dali parti para o ocidente, atÃ© os confins da terra, e ali vi trÃªs portais do cÃ©u abertos, tal como havia visto no oriente, o mesmo nÃºmero de portais, e o mesmo nÃºmero de aberturas."
+                   }
+               ]
+}

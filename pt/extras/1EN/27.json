@@ -1,0 +1,32 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  27,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/27",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "EntÃ£o eu disse: \"Para que propÃ³sito Ã© esta terra abenÃ§oada, inteiramente cheia de Ã¡rvores, e este vale amaldiÃ§oado que se encontra entre elas?\""
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "EntÃ£o, Uriel, um dos santos anjos que estava comigo, respondeu e disse: \"Este vale amaldiÃ§oado Ã© para aqueles que sÃ£o amaldiÃ§oados para sempre; aqui serÃ£o reunidos todos os amaldiÃ§oados que, com seus lÃ¡bios, proferem palavras indignas contra o Senhor, e que falam coisas duras sobre a Sua glÃ³ria. Aqui eles serÃ£o reunidos, e aqui serÃ¡ o seu lugar de juÃ­zo.\""
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "Nos Ãºltimos dias, haverÃ¡ sobre eles a manifestaÃ§Ã£o do justo juÃ­zo perante os justos para todo o sempre; ali, os misericordiosos bendizerÃ£o ao Senhor da glÃ³ria, o Rei Eterno."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "Nos dias do juÃ­zo sobre os anteriores, eles O louvarÃ£o pela misericÃ³rdia com a qual Ele lhes designou sua porÃ§Ã£o."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "EntÃ£o, eu bendissei ao Senhor da GlÃ³ria, e declarei a Sua glÃ³ria, e o louvei com grande exaltaÃ§Ã£o."
+                   }
+               ]
+}

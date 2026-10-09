@@ -1,0 +1,32 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  37,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/37",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E esta Ã© a segunda visÃ£o que Enoque, filho de Jarede, filho de Maalaleel, filho de CaimÃ£, filho de Enos, filho de Sete, filho de AdÃ£o, contemplou."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E este Ã© o princÃ­pio das palavras da sabedoria, das quais levantei a minha voz para falar e dizer aos que habitam na terra: Ouvi, vÃ³s homens de tempos idos, e vede, vÃ³s que virÃ£o depois, as palavras do Santo, que eu falarei perante o Senhor dos EspÃ­ritos."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "Seria mais justo declarar estas coisas apenas aos homens dos tempos passados, mas mesmo daqueles que vÃªm depois nÃ£o retenderemos o princÃ­pio da sabedoria."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "AtÃ© o presente dia, tal sabedoria jamais foi concedida pelo Senhor dos EspÃ­ritos como aquela que eu recebi, segundo a minha compreensÃ£o, e segundo a boa vontade do Senhor dos EspÃ­ritos, por quem-me foi outorgada a sorte da vida eterna."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "E eis que trÃªs parÃ¡bolas foram reveladas a mim, e levantei a minha voz para declarÃ¡-las aos habitantes da terra."
+                   }
+               ]
+}

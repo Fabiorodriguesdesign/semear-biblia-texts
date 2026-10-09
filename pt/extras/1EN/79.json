@@ -1,0 +1,36 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  79,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/79",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E agora, meu filho, eu te mostrei tudo, e a lei de todas as estrelas do cÃ©u estÃ¡ cumprida."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E ele me mostrou todas as leis destes, para cada dia, para cada estaÃ§Ã£o de governo, para cada ano, para a sua saÃ­da, e para a ordem que lhe Ã© prescrita a cada mÃªs e a cada semana."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E o declÃ­nio da lua que ocorre no sexto portÃ£o: pois neste sexto portÃ£o a sua luz se completa, e apÃ³s este, comeÃ§a o seu declÃ­nio."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E a diminuiÃ§Ã£o que ocorre no primeiro portÃ£o em sua estaÃ§Ã£o, atÃ© que cento e setenta e sete dias sejam cumpridos: contados segundo as semanas, vinte e cinco semanas e dois dias."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "Ela fica defasada do sol e da ordem das estrelas exatamente cinco dias ao longo de um perÃ­odo, e quando este lugar que vÃ³s vereis tiver sido percorrido."
+                   },
+                   {
+                       "verse":  6,
+                       "text":  "Assim era a imagem e o retrato de cada luminÃ¡ria, que Uriel, o arcanjo, seu lÃ­der, me revelou."
+                   }
+               ]
+}

@@ -1,0 +1,28 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoch",
+    "chapter":  16,
+    "language":  "en",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/en/1-enoch/16",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "From the days of the slaughter and destruction and death of the giants, from the souls of whose flesh the spirits, having gone forth, shall destroy without incurring judgement--thus shall they destroy until the day of the consummation, the great judgement in which the age shall be consummated, over the Watchers and the godless, yea, shall be wholly consummated."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "And now as to the Watchers who have sent thee to intercede for them, who had been aforetime in heaven, say to them:"
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "\"You have been in heaven, but all the mysteries had not yet been revealed to you, and you knew worthless ones, and these in the hardness of your hearts you have made known to the women, and through these mysteries women and men work much evil on earth.\""
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "Say to them therefore: \"You have no peace.\""
+                   }
+               ]
+}

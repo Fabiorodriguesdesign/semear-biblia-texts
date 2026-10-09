@@ -1,0 +1,20 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoch",
+    "chapter":  11,
+    "language":  "en",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/en/1-enoch/11",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "And in those days I will open the store chambers of blessing which are in the heaven, so as to send them down upon the earth over the work and labour of the children of men."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "And truth and peace shall be associated together throughout all the days of the world and throughout all the generations of men."
+                   }
+               ]
+}

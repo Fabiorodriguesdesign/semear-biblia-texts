@@ -1,0 +1,28 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoch",
+    "chapter":  49,
+    "language":  "en",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/en/1-enoch/49",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "For wisdom is poured out like water, And glory faileth not before him for evermore."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "For he is mighty in all the secrets of righteousness, And unrighteousness shall disappear as a shadow, And have no continuance; Because the Elect One standeth before the Lord of Spirits, And his glory is for ever and ever, And his might unto all generations."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "And in him dwells the spirit of wisdom, And the spirit which gives insight, And the spirit of understanding and of might, And the spirit of those who have fallen asleep in righteousness."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "And he shall judge the secret things, And none shall be able to utter a lying word before him; For he is the Elect One before the Lord of Spirits according to His good pleasure."
+                   }
+               ]
+}

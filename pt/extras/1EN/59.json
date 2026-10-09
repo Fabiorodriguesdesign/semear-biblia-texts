@@ -1,0 +1,24 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  59,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/59",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "Naqueles dias, meus olhos contemplaram os mistÃ©rios dos relÃ¢mpagos e das luzes, e os juÃ­zos que executam, aliviando-os para bÃªnÃ§Ã£o ou maldiÃ§Ã£o, conforme o Senhor dos EspÃ­ritos determinar."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E ali eu vislumbrei os mistÃ©rios do trovÃ£o, e como, quando ressoa no alto dos cÃ©us, seu som Ã© ouvido; e Ele me fez ver os juÃ­zos executados na terra, sejam eles para bem e bÃªnÃ§Ã£o, ou para maldiÃ§Ã£o, segundo a palavra do Senhor dos EspÃ­ritos."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E apÃ³s isto, todos os mistÃ©rios das luzes e dos relÃ¢mpagos foram revelados a mim, e eles iluminam para bÃªnÃ§Ã£o e para satisfaÃ§Ã£o."
+                   }
+               ]
+}

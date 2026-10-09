@@ -1,0 +1,20 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  105,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/105",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "Naqueles dias, o Senhor ordenou que convocassem e testemunhassem perante os filhos da terra acerca de sua sabedoria: Mostrem-lhes; pois vÃ³s sois seus guias e juÃ­zes sobre toda a terra."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E eu e meu Filho estaremos unidos a eles para sempre nos caminhos da retidÃ£o em suas vidas; e vÃ³s tereis paz: alegrai-vos, filhos da retidÃ£o. AmÃ©m."
+                   }
+               ]
+}

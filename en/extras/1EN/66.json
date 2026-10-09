@@ -1,0 +1,24 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoch",
+    "chapter":  66,
+    "language":  "en",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/en/1-enoch/66",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "And after that he showed me the angels of punishment who are prepared to come and let loose all the powers of the waters which are beneath in the earth in order to bring judgement and destruction on all who abide and dwell on the earth."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "And the Lord of Spirits gave commandment to the angels who were going forth, that they should not cause the waters to rise but should hold them in check; for those angels were over the powers of the waters."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "And I went away from the presence of Enoch."
+                   }
+               ]
+}

@@ -1,0 +1,32 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  51,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/51",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E naqueles dias, a terra restituirÃ¡ o que lhe foi confiado, e Sheol devolverÃ¡ o que recebeu, e o inferno pagarÃ¡ o que deve."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E Ele escolherÃ¡ os justos e santos dentre eles, pois o dia se aproxima em que serÃ£o salvos."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E o Escolhido, naqueles dias, assentarÃ¡ no Meu trono, e a sua boca proclamarÃ¡ todos os segredos da sabedoria e do conselho, pois o Senhor dos EspÃ­ritos lhos concedeu e o glorificou."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E naqueles dias, as montanhas saltarÃ£o como carneiros, e os montes tambÃ©m exultarÃ£o como cordeiros fartos de leite, e o semblante de todos os anjos no cÃ©u se iluminarÃ¡ de alegria."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "Nos dias daqueles, o Ungido se levantarÃ¡, e a terra se alegrarÃ¡, e os justos habitarÃ£o sobre ela, e os escolhidos andarÃ£o nela."
+                   }
+               ]
+}

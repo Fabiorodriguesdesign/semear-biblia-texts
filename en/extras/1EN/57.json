@@ -1,0 +1,24 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoch",
+    "chapter":  57,
+    "language":  "en",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/en/1-enoch/57",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "And it came to pass after this that I saw another host of wagons, and men riding thereon, and coming on the winds from the east, and from the west to the south."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "And the noise of their wagons was heard, and when this turmoil took place the holy ones from heaven remarked it, and the pillars of the earth were moved from their place, and the sound thereof was heard from the one end of heaven to the other, in one day."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "And they shall all fall down and worship the Lord of Spirits. And this is the end of the second Parable."
+                   }
+               ]
+}

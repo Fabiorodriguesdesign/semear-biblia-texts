@@ -1,0 +1,32 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoch",
+    "chapter":  51,
+    "language":  "en",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/en/1-enoch/51",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "And in those days shall the earth also give back that which has been entrusted to it, And Sheol also shall give back that which it has received, And hell shall give back that which it owes."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "And he shall choose the righteous and holy from among them: For the day has drawn nigh that they should be saved."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "And the Elect One shall in those days sit on My throne, And his mouth shall pour forth all the secrets of wisdom and counsel: For the Lord of Spirits hath given them to him and hath glorified him."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "And in those days shall the mountains leap like rams, And the hills also shall skip like lambs satisfied with milk, And the faces of all the angels in heaven shall be lighted up with joy."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "For in those days the Elect One shall arise, And the earth shall rejoice, And the righteous shall dwell upon it, And the elect shall walk thereon."
+                   }
+               ]
+}

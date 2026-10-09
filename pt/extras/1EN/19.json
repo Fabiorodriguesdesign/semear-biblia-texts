@@ -1,0 +1,24 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  19,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/19",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E Uriel disse a mim: \"Aqui estarÃ£o os anjos que se uniram a mulheres, e seus espÃ­ritos, assumindo muitas formas diferentes, corromperÃ£o a humanidade e os desviarÃ£o para sacrificar a demÃ´nios como deuses; aqui eles permanecerÃ£o atÃ© o dia do grande juÃ­zo, no qual serÃ£o julgados atÃ© serem consumados.\""
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E as mulheres dos anjos que se extraviaram tornar-se-Ã£o sereias."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E eu, Enoque, sozinho vi a visÃ£o, o fim de todas as coisas; e nenhum homem verÃ¡ como eu tenho visto."
+                   }
+               ]
+}

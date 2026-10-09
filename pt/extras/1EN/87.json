@@ -1,0 +1,28 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  87,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/87",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E novamente vi como comeÃ§aram a ferir-se mutuamente e a devorar-se uns aos outros, e a terra comeÃ§ou a clamar em alta voz."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E eu levantei os meus olhos novamente ao cÃ©u, e vi na visÃ£o, e eis que desceram do cÃ©u seres semelhantes a homens brancos; e quatro saÃ­ram daquele lugar, e trÃªs com eles."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E aqueles trÃªs que por Ãºltimo haviam se apresentado agarraram-me pela mÃ£o e levantaram-me, afastando-me das geraÃ§Ãµes da terra, e elevaram-me a um lugar elevado, onde me mostraram uma torre erguida acima da terra, e todas as colinas eram inferiores."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E um disse a mim: \"Permanece aqui atÃ© que vejas tudo o que acontecer com os elefantes, os camelos e os assinos, e com as estrelas e os bois, e com todos eles.\""
+                   }
+               ]
+}

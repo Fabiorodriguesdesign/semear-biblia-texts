@@ -1,0 +1,36 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  12,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/12",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "Antes destes acontecimentos, Enoque foi ocultado, e nenhum dos filhos dos homens sabia onde estava escondido, onde habitava, nem o que lhe acontecera."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E as suas aÃ§Ãµes tinham relaÃ§Ã£o com os Vigilantes, e os seus dias foram com os santos."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E eu, Enoque, bendizia o Senhor da majestade e o Rei dos sÃ©culos, e eis que os Vigilantes me chamaram Enoque, o escriba, e disseram a mim:"
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E Enoque, escriba da justiÃ§a, vai e anuncia aos Vigilantes do cÃ©u que deixaram o alto cÃ©u, o lugar santo e eterno, e se corromperam com mulheres, e agiram como os filhos da terra, tomando para si esposas: \"VÃ³s praticastes grande destruiÃ§Ã£o na terra.\""
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "E vÃ³s nÃ£o tereis paz nem remissÃ£o de pecados; e na medida em que se deleitam em seus filhos,"
+                   },
+                   {
+                       "verse":  6,
+                       "text":  "VerÃ£o a morte de seus amados, e sobre a destruiÃ§Ã£o de seus filhos lamentarÃ£o, e suplicarÃ£o Ã eternidade, mas misericÃ³rdia e paz nÃ£o alcanÃ§arÃ£o."
+                   }
+               ]
+}

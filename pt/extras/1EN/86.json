@@ -1,0 +1,36 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  86,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/86",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E eis que novamente eu vi com meus prÃ³prios olhos, enquanto dormia, e contemplei o cÃ©u acima; e observei uma estrela que caiu do firmamento, a qual se levantou e comeu, pastoreando entre aqueles bois."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E depois disso, vi os grandes e negros bois, e eis que todos mudaram seus estÃ¡bulos e pastagens, e seu gado, e comeÃ§aram a viver uns com os outros."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E eis que novamente vi na visÃ£o, e olhei para o cÃ©u, e behold, muitos astros desceram e se lanÃ§aram do cÃ©u atÃ© aquela primeira estrela, e tornaram-se touros entre aqueles rebanhos, e apascentaram com eles."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E eu os observei, e eis que todos desvelaram seus membros privados, como cavalos, e comeÃ§aram a cobrir as vacas dos bois, e todas ficaram grÃ¡vidas e deram Ã luz elefantes, camelos e assinos."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "E todos os bois temeram-nos e assustaram-se com eles, e comeÃ§aram a morder com seus dentes, a devorar e a ferir com seus chifres."
+                   },
+                   {
+                       "verse":  6,
+                       "text":  "E comeÃ§aram, alÃ©m disso, a devorar aqueles bois; e eis que todos os filhos da terra comeÃ§aram a tremer e a estremeecer diante deles, e a fugir deles."
+                   }
+               ]
+}

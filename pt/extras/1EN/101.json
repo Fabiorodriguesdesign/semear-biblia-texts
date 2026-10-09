@@ -1,0 +1,48 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  101,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/101",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "Observai os cÃ©us, vÃ³s filhos dos cÃ©us, e toda a obra do AltÃ­ssimo, e temei-o, e nÃ£o pratiqueis o mal em sua presenÃ§a."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "Se Ele fechar os cÃ©us e impedir que a chuva e o orvalho descam sobre a terra por vossa causa, o que fareis entÃ£o?"
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E se Ele enviar a Sua ira sobre vÃ³s por causa das vossas obras, nÃ£o podereis interceder perante Ele, pois proferistes palavras orgulhosas e insolentes contra a Sua justiÃ§a; portanto, nÃ£o tereis paz."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E nÃ£o vedes os marinheiros dos navios, como as suas embarcaÃ§Ãµes sÃ£o agitadas de um lado para o outro pelas ondas, e sacudidas pelos ventos, e estÃ£o em grande angÃºstia?"
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "E por isso temem, pois todos os seus preciosos bens estÃ£o sobre o mar com eles, e tÃªm pressentimentos sombrios no coraÃ§Ã£o de que o mar os engolirÃ¡ e neles perecerÃ£o."
+                   },
+                   {
+                       "verse":  6,
+                       "text":  "NÃ£o seria o mar inteiro, com todas as suas Ã¡guas e seus movimentos, obra do AltÃ­ssimo? E nÃ£o estabeleceu Ele limites para suas aÃ§Ãµes, contendo-o por toda parte pela areia?"
+                   },
+                   {
+                       "verse":  7,
+                       "text":  "E ao Seu repreendimento, ela teme e seca, e todos os peixes morrem, e tudo o que nela hÃ¡; mas vÃ³s, pecadores que estais na terra, nÃ£o O temeis."
+                   },
+                   {
+                       "verse":  8,
+                       "text":  "NÃ£o criou Ele os cÃ©us e a terra, e tudo o que neles estÃ¡? Quem deu entendimento e sabedoria a toda criatura que se move sobre a terra e no mar?"
+                   },
+                   {
+                       "verse":  9,
+                       "text":  "NÃ£o temem os marinheiros dos navios o mar? Mas os pecadores nÃ£o temem o AltÃ­ssimo."
+                   }
+               ]
+}

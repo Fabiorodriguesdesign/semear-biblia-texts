@@ -1,0 +1,44 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  77,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/77",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E o primeiro quadrante Ã© chamado de oriente, porque Ã© o primeiro; e o segundo, de sul, porque o AltÃ­ssimo descerÃ¡ ali; e, em verdade, ali, de modo especial, descerÃ¡ Aquele que Ã© abenÃ§oado para sempre."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E o quarto ocidental Ã© chamado o diminuto, porque ali todas as luzes do cÃ©u minguam e se extinguem."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E o quarto quadrante, chamado o norte, Ã© dividido em trÃªs partes: a primeira destina-se Ã morada dos homens; a segunda contÃ©m mares de Ã¡gua, e abismos, florestas, rios, trevas e nuvens; e a terceira parte contÃ©m o jardim da justiÃ§a."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E vi sete montes muito altos, mais elevados que todos os montes da terra; e dali procede a geada, e passam os dias, as estaÃ§Ãµes e os anos."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "E vi sete rios na terra, maiores que todos os outros rios; e um deles, vindo do ocidente, desÃ¡gua no Mar Grande."
+                   },
+                   {
+                       "verse":  6,
+                       "text":  "E estes dois rios descem do norte atÃ© o mar, e lanÃ§am as suas Ã¡guas no Mar Vermelho, que se estende para o oriente."
+                   },
+                   {
+                       "verse":  7,
+                       "text":  "E os quatro restantes descem para o lado do norte, atÃ© ao seu prÃ³prio mar; dois deles desaguam no Mar Vermelho, e dois no Grande Mar, ali se esvaindo; e alguns dizem que Ã© no deserto."
+                   },
+                   {
+                       "verse":  8,
+                       "text":  "Eis que vi sete ilhas grandes no mar e na terra firme: duas na terra firme e cinco no Grande Mar."
+                   }
+               ]
+}

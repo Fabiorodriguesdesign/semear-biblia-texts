@@ -1,0 +1,28 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoch",
+    "chapter":  23,
+    "language":  "en",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/en/1-enoch/23",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "From thence I went to another place to the west of the ends of the earth."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "And I saw a burning fire which ran without resting, and paused not from its course day or night but ran regularly."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "And I asked saying: \u0027What is this which rests not?\u0027"
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "Then Raguel, one of the holy angels who was with me, answered me and said unto me: \u0027This course of fire which thou hast seen is the fire in the west which persecutes all the luminaries of heaven."
+                   }
+               ]
+}

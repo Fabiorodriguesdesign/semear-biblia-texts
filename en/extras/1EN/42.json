@@ -1,0 +1,24 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoch",
+    "chapter":  42,
+    "language":  "en",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/en/1-enoch/42",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "Wisdom found no place where she might dwell; Then a dwelling-place was assigned her in the heavens."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "Wisdom went forth to make her dwelling among the children of men, And found no dwelling-place: Wisdom returned to her place, And took her seat among the angels."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "And unrighteousness went forth from her chambers: Whom she sought not she found, And dwelt with them, As rain in a desert, And dew on a thirsty land."
+                   }
+               ]
+}

@@ -1,0 +1,144 @@
+﻿{
+    "book_id":  "JUB",
+    "book":  "Livro dos Jubileus",
+    "chapter":  24,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/jubileus/24",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E aconteceu, apÃ³s a morte de AbraÃ£o, que o Senhor abenÃ§oou Isaque, seu filho, e ele se levantou de Hebrom, e foi morar junto ao PoÃ§o da VisÃ£o, no primeiro ano da terceira semana deste jubileu, sete anos."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E no primeiro ano, na quarta semana, comeÃ§ou uma fome na terra, alÃ©m da primeira fome, que houve nos dias de AbraÃ£o."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E JacÃ³ preparou um cozido de lentilhas, e EsaÃº veio do campo, faminto. E disse a JacÃ³, seu irmÃ£o: DÃ¡-me, por favor, um pouco desse cozido vermelho. E JacÃ³ lhe disse: Vende-me o teu primogenitura, e eu te darei pÃ£o e tambÃ©m um pouco deste cozido de lentilhas."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E EsaÃº disse em seu coraÃ§Ã£o: Morrerei; que proveito me trarÃ¡ este primogenitura? E disse a JacÃ³: Eu a dou-te."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "E JacÃ³ disse: Jure-me hoje, e ele jurou-lhe."
+                   },
+                   {
+                       "verse":  6,
+                       "text":  "E JacÃ³ deu a seu irmÃ£o EsaÃº pÃ£o e um guisado, e ele comeu atÃ© se fartar; e EsaÃº desprezou o direito de primogenitura; por esta razÃ£o foi chamado EsaÃº pelo nome de Edom, por causa do guisado vermelho que JacÃ³ lhe deu em troca da primogenitura."
+                   },
+                   {
+                       "verse":  7,
+                       "text":  "E JacÃ³ tornou-se o primogÃªnito, e EsaÃº foi destituÃ­do de sua dignidade."
+                   },
+                   {
+                       "verse":  8,
+                       "text":  "E a fome assolou a terra, e Isaque partiu para descer ao Egito, no segundo ano deste ciclo, e foi atÃ© o rei dos filisteus, a Gerar, a Abimeleque."
+                   },
+                   {
+                       "verse":  9,
+                       "text":  "E o Senhor apareceu-lhe e disse-lhe: \"NÃ£o desÃ§as ao Egito; habita na terra que Eu te disser, e permanece nesta terra, e Eu estarei contigo e te abenÃ§oarei.\""
+                   },
+                   {
+                       "verse":  10,
+                       "text":  "Porque a ti e Ã tua descendÃªncia darei toda esta terra, e cumprirei o juramento que fiz a AbraÃ£o teu pai, e multiplicarei a tua descendÃªncia como as estrelas do cÃ©u, e darei a eles toda esta terra."
+                   },
+                   {
+                       "verse":  11,
+                       "text":  "E em tua descendÃªncia todas as naÃ§Ãµes da terra serÃ£o abenÃ§oadas, porque teu pai ouviu a Minha voz e guardou o Meu preceito, a Minha lei, os Meus mandamentos, os Meus estatutos e a Minha alianÃ§a; e agora, ouvi a Minha voz e habita nesta terra."
+                   },
+                   {
+                       "verse":  12,
+                       "text":  "E ele habitou em Gerar durante trÃªs anos."
+                   },
+                   {
+                       "verse":  13,
+                       "text":  "E Abimeleque ordenou a respeito dele e de tudo o que lhe pertencia, dizendo: \"Qualquer homem que o tocar ou qualquer coisa que seja sua, certamente morrerÃ¡\"."
+                   },
+                   {
+                       "verse":  14,
+                       "text":  "E Isaque prosperou entre os filisteus, e adquiriu muitos bens, bois, ovelhas, camelos, jumentos e uma grande casa."
+                   },
+                   {
+                       "verse":  15,
+                       "text":  "E ele semeou na terra dos filisteus, e obteve cem vezes mais; e Isaque prosperou sobremaneira, e os filisteus o invejaram."
+                   },
+                   {
+                       "verse":  16,
+                       "text":  "E todos os poÃ§os que os servos de AbraÃ£o haviam cavado nos dias de AbraÃ£o, os filisteus os entulharam apÃ³s a morte de AbraÃ£o."
+                   },
+                   {
+                       "verse":  17,
+                       "text":  "E disse Abimeleque a Isaque: \"Aparta-te de nÃ³s, pois Ã©s mais poderoso do que nÃ³s\"; e Isaque partiu dali no primeiro ano da sÃ©tima semana, e habitou nos vales de Gerar."
+                   },
+                   {
+                       "verse":  18,
+                       "text":  "E cavaram novamente os poÃ§os de Ã¡gua que os servos de AbraÃ£o, seu pai, haviam cavado, e que os filisteus haviam fechado apÃ³s a morte de AbraÃ£o, seu pai, e chamaram-lhes pelos nomes com os quais AbraÃ£o, seu pai, os havia chamado."
+                   },
+                   {
+                       "verse":  19,
+                       "text":  "E os servos de Isaque cavaram um poÃ§o no vale, e encontraram Ã¡gua viva; mas os pastores de Gerar contenderam com os pastores de Isaque, dizendo: \"Esta Ã¡gua Ã© nossa\"; entÃ£o Isaque chamou o nome do poÃ§o \"ContradiÃ§Ã£o\", porque haviam sido contraditÃ³rios com ele."
+                   },
+                   {
+                       "verse":  20,
+                       "text":  "E cavaram um segundo poÃ§o, e contendiam tambÃ©m por este, e chamou-lhe nome \"Disputa\". E partiu dali, e cavaram outro poÃ§o, pelo qual nÃ£o houve contenda, e chamou ao seu nome \"EspaÃ§o\", e Isaque disse: \"Agora o Senhor tem feito espaÃ§o para nÃ³s, e somos multiplicados na terra\"."
+                   },
+                   {
+                       "verse":  21,
+                       "text":  "E ele partiu dali e ascendeu ao PoÃ§o do Juramento no primeiro ano da primeira semana do quadragÃ©simo quarto jubileu."
+                   },
+                   {
+                       "verse":  22,
+                       "text":  "E o Senhor apareceu-lhe naquela noite, na lua nova do primeiro mÃªs, e disse-lhe: \"Eu sou o Deus de AbraÃ£o, teu pai; nÃ£o temas, pois Eu estou contigo, e te abenÃ§oarei, e certamente multiplicarei a tua descendÃªncia como a areia da terra, por causa de AbraÃ£o, meu servo.\""
+                   },
+                   {
+                       "verse":  23,
+                       "text":  "E ele edificou ali um altar, que AbraÃ£o seu pai havia edificado primeiramente, e invocou o nome do Senhor, oferecendo sacrifÃ­cio ao Deus de AbraÃ£o seu pai."
+                   },
+                   {
+                       "verse":  24,
+                       "text":  "E cavaram um poÃ§o, e encontraram Ã¡gua viva."
+                   },
+                   {
+                       "verse":  25,
+                       "text":  "E os servos de Isaque cavaram outro poÃ§o, mas nÃ£o encontraram Ã¡gua; e foram dizer a Isaque que nÃ£o haviam achado Ã¡gua, e Isaque disse: \"Jurei hoje aos filisteus, e esta coisa nos foi anunciada\"."
+                   },
+                   {
+                       "verse":  26,
+                       "text":  "E chamou o nome daquele lugar \"PoÃ§o do Juramento\", porque ali havia jurado a Abimeleque, e a Huzate, seu amigo, e a Ficol, o chefe de sua hospedagem."
+                   },
+                   {
+                       "verse":  27,
+                       "text":  "E Isaque soube naquele dia que, por ordem divina, havia jurado fazer paz com eles."
+                   },
+                   {
+                       "verse":  28,
+                       "text":  "E Isaque, naquele dia, amaldiÃ§oou os filisteus, dizendo: \"AmaldiÃ§oados sejam os filisteus atÃ© o dia da ira e da indignaÃ§Ã£o de todas as naÃ§Ãµes; que Deus os faÃ§a objeto de escÃ¡rnio e maldiÃ§Ã£o, e alvo da ira e da indignaÃ§Ã£o nos pecados dos gentios e nas mÃ£os dos quitins.\""
+                   },
+                   {
+                       "verse":  29,
+                       "text":  "E todo aquele que escapar da espada do inimigo e dos citas, para que a naÃ§Ã£o justa o arranque em juÃ­zo debaixo dos cÃ©us; pois eles serÃ£o os inimigos e adversÃ¡rios dos meus filhos por todas as suas geraÃ§Ãµes sobre a terra."
+                   },
+                   {
+                       "verse":  30,
+                       "text":  "E nÃ£o lhes serÃ¡ deixado nenhum remanescente, nem um sÃ³ que seja salvo no dia da ira do juÃ­zo; porque para destruiÃ§Ã£o, erradicaÃ§Ã£o e expulsÃ£o da terra Ã© reservada toda a linhagem dos filisteus, e jÃ¡ nÃ£o haverÃ¡ mais para estes caphtorim nome ou descendÃªncia na terra."
+                   },
+                   {
+                       "verse":  31,
+                       "text":  "Ainda que ele ascenda aos cÃ©us, dali serÃ¡ trazido para baixo; ainda que se fortaleÃ§a na terra, dali serÃ¡ arrastado; ainda que se esconda entre as naÃ§Ãµes, dali tambÃ©m serÃ¡ arrancado; e ainda que desÃ§a a Sheol, ali tambÃ©m sua condenaÃ§Ã£o serÃ¡ grande, e ali nÃ£o haverÃ¡ descanso."
+                   },
+                   {
+                       "verse":  32,
+                       "text":  "E se ele for levado cativo, por aqueles que buscam a sua vida serÃ¡ morto no caminho, e nem nome nem descendÃªncia lhe serÃ¡ deixada em toda a terra, pois para a eterna maldiÃ§Ã£o ele partirÃ¡."
+                   },
+                   {
+                       "verse":  33,
+                       "text":  "E assim estÃ¡ escrito e gravado a seu respeito nos cÃ©us, para que seja feito com ele no dia do juÃ­zo, para que seja arrancado da terra."
+                   }
+               ]
+}

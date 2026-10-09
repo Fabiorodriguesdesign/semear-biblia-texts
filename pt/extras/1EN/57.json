@@ -1,0 +1,24 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  57,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/57",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E aconteceu, apÃ³s isto, que eu vi outra companhia de carroÃ§as, e homens montados nelas, que vinham impulsionados pelos ventos do oriente, do ocidente e do sul."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E o rumor de suas carroÃ§as foi ouvido, e quando este tumulto ocorreu, os santos do cÃ©u notaram-no, e os pilares da terra foram movidos de seu lugar, e o som deste se ouviu de uma extremidade do cÃ©u Ã outra, em um Ãºnico dia."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E todos eles se prostrarÃ£o e adorarÃ£o ao Senhor dos EspÃ­ritos. E este Ã© o fim da segunda parÃ¡bola."
+                   }
+               ]
+}

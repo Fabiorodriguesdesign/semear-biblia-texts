@@ -1,0 +1,44 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  96,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/96",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "Alegrai-vos, justos, porque de repente os pecadores serÃ£o destruÃ­dos perante vÃ³s, e tereis domÃ­nio sobre eles segundo o vosso querer."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E no dia da tribulaÃ§Ã£o dos pecadores, vossos filhos ascenderÃ£o como Ã¡guias, e mais alto que os abutres serÃ¡ vosso ninho; e subireis e entrareis nas fendas da terra, e nas grutas da rocha para sempre, como os gazelas diante dos injustos, e as sereias suspirarÃ£o por vÃ³s, e chorarÃ£o."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "Porventura, nÃ£o temais, vÃ³s que padecestes; porque a vÃ³s serÃ¡ dada a cura, e uma luz resplandecente vos iluminarÃ¡, e a voz do descanso ouvireis dos cÃ©us."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "Ai de vÃ³s, pecadores, porque as vossas riquezas vos fazem parecer justos, mas os vossos coraÃ§Ãµes vos denunciam como pecadores, e esta verdade serÃ¡ testemunho contra vÃ³s, para recordaÃ§Ã£o das vossas iniquidades."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "Ai de vÃ³s que devorais o melhor trigo e bebeis vinho em grandes taÃ§as, e pisardeis os humildes sob vossa forÃ§a."
+                   },
+                   {
+                       "verse":  6,
+                       "text":  "Ai de vÃ³s que bebeis de toda fonte, pois de repente sereis consumidos e murchareis, porque abandonastes a fonte da vida."
+                   },
+                   {
+                       "verse":  7,
+                       "text":  "Ai de vÃ³s que praticais injustiÃ§a e engano e blasfÃªmia; eis que vos serÃ¡ lembrado como algo mau."
+                   },
+                   {
+                       "verse":  8,
+                       "text":  "Ai de vÃ³s, poderosos, que com forÃ§a oprimis os justos; pois estÃ¡ prÃ³ximo o dia da vossa destruiÃ§Ã£o. Naqueles dias virÃ£o muitos e bons dias para os justos â no dia do vosso juÃ­zo."
+                   }
+               ]
+}

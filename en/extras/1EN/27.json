@@ -1,0 +1,32 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoch",
+    "chapter":  27,
+    "language":  "en",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/en/1-enoch/27",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "Then said I: \u0027For what object is this blessed land, which is entirely filled with trees, and this accursed valley between?\u0027"
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "Then Uriel, one of the holy angels who was with me, answered and said: \u0027This accursed valley is for those who are accursed for ever: Here shall all the accursed be gathered together who utter with their lips against the Lord unseemly words and of His glory speak hard things. Here shall they be gathered together, and here shall be their place of judgement."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "In the last days there shall be upon them the spectacle of righteous judgement in the presence of the righteous for ever: here shall the merciful bless the Lord of glory, the Eternal King."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "In the days of judgement over the former, they shall bless Him for the mercy in accordance with which He has assigned them their lot.\u0027"
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "Then I blessed the Lord of Glory and set forth His glory and lauded Him gloriously."
+                   }
+               ]
+}

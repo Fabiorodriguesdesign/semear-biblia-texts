@@ -1,0 +1,28 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  36,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/36",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E dali parti para o sul, atÃ© os confins da terra, e ali vi trÃªs portais abertos do cÃ©u; e dali procedem o orvalho, a chuva e o vento."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E dali parti para o oriente, atÃ© os confins do cÃ©u, e ali vi as trÃªs portas orientais do cÃ©u abertas, e portais menores acima delas."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "Por cada um destes pequenos portais passam as estrelas do firmamento, e seguem o seu curso para o ocidente, pelo caminho que lhes Ã© mostrado."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E sempre que eu via, eu abenÃ§oava incessantemente ao Senhor da GlÃ³ria, e continuei a abenÃ§oar ao Senhor da GlÃ³ria que operou grandes e gloriosas maravilhas, para manifestar a grandeza de sua obra aos anjos, aos espÃ­ritos e aos homens, para que eles pudessem louvar sua obra e toda a sua criaÃ§Ã£o: para que eles pudessem ver a obra de seu poder e louvar a grande obra de suas mÃ£os e abenÃ§oÃ¡-lo para todo o sempre."
+                   }
+               ]
+}

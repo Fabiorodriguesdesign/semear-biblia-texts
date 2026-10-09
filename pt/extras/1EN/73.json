@@ -1,0 +1,44 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  73,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/73",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E apÃ³s esta lei, vislumbrei outra lei que trata do menor luminar, o qual Ã© chamado Lua."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E a sua circunferÃªncia Ã© como a circunferÃªncia do cÃ©u, e o seu carro, no qual ela cavalga, Ã© movido pelo vento, e a luz lhe Ã© dada em medida certa."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E o seu nascer e o seu ocaso mudam a cada mÃªs; e os seus dias sÃ£o como os dias do sol, e quando a sua luz Ã© uniforme, ela corresponde Ã sÃ©tima parte da luz do sol."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E assim ela se levanta. E a sua primeira fase no oriente aparece na trigÃ©sima manhÃ£: e nesse dia ela se torna visÃ­vel, constituindo para vÃ³s a primeira fase da lua na trigÃ©sima dia, juntamente com o sol no portal por onde o sol nasce."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "E uma metade dela se afasta, correspondendo a um sÃ©timo, e toda a sua circunferÃªncia permanece vazia, sem luz, exceto por um sÃ©timo de si mesma e pela dÃ©cima quarta parte da sua luz."
+                   },
+                   {
+                       "verse":  6,
+                       "text":  "E quando ela recebe a sÃ©tima parte da metade de sua luz, sua luz totaliza a sÃ©tima parte e a metade dela."
+                   },
+                   {
+                       "verse":  7,
+                       "text":  "E ela se pÃµe com o sol, e quando o sol nasce, a lua ascende com ele e recebe metade da luz; e naquela noite, no princÃ­pio da manhÃ£, no comeÃ§o do dia lunar, a lua se pÃµe com o sol, tornando-se invisÃ­vel aquela noite, com catorze partes e meia."
+                   },
+                   {
+                       "verse":  8,
+                       "text":  "E ela se levanta naquele dia com exatamente uma sÃ©tima parte, e avanÃ§a e retrocede desde o nascer do sol, e nos seus dias restantes, ela se torna luminosa nos treze partes que restam."
+                   }
+               ]
+}

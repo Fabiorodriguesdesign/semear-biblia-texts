@@ -1,0 +1,32 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  92,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/92",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "O livro escrito por Enoque: Enoque, de fato, escreveu esta completa doutrina da sabedoria, que Ã© louvada por todos os homens e serÃ¡ juÃ­za de toda a terra para todos os meus filhos que habitarÃ£o na terra, e para as geraÃ§Ãµes futuras que observarÃ£o a retidÃ£o e a paz."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "NÃ£o vos perturbeis por causa dos tempos que se avizinham; pois o Santo e Grande estabeleceu tempos para todas as coisas."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E o justo se levantarÃ¡ do sono, e se erguerÃ¡ para andar nos caminhos da justiÃ§a, e todo o seu caminho e conversa serÃ£o em eterna bondade e graÃ§a."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "Ele serÃ¡ clemente para com o justo e lhe concederÃ¡ retidÃ£o eterna, e lhe darÃ¡ poder para que seja revestido de bondade e justiÃ§a, e ele caminharÃ¡ na luz eterna."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "E o pecado perecerÃ¡ nas trevas para todo o sempre, e nÃ£o serÃ¡ mais visto desde aquele dia eternamente."
+                   }
+               ]
+}

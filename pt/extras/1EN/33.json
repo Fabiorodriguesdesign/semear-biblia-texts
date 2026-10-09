@@ -1,0 +1,28 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  33,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/33",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E dali parti para os confins da terra, onde vi grandes feras, e cada qual era diferente das demais; e tambÃ©m vi aves, distintas em aparÃªncia, beleza e canto, cada uma diferente da outra."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E ao oriente daqueles animais, vislumbrei os confins da terra sobre a qual repousa o cÃ©u, e os portais do cÃ©u estavam abertos."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "E eu vi como as estrelas do cÃ©u se manifestavam, e contei os portais pelos quais elas procediam, e escrevi todas as suas saÃ­das, de cada estrela individualmente, segundo o seu nÃºmero e os seus nomes, os seus caminhos e as suas posiÃ§Ãµes, e os seus tempos e os seus meses, como Uriel, o santo anjo que estava comigo, me mostrou."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E ele me revelou todas as coisas e as escreveu para mim; tambÃ©m os nomes deles, e as suas leis, e as suas organizaÃ§Ãµes."
+                   }
+               ]
+}

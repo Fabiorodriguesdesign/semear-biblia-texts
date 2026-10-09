@@ -1,0 +1,32 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  50,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/50",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E naqueles dias, uma transformaÃ§Ã£o se manifestarÃ¡ para os santos e os escolhidos, e a luz dos dias permanecerÃ¡ sobre eles, e a glÃ³ria e a honra retornarÃ£o aos santos."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "No dia da tribulaÃ§Ã£o, em que o mal serÃ¡ acumulado contra os pecadores, os justos prevalecerÃ£o em nome do Senhor dos EspÃ­ritos, e Ele farÃ¡ com que os outros testemunhem isto, para que se arrependam e abandonem as obras de suas mÃ£os."
+                   },
+                   {
+                       "verse":  3,
+                       "text":  "NÃ£o terÃ£o honra pelo nome do Senhor dos EspÃ­ritos, mas por meio de Seu nome serÃ£o salvos, e o Senhor dos EspÃ­ritos terÃ¡ misericÃ³rdia deles, pois Sua misericÃ³rdia Ã© grande."
+                   },
+                   {
+                       "verse":  4,
+                       "text":  "E Ele Ã© justo tambÃ©m em seu juÃ­zo, e perante a Sua glÃ³ria, a injustiÃ§a nÃ£o poderÃ¡ permanecer; no Seu juÃ­zo, os que nÃ£o se arrependerem perecerÃ£o diante Dele."
+                   },
+                   {
+                       "verse":  5,
+                       "text":  "E desde agora nÃ£o terei misericÃ³rdia deles, diz o Senhor dos EspÃ­ritos."
+                   }
+               ]
+}

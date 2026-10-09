@@ -1,0 +1,20 @@
+﻿{
+    "book_id":  "1EN",
+    "book":  "1 Enoque",
+    "chapter":  11,
+    "language":  "pt-BR",
+    "collection":  "extras",
+    "source":  "Escrituras Perdidas",
+    "source_url":  "https://escriturasperdidas.com.br/pt/1-enoque/11",
+    "source_rights":  "Public-domain translation, as declared by the source.",
+    "verses":  [
+                   {
+                       "verse":  1,
+                       "text":  "E naqueles dias, Eu abrirei os depÃ³sitos de bÃªnÃ§Ã£os que estÃ£o nos cÃ©us, para que eu os derribe sobre a terra, em favor da obra e do labor dos filhos dos homens."
+                   },
+                   {
+                       "verse":  2,
+                       "text":  "E a verdade e a paz estarÃ£o unidas por todos os dias do mundo e por todas as geraÃ§Ãµes dos homens."
+                   }
+               ]
+}
